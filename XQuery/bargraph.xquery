@@ -12,7 +12,11 @@ declare variable $scenes := $discs//scene;
    </head>
    <body>
       <hr/>
-      <!--#include virtual="mainmenu.html" -->
+      <hr/>
+    <p><a onclick="return playSound();" href="index.html">Home</a> | <a onclick="return playSound();" href="about.html">About</a> | <a onclick="return playSound();" href="research.html">Research Questions</a> | 
+        <a onclick="return playSound();" href="characters.html">Characters</a> | <a onclick="return playSound();" href="code.html">Our Code: Example</a> | 
+        <a onclick="return playSound();" href="results.html">Results</a></p>
+        <hr/>
       <p>The graph here lets us see the number of times each character speaks. This is relevant
          to our research question, as it lets us see the impact that each character has on
          the story.</p><br/><p>Proportion of speeches per character per scene</p>
