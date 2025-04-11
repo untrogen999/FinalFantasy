@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="TheWorldAfterMeteor">
+
+
+
+<sp>The World - After Meteor is Summoned </sp>
+
+<sp>Kalm </sp>
+<sp>The Chocobo Farm </sp>
+<sp>Junon </sp>
+<sp>Costa del Sol </sp>
+<sp>Gold Saucer </sp>
+<sp>Gongaga </sp>
+<sp>Cosmo Canyon </sp>
+<sp>Nibelheim </sp>
+<sp>Rocket Town </sp>
+<sp>Wutai </sp>
+<sp>Bone Village </sp>
+<sp>Icicle Inn </sp>
+<sp>The Chocobo Sage </sp>
+
+<stage>At Kalm...</stage>
+<sp><speaker name="Redhead">Redhead</speaker><boxstart/>Huh? You're looking for your friend? You want to know where the Lifestream is?<boxstart/>Let's see, I can't help you with your friend, but I've heard about the Lifestream.<boxstart/>When I traveled to the southern islands, a doctor was very kind to me. I seem to recall him telling me something about the Lifestream...... </sp>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>Ah, youth... You really believe that big meteor filling up the sky's going to fall here?<boxstart/>If that's the case then all we can do is put our hope in Shinra, Inc. </sp>
+<stage>Inside the first house...</stage>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>They say the meteor is going to fall, but it's okay! I'm sure Shinra will come through for us in the end and do something! </sp>
+<sp><speaker name="Girl Upstairs">Girl Upstairs</speaker><boxstart/>I can't believe Meteor's really falling this way...... What's going to happen to us? </sp>
+<stage>Inside the third house...</stage>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>Oh man, oh man!<boxstart/>A meteor's gonna fall on us, and now there's some big huge monster the likes of which I've never seen just wandering around out there!<boxstart/>What's going to happen to all of us!!? </sp>
+<stage>Upstairs, a boy is running around while a little girl watches him.</stage>
+<sp><speaker name="Girl">Girl</speaker><boxstart/>......My older brother's so stupid. He's so embarrassing I could just puke! </sp>
+<sp><speaker name="Boy">Boy</speaker><boxstart/>I'm gonna hurry up and get strong so I can crush the meteor to bits! But I gotta train real hard to do it.<boxstart/>Hyah, hayah, eagghh! </sp>
+<stage>Back outside...</stage>
+<sp><speaker name="Man in Blue">Man in Blue</speaker><boxstart/>The meteor's going to fall, isn't it? Unless Shinra does something about it, then we're all history! </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>I want you to stop that talk about a Meteor falling on us! </sp>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>Even if Meteor falls, If you're in Midgar, you ought to be safe.<boxstart/>They say it's a "Mako Metropolis" so they should survive somehow...... </sp>
+<stage>Inside the fourth house...</stage>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>The meteor's coming, right? Where am I going to stash my money...? Wait, maybe I'd better take it with me and get out of here! </sp>
+<sp><speaker name="Kalm Traveler">Kalm Traveler</speaker><boxstart/>The world's changed a lot in the past few days......<boxstart/>That huge monster Meteor was covering up the sky and acting like he owned it or something...<boxstart/>A lot of my friends have died......<boxstart/>I'm goin' on a journey to pray for their souls.<boxstart/>A map that was sunk along with the ship. ...... "Guidebook"<boxstart/>A rose that blooms once every 1000 years in the desert. ...... "Desert Rose"<boxstart/>A harp that soothes those who hear it. ...... "Earth Harp"<boxstart/>I wonder if there's anyone who'll bring it to me? </sp>
+<sp><speaker name="Kid outside Bar">Kid outside Bar</speaker><boxstart/>My dad still just sits at the bar drinking, even though he knows that Meteor's coming!<boxstart/>It's sad. Even though he's an adult, he just doesn't want to see the world as it really is. I dunno what to do. </sp>
+<stage>Inside the bar...</stage>
+<sp><speaker name="Person in Blue">Person in Blue</speaker><boxstart/>And all of Midgar's gonna be destroyed by a falling meteor? Oh, don't make me laugh!<boxstart/>Lately, there's been a number of scary incidents. I hate it. Just hate it! </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>Listen, I've worked hard till now... and you say Meteor's gonna smash everything to bits?<boxstart/>Well, I ain't standin' around listenin' to fool talk like this. Makes a person lose the will to work, that's what it does!<boxstart/>What're ya, dense? Something like that'll never happen? It's ridiculous! </sp>
+<sp><speaker name="Bartender">Bartender</speaker><boxstart/>I heard Shinra's taking all its biggest artillery from Junon and its various other facilities and gathering it in Midgar to fight the meteor and Weapon.<boxstart/>What's going to happen to the world...? </sp>
+<sp><speaker name="Man in Blue">Man in Blue</speaker> (checking the Mako pressure)<boxstart/>What're you doing checking the pressure of the Mako energy at a time like this? It's probably already too late......<boxstart/>It's times like this when you shouldn't go into a tail spin. You've got to continue to live orderly just like before.<boxstart/>At least that's what I think... </sp>
+
+<stage>At the Chocobo Farm...</stage>
+<sp><speaker name="Choco Bill">Choco Bill</speaker><boxstart/>Oh, what is that? What has this world come to? Stars falling and everything.<boxstart/>With things the way they are now, how 'bout raising a Chocobo?<boxstart/>No, I'm not trying to persuade you for money. It's just because of the state of things in the world.<boxstart/>I thought that it would be a good and healthy thing for you to raise some Chocobos...<boxstart/>Hmm... You just happen to be in luck!<boxstart/>It just so happens that we aren't taking care of any Chocobos for anyone else, so...<boxstart/>I could take care of 6 Chocobos right now, for 10000 gil per Chocobo. How 'bout it? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>- Could you take care of the chocobos?<boxstart/>- I'd like to hear about something else<boxstart/>- Tell me how you raise them<boxstart/>- That's all </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>Could you take care of the chocobos? </sp>
+  <sp><speaker name="Choco Bill">Choco Bill</speaker><boxstart/>To raise a Chocobo, you'll need a 'Chocobo Stable'.<boxstart/>And they rent for 10000 gil. Currently, I can rent out up to 6 'Chocobo Stables'.<boxstart/>If you rent a 'Chocobo Stable', we will keep up to 4 of the Chocobos you catch in the fenced area outside.<boxstart/>At a later date, you can select the Chocobo that you would like to put in your 'Chocobo Stable'.<boxstart/>'Chocobo Stables' cost 10000 gil... </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/>- Rent it </sp>
+  <sp><speaker name="Choco Bill">Choco Bill</speaker><boxstart/>Thank you.<boxstart/>My grandson takes care of the Chocobos. He's in the Chocobo Stable at the far right of the farm. Please tell him what you want. </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>I'd like to hear about something else </sp>
+  <sp><speaker name="Choco Bill">Choco Bill</speaker><boxstart/>Someone once told me there is a 'Chocobo Sage'... somewhere.<boxstart/>He seems to know how to raise some great Chocobos.<boxstart/>If he really does exist, I'd like to meet him someday. </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>Tell me how you raise them </sp>
+  <sp><speaker name="Choco Bill">Choco Bill</speaker><boxstart/>Chocobos aren't hard to take care of.<boxstart/>The day to day care will all be done here.<boxstart/>But, please buy the food for the Chocobo, and feed them yourselves.<boxstart/>Chocobo's abilities will differ with what you feed it, so feel free to choose your own food.<boxstart/>Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.<boxstart/>New Chocobos inherit the abilities of their parents.<boxstart/>I've heard that sometimes new breeds of Chocobo are born with special abilities. I've never actually seen it before, though. </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>That's all </sp>
+  <stage>Nothing happens.</stage>
+
+<stage>In the stable...</stage>
+<sp><speaker name="Chole">Chole</speaker><boxstart/>Welcome! Hey, I've got something good to tell you.<boxstart/>The white Chocobo likes it when you scratch behind its ears.<boxstart/>But if you scratch it someplace that it doesn't like, it'll get mad, so be careful. </sp>
+<stage>If you return to the Chocobo Farm after visiting the Chocobo Sage...</stage>
+<sp><speaker name="Chole">Chole</speaker><boxstart/>Hey, do you know what a Chocobo Sage is?<boxstart/>What!? You've actually met him!?<boxstart/>Wow! What did he tell you? </sp>
+<stage>Tifa tells her.</stage>
+<sp><speaker name="Chole">Chole</speaker><boxstart/>Wow, that's amazing! ...let me take some notes. </sp>
+<stage>On any subsequent visit after seeing the Chocobo Sage...</stage>
+<sp><speaker name="Chole">Chole</speaker><boxstart/>Hey, did you ever see the Chocobo Sage again? What did he tell you? </sp>
+<stage>Tifa tells her.</stage>
+<sp><speaker name="Chole">Chole</speaker><boxstart/>Wow, that's amazing! ...let me take some notes.<boxstart/>What...? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>- Let me jot this down<boxstart/>- Chole's Chocobo inspection<boxstart/>- Nothing </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>Let me jot this down </sp>
+  <sp><speaker name="Chole">Chole</speaker><boxstart/>Other than regular Chocobo, there are "Mountain Chocobo" and "River-Chocobo".<boxstart/>In order for the "Mountain Chocobo" and "River Chocobo" to be born,<boxstart/>You feed the "Carob Nut" to a "Great Chocobo" or a "Good Chocobo" and have it produce an egg.<boxstart/>But we don't sell any "Carob Nuts".<boxstart/>A "Great Chocobo" and a "Good Chocobo" are found...<boxstart/>On an island Southeast of the Chocobo Sage's dwelling at Corel. And in the area west of Corel.<boxstart/>The "Carob Nut" can be found south of the Chocobo Sage's dwelling. Monsters carry them.<boxstart/>Let's see, is Bone Village just south of there?<boxstart/>One surprise If you get the "Mountain Chocobo" and the "River Chocobo" to produce an egg,<boxstart/>You'll get a Chocobo that can cross mountains and rivers. I bet that the right nut for that is the "Carob Nut."<boxstart/>Bigger surprise: There seems to be a Chocobo that can cross the ocean.<boxstart/>If you could cross the ocean, mountains, and rivers, there'd be no place you couldn't go.<boxstart/>In order to get an Ocean Chocobo you need to get a Mountain-and-river Chocobo to mate with something else.<boxstart/>If you mate the Mountain-and-river Chocobo with a "Wonderful Chocobo",<boxstart/>You'll get an Ocean Chocobo. But to do that you can't use an ordinary Nut.<boxstart/>The "Nut" that produces Ocean Chocobos is the "Zeio Nut".<boxstart/>This is the first I've heard of it. I wonder where you get them? </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>Chole's Chocobo inspection </sp>
+  <sp><speaker name="Chole">Chole</speaker> (if you have only one chocobo)<boxstart/>Hey, there's only one Chocobo. </sp>
+  <sp><speaker name="Chole">Chole</speaker> (otherwise)<boxstart/>For telling me that story, I'll tell you about each Chocobo's abilities.<boxstart/>From what I see, the fastest sprinter is...<boxstart/>I think it's Choco.<boxstart/>And, the fastest one is...<boxstart/>That's Choco<boxstart/>Also, from what I can tell, the one with the most stamina is...<boxstart/>I think it's Choco.<boxstart/>Finally, the most intelligent one is...<boxstart/>That's Choco </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>Nothing </sp>
+  <stage>Nothing happens.</stage>
+
+
+<stage>At Lower Junon...</stage>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>I almost passed out when I saw Weapon.<boxstart/>It seems Weapon was beaten, but a Shinra soldier told me there are 4 more. </sp>
+<sp><speaker name="Fisherman">Fisherman</speaker><boxstart/>Once Meteor hits, not just the fish, but the whole ocean will be destroyed... </sp>
+<sp><speaker name="Older Man">Older Man</speaker><boxstart/>What? <referent name="Cloud">Cloud</referent> is missing? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Maybe... he dropped some from the North Caves into the Lifestream...<boxstart/>Sir, do you know where the Lifestream runs through?<boxstart/><referent name="Cloud">Cloud</referent> might have drifted from there. </sp>
+<sp><speaker name="Older Man">Older Man</speaker><boxstart/>What? The Northern... what? Sorry, but I don't think I follow.<boxstart/>But... I think I remember hearing Priscilla saying 'Life... something' before. </sp>
+<stage>Tifa goes to Priscilla's house.</stage>
+<sp><speaker name="Priscilla">Priscilla</speaker><boxstart/>Who are you---?<boxstart/>Lifestream?<boxstart/>Yeah, I know! It's Mr. Dolphin's playground.<boxstart/>There's a Three-taloned island south of the continent. I heard the Lifestream runs below that island.<boxstart/>But why are you asking about the Lifestream? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent> fell into the Lifestream at the North Cave, and has been missing ever since. </sp>
+<sp><speaker name="Priscilla">Priscilla</speaker><boxstart/>Huh, <referent name="Cloud">Cloud</referent>!?<boxstart/>Hurry up and help him!! He's very important to me. </sp>
+<stage>In Upper Junon...</stage>
+<sp><speaker name="Soldier">Soldier</speaker><boxstart/>It's kinda lonely at the airport without the Highwind, isn't it?<boxstart/>I miss that bikini girl on the side of the plane. </sp>
+<sp><speaker name="Soldiers at the Airport">Soldiers at the Airport</speaker><boxstart/>I sure was frightened when Weapon attacked. It gives me the chills knowing there's still two of them left.<boxstart/>Oh yeah? Well, I'm ready to fight the worst enemy mankind's ever had like a real warrior. It's not everyday you get to fight in an inter-planetary war. </sp>
+<sp><speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Come on in!<boxstart/>Welcome!!<boxstart/>I just can't believe it. I never thought a monster like Weapon really existed. </sp>
+<sp><speaker name="Weapon Shopkeeper">Weapon Shopkeeper</speaker><boxstart/>This machine hasn't been working right ever since Weapon got to it! </sp>
+<stage>In the bar downstairs...</stage>
+<sp><speaker name="Man">Man</speaker><boxstart/>Weapon and Meteor scared everyone else off, but I'm sittin' here soused as usual. </sp>
+<sp><speaker name="Barkeeper">Barkeeper</speaker><boxstart/>I'd like to close down this shop, but we got the regulars to think about... I don't know what to do...... </sp>
+<sp><speaker name="Item Shopkeeper">Item Shopkeeper</speaker><boxstart/>They're not going to get me down! Not me!!<boxstart/>Weapon, Meteor, even bad customers, aren't going to get me! </sp>
+<stage>Inside the barracks...</stage>
+<sp><speaker name="Soldier Guarding the Respectable Inn">Soldier Guarding the Respectable Inn</speaker><boxstart/>Hmmm? You have no right to enter! </sp>
+<sp><speaker name="Commander">Commander</speaker> (drilling a soldier)<boxstart/>Hey!! Stay out of the way! </sp>
+<sp><speaker name="Soldier">Soldier</speaker><boxstart/>I'm starting to feel like I can't stop anymore. </sp>
+<sp><speaker name="Commander">Commander</speaker><boxstart/>Hey! Stop yappin'! </sp>
+<sp><speaker name="Soldier">Soldier</speaker><boxstart/>I've been had!! I want to get in a real battle, too! </sp>
+<sp><speaker name="Soldier Studying">Soldier Studying</speaker><boxstart/>I lost most of my rivals in the attack on Weapon.<boxstart/>Oh, of course, I was here, studying.<boxstart/>And the coveted green officer's uniform is almost in my reach.<boxstart/>After that, I'll get on the newspapers as a plain clothed First Class officer in SOLDIER...<boxstart/>A triumphant return to my homeland!! Tons of fan letters... My future's peachy! </sp>
+<stage>Shinra Member's Bar...</stage>
+<sp><speaker name="Barkeeper">Barkeeper</speaker><boxstart/>I'm sorry. I've decided to close this place down.<boxstart/>All my regular customers were killed by Weapon.<boxstart/>Everyone was pretty weird, but I got a lot of memories of them. </sp>
+<stage>2nd floor materia shop...</stage>
+<sp><speaker name="Girl">Girl</speaker><boxstart/>Please! Come in... </sp>
+<sp><speaker name="Girls">Girls</speaker><boxstart/>Welcome! </sp>
+<sp><speaker name="Honey Bee Girl">Honey Bee Girl</speaker><boxstart/>Look, why not forget about Meteor and Weapon for now and do a little impulse shopping!? </sp>
+<sp><speaker name="Black-haired Girl">Black-haired Girl</speaker><boxstart/>Buy a lot, cutie! </sp>
+<sp><speaker name="Redhead">Redhead</speaker><boxstart/>I won't charge you for a smile... </sp>
+<sp><speaker name="Girl">Girl</speaker><boxstart/>Please go to the counter. </sp>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>Why don't you surround yourself with young girls and have some fun... maybe for the last time. </sp>
+<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>I hired more girls after hearing that the world's coming to an end, but I wonder if I made a mistake.<boxstart/>I keep getting more and more in debt. I've got to get out from under it somehow. Maybe I'll have Weapon help me. </sp>
+<sp><speaker name="Girls">Girls</speaker><boxstart/>Thank you very much! </sp>
+<stage>3rd floor accessory shop. The shopkeeper is dressed in a black cloak.</stage>
+<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>I used to be in SOLDIER. Recently, I've felt like dressing up like this...<boxstart/>I don't know why, it's out of season, but... </sp>
+<stage>In another barracks...</stage>
+<sp><speaker name="Soldier">Soldier</speaker> (trying to cross his legs casually)<boxstart/>I'm learning to be a delinquent soldier!!<boxstart/>I just can't seem to get the hang of it! It just isn't going right!! </sp>
+<sp><speaker name="Delinquent Soldier">Delinquent Soldier</speaker><boxstart/>All the real soldiers were killed fighting Weapon.<boxstart/>It may seem ironic that losers like me are still alive. But that's the reality of it. </sp>
+<stage>Upstairs...</stage>
+<sp><speaker name="Shinra Manager">Shinra Manager</speaker><boxstart/>I only came to help with the transporting of Junon's Huge Cannon, Sister Ray, but...<boxstart/>Now the company tells me not to bother coming back...<boxstart/>What's being a Shinra employee all about...?<boxstart/>Yeeeeee......<boxstart/>If Weapon killed all the upper management... then I'll be President...!! </sp>
+<sp><speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>Weapon was really something. Nothing can compare with his strength, but with a selection like this, our weapons'll win. </sp>
+<stage>The docks are empty.</stage>
+<sp><speaker name="Sailor">Sailor</speaker><boxstart/>Everyday there's no ship coming in, I always come here to watch the sun go down.<boxstart/>The sun disappears almost like it's swallowed up in the big horizon.<boxstart/>And somewhere out there is a big unknown continent with another port city.<boxstart/>Twilight always gets me misty...<boxstart/>I'm so glad I became a seaman.<boxstart/>Well... I wouldn't have time for one now anyway because of that Weapon thing...<boxstart/>I haven't had a girl friend in 18 years. And I'm a romantic! ......phew. </sp>
+
+<stage>At Costa del Sol...</stage>
+<stage>At the harbor...</stage>
+<sp><speaker name="Man Near Sea Plane">Man Near Sea Plane</speaker><boxstart/>Well, I'm not worried. When it all comes down, I'm heading for the skies.<boxstart/>The only problem is...... will there be anywhere left to land? </sp>
+<sp><speaker name="Woman Lounging on Sea Plane">Woman Lounging on Sea Plane</speaker><boxstart/>Not gonna be able to nap like this for much longer.<boxstart/>When you put it that way, I feel kind of sad. </sp>
+<sp><speaker name="Sailor">Sailor</speaker><boxstart/>There's no ship to Junon. Recently, there's been a hoard on materials. Everything's topsy-turvy. </sp>
+<sp><speaker name="Sailor Running Around">Sailor Running Around</speaker><boxstart/>Everyone's in a rush to get one last vacation in before the Meteor strikes, That's why it's so busy here. </sp>
+<stage>Back to the town...</stage>
+<sp><speaker name="Woman at the Information Kiosk">Woman at the Information Kiosk</speaker><boxstart/>I don't feel like sightseeing around town. What I really want to do is... Looks like Gold Saucer is temporarily closed. </sp>
+<stage>In the bar...</stage>
+<sp><speaker name="Waitress">Waitress</speaker><boxstart/>I wan' learn how speak beddah. But don' wan' have stars fall down. You think... same? </sp>
+<sp><speaker name="White Surfer">White Surfer</speaker><boxstart/>I don't care if it's the Meteor or not, I'm not giving up yet!<boxstart/>I still haven't surfed the best waves of Costa del Sol!<boxstart/>I hope the Meteor doesn't strike before I do. </sp>
+<sp><speaker name="Black Surfer">Black Surfer</speaker><boxstart/>It's weird seeing the reflection of the Meteor on the sea in the evening!<boxstart/>It gives you the creeps. </sp>
+<sp><speaker name="Black Man">Black Man</speaker><boxstart/>...huff... wheeze...<boxstart/>Heat and cold are just memories of the Planet...... </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>I don't understand what my boss is thinking!<boxstart/>I'm gonna yell at him! I'm gonna scream my head off till it gets ugly!<boxstart/>Isn't that what life's all about? What do you think? </sp>
+<sp><speaker name="Mukki">Mukki</speaker><boxstart/>I'm just sitting here havin' a quiet drink. </sp>
+<sp><speaker name="Woman Behind Counter">Woman Behind Counter</speaker><boxstart/>When you're in here, forget all those awful things going on outside, and... just enjoy yourself. </sp>
+<stage>Back outside...</stage>
+<sp><speaker name="Women">Women</speaker><boxstart/>They're burning. Someday they'll burn out.<boxstart/>The stars are just like our youth.<boxstart/>Ho! Ho! Ho!...... It's the end of the world. </sp>
+<sp><speaker name="Little Boy">Little Boy</speaker><boxstart/>Oh wow!! Man, that's huge!! </sp>
+<sp><speaker name="Little Girl">Little Girl</speaker><boxstart/>The stars!! They're in flames!! </sp>
+<stage>At Johnny's house...</stage>
+<sp><speaker name="Johnny">Johnny</speaker><boxstart/>I proposed to her in the middle of all that Meteor stuff!<boxstart/>I don't care even if the world were to end right now!<boxstart/>I can't think of anything else! </sp>
+<sp><speaker name="Butch">Butch</speaker><boxstart/>Good or bad everything's gotta go! It's the end of the world sale!! </sp>
+<sp><speaker name="Item Shopkeeper">Item Shopkeeper</speaker><boxstart/>Wanna buy a souvenir to remember participating in the Meteor tour? </sp>
+<sp><speaker name="Innkeeper">Innkeeper</speaker> (lying in bed)<boxstart/>I don't feel like doing anything. I just want to spend the rest of my life sleeping.<boxstart/>Will you be staying together? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>- Yes<boxstart/>- No thanks </sp>
+<stage>At the beach...</stage>
+<sp><speaker name="Man">Man</speaker><boxstart/>Sitting around waiting for Meteor to come...... Why's it gotta fall on us? </sp>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>It's getting closer and closer. Someone will do something, don't you think? </sp>
+<sp><speaker name="Woman 2">Woman 2</speaker><boxstart/>The sea breeze, sun and Meteor. Isn't nature strange? </sp>
+<sp><speaker name="Woman 3">Woman 3</speaker><boxstart/>I don't care even if it is the end of the world, I just want to sit here and drink cocktails!<boxstart/>Ooooh...... I think I drank too much. </sp>
+<sp><speaker name="Man Swimming">Man Swimming</speaker><boxstart/>Eaaggh!! Leave me alone!<boxstart/>I'm trying to learn how to swim before the end of the world. </sp>
+
+<stage>At North Corel...</stage>
+<sp><speaker name="Man">Man</speaker><boxstart/>Staring up at Meteor won't put food in my stomach.<boxstart/>But if I look down, sometimes I find somethin' to eat. </sp>
+<stage>Inside a tent...</stage>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>The next train's coming in soon. </sp>
+<sp><speaker name="Black Woman">Black Woman</speaker><boxstart/>As long as we're here, Grandpa's not going to be able to forget about trains.<boxstart/>Maybe we'll start anew, moving to Southern Isle of Mideel. </sp>
+<sp><speaker name="Big Man">Big Man</speaker><boxstart/>Look down... nuthin' but junk. Look up... Meteor.<boxstart/>Am I gonna be stuck between these two for the rest of my life? </sp>
+<sp><speaker name="Man in Hardhat">Man in Hardhat</speaker><boxstart/>Hey, what's gonna happen to the world...?<boxstart/>I guess no one wants to have fun anymore now that the Gold Saucer is closing... </sp>
+<stage>At the ropeway...</stage>
+<sp><speaker name="Station Man">Station Man</speaker><boxstart/>The Gold Saucer is currently closed. The Ropeway's up and runnin', but there's no point in goin' there. </sp>
+
+<stage>At Gold Saucer...</stage>
+<sp><speaker name="Dio">Dio</speaker><boxstart/>I'm sorry, I'm gonna close this for a while.<boxstart/>I'm just debating if I should be in business at a time like this. </sp>
+
+<stage>At Gongaga...</stage>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>You lost? When that happens the only ones you can count on are your friends.<boxstart/>The first thing you gotta do is find your best friend. </sp>
+<sp><speaker name="Redhead">Redhead</speaker><boxstart/>Life Stream? Never heard of it.<boxstart/>The Planet's structure? ...Who cares about that?<boxstart/>Why don't you go ask Bugenhagen of Cosmo Canyon hard questions like that? </sp>
+<sp><speaker name="Accessory Shopkeeper">Accessory Shopkeeper</speaker><boxstart/>We voted to outlaw the use of Mako energy and live with nature, ever since the explosion. </sp>
+
+<stage>At Cosmo Canyon...</stage>
+<sp><speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Oh, it's you. This is terrible. The color of that unlucky star...<boxstart/>The children are all so scared that they won't even go outside.<boxstart/>I'd rather not see it either... </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>Mmm...... I can't be standing here talking about the 'Study of Planet Life'.<boxstart/>I think I'll be heading back to my homeland now... </sp>
+<sp><speaker name="General Storekeeper">General Storekeeper</speaker><boxstart/>Hi. Of course, our stores open.<boxstart/>No need to fear. I have the 'Study of Planet Life' right here.<boxstart/>No, maybe I AM a bit afraid. But, whenever I'm reading 'Study of Planet Life,' I can forget all my fears. </sp>
+<sp><speaker name="Barkeeper">Barkeeper</speaker><boxstart/>How about our original cocktail, 'Lifestream'?<boxstart/>You should forget your troubles with a drink. We humans sure are weak creatures... </sp>
+<sp><speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>Live with the planet, die with the planet.<boxstart/>Maybe this is the way it should be. Who knows? I'm full of booze...<boxstart/>It's when I think about the children. I wonder if we could just save our own children. </sp>
+<sp><speaker name="Kid in Nanaki's Room">Kid in Nanaki's Room</speaker><boxstart/>It's not that I'm afraid of that big star.<boxstart/>It's just that, uh, I have a stomach ache... That's why I'm not moving. That's the truth! </sp>
+<sp><speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Welcome to 'Shindra Inn'. It's times like this a nice, soft bed will do you good. </sp>
+<sp><speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>Welcome. You still want more weapons? You sure are weird...<boxstart/>Uh, I mean, it's weird. if there weren't people like you, I'll be out of business. Heh, heh, heh... sweat...! </sp>
+<sp><speaker name="Elder Hargo">Elder Hargo</speaker><boxstart/>Mm... oh, this? This is the book of Stars. I'm just finishing it.<boxstart/>Nothing is meaningless. If I do this then, someday, someone will run across it.<boxstart/>The Ancients did the same. That is how we know about them, right? Maybe my book also...... </sp>
+<sp><speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Oh man... Everything is over, once the meteor hits...<boxstart/>I've been selling Materia for 10 years now, ever since I was 16. What have I been doing with my life...?<boxstart/>Welcome! Oh, it's nothing. Now, please make yourselves comfortable! </sp>
+<stage>In living quarters next door...</stage>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>Hmm... I wonder what's going to happen now... </sp>
+<sp><speaker name="Kid">Kid</speaker><boxstart/>Don't worry, mom! All of us just need to go through that door!<boxstart/>Mr. Bugenhagen sealed it so we wouldn't have to worry bout it!<boxstart/>But what's a seal...? </sp>
+<stage>Up at the observatory...</stage>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo.<boxstart/>...no time to be humming now. The planet is nearing imminent death.<boxstart/>Where is <referent name="Cloud">Cloud</referent>? Wasn't he with you? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>That's why we're here... Cloud... <referent name="Cloud">Cloud</referent> has... </sp>
+<stage>She explains.</stage>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>I see... Cloud has......<boxstart/>It's true that there are several places on the planet where Lifestream is gathered.<boxstart/>But most of those places are below the surface where humans cannot reach them.<boxstart/>There's only one place. An island floating in the Southern Sea...<boxstart/>What did you say? I haven't left here in years... No good. I can't remember.<boxstart/>In the Southern Seas I think there was an island where Lifestream is.<boxstart/>But even if you find <referent name="Cloud">Cloud</referent> there...<boxstart/>Life's dream is a mass of spiritual energy,<boxstart/>and one person alone probably couldn't stand against such an incredible spiritual current... </sp>
+
+<stage>At Nibelheim...</stage>
+<sp><speaker name="Woman in Shop">Woman in Shop</speaker><boxstart/>How can you shop at a time like this?<boxstart/>What? 'Me, in business'?<boxstart/>Don't worry, it's all right. I get paid by the company.<boxstart/>My real job is to protect the secret of Nibelheim.<boxstart/>What? Secret?<boxstart/>We don't have a clue. But it's all right.<boxstart/>It's all over anyway!<boxstart/>The end, the end, the end!! Yeah, even as we speak, Meteor...! The End...! </sp>
+<stage>In Cloud's house...</stage>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>What's going to happen to this planet!? What the hell's Shinra doing!? </sp>
+<stage>In Tifa's room, at the piano...</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Cloud... <referent name="Cloud">Cloud</referent> was playing.<boxstart/>I wonder what... this is... </sp>
+<sp><speaker name="unspecified"/><boxstart/>Received "Elemental" Materia! </sp>
+
+<stage>At Rocket Town...</stage>
+<stage>In the Inn...</stage>
+<sp><speaker name="Man Looking at Paintings">Man Looking at Paintings</speaker><boxstart/>Mmmm... I'm starting to see it now... </sp>
+<sp><speaker name="Barkeeper">Barkeeper</speaker><boxstart/>You don't feel comfortable here? Then, every time you look in the sky you see Meteor. </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>Meteor's coming toward us!? And I can't even go to the bathroom...!? </sp>
+<stage>Back outside...</stage>
+<sp><speaker name="Redhead">Redhead</speaker><boxstart/>If things go on like this, then Meteor's just going to smash right into us and kill us all, right? ......I guess that's life? </sp>
+<sp><speaker name="Mechanic">Mechanic</speaker><boxstart/>Look up at the sky. The bigger Meteor gets, the less time we have to live. </sp>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>Shinra's trying to gather the Huge Materia from Corel and Fort Condor. There are four left, and they're transporting them here.<boxstart/>I can't stand the thought of them using my rocket for something like this.<boxstart/>Anyways.<boxstart/>How 'bout it? Want to look at the rocket with me? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>- Look up<boxstart/>- No </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>Look up </sp>
+  <sp><speaker name="Old Man">Old Man</speaker><boxstart/>It seems like there's a lot happenin' in the outside world, but as long as I got this rocket... I'm satisfied. </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>No </sp>
+  <sp><speaker name="Old Man">Old Man</speaker><boxstart/>Oh, how boring... </sp>
+
+<stage>At Cid's house...</stage>
+<sp><speaker name="Shera">Shera</speaker><boxstart/>...What's going to happen? </sp>
+
+<stage>At Wutai...</stage>
+<sp><speaker name="Woman Walking Near River">Woman Walking Near River</speaker><boxstart/>Life is like the dew on the leaves of the trees. Whether that planet falls or not is no more than a fleeting glimmer. </sp>
+<stage>At the old man's house...</stage>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>Oh, you know lately things have been like that. You can even see the moon in the afternoon. Everyone's celebrating. </sp>
+<sp><speaker name="Boy">Boy</speaker><boxstart/>No, Gramps! That's a big red planet in the sky! Everyone's scared of it!! </sp>
+<stage>At the Weapons Shop...</stage>
+<sp><speaker name="Man">Man</speaker><boxstart/>This is a weapons store of the hard cores, by the hard cores, and for the hard cores! Come on and take a look, why doncha!? </sp>
+<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Hey yo! Welcome!<boxstart/>You aren't tired of my babbling?<boxstart/>Great! Then come on in and start buying! </sp>
+<stage>At Turtle's Paradise...</stage>
+<sp><speaker name="Barkeeper">Barkeeper</speaker><boxstart/>First the ground started shaking, then that large star......<boxstart/>Yy, you think... It's all over? </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>Hey. Things look pretty sad around here.<boxstart/>With things the way they are in the world I guess there's nothing I can do about it.<boxstart/>Running around like a fool won't help matters any. So, we all might as well sit back and have a beer... </sp>
+<sp><speaker name="Little Kid">Little Kid</speaker><boxstart/>When that big star bashes into us, both Wutai and Da-chao are going to be dust! Can't we do something? </sp>
+<stage>At the Item Shop...</stage>
+<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>You're still gonna sit here and buy stuff at a time like this?<boxstart/>You're an odd one... </sp>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>And now it's too late to be worrying about materia at this stage of the game...<boxstart/>If you see anything you need, buy it. </sp>
+<sp><speaker name="Man on the Path to Godo's House">Man on the Path to Godo's House</speaker><boxstart/>The end is right in front of us...<boxstart/>But what can you do about it? Just go on living your life day in and day out... </sp>
+<sp><speaker name="Man Outside Godo's House">Man Outside Godo's House</speaker><boxstart/>Have you ever heard the story of the scales of the Water God?<boxstart/>They're not just regular scales. They have special hidden powers. And are impervious to the strongest flames.<boxstart/>But of course I don't think they'd stand up to the fire that huge eerie-lookin' Planet's gonna make when it crashes into us... </sp>
+<stage>In the shrine...</stage>
+<sp><speaker name="People Praying">People Praying</speaker><boxstart/>num, num...... I hope the planet doesn't fall anywhere around here......<boxstart/>He's in the pagoda next to Lord Godo. Lord Godo says we're stuck...<boxstart/>Help me. Help me. Help me...... </sp>
+<stage>Going in the Pagoda without Yuffie...</stage>
+<sp><speaker name="Gorky">Gorky</speaker><boxstart/>Oh, you there! How is Miss <referent name="Yuffie">Yuffie</referent> doing? </sp>
+<sp><speaker name="Shake">Shake</speaker><boxstart/>Did that kid mature at all? </sp>
+<sp><speaker name="Chekhov">Chekhov</speaker><boxstart/>She's always like this. It'll be rougher on you. </sp>
+<sp><speaker name="Staniv">Staniv</speaker><boxstart/>Please take care of Miss <referent name="Yuffie">Yuffie</referent>. </sp>
+<sp><speaker name="Godo">Godo</speaker><boxstart/>Your Mat-...<boxstart/>I mean, please look after <referent name="Yuffie">Yuffie</referent>...! </sp>
+
+<stage>At Bone Village...</stage>
+<sp><speaker name="Excavator">Excavator</speaker><boxstart/>Welcome to Bone Village, a town for nature lovers.<boxstart/>You need something? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>- Are you going to run away??<boxstart/>- What are you doing? </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>Are you going to run away?? </sp>
+  <sp><speaker name="Excavator">Excavator</speaker><boxstart/>We've already learned about everything that has happened from the beginning of this Planet through fossils.<boxstart/>Now, we want to see on through to the end of the Planet... It's such a mixed feeling... </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>What are you doing? </sp>
+  <sp><speaker name="Excavator">Excavator</speaker><boxstart/>We're excavating. It's like the land's telling a history of the planet. </sp>
+
+
+<stage>At Icicle Inn...</stage>
+<stage>Inside the small house...</stage>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>I don't think I could live in this town. It gets so cold here!<boxstart/>I have to move again... I don't know where to start. </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>The reason for the drop in temperature must be because of that dome of light at the Northern limits...<boxstart/>You all should get away from here and go to a place like Mideel Island in the south. </sp>
+<sp><speaker name="Boy">Boy</speaker><boxstart/>I wanted to get a lot better at snowboarding... </sp>
+<stage>Inside the large house...</stage>
+<sp><speaker name="Old Woman">Old Woman</speaker><boxstart/>Cough... cough... I've been living in this town for 60 years. And STILL I caught a cold...<boxstart/>I heard there's a doctor on a Southern island somewhere. I sure wish he'd come here... cough... cough... </sp>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>Grandma's been sick for a while and doesn't have much energy lately... </sp>
+<sp><speaker name="Man in Yard">Man in Yard</speaker><boxstart/>It's the first time that the temperature has dipped this low, this fast...<boxstart/>There's also that mysterious light at the Northern limits too. Does it mean that we've reached the end of the world? </sp>
+<stage>At Icicle Inn...</stage>
+<sp><speaker name="Man">Man</speaker><boxstart/>With all the strange things happening in the world, I kinda understand why people want to leave... </sp>
+<sp><speaker name="Man 2">Man 2</speaker><boxstart/>Maybe we'd better leave town soon too.<boxstart/>Let's go to that island in the South! What was it called...... hmm?<boxstart/>Yeah, yeah, I heard that there's a town called Mideel on a southern island. </sp>
+<sp><speaker name="Person in Bathroom">Person in Bathroom</speaker><boxstart/>I'm still in here! All right!? </sp>
+<stage>Back outside...</stage>
+<sp><speaker name="Little Girls">Little Girls</speaker><boxstart/>I heard that there's a barrier on top of the mountain.<boxstart/>What's a barrier? You mean that light on the top of the mountain? </sp>
+<sp><speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>There's a barrier at the North end of the crater! You shouldn't go any further.  </sp>
+
+<stage>The Chocobo Sage's house becomes accessible after gaining the Highwind, but can be visited while Tifa, Cid, or Cloud is the party leader.</stage>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Ho ho. It's unusual for people to come to such an out of the way place...<boxstart/>I can't remember how many years it's been since the last person came. </sp>
+<sp><speaker name="Cloud, Tifa, or Cid">Cloud, Tifa, or Cid</speaker><boxstart/>Who are you? </sp>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Me? I'm......<boxstart/>I don't know. </sp>
+
+	<sp><speaker name="Cloud">Cloud</speaker><boxstart/>You don't know who you are? </sp>
+	<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Wha? You don't know who you are? </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Huh? You're sayin' you don't even know who you are? </sp>
+
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Been a while since I gave it any thought...<boxstart/>Wonder what they used to call me?<boxstart/>Oh yeah!! They used to call me the 'Chocobo Sage'. That's right!!<boxstart/>Right, that was it, The Chocobo Sage!! </sp>
+
+	<sp><speaker name="Cloud">Cloud</speaker><boxstart/>(no one would forget that) </sp>
+	<sp><speaker name="Tifa">Tifa</speaker><boxstart/>(Who would forget that?) </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>(the hell's up with this guy?) </sp>
+
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Now what can I do for you? </sp>
+<sp><speaker name="Cloud, Tifa, or Cid">Cloud, Tifa, or Cid</speaker><boxstart/>- What about that Chocobo? </sp>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>That chocobo? Well that one is...<boxstart/>Let's see now, I don't quite remember... </sp>
+<stage>On a second visit...</stage>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Now what can I do for you? </sp>
+<sp><speaker name="Cloud, Tifa, or Cid">Cloud, Tifa, or Cid</speaker><boxstart/>- You remember something? </sp>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>I remember now! That's the one they call...<boxstart/>It's a Mountain Chocobo. And just like the name says, he can cross any mountain.<boxstart/>There was another one that could cross rivers, too. They call him 'River Chocobo'. </sp>
+
+	<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Where can we catch one? </sp>
+	<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Where can we find one? </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Where can I get one of those Whatdyacallem chocobos? </sp>
+
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>There aren't any around now. </sp>
+
+	<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...... That's one right there isn't it? </sp>
+	<sp><speaker name="Tifa">Tifa</speaker><boxstart/>What about that one right there? </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>What're you flappin' about? There's one right there! </sp>
+
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Wha? I wonder what he's doing there?<boxstart/>Can't remember for the life of me... </sp>
+<stage>On a third visit...</stage>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Oh, oh yeah! That chocobo was...<boxstart/>......was bred from a 'Great Chocobo' and a 'Good Chocobo'.<boxstart/>When they're given "Carob Nuts" while breeding, there's a chance you'll get one of these Chocobos. </sp>
+
+	<sp><speaker name="Cloud">Cloud</speaker><boxstart/>So where's this chocobo?<boxstart/>So where can I get some of these 'Carob Nuts'? </sp>
+	<sp><speaker name="Tifa">Tifa</speaker><boxstart/>So where can I find those Chocobos?<boxstart/>...and what about those 'Carob Nuts'... </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>So where is the chocobo?<boxstart/>And what about those nut things? </sp>
+
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Huh? Where? Where was that?<boxstart/>And what was that nut?<boxstart/>Can't remember for the life of me... </sp>
+<stage>On a fourth visit...</stage>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Oh, OK. I remember! That chocobo...<boxstart/>...It's on an island southeast of here, In a place called Corel surrounded by greenery.<boxstart/>You should be able to catch one just west of Corel. And some 'Carob Nuts', too......<boxstart/>There used to be some monsters just south of here that had them. Or you might...<boxstart/>............ Funny...... What was I saying just now?<boxstart/>Can't remember for the life of me... </sp>
+<stage>On a fifth visit...</stage>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Oh right!<boxstart/>It was about the Mountain Chocobo and the River Chocobo I told you about.<boxstart/>When you mate these two together...<boxstart/>...you get one that can cross rivers AND mountains.<boxstart/>And... And also... uh, what was I saying?<boxstart/>Can't remember for the life of me... </sp>
+<stage>On a sixth visit...</stage>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Oh, yeah! And also...<boxstart/>There's one that can cross oceans, too! </sp>
+
+	<sp><speaker name="Cloud">Cloud</speaker><boxstart/>You probably don't remember but...<boxstart/>How can I get one of those Chocobos? </sp>
+	<sp><speaker name="Tifa">Tifa</speaker><boxstart/>You probably are going to say you forgot, but...<boxstart/>How can I get one of those chocobos? </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Great! I know you probably already forgot but,<boxstart/>Where can I get one of those chocobos? </sp>
+
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Hey, don't tease me like that! To get an Ocean-crossing Chocobo, you just...<boxstart/>Let's see now... ...Nope. Don't remember a thing.<boxstart/>Can't remember for the life of me... </sp>
+<stage>On a seventh visit...</stage>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Oh, I remember! The Ocean-crossing Chocobo is...<boxstart/>The Mountain-and-River-crossing Chocobo is...... is... Oh, what was I saying?<boxstart/>Let's see now... ...Nope. Don't remember a thing. </sp>
+<stage>On an eighth visit...</stage>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Right, right! I remember! You take the Mountain-and-River-crossing Chocobo...<boxstart/>Mate it with a 'Wonderful Chocobo' you can catch right around here... And you'll get...<boxstart/>Can't remember for the life of me... </sp>
+<stage>On a ninth visit...</stage>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Oh, right! You'll need a...<boxstart/>'Zeio Nut'. Now let me see, as I remember, the Zeio nut...<boxstart/>Where was it you could find those things?<boxstart/>Can't remember for the life of me... </sp>
+<stage>On a tenth visit...</stage>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>Oh yeah! Zeio nuts were...<boxstart/>The favorite of goblins. There's a small island east of here where the goblins have a bunch of them. </sp>
+<stage>And finally...</stage>
+<sp><speaker name="Chocobo Sage">Chocobo Sage</speaker><boxstart/>I think...<boxstart/>...that's all I'm gonna remember.<boxstart/>Oh!<boxstart/>That's it... </sp>
+
+</scene>

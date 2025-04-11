@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="temple">
+
+
+
+<h1>The Temple of the Ancients</h1>
+
+<h4><a href="#entrance">The Entrance to the Temple</a></h4>
+<h4><a href="#tseng">The Viewing Pool: Tseng's Run-in with Sephiroth</a></h4>
+<h4><a href="#murals">The Room of Murals</a></h4>
+<h4><a href="#cait">Cait Sith's Sacrifice</a></h4>
+<h4><a href="#blackmateria">Retrieving the Black Materia</a></h4>
+<h4><a href="#Aerith">Aerith's Farewell</a></h4>
+<hr></hr>
+<p class="italic">When they arrive at the Temple, Aerith walks to the center of the bridge and lays down, pressing her ear against it.</p>
+<p class="indent"><b>Aerith</b><br/>This is... the Temple of the Ancients...<br/>I... I know... I feel it... The knowledge of the Ancients... floating...<br/>You could become one with the Planet, but you're stopping it with the strength of will.<br/>For the future? For us?</p>
+<p class="indent"><b>Cloud</b><br/>What are you saying? Do you understand?</p>
+<p class="italic">Aerith gets up and starts up the stairs, shaking her head.</p>
+<p class="indent"><b>Aerith</b><br/>You're uneasy... But happy?<br/>Because I'm here? I'm sorry... I don't understand.</p>
+<p class="italic-inline">She runs back to Cloud.</p>
+<p class="block-inline">I want to go inside!</p>
+<p class="italic">They go up the stairs, where another clone slouches in front of the entrance.</p>
+<p class="indent"><b>Clone #9</b><br/>Key...... stone......<br/>Open... the door... of the Temple...</p>
+<p class="indent"><b>Aerith</b><br/>Look......</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>It says number 9. He has a tattoo on his neck.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Number 9. Another man with a tattoo.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>He's number 9. There's a tattoo.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>He has a tattoo too! Ummm, I think it's number 9.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Oh!? It's an number 9 tattoo.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>It's a number 9 tattoo.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hey, he's got a tattoo. It says number 9.</p>
+</blockquote>
+<p class="italic"><a name="entrance"></a>They enter the Temple to find Tseng slumped at the altar.</p>
+<p class="indent"><b>Aerith</b><br/>Hey! It's Tseng!</p>
+<p class="indent"><b>Cloud</b><br/>Tseng? Of the Turks!?</p>
+<p class="indent"><b>Tseng</b><br/>Uh... I've been had.<br/>It's not the Promised Land... Sephiroth's searching for...</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth? He's inside!?</p>
+<p class="indent"><b>Tseng</b><br/>Look... for yourself...</p>
+<p class="italic-inline">He slams his fist against the floor.</p>
+<p class="block-inline">Damn...<br/>Letting Aerith go was the start... of my... bad luck...<br/>The President... was wrong...</p>
+<p class="indent"><b>Aerith</b><br/>You're wrong.<br/>The Promised Land isn't like what you imagined.<br/>And, I'm not going to help.<br/>Either way, there was no way Shinra could have won.</p>
+<p class="italic-inline">She runs over and stands near a pillar with her back to the others.</p>
+<p class="indent"><b>Tseng</b><br/>...pretty harsh. Sounds like something... you'd say.</p>
+<p class="italic-inline">He gets to his feet and limps towards Cloud.</p>
+<p class="block-inline">The Keystone... Place it... on... the altar...</p>
+<div class="highlight"/><p>Received Key Item "Keystone"!</p>
+<p class="italic">Tseng moves out of the way and sits down against another pillar. Cloud walks to Aerith, scratches his head and turns away.</p>
+<p class="indent"><b>Cloud</b><br/>You crying?</p>
+<p class="italic">Aerith shakes her head.</p>
+<p class="indent"><b>Aerith</b><br/>...Tseng's with our enemy, the Turks, but I've known him since we were little...<br/>There's not a lot of people I can say that about. In fact, there are probably only a handful of people in the world who really know me.</p>
+<p class="indent"><b>Tseng</b><br/>I am...... still alive...</p>
+<p class="italic">Cloud walks up to the altar.</p>
+<p class="indent"><b>Cloud</b><br/>Let's put the Keystone in.</p>
+<p class="italic">He does so, and sinks through the floor into the Temple.</p>
+<p class="indent"><b>Aerith</b><br/>Words... feelings... So many of them here.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Damn--! So this is the Temple of the Ancients!<br/>Oh man, you gotta be kiddin'. This is makin' me dizzy!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>What a strange place. Do you think we're welcome here?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>...sniff... sniff... This place smells good.<br/>It smells the same as Cosmo Canyon.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Geeeez! We got our work cut out for us.<br/>This is starting to get me really dizzy...</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Wow, this place is huge! I'm starting to get bored.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>No exits... We can't turn back.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Shit! Shit! Shit! What the hell's with this place!</p>
+</blockquote>
+<p class="indent"><b>Aerith</b><br/>...Cloud! I know it's going to be tough, but...<br/>Don't give up! We can do it!</p>
+<p class="italic">Trying to enter a room along the way...</p>
+<p class="indent"><b>Cloud</b><br/>Sealed......? That sound brings back memories.</p>
+<p class="italic">Ahead is a humanoid being which turns and runs farther into the temple. Cloud and the others follow it to a small room.</p>
+<p class="indent"><b>Spirit Body</b><br/>Nyum... nyum...</p>
+<p class="indent"><b>Aerith</b><br/>Whew! We finally caught up to you.<br/>I'm sorry. You waited for me.<br/>Those are the spirit bodies of the Ancients.<br/>They've been away from their Planet for a long time to protect this Temple.<br/>Over the many years, they've lost the ability to talk.<br/>Actually, they didn't need words from the beginning because there was only one objective for those left in the Temple.<br/>Please, talk to me!<br/>No good. I don't understand the rest. Are you afraid...?<br/>Is it because Sephiroth is in the Temple? Or something else?</p>
+<p class="italic">They follow a second Spirit Body into a room farther down, and it sets off a trap of odd-shaped boulders. Once they make it past, the trap deactivates.</p>
+<p class="indent"><b>Aerith</b><br/>Phew--- We did it!</p>
+<p class="indent"><b>Cloud</b><br/>Everyone all right? That sure took a lot out of us.</p>
+<p class="italic"><a name="tseng"></a>There is a flash and Aerith gasps.</p>
+<p class="indent"><b>Aerith</b><br/>Oh no... Cloud. Come quick!!<br/>Hurry, this way!</p>
+<p class="italic">She runs off and the others follow her to a glowing pool.</p>
+<p class="indent"><b>Aerith</b><br/>It's full of the knowledge of the Ancients.<br/>No... not knowledge... consciousness... a living soul...<br/>It's trying to say something.<br/>I'm sorry, I don't understand.</p>
+<p class="italic-inline">She leans down towards the pool.</p>
+<p class="block-inline">What?<br/>What is it?</p>
+<p class="italic-inline">She gets back to her feet.</p>
+<p class="block-inline">...Danger? An evil... consciousness?<br/>...show? You're going to show me?</p>
+<div class="highlight"/><p class="italic">The scene changes to another room where Tseng is observing a mural. Cloud and the others stand translucent in the foreground.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>...What's going on?</p>
+<p class="indent-nopad"><b>Aerith</b><br/>Wait! Look! It's showing us!</p>
+<p class="indent-nopad"><b>Elena</b><br/>Tseng, what's this? Can we find the Promised Land with this?</p>
+<p class="indent-nopad"><b>Tseng</b><br/>...I wonder. Anyway, we have to report to the President.</p>
+<p class="indent-nopad"><b>Elena</b><br/>Be careful, Tseng.</p>
+<p class="indent-nopad"><b>Tseng</b><br/>Yeah...<br/>Hey Elena, how 'bout dinner after this job's over?</p>
+<p class="indent-nopad"><b>Elena</b><br/>Th... Thank you very much.<br/>If I may be excused...</p>
+<p class="italic-inline-nopad">She runs off, leaving Tseng alone.</p>
+<p class="indent-nopad"><b>Tseng</b><br/>Is this the Promised Land? No, it can't be...</p>
+<p class="italic">Sephiroth appears in the foreground with Cloud and the others. He seems to look at them, then solidifies in the mural room with Tseng.</p>
+<p class="indent-nopad"><b>Tseng</b><br/>Sephiroth!!</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>So you opened the door. Well done.</p>
+<p class="indent-nopad"><b>Tseng</b><br/>This place... what is it?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>A lost treasure house of knowledge. The wisdom of the Ancients...<br/>I am becoming one with the Planet.</p>
+<p class="indent-nopad"><b>Tseng</b><br/>One with the Planet?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>You stupid fools. You have never even thought about it.<br/>All the spirit energy of this Planet. All its wisdom... knowledge...<br/>I will meld with it all. I will become one with it... it will become one with me.</p>
+<p class="indent-nopad"><b>Tseng</b><br/>...you can do that?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>The way...... lies here.</p>
+<p class="italic-inline-nopad">He darts forward and slashes Tseng.</p>
+<p class="block-inline-nopad">Only death awaits you all. But do not fear.<br/>For it is through death that a new spirit energy is born. Soon, you will live again as a part of me.</p>
+<p class="italic">The scene returns to the viewing pool. Aerith runs around to rejoin the others.</p>
+<p class="indent"><b>Aerith</b><br/>Did you see it?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Yeah, I saw it.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>...I saw it.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>I... I saw it.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Oh grossness!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>...I saw it. Tseng was in bad shape.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>An illusion that the Ancients showed...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hey hey! What's the catch?</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>...Where is the room with the pictures on the walls?</p>
+<p class="indent"><b>Aerith</b><br/>Almost there...</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth is here, right?<br/>No matter what he thinks, it's going to end here.<br/>I'm taking him out!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>You mean WE are, right?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>We're here too, you know.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Don't forget about us!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>I have nothing to do with it. But, I guess I'll lend a hand.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>I wonder if he'll go down that easy?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>......</p>
+	<p class="indent-nopad"><b>Cid</b><br/>All right! Guess you youngsters gotta be enthusiastic like that!</p>
+</blockquote>
+<p class="italic">Cloud and the others continue on to the chamber of the Time Guardian, a circular, almost bottomless room with hands like a clock face. Around it are the entrances to twelve rooms.</p>
+<p class="indent"><b>Time Guardian</b><br/>I am the Time Guardian. Ye who seek the knowledge of the Ancients. I control the time, select your path.<br/>...it is time... You may proceed.</p>
+<p class="italic">If the second hand knocks them off as they try to cross, Cloud and the others land in a torch-lit chamber below.</p>
+<p class="indent"><b>Aerith</b><br/>This atmosphere...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Feels like a battle!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Here it comes!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>I'm tingling with excitement.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Oh man! I should've stayed at home.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>It's a battle!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>A battle...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Let's do it!</p>
+</blockquote>
+<p class="italic">Cloud and the others come out through the sealed entrance and make their way back to the Time Guardian. Passages II, IX, and XI are blocked by rubble. Most of the other passages contain valuable items or monsters. Passage XII is the way out, but it seems to be locked.</p>
+<p class="indent"><b>Cloud</b><br/>I guess there's no way we can open it... We'll come back later.</p>
+<p class="italic">Passage VI leads to a room with three levels of doorways, the topmost of which has a more ornate-looking door. Upon seeing Cloud, a Spirit Body locks this door and runs off.</p>
+<p class="indent"><b>Aerith</b><br/>Hey! It's locked.<br/>No good. We have to catch it!<br/>You must be tired.</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah<br/>- I want to go home</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Just hang in there. Someday we'll look back at these hard times and laugh.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I want to go home</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Yeah. But it'll all be over soon!</p>
+
+<p class="italic"><a name="murals"></a>Cloud catches the Spirit Body and unlocks the door. The three of them enter the room of murals. The murals seem to show a progression:<br/>
+In the first, people are depicted standing outside the Temple.<br/>
+In the second, people may be walking in a procession.<br/>
+In the third, they are standing around the altar in the Temple.<br/>
+In the fourth, they stand near a low table with two jar-like objects on it.<br/>
+In the fifth, a woman holds the Black Materia while Meteor falls from the sky.<br/>
+In the sixth, people are looking about in confusion.<br/>
+In the seventh, people are dying in flames.</p>
+<p class="indent"><b>Aerith</b><br/>This is the room with the murals...</p>
+<p class="indent"><b>Cloud</b><br/>Where are you!? Sephiroth!!</p>
+<p class="italic">Sephiroth appears a ways in front of them.</p>
+<p class="indent"><b>Sephiroth</b><br/>So cold.<br/>I am always by your side.<br/>Come.</p>
+<p class="italic-inline">He flies up to the ceiling and disappears. He reappears in front of one of the murals.</p>
+<p class="block-inline">Splendid.<br/>A treasure house of knowledge...</p>
+<p class="indent"><b>Cloud</b><br/>I don't understand what you're saying!</p>
+<p class="italic">Sephiroth laughs and flies off again. Cloud finds him again before the mural depicting Meteor.</p>
+<p class="indent"><b>Sephiroth</b><br/>Look well.</p>
+<p class="indent"><b>Cloud</b><br/>At what!?</p>
+<p class="indent"><b>Sephiroth</b><br/>At that which adds to the knowledge of...<br/>I am becoming one with the Planet.</p>
+<p class="italic">He laughs, flies off, and Cloud finds him slumped the altar.</p>
+<p class="indent-grey"><b>Sephiroth</b><br/>...Mother... ...It's almost time.<br/>Soon... we will become one.</p>
+<p class="italic">He gets to his feet as Cloud and the others reach him. Aerith steps forward with fists raised.</p>
+<p class="indent"><b>Aerith</b><br/>How do you intend to become one with the Planet?</p>
+<p class="indent"><b>Sephiroth</b> (swinging the Masamune)<br/>It's simple.<br/>Once the Planet is hurt, it gathers Spirit Energy to heal the injury.<br/>The amount of energy gathered depends on the size of the injury.</p>
+<p class="italic-inline">He stabs the Masamune into the floor.</p>
+<p class="block-inline">...What would happen if there was an injury that threatened the very life of the Planet?<br/>Think how much energy would be gathered!</p>
+<p class="italic-inline">He pulls the Masamune from the ground.</p>
+<p class="block-inline">Ha ha ha. And at the center of that injury, will be me.<br/>All that boundless energy will be mine.<br/>By merging with all the energy of the Planet, I will become a new life form, a new existence.<br/>Melding with the Planet... I will cease to exist as I am now...<br/>Only to be reborn as a 'God' to rule over every soul.</p>
+<p class="indent"><b>Aerith</b><br/>An injury powerful enough to destroy the Planet?<br/>Injure... the Planet?</p>
+<p class="indent"><b>Sephiroth</b><br/>Behold that mural. The Ultimate Destructive Magic... Meteor.</p>
+<p class="indent"><b>Cloud</b><br/>That'll never happen!</p>
+<p class="italic">Sephiroth flies off over Cloud's head.</p>
+<p class="block-grey">Wake up!!</p>
+<p class="italic">Cloud runs off after him.</p>
+<p class="indent"><b>Cloud</b><br/>Where are you!? Sephiroth!!</p>
+<p class="indent"><b>Aerith</b><br/>Wait, Cloud!</p>
+<p class="italic">She runs after Cloud and finds him standing before the mural depicting Meteor, his body shaking in a double image.</p>
+<p class="indent"><b>Aerith</b><br/>Cloud!!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Hey!! Cloud!!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Hey, Cloud!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Cloud! What's wrong!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Cloud! What are you doing?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Cloud! What's wrong with you!?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>What are you doing?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>What the hell is going on!</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>Ha ha ha... Black Materia.<br/>Ha ha ha... Call Meteor.</p>
+<p class="indent"><b>Aerith</b><br/>Cloud!! Get a hold of yourself!</p>
+<p class="italic">Cloud starts clutching his head.</p>
+<p class="indent"><b>Cloud</b><br/>Cloud...<br/>I'm... Cloud...<br/>How should I?</p>
+<p class="italic-inline">He goes through a number of motions typical of Cloud, an afterimage of himself trying to fit together with him. Eventually they merge.</p>
+<p class="block-inline">...I remember! I remember my way.</p>
+<p class="italic-inline">He turns to Aerith, trying to look nonchalant.</p>
+<p class="indent"><b>Aerith</b><br/>...Cloud.</p>
+<p class="indent"><b>Cloud</b><br/>Mm? What's wrong? Is something wrong?</p>
+<p class="indent"><b>Aerith</b><br/>...It's nothing so don't worry about it.<br/>Right, Cloud! It's nothing.</p>
+<p class="italic">Barret looks at her oddly, but says nothing. Tifa nods. Nanaki and Vincent look pensive. Yuffie and Cait Sith shrug. Cid scratches his head.</p>
+<p class="indent"><b>Aerith</b><br/>Sephiroth got away.</p>
+<p class="indent"><b>Cloud</b><br/>...Don't worry about it. I understood what he was saying.<br/>So this must be Meteor, right?</p>
+<p class="italic">They all look at the mural.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Is it some sort of a disaster?<br/>It looks like something's gonna fall from the sky.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Is something going to fall from the sky?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Something's going to fall down?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>I don't know what it is but...<br/>It looks like it's going to make a mess...</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Then, we got trouble.<br/>Oh, so something's going to fall from the sky? It's going to be something big.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Something huge is falling from the sky?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>I don't know what the hell it is but it's falling from the sky?<br/>Hmpf! It's not even an omen.</p>
+</blockquote>
+<p class="indent"><b>Aerith</b><br/>...this must be magic. Just what Sephiroth was saying.<br/>The Ultimate Destructive Magic, Meteor.<br/>It finds small drifting planets with its magic.<br/>And then collides with them. This Planet might get wiped out entirely...</p>
+<p class="italic">The Temple starts quaking.</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth!?</p>
+<p class="indent-grey"><b>Sephiroth</b><br/>Ha ha ha... It is not me.</p>
+<p class="italic">Cloud and the others fight off a Red Dragon.</p>
+<p class="indent"><b>Cloud</b><br/>Any sign of Sephiroth?</p>
+<p class="indent"><b>Aerith</b><br/>He disappeared.</p>
+<p class="italic">If they try to leave the room...</p>
+<p class="indent"><b>Cloud</b><br/>We're locked in.</p>
+<p class="italic">They approach the altar.</p>
+<p class="indent"><b>Cloud</b><br/>What is this?</p>
+<p class="indent"><b>Aerith</b><br/>...There's something written on it.<br/>...B.l.a.c.k...... M.a.t.e.r.i.a.</p>
+<p class="indent"><b>Cloud</b><br/>Black Materia!!</p>
+<p class="indent"><b>Aerith</b><br/>Hey!<br/>...Black Materia.<br/>What should we do, Cloud?</p>
+<p class="indent"><b>Cloud</b><br/>- Shake it<br/>- Take it<br/>- Leave it</p>
+<div class="block"/>
+  <p><span class="highlight">Shake it</span></p>
+  <p class="italic">The Temple quakes.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Take it</span></p>
+  <p class="italic">The Temple quakes.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Leave it</span></p>
+  <p class="italic">Cloud shrugs.</p>
+
+<p class="indent"><b>Aerith</b><br/>Wait a minute. I'll ask!</p>
+<p class="italic-inline">She runs a little ways away from the others.</p>
+<p class="block-inline">I don't understand......<br/>What?<br/>Really!?</p>
+<p class="italic-inline">She rejoins Cloud.</p>
+<p class="block-inline">They said that the Temple itself is the Black Materia.</p>
+<p class="indent"><b>Cloud</b><br/>What do they mean?</p>
+<p class="indent"><b>Aerith</b><br/>So, this whole building is the Black Materia?</p>
+<p class="indent"><b>Cloud</b><br/>This huge Temple? This is the Black Materia!?<br/>Then no one could take it.</p>
+<p class="indent"><b>Aerith</b><br/>Hmm, it's pretty hard. You see this is a model of the Temple.<br/>And inside it is a device which gets smaller each time you solve a puzzle.<br/>As the model becomes smaller, you become smaller too.<br/>Until it's small enough to fit in the palm of your hand.</p>
+<p class="indent"><b>Cloud</b><br/>So, if we solve the puzzles, the Black Materia will get smaller and smaller and we can take it out?</p>
+<p class="indent"><b>Aerith</b><br/>Yes, but there's one thing...<br/>You can only answer the puzzles inside the Temple.<br/>So, anyone who solves the puzzle will be crushed by the Temple.</p>
+<p class="indent"><b>Cloud</b><br/>I see... the Ancients didn't want dangerous magic to be taken out of the Temple so easily...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Then just leave it.<br/>If we can't take it, then neither can Sephiroth, right?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Let's just leave it, OK?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>That'll be safer. If no one can else take it......<br/>Then Sephiroth can't either, right?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Let's just leave it and get the hell out of here!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>The Ancients were a mean bunch. This way, no one'll be able to get it.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>I guess that means it's safe here.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Guess stuff this dangerous is best left alone?</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>No. We've got to think of a way to get it out.<br/>Because Sephiroth has lots of different flunkies.<br/>It's nothing to him to throw their lives away to get the Black Materia.<br/>This place isn't safe.</p>
+<p class="italic-inline">He taps the altar, and the Temple shakes.</p>
+<p class="indent"><b>Aerith</b><br/>So what are we going to do?</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight"><a name="cait"></a>If Cait Sith is in the party...</span></p>
+  <p class="italic">Cait Sith steps forward.</p>
+  <p class="indent-nopad"><b>Cait Sith</b><br/>I heard your situation!<br/>Don't forget about me.<br/>Everything you said makes perfect sense!<br/>You can use my stuffed body for the future of the Planet.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>We can't let Sephiroth get his hands on the Black Materia.<br/>And we can't let the Shinra get theirs on it either.</p>
+  <p class="indent-nopad"><b>Cait Sith</b><br/>So that means you don't trust me?<br/>But Cloud. There's really nothing else you can do.<br/>Everyone, please trust me.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- I guess we have no choice<br/>- No way</p>
+  <div class="block"/>
+    <p><span class="highlight">I guess we have no choice</span></p>
+    <p class="indent-nopad"><b>Cait Sith</b><br/>All righty then! Leave it all to me!<br/>Everyone, hurry up and get outside!<br/>I'll go with you to a safe place.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">No way</span></p>
+    <p class="indent-nopad"><b>Cait Sith</b><br/>You sure are stubborn, Cloud.<br/>Please believe me, Cloud.</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- Hmmm, I guess I have to<br/>- How can I?</p>
+  
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cait Sith is not in the party...</span></p>
+  <p class="italic">Cloud's PHS rings, and after a moment of confusion he answers it.</p>
+  <div class="highlight-nopad"/><p class="indent-nopad"><b>Cait Sith</b><br/>Hi, Cloud. This is Cait Sith.<br/>I overheard the whole story!<br/>Don't forget about me.<br/>Everything you said makes perfect sense!<br/>You can use my stuffed body for the future of the Planet.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>We can't let Sephiroth get his hands on the Black Materia.<br/>And we can't let the Shinra get theirs on it either.</p>
+  <div class="highlight-nopad"/><p class="indent-nopad"><b>Cait Sith</b><br/>But Cloud. There's really nothing else you can do.<br/>Everyone, please trust me.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- I guess we have no choice<br/>- No way</p>
+  <div class="block"/>
+    <p><span class="highlight">I guess we have no choice</span></p>
+    <div class="highlight-nopad"/><p class="indent-nopad"><b>Cait Sith</b><br/>All righty then! Leave it all to me!<br/>Please hurry, you've got to get out of here!<br/>I'll be waiting at the exit!</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">No way</span></p>
+    <div class="highlight-nopad"/><p class="indent-nopad"><b>Cait Sith</b><br/>You sure are stubborn, Cloud.<br/>Please believe me, Cloud.</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- Hmmm, I guess I have to<br/>- How can I?</p>
+  
+
+<p class="italic">Eventually Cloud has to agree. They make for the exit through the XII passage. Cloud knocks on the door, then turns around and shrugs.</p>
+<p class="indent"><b>Cloud</b><br/>It's warm...<br/>This isn't good...</p>
+<p class="italic">The others back up as a monster comes through the wall.</p>
+<p class="indent"><b>Aerith</b><br/>Cloud...... behind you.</p>
+<p class="italic">Cloud turns to look and then runs to join them. They fight the Demons Gate, and afterward, the door opens.</p>
+<p class="indent"><b>Cait Sith</b><br/>Sorry to keep you waiting!! It's Me!! <i>[He doesn't say this line if you had him in your party.]</i><br/>I'll handle the rest!<br/>Well, everyone... Take care of yourselves!</p>
+<p class="indent"><b>Aerith</b><br/>Cait Sith...<br/>Come on, Cloud... Say something.</p>
+<p class="indent"><b>Cloud</b><br/>I'm not good at this.</p>
+<p class="indent"><b>Cait Sith</b><br/>Mmm, I understand. I feel the same too.</p>
+<p class="indent"><b>Aerith</b><br/>Why don't you read our fortunes?</p>
+<p class="indent"><b>Cait Sith</b><br/>Say, that's right... I haven't done it in a while, huh?<br/>I'm so exited. Right or wrong, I'm still the same 'ol me.<br/>Now, what should I predict?</p>
+<p class="italic">Aerith moves to stand close beside Cloud.</p>
+<p class="indent"><b>Aerith</b><br/>Hmm, let's see how compatible Cloud and I are!</p>
+<p class="italic">Tifa turns away with a hmph and then turns back.</p>
+<p class="indent"><b>Cait Sith</b><br/>That'll cost ya. Exactly one date!<br/>Here I go!</p>
+<p class="italic-inline">He turns away.</p>
+<p class="block-inline">This isn't good. I can't say it.<br/>Poor Tifa.</p>
+<p class="italic">Aerith runs up to him.</p>
+<p class="indent"><b>Aerith</b><br/>No! Tell me!<br/>I promise I won't get mad!</p>
+<p class="indent"><b>Cait Sith</b><br/>Is that so? Then I'll tell you.<br/>Looks good. You are perfect for each other!<br/>Aerith's star and Cloud's star! They show a great future!<br/>Cloud, I'll be your matchmaker, preacher... I'll do whatever you want me to!<br/>You just call me when it all happens!<br/>Thank you for believing in me, knowing that I was a spy.<br/>This is the final, final farewell!</p>
+<p class="italic">He bounces off.</p>
+<p class="indent"><b>Aerith</b><br/>Be strong Cait Sith!!</p>
+<p class="italic">Cait Sith returns alone to the room with the murals.</p>
+<p class="indent"><b>Cait Sith</b><br/>She told me to 'Be strong.' I feel so happy.</p>
+<p class="italic-inline">He trips and falls.</p>
+<p class="block-inline">Owwww......</p>
+<p class="italic-inline">He carefully gets back up and waves his arms.</p>
+<p class="block-inline">What happened?</p>
+<p class="italic-inline">He bounces around.</p>
+<p class="block-inline">I can still move more.</p>
+<p class="italic-inline">He continues to the altar.</p>
+<p class="block-inline">This must be it!<br/>The Ancients sure did a great job making this.<br/>I can protect the Planet too! I'm kinda embarrassed...<br/>There's plenty of stuffed toys like my body around, but there's only one me!<br/>Don't forget me even if another Cait Sith comes along.<br/>Good bye, then! I guess I'm off to save the Planet...</p>
+<hr></hr>
+<p class="italic"><a name="blackmateria"></a>Outside the Temple, Cloud and the others watch as it rumbles and shrinks. They run to the deep pit where the Temple used to be, and down at the bottom is a black orb.</p>
+<p class="indent"><b>Cloud</b><br/>That's the Black Materia...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Hey! I'll keep watch here!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>I'll wait here.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>I'll be sittin' out here.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Heh heh... this looks majorly boring, so I'll stay here.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>I'll be looking around here.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>I'm gonna have a smoke out here!<br/>Ahhh!! It's really something, having a smoke at a place like this.</p>
+</blockquote>
+<p class="italic">Cloud nods and starts down. Aerith follows behind him.</p>
+<p class="indent"><b>Cloud</b><br/>As long as we have this, Sephiroth won't be able to use Meteor.</p>
+<div class="highlight"/><p>Got Key Item "Black Materia!"</p>
+<p class="indent"><b>Cloud</b><br/>Mmm?<br/>Can you guys use it?</p>
+<p class="indent"><b>Aerith</b><br/>Nope, we can't use it right now. You need great spiritual power to use it.</p>
+<p class="indent"><b>Cloud</b><br/>You mean lots of Spiritual energy?</p>
+<p class="indent"><b>Aerith</b><br/>That's right.<br/>One person's power alone won't do it.<br/>Somewhere special. Where there's plenty of the Planet's energy...<br/>Oh yeah!<br/>The Promised Land!!</p>
+<p class="indent"><b>Cloud</b><br/>The Promised Land!!<br/>No, but...</p>
+<p class="indent"><b>Aerith</b><br/>Sephiroth is different. He's not an Ancient.</p>
+<p class="indent"><b>Cloud</b><br/>He shouldn't be able to find the Promised Land.</p>
+<p class="italic">Sephiroth appears hovering above the pit.</p>
+<p class="indent"><b>Sephiroth</b><br/>...Ah, but I have.<br/>I'm far superior to the Ancients.<br/>I became a traveler of the Lifestream and gained the knowledge and wisdom of the Ancients.<br/>I also gained the knowledge and wisdom of those after the extinction of the Ancients.<br/>And soon, I will create the future.</p>
+<p class="indent"><b>Aerith</b><br/>I won't let you do it! The future is not only yours!</p>
+<p class="indent"><b>Sephiroth</b><br/>Ha, ha, ha... I wonder?<br/>Wake up!</p>
+<p class="indent"><b>Cloud</b><br/>Sh... shut up!</p>
+<p class="italic">Sephiroth joins them at the bottom of the pit.</p>
+<p class="indent"><b>Sephiroth</b><br/>There, Cloud... good boy.</p>
+<p class="indent"><b>Cloud</b><br/>The... Noise...</p>
+<p class="italic">Cloud falls to his knees, then gets up. Time slows as he runs towards Sephiroth. A child Cloud appears there with them and tries to stop Cloud, to no avail.</p>
+<p class="indent"><b>Cloud</b><br/>Wa...... aaaa...... aaa...</p>
+<p class="indent"><b>Little Cloud</b><br/>No......!<br/>Don't be afraid--!</p>
+<div class="highlight"/><p>Gave "Black Materia" to Sephiroth!</p>
+<p class="indent"><b>Sephiroth</b><br/>......Well done.</p>
+<p class="italic-inline">He flies off.</p>
+<p class="indent"><b>Aerith</b><br/>Cloud, are you all right?</p>
+<p class="indent"><b>Cloud</b><br/>...I gave the Black Materia to Sephiroth...?</p>
+<p class="italic-inline">He falls at Aerith's feet.</p>
+<p class="block-inline">Wha... what did I do... tell me, Aerith.</p>
+<p class="indent"><b>Aerith</b><br/>Cloud... be strong, OK?</p>
+<p class="italic">He writhes and clutches his head.</p>
+<p class="indent"><b>Cloud</b><br/>Urrrrrrgh... What have I done!?</p>
+<p class="indent"><b>Aerith</b><br/>Cloud... you haven't done anything.<br/>It's not your fault.</p>
+<p class="indent"><b>Cloud</b><br/>I...! I'm-----!</p>
+<p class="italic-inline">He shoves Aerith to the ground and starts attacking her.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Urrggggggh!!!! Cloud!!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Cloud!!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Cloud!!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>What!? Cloud!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>......!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hey! EY!</p>
+</blockquote>
+<p class="italic">The one on watch starts down into the pit just as another Cait Sith arrives.</p>
+<p class="indent"><b>Little Cloud</b><br/>Waaaa~!!<br/>What are you doing!?</p>
+<p class="indent"><b>Cait Sith</b><br/>Oops! This looks like I came at a bad time!<br/>I'm Cait Sith No. 2. Right pleased to meet you all!</p>
+<p class="italic-inline">If no one else is there, he goes down into the pit.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>HEY! Cloud, you #$#&amp;@!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Cloud, what are you doing!?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Aerith, are you all right!?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Aerith! Cloud, what're you doing!?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Cloud!! What are you doin'!!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Cloud!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Cloud! What the hell are you doing?</p>
+</blockquote>
+<p class="italic">They knock Cloud out.</p>
+<hr></hr>
+<p class="italic"><a name="Aerith"></a>The screen goes white.</p>
+<p class="indent"><b>Cloud</b><br/>Everything is white...<br/>What did I do? I don't remember anything...<br/>My memory... since when...? If everything's a dream, don't wake me.</p>
+<p class="italic">The scene changes to the Sleeping Forest. Aerith peeks out from behind a tree.</p>
+<p class="indent"><b>Aerith</b><br/>Cloud, can you hear me?</p>
+<p class="indent-grey"><b>Cloud</b><br/>Yeah, I hear you. Sorry for what happened.</p>
+<p class="indent"><b>Aerith</b><br/>Don't worry about it.</p>
+<p class="indent-grey"><b>Cloud</b><br/>...I can't help it...</p>
+<p class="indent"><b>Aerith</b><br/>Oh...<br/>Then, why don't you REALLY worry about it?<br/>And let me handle Sephiroth.</p>
+<p class="italic-inline">She laughs.</p>
+<p class="block-inline">And Cloud, you take care of yourself.<br/>So you don't have a breakdown, okay?</p>
+<p class="italic">She walks back behind the tree, and then both of them drop down from the canopy. Cloud looks around.</p>
+<p class="indent"><b>Cloud</b><br/>What is this place?</p>
+<p class="indent"><b>Aerith</b><br/>This forest leads to the City of the Ancients... and is called the Sleeping Forest.<br/>It's only a matter of time before Sephiroth uses Meteor.<br/>That's why I'm going to protect it. Only a survivor of the Cetra, like me, can do it.</p>
+<p class="italic-inline">She walks a ways down the path.</p>
+<p class="block-inline">The secret is just up here.<br/>At least it should be. ...I feel it. It feels like I'm being led by something.</p>
+<p class="italic-inline">She waves.</p>
+<p class="block-inline">Then, I'll be going now. I'll come back when it's all over.</p>
+<p class="indent"><b>Cloud</b><br/>Aerith?</p>
+<p class="italic">She runs off. Cloud tries to follow, but only runs in place. Aerith disappears into the light.</p>
+<p class="indent-grey"><b>Sephiroth</b><br/>Hmm...... She's thinking of interfering? She will be a difficult one, don't you think?</p>
+<p class="italic">He drops down from the canopy.</p>
+<p class="indent-grey"><b>Sephorith</b><br/>We must stop that girl soon.</p>
+<p class="italic">Cloud wakes to find himself in the Gongaga inn.</p>
+
+</scene>

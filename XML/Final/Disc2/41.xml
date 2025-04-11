@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="CosmoCanyonAerith">
+
+
+
+<sp>Cosmo Canyon - Remembering Aerith </sp>
+
+<stage>Cloud and his party arrive at Cosmo Canyon and go up to see Bugenhagen.</stage>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. If you ever are in need of my wisdom, you are always welcome here. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Yeah, that's why we came. </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>What to do? Have you lost your way? When that happens we each have to take a good long look at ourselves.<boxstart/>There's always something in the deepest reaches of our hearts.<boxstart/>Something buried, or something forgotten.<boxstart/>Remember it... Whatever that is, must certainly be what you are all looking for... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>That's easy enough to say... But, I can't remember a thing. </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>It must be there. Look harder! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>This ain't no good with just us! <referent name="Cloud">Cloud</referent>, we gotta get some others in here. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>...no good. <referent name="Cloud">Cloud</referent>, let's have the others come. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>nghh... no good. We alone cannot do it. We need to have the others here. </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>You expect me to know that? Let the others do it! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>How about it, <referent name="Cloud">Cloud</referent>? Shouldn't we have the others come? </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>I don't know, <referent name="Cloud">Cloud</referent>. I think we should have everyone here. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Ahh, no good. <referent name="Cloud">Cloud</referent> you call the others in here too! </sp>
+<stage>Cloud nods and calls up the others on his PHS. They all gather in the observatory.</stage>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Do you see it? What is it that you are searching for? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Nope. Not a thing. Naw. Can't come up with a thing. </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Me either! I don't get any of this! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I remember Aerith a lot.<boxstart/>No... not that.<boxstart/>You haven't remembered.<boxstart/>You haven't forgotten.<boxstart/>That's not it...<boxstart/>How would you say it... Aerith was right there all along. Right by our side.<boxstart/>She was so close, we couldn't see her. What <referent name="Aerith">Aerith</referent> did... The words she left behind... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>That reminds me... I was the same. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>......as was I. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Me too... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>She said she was the only one who could stop <referent name="Sephiroth">Sephiroth</referent>'s Meteor. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>But <referent name="Aerith">Aerith</referent> is gone. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Is it impossible for us to carry on... what <referent name="Aerith">Aerith</referent> tried to accomplish? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>We ain't no Ancients, if that's what ya mean. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>What, did that girl go off to that place? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>That's it!! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>What's it? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>We don't know about it.<boxstart/>What did <referent name="Aerith">Aerith</referent> know?<boxstart/>Why did she face <referent name="Sephiroth">Sephiroth</referent> without running away? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I see... She returned there once again, correct? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Hmmm. Perhaps I'll have you take me there. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>You're going too? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>What's so surprising about that...?<boxstart/>Even I want to get out from time to time and see the outside world. I wonder what did it? I haven't felt like this in ages. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>It must be the planet. The planet is calling you! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Yeah, hoo boy, the planet calling... right. </sp>
+<stage>He walks out.</stage>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. Then let's go. </sp>
+<stage>The others all file out.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Oh yeah, Bugenhagen. I have one more thing I want to ask you.<boxstart/>We're carrying around Huge Materia. This is pretty delicate stuff and would like to keep it in a safe place... </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. Then we'll put it upstairs. Now, shall we be on our way?<boxstart/>I'll teach you how to work the machine. Watch carefully now. You just pull this here... </sp>
+<stage>And the machine turns on.</stage>
+<sp><boxstart/>Ho Ho Hoooo. Is this what you call Huge Materia...?<boxstart/>This is really rare Materia, indeed.<boxstart/>Materia this rare is certain to have a special consciousness enclosed in it. </sp>
+<stage>Cloud inspects the materia and gets Bahamut ZERO from the blue one.</stage>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. Good. Now let's leave.<boxstart/>Do you remember how to use the machine down below? If you ever want to see Materia, come here anytime. </sp>
+<stage>They then return to the Highwind.</stage>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Hm, hmm, hmm!.......<boxstart/>Smells like machinery.<boxstart/>I love this smell.<boxstart/>Of course, I also love the smell of nature, too......<boxstart/>Hm? Is the deck up there?<boxstart/>Then I'll be on the deck just passing time.<boxstart/>I can feel the workings of the planet in the smell of the wind.<boxstart/>I also feel the greatness of man's wisdom and the knowledge in the smell of machinery...<boxstart/>Well, bye for now. </sp>
+<stage>He floats off to the deck.</stage>
+<sp><boxstart/>I wonder where you're taking me? </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... urp...... ugh.<boxstart/>You know, I was thinking...... phew...... Why does materia always have something to do with battles or magic?<boxstart/>I bet the Ancients must've always been fighting.<boxstart/>It must've been... ugh... terrible... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>And <referent name="Aerith">Aerith</referent>... she's dead.<boxstart/>Guess she turned into spiritual energy and returned to the planet, huh?<boxstart/>But even if she did, there's no way we'll meet her again... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I wonder what <referent name="Aerith">Aerith</referent> felt... when she was on that altar...? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I'm sure she wanted to give her life for the planet... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Really? I wonder? I don't think that's it at all.<boxstart/>I think she didn't think she would die at all, but that she planned on coming back all along.<boxstart/>She always used to talk about the 'Next time'.<boxstart/>She talked about the future more than any of us...<boxstart/>Although she never talked about it to us she must've had a rough life...<boxstart/>I think <referent name="Aerith">Aerith</referent> looked forward to tomorrow and the future more than anyone...<boxstart/>...she must've had many many dreams...... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Aerith">Aerith</referent> used to pat me on the nose sometimes.<boxstart/>I used to hate being treated like a child like that, but I also liked the attention.<boxstart/>I wanted to apologize to her for what I did when we first met. </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I went an' told <referent name="Aerith">Aerith</referent>' Mom about her death.<boxstart/>Yes, an' Miss Elmyra was cryin' herself silly... So was little Marlene... </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>City of the Ancients...<boxstart/>The Ancients... after a long time that is probably what others will come to call us...<boxstart/>Hmmm... hwa ha ha ha... It's only a matter of time for us. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/><referent name="Aerith">Aerith</referent>...?<boxstart/>I wanted to give her a ride in the Highwind...... </sp>
+<sp><speaker name="Learner Pilot (LV11)">Learner Pilot (LV11)</speaker><boxstart/>Okay then, let's go! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Let's go!<boxstart/>- Wait a sec...... </sp>
+<stage>Cloud and the others set out for the City of the Ancients.</stage>
+<stage>If you speak to some of the villagers while Bugenhagen is with the party...</stage>
+<sp><speaker name="Elder Hargo">Elder Hargo</speaker> (in the observatory)<boxstart/>I hope great Bugenhagen will take care and not overexert himself.<boxstart/>'Ho Ho Hoooo.' I may be light, But I'm not as young as <referent name="Nanaki">Nanaki</referent>.<boxstart/>Oops. That will only get you angry. You're just like me. Ho ho ho. </sp>
+<sp><speaker name="Kid in Nanaki's Room">Kid in Nanaki's Room</speaker><boxstart/>Both <referent name="Nanaki">Nanaki</referent> and Mr. Bugenhagen are gone... I feel so lonely... </sp>
+
+</scene>

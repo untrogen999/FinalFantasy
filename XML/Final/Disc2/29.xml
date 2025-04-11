@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="IcicleInn">
+
+
+
+<sp>Icicle Inn - Aerith's Birthplace </sp>
+
+<sp>Exploring Icicle Inn </sp>
+<sp>Gast's House </sp>
+<sp>A Run-in with Elena </sp>
+
+<stage>After crossing the snow fields, Cloud and the others reach Icicle Inn.</stage>
+<sp><speaker name="Girls Building a Snowman">Girls Building a Snowman</speaker><boxstart/>It's almost finished!<boxstart/>Next time, I'm gonna make an even bigger one. </sp>
+<stage>In the Weapons Shop...</stage>
+<sp><speaker name="Little Girl">Little Girl</speaker><boxstart/>Grandpa, wake up! We have a customer!! </sp>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>...smack... mff... Oh... welcome, glad you came. </sp>
+<stage>Inside the large house...</stage>
+<sp><speaker name="Old Woman in Rocking Chair">Old Woman in Rocking Chair</speaker><boxstart/>My husband left 20 years ago and still hasn't come back.<boxstart/>He should at least be at the foot of the Gaea Cliffs. It's marked with a check on the map... </sp>
+<sp><speaker name="Young Woman">Young Woman</speaker><boxstart/>Grandma, don't sleep so close to the fire! </sp>
+<sp><speaker name="Old Woman">Old Woman</speaker><boxstart/>I just get s-o comfortable. </sp>
+<sp><speaker name="Young Woman">Young Woman</speaker><boxstart/>The master is an experienced climber, you know.<boxstart/>I've heard that he knows every corner of that Great Glacier! </sp>
+<sp><speaker name="Man in Yard">Man in Yard</speaker><boxstart/>It's nearly impossible to reach the Northern limits without a map.<boxstart/>If you're thinkin' 'bout going to the Northern limits, you'd better take that map on the wall. </sp>
+<stage>If Cloud has already taken the map...</stage>
+<sp><boxstart/>What nerve! You already tore down the map. </sp>
+<stage>Cloud takes the map on the wall and leaves the house. Inside Icicle Inn...</stage>
+<sp><speaker name="Black Surfer">Black Surfer</speaker><boxstart/>You heard about the gnarly hill in this town? They tell me it's off limits! </sp>
+<sp><speaker name="White Surfer">White Surfer</speaker><boxstart/>What luck! We came all this way... crap! </sp>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>We came from Costa del Sol to snowboard, but we're just about to leave! </sp>
+<sp><speaker name="Man by Furnace">Man by Furnace</speaker><boxstart/>Phew, what is it? Don't get too close, or it'll burn ya. </sp>
+<sp><speaker name="Innkeeper">Innkeeper</speaker><boxstart/>It's colder than usual today...<boxstart/>It's 200 gil, you wanna spend the night? </sp>
+<stage>Inside the inn's bar...</stage>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>Welcome! You look like a STRONG one...<boxstart/>If you want, I could lend you an ear...? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- Not interested </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>Yeah </sp>
+  <stage>The woman gets up and sits elsewhere.</stage>
+  <sp><speaker name="Woman">Woman</speaker><boxstart/>I got bored listening to his stories. </sp>
+  <sp><speaker name="Man in Overalls">Man in Overalls</speaker><boxstart/>Am I boring you? </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>Not interested </sp>
+  <sp><speaker name="Woman">Woman</speaker><boxstart/>What's with you!? You make me sick! </sp>
+  <sp><speaker name="Man in Overalls">Man in Overalls</speaker><boxstart/>If you go further North, I heard there's a Huge Crater.<boxstart/>Something huge must've fallen from the sky a long time ago! </sp>
+
+<sp><speaker name="Barkeeper">Barkeeper</speaker><boxstart/>I've heard there's a snow woman, at the Great Glacier, that hates hot springs...<boxstart/>But I think it's just a myth to scare off visitors. </sp>
+<sp><speaker name="Redhead">Redhead</speaker><boxstart/>I heard some guy went to the Great Glacier in the North.<boxstart/>What an idiot. Is he thinkin' 'bout going to that hot spring? </sp>
+<sp><speaker name="Blond Man">Blond Man</speaker><boxstart/>He's probably gonna get lost in the glacier and freeze to death.<boxstart/>No matter how well equipped he is, out there in that cold on the glacier, I give him two days at the most. </sp>
+<sp><speaker name="Redhead 2">Redhead 2</speaker><boxstart/>You thinkin' of going North? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- That's my plan<boxstart/>- No </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>That's my plan </sp>
+  <sp><speaker name="Redhead 2">Redhead 2</speaker><boxstart/>Well... if you're going past this town you'll need a map.<boxstart/>Maybe there's one left at Mr. Holzoff's house. He used to be a mountain climber. </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>No </sp>
+  <sp><speaker name="Redhead 2">Redhead 2</speaker><boxstart/>Yeah, we really don't have anything here, but make yourself at home. </sp>
+
+<sp><speaker name="Man">Man</speaker><boxstart/>Do you know what a Cetra is? </sp>
+<sp><speaker name="Man 2">Man 2</speaker><boxstart/>What was the Cetra......? Oh yeah, it's the same as the Ancients, right? </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>Yeah, a Cetra lived in this town a long time ago.<boxstart/>Her name was Ifalna, and she knew about a lot of things... </sp>
+<sp><speaker name="Man 2">Man 2</speaker><boxstart/>Whadaya mean? </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>I heard she was abducted by the Shinra and was taken somewhere. </sp>
+<sp><speaker name="Man 2">Man 2</speaker><boxstart/>Shinra and the Ancients... I smell somethin' fishy... </sp>
+<sp><speaker name="Man in Bathroom">Man in Bathroom</speaker><boxstart/>WHAT'RE YOU LOOKING AT?<boxstart/>You're a real freakazoid, aren't you? </sp>
+<sp><speaker name="Woman in Bathroom">Woman in Bathroom</speaker> (later)<boxstart/>Eyaaaaaaaaaah!!! </sp>
+<stage>She punches Cloud.</stage>
+<stage>In exploring the village, Cloud finds a vacant house that once belonged to Professor Gast. There are several videos that Cloud can watch.</stage><boxstart/>
+
+  [The Original Crisis]
+  
+    <stage>The camera turns on and Gast adjusts the angle to center on Ifalna.</stage>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Camera's ready!<boxstart/>Then, Ifalna, please tell us about the Cetra. </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>2000 years ago, our ancestors, the Cetra, heard the cries of the Planet.<boxstart/>The first ones to discover the Planet's wound were the Cetra at the Knowlespole. </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Tell us Ifalna... Where is the land called 'Knowlespole'? </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Knowlespole refers to this area. The Cetra then began a Planet-reading. </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Ifalna, what exactly does Planet-reading entail? </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>...I can't explain it very well, but it's like having a conversation with the Planet...<boxstart/>It said something fell from the sky making a large wound. </sp>
+    She shakes her head.
+    Thousands of Cetra pulled together, trying to heal the Planet...<boxstart/>But, due to the severity of the wound, it was only able to heal itself, over many years.
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Do the Ancients, rather, the Cetra, have special powers to heal the Planet? </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>No, it's not that kind of power. The life force of all living things on this Planet becomes the energy.<boxstart/>The Cetra tried desperately to cultivate the land so as not to diminish the needed energy... </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Hmm, even here so close to the North Cave, the snow never melts.<boxstart/>Is that because the planet's energy is gathered here to heal its injury? </sp>
+    <stage>Ifalna lowers her head.</stage>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Yes, the energy that was needed to heal the Planet withered away the land... then the Planet...<boxstart/>The Planet tried to persuade the Cetra to leave the Knowlespole, but... </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Ifalna... Let's take a break. </sp>
+    <stage>She turns to him and shakes her head.</stage>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>I'm all right... When the Cetra... were preparing to part with the land they loved...<boxstart/>That's when it appeared!<boxstart/>It looked like... our... our dead mothers... and our dead brothers. Showing us spectres of their past. </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Who is the person that appeared at the North Cave? I haven't any idea. </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>That's when the one who injured the Planet... or the 'crisis from the sky', as we call him, came. </sp>
+    She buries her face in her hands.
+    He first approached as a friend, deceived them, and finally...... gave them the virus.<boxstart/>The Cetra were attacked by the virus and went mad... transforming into monsters.
+    She drops to her knees.
+    Then, just as he had at the Knowlespole.<boxstart/>He approached other Cetra clans...... infecting them with... the virus...
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>You don't look well... Let's call it a day. </sp>
+  <boxstart/>
+  
+  [What is "Weapon?"]
+  
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Ifalna, can you comment on the thing called 'Weapon'? </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Yes, Professor.<boxstart/>The one the Professor mistook for a Cetra... was named Jenova. That is the 'crisis from the sky'.<boxstart/>The Planet knew it had to destroy the 'crisis from the sky'...<boxstart/>You see, as long as Jenova exists, the Planet will never be able to fully heal itself. </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Back then, Weapon was a weapon the Planet produced of it's own will? </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Yes, but... There is no record of Weapon ever being used.<boxstart/>A small number of the surviving Cetra defeated Jenova, and confined it.<boxstart/>The Planet produced Weapon... But it was no longer necessary to use it. </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>So, Weapon no longer exists on this Planet? </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Weapon cannot vanish. ...it remains asleep somewhere on the Planet.<boxstart/>Even though Jenova is confined, it could come back to life at some time...<boxstart/>The Planet has not fully healed itself yet. It is still, watching Jenova. </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Where is Weapon? </sp>
+    <stage>Ifalna shakes her head.</stage>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>I don't know...... I can't hear the voice of the Planet well...<boxstart/>Times... have changed. The Planet... is probably watching this situation closely. </sp>
+    <stage>She buries her face in her hands. Gast turns away and shakes his head.</stage>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>...Thank you, Ifalna, that will be all for today... </sp>
+  <boxstart/>
+  
+  [Confidential -- Daughter's Record: 10th Day after birth]
+  
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>What are you doing, Profes...... I mean, honey? </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Oh, I'm thinking of taping it on video. But, the video's not working right... </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>What are you going to tape? Is there still something I haven't mentioned? </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>No, that's not it. I'm going to record my beautiful daughter.<boxstart/>And when she's sleeping, her face... looks like an angel. </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>First, we have to figure out her name. We can take the video later! </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>I've already decided! If it's a girl, then it'll be <referent name="Aerith">Aerith</referent>. That's that! </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>You are SO selfish! But <referent name="Aerith">Aerith</referent> is a good name!<boxstart/>Hee hee... it's a good name, considering it came out of that forgetful head of yours! </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Right!? Oh, the video tape...... </sp>
+  <boxstart/>
+  
+  [Confidential -- Daughter's Record: 20th Day after birth]
+  
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Video again? You just got through taping! </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>.........Please don't say it that way.<boxstart/>It's our lovely daughter, both yours... and mine!<boxstart/>Don't you want to capture her childhood on videotape? </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>If you keep doting on her like that, she won't grow up to be strong...<boxstart/><referent name="Aerith">Aerith</referent> is different from the other children. I wonder what dangers await her...? </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Never say that! I will protect you and Aerith no matter what!!<boxstart/>You and <referent name="Aerith">Aerith</referent> are my only treasures. I'll never let you go!! </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>I feel so much better now, darling.<boxstart/>If I hadn't met you, I...... </sp>
+    <stage>They start to embrace, but there is a knock on the door.</stage>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Who could that--I was just about to...<boxstart/>Damn!!<boxstart/>How dare they intrude on our 'private time' together! </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>I'll send them away.<boxstart/>Yes, at once!!<boxstart/>Who the devil? </sp>
+    She goes to the door and opens it.
+    It, it's them!!
+    <stage>She runs back down the stairs and hides behind Gast. They both back up as two Shinra soldiers enter, followed by Hojo.</stage>
+    <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Heh, heh, heh...... I've been searching for you, Ifalna... or should I say, Cetra!<boxstart/>Long time no see, Professor Gast! </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Hojo... How did you know? </sp>
+    <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Believe me, I had to turn over a stone or two to find you.<boxstart/>Two years I waited... That's how much I wanted this new sample...... Ha, ha, ha. </sp>
+    <stage>Ifalna buries her face in her hands and Gast shakes his head.</stage>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>...New sample? You don't mean <referent name="Aerith">Aerith</referent>!? </sp>
+    <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Hmm, <referent name="Aerith">Aerith</referent>? What a nice name...... Ha, ha, ha. </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>That's it! I'm severing all ties with the Shinra.<boxstart/>Hojo, please leave. </sp>
+    <stage>Ifalna moves to kneel at Hojo's feet.</stage>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Please, <referent name="Aerith">Aerith</referent> has nothing to do with it! All you want is me, right? </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Ifalna! </sp>
+    <sp><speaker name="Hojo">Hojo</speaker><boxstart/>I'll need all of you for my experiment.<boxstart/>You understand don't you, Professor Gast? We can change the future of the Planet! </sp>
+    <stage>Gast kneels down beside Ifalna.</stage>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Don't worry, Ifalna. I'll take care of this! </sp>
+    <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Please don't put up a fight. I don't want any harm to come to my precious sample.<boxstart/>Mmm? What a funny looking camera. Guard! Destroy it! </sp>
+    <stage>One of the soldiers turns to shoot out the camera. The video feed fails.</stage>
+    <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Be careful with her!! Ha, ha, ha...... </sp>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Wh... what are you doing, Professor!? </sp>
+    <sp><speaker name="Gast">Gast</speaker><boxstart/>Ifalna! Take <referent name="Aerith">Aerith</referent> and run!! </sp>
+    <stage>There is a gunshot and a thud.</stage>
+    <sp><speaker name="Ifalna">Ifalna</speaker><boxstart/>Eyaaaaaah... Darling......!! </sp>
+    <sp><speaker name="Hojo">Hojo</speaker><boxstart/>Oh, and uh... don't forget the child!<boxstart/>Hmm, a video? The Ancients... Weapon!?<boxstart/>Heh, heh, heh... a mountain of treasure! Thank you Professor... Ha, ha, ha </sp>
+  
+
+<stage>Having seen everything, Cloud leaves Gast's house and heads for the slopes.</stage>
+<sp><speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>No, don't!! It's a steep downgrade, past here.<boxstart/>It's dangerous, please don't go! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- I'm still going<boxstart/>- Thanks for your kindness </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>I'm still going </sp>
+  <sp><speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>Damn, I was just being nice...<boxstart/>What the? Who are those people over there? Looks like trouble! </sp>
+  He runs off.
+
+
+  <sp><speaker name="Cloud"/><boxstart/>Thanks for your kindness </sp>
+  <sp><speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>No, no. I just did what came natural.<boxstart/>All right, I'm not too busy now. Do you want me to teach you how to ride a snowboard? </sp>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Maybe you should<boxstart/>- Not interested </sp>
+  
+    <sp><speaker name="Cloud"/><boxstart/>Maybe you should </sp>
+    <stage>A controls explanation ensues.</stage>
+  
+  
+    <sp><speaker name="Cloud"/><boxstart/>Not interested </sp>
+    <sp><speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>You're so boring! </sp>
+  
+
+<stage>When Cloud says he's still going, Elena enters the village, accompanied by Shinra soldiers.</stage>
+<sp><speaker name="Elena">Elena</speaker><boxstart/>There they are, hurry!! </sp>
+<sp><speaker name="Soldiers">Soldiers</speaker><boxstart/>Yes ma'am!! </sp>
+<stage>Elena and two soldiers run up to Cloud.</stage>
+<sp><speaker name="Elena">Elena</speaker><boxstart/><referent name="Cloud">Cloud</referent>... huff... wheeze.<boxstart/>I won't let you go any further! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What's down there? </sp>
+<sp><speaker name="Elena">Elena</speaker><boxstart/>It's a SE-CR-ET.<boxstart/>It really doesn't matter! But you really got guts doin' my boss in like that! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>You mean Boss...... <referent name="Tseng">Tseng</referent>? That wasn't us. <referent name="Sephiroth">Sephiroth</referent> did it. </sp>
+<sp><speaker name="Elena">Elena</speaker><boxstart/>No! Don't think you can fool me, liar! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I'm not lying... it was <referent name="Sephiroth">Sephiroth</referent>. </sp>
+<sp><speaker name="Elena">Elena</speaker><boxstart/>Don't try to act innocent. I'll never forget it!! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Oh, man... </sp>
+<sp><speaker name="Elena">Elena</speaker><boxstart/>Looks like talking alone won't cut it. You're going to have to feel some pain! </sp>
+<sp><speaker name="Soldier">Soldier</speaker><boxstart/>Just you... and me!! </sp>
+<sp><speaker name="Elena">Elena</speaker><boxstart/>No, I can handle him! There's no way he can avoid my punch. </sp>
+<sp><speaker name="Soldier">Soldier</speaker><boxstart/>What? Yeah...... </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> dodges <referent name="Elena">Elena</referent>'s punch...</sp>
+  <stage>Elena goes rolling past him on down the hill, and the soldiers chase after her.</stage>
+  <sp><speaker name="Soldier">Soldier</speaker><boxstart/>Ele... <referent name="Elena">Elena</referent>!? </sp>
+  <sp><speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>What the...? They sure were weak for Shinras. </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> doesn't dodge...</sp>
+  <stage>Elena punches him, knocking him out cold.</stage>
+  <sp><speaker name="Elena">Elena</speaker><boxstart/>Why? Why didn't you try to avoid it...<boxstart/>There's no way they can climb the Great Glacier anyway.<boxstart/>Put them in some house in the village. </sp>
+  <stage>Cloud wakes in Gast's house.</stage>
+
+<stage>Now, Shinra soldiers stand guarding the town's entrance.</stage>
+<sp><speaker name="Soldiers">Soldiers</speaker><boxstart/>This village is now under martial law! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- (Do what you're told)<boxstart/>- (Kick his butt) </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>(Do what you're told) </sp>
+  <sp><speaker name="Soldier">Soldier</speaker><boxstart/>Don't be angry. I'm just doing my job. </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>(Kick his butt) </sp>
+  <sp><speaker name="Soldier">Soldier</speaker><boxstart/>Stop it, there're kids around!<boxstart/>Listen, I probably shouldn't tell you, but I hear something big's going down up North.<boxstart/>The President's gonna be there. So, would you please just lay low for a while? </sp>
+
+<sp><speaker name="Girl Sledding">Girl Sledding</speaker><boxstart/>Who is that man? </sp>
+<sp><speaker name="Man on Roof of Small House">Man on Roof of Small House</speaker><boxstart/>When I first moved here, I saw a man with a Black Cape heading North.<boxstart/>It seemed strange seeing a Black Cape against the snowy white. </sp>
+<stage>Inside the small house...</stage>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>My boy got hurt right about the time we moved here...<boxstart/>I never should've bought him a snowboard. </sp>
+<sp><speaker name="Boy">Boy</speaker><boxstart/>......whimper...... weep...<boxstart/>I got hurt on my snowboard, and now I can't go out for a while...<boxstart/>Hey, I'll give you my snowboard. </sp>
+<sp><speaker name="unspecified"/><boxstart/>Received Key Item "Snowboard"! </sp>
+<sp><speaker name="Boy">Boy</speaker><boxstart/>Tell me when you get good at it. </sp>
+<sp><speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>Sorry I just took off a while ago... It looked like there was going to be trouble.<boxstart/>Anyhow, you'll need a snowboard to get down that hill. Want me to teach you how to ride one? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, maybe you should<boxstart/>- No, not interested </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>Yeah, maybe you should </sp>
+  <stage>A controls explanation ensues.</stage>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>No, not interested </sp>
+  <sp><speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>All right, big-head... But don't blame me if you get hurt. </sp>
+
+<stage>Cloud heads off down the slope.</stage>
+<sp><speaker name="Man in Thicket">Man in Thicket</speaker><boxstart/>Be careful! </sp>
+<stage>Cloud and the others snowboard down the slopes, finally flying off an edge and falling down into the Great Glacier.</stage>
+
+
+</scene>

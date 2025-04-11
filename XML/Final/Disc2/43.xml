@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="MidgarCollapse">
+
+
+
+<sp>Midgar - Shinra's Collapse </sp>
+
+<sp>The Sister Ray Fires </sp>
+<sp>Conflicts at Shinra HQ </sp>
+<sp>Descent into Midgar </sp>
+<sp>The End of the Turks </sp>
+<sp>Confronting Hojo </sp>
+
+<stage>If, in following Diamond Weapon, the Highwind rams into it...</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, HEY! What're ya tryin' to do? Break the Highwind? Let's fight on the ground! </sp>
+<stage>They reach and fight Diamond Weapon some miles outside of Midgar, but cannot defeat it. It turns towards Midgar, leaving them behind.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Wassup, Mr. Monster? What're you lookin' at? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Something's wrong... </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Doesn't look like it's after us. Something else... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>No, it's...... feeling something. ......Yeah, it senses murder. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Let's go to the Airship! </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>OK, can we go now!? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>To my ship! </sp>
+<stage>The others run out. Cloud's PHS rings.</stage>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Cait Sith"><referent name="Cait Sith">Cait Sith</referent></speaker><boxstart/>Oh no! Let's hurry out of here!<boxstart/>Something big... I'm talkin' REALLY BIG's comin'! </sp>
+
+<stage>Meanwhile at Shinra HQ...</stage>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Heidegger">Heidegger</speaker><boxstart/>Hah, hah, hah, Mr. President, preparations for Sister Ray are now in order. </sp>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Scarlet">Scarlet</speaker><boxstart/>Hah, hah, hah!<boxstart/>Anytime is fine. </sp>
+<sp><speaker name="Rufus">Rufus</speaker> (laughing)<boxstart/>......Fire. </sp>
+
+<stage>The Sister Ray fires a shot northward. The glass on the Shinra building shatters. Diamond Weapon fires back at Midgar. On the Highwind's deck...</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Which direction is it going to attack from? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Midgar! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Marlene!! </sp>
+<stage>The shot from the Sister Ray goes right through Diamond Weapon as the Highwind flies by. The Weapon falls.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Damn... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>It went right through Weapon...... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I see! They're after <referent name="Sephiroth">Sephiroth</referent>! The crater on the Northern boundary! </sp>
+
+<stage>The shot continues on to the Northern Crater and destroys the barrier. Back at Shinra HQ...</stage>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="(operator)">(operator)</speaker><boxstart/>Sir! Weapon's been defeated!!<boxstart/>The barrier has disappeared! </sp>
+<sp>There is a pause. </sp>
+<sp>Sir! A mass of high density energy is heading towards Midgar! </sp>
+<stage>Rufus turns and looks. In the street below, people are running away from the Shinra building.</stage>
+<sp><speaker name="People Fleeing">People Fleeing</speaker><boxstart/>WHOOA-- Weapon's coming!<boxstart/>Run for your lives!! </sp>
+<stage>Rufus stands motionless in his office as the blast hits.</stage>
+
+<stage>Back on the Highwind...</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What happened to...... <referent name="Sephiroth">Sephiroth</referent>?<boxstart/>Northern Cave...<boxstart/>Let's go see what happened to it. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>When AVALANCHE was jes startin', we used to put up flyers everywhere.<boxstart/>And now, we're up against <referent name="Sephiroth">Sephiroth</referent>. How about that?<boxstart/>Feels like a long time ago. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Now we're going to fight Sephiroth.<boxstart/>I wonder what the inside of that cave looks like? You think <referent name="Sephiroth">Sephiroth</referent> is just sitting there waiting for Meteor? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Will we save the world if we beat <referent name="Sephiroth">Sephiroth</referent>?<boxstart/>I'm frightened, but I'll do my best. Let's hurry to the Northern Cave! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>......Wonder what that <referent name="Sephiroth">Sephiroth</referent> feller's up to? </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Defeat <referent name="Sephiroth">Sephiroth</referent>... Defeat the son of that beloved woman...<boxstart/>Am I on the verge of committing another sin......?<boxstart/>Or am I atoning as best I can for only watching...? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Maybe this is the time? </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>What's the pilot like?<boxstart/>Tell him <referent name="Yuffie">Yuffie</referent> says if he pilots the plane smoothly, give him my autograph... </sp>
+<sp><speaker name="Learner Pilot (L14)">Learner Pilot (L14)</speaker><boxstart/>Hey, <referent name="Cloud">Cloud</referent>!!! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Y, yeah, let's go!<boxstart/>- U, uh wait </sp>
+<stage>They fly to the Northern Crater.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>'s energy barrier is gone......<boxstart/><referent name="Cid">Cid</referent>! Can the Airship get inside? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Huh? He's my student, ain't he!? Of course he can go anywhere! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Right, sorry about that. </sp>
+<stage>Cait Sith gives a sudden start.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Yo, <referent name="Cait Sith">Cait Sith</referent>! Now what? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hold it!<boxstart/>Scarlet! Heidegger! What's going on? </sp>
+
+<stage>Back at Shinra HQ...</stage>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>Strange. I can't reach the President! </sp>
+<sp><speaker name="Reeve">Reeve</speaker><boxstart/>Not the President. To Sister Ray! </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Ha, ha, ha. What is it Reeve? You're speaking strangely. </sp>
+<sp><speaker name="Reeve">Reeve</speaker><boxstart/>None of that matters!<boxstart/>The reactor's output is increasing all by itself! </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Ww, wait a minute. That's not wise!<boxstart/>It must cool for 3 hours or it won't work. Reeve, shut off the machine! </sp>
+<sp><speaker name="Reeve">Reeve</speaker><boxstart/>We can't do that! It's inoperable! </sp>
+<stage>He pulls out his cell phone.</stage>
+<sp><speaker name="unspecified"/><boxstart/>Someone has switched the machine over to mainframe operation!<boxstart/>We can't operate it from here. </sp>
+<sp><speaker name="Reeve">Reeve</speaker><boxstart/>What about the mainframe? Who!? </sp>
+<stage>He turns to Heidegger.</stage>
+<sp><boxstart/>Hey, call the mainframe! </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>Huh? Why are you giving orders? </sp>
+<sp><speaker name="Reeve">Reeve</speaker><boxstart/>I don't give a damn about the details!! </sp>
+
+<stage>At the Sister Ray's controls...</stage>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha...... Just you wait, <referent name="Sephiroth">Sephiroth</referent>.<boxstart/>I'll give you all the Mako you want. </sp>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Reeve">Reeve</speaker><boxstart/>Hojo, STOP! The cannon, no, Midgar itself is in danger! </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha...... One or two Midgars? ...it's a small price to pay. </sp>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Reeve">Reeve</speaker><boxstart/>Hojo! HOJO......!! </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Show me...... <referent name="Sephiroth">Sephiroth</referent>.<boxstart/>It should be near...<boxstart/>Ha, ha, ha...... Go beyond the powers of science...<boxstart/>Before your presence, science is powerless...<boxstart/>I hate it, but I'll concede to it.<boxstart/>Just... let me see it.<boxstart/>Ha, ha, ha...... </sp>
+
+<stage>Back on the Highwind...</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>YO! Do somethin'! Ya big cat! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>We're sunk. Hojo's doing this on his own......<boxstart/>...? ...? H, huh!?<boxstart/>I don't like this...... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>You're busted, Reeve!<boxstart/>Too late tryin' to hide it now... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Can't you stop the Mako reactor? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>......We can't stop it. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>You're from Shinra, ain't ya? So why's it impossible!? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>............ </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>We came a long way to get here. You better not double-cross us now! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I can't make you trust me...... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>You damn fool! Don't you understand anything I'm saying?<boxstart/>I don't give a damn about Shinra. If you're a man... no, if you're a human being, you'll save the planet! Don't you even care? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>No way! If we shut down the reactor, all hell will break loose!! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Why? Can't you just shut off the valve? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Yeah, it's easy to shut off the reactor's pipe valves......<boxstart/>But the reactor made a path for the energy to escape from below.<boxstart/>Once you open that, it'll be impossible to close it until everything blasts out...<boxstart/>And we can't try to stop the energy from gushing out...... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>An explosion!! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>This blast'll be way stronger than when the number 1 reactor blew up! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Damn...! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Forget about that......... the CANNON! We've got to get to Midgar! That's the first thing!! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Must stop Hojo... first. </sp>
+
+<stage>At Shinra HQ...</stage>
+<sp><speaker name="Reeve">Reeve</speaker><boxstart/>Looks like <referent name="Cloud">Cloud</referent> and the others are on their way. Stay out of the way! </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>Ghaa haah hah hah!<boxstart/>Don't be so ludicrous! I don't recall you giving me any orders!<boxstart/>The Peace Preservation will give their best effort to make the enemy retreat!<boxstart/>Because of them, I...... I...! </sp>
+<sp><speaker name="Reeve">Reeve</speaker><boxstart/>That's a private matter...... </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>The President is dead! Now I'm doing things my way!<boxstart/>Ghaa haah hah hah! </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Ha, ha, ha.<boxstart/>Heidegger! Now I'm going to use the new weapon! </sp>
+<stage>Two Shinra soldiers run in to restrain Reeve. Scarlet and Heidegger leave the Conference Room.</stage>
+<sp><speaker name="Reeve">Reeve</speaker><boxstart/>Hey! Wait!!<boxstart/><referent name="Cloud">Cloud</referent>, everybody! Sorry......<boxstart/>But!! </sp>
+
+<stage>Back on the Highwind...</stage>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>But!<boxstart/>But you'll come, won't you!? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I know! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey!<boxstart/>I'm leaving the ship in your hands! </sp>
+<sp><speaker name="Pilot">Pilot</speaker><boxstart/>I'm heading for Midgar! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Comin' and goin'... gettin' pushed around.<boxstart/>But I got a debt to all them back in Midgar that I can't never repay... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>It's all right.<boxstart/>You're here... Everyone's all together<boxstart/>Together... we can do anything. We've worked this hard already. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I wonder why Hojo performed so many of these experiments?<boxstart/>Why couldn't he content himself with quiet research? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I can't 'pologize to y'all enough.<boxstart/>If I was just a bit more o' a better feller Ain't none of this woulda happened... </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Hojo... what a queer fellow.<boxstart/>Such utter lack of scientific talent... compared with the genius of Dr. Gast......<boxstart/>Lucrecia chose him trying to protect him...<boxstart/>Now I understand... I understand... but... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>We're busy runnin' back and forth!<boxstart/>Even my bikini goddess would be pantin' about now! </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Headed for... Midgar?<boxstart/>Uh, a, anywhere's fine... I don't care. Just hurry up and land this thing. </sp>
+<sp><speaker name="Learner Pilot (LV14 Limit Break!)">Learner Pilot (LV14 Limit Break!)</speaker><boxstart/>Yo, <referent name="Cloud">Cloud</referent>! Whacha gonna do? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Move it!<boxstart/>- Wait </sp>
+<stage>They fly back to Midgar.</stage>
+<sp><speaker name="Pilot">Pilot</speaker><boxstart/>We've reached Midgar! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Even if we get there, Midgar's under martial law!<boxstart/>There'll be no way we could slip into the slums. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Looks like all transportation from the slums is cut off...... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, hey, whaddya think we have Highwind for?<boxstart/>Where are we now!? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Huh? Where are we...? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>If land's no go... We'll go by air! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Okay then! We'll parachute into Midgar!! </sp>
+<stage>Everyone runs off to the deck.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Here we go!! </sp>
+<stage>They all jump off the Highwind and parachute into Midgar, landing in 8th Street, Sector 8.</stage>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Heidegger is going after you all.<boxstart/>That's why it's dangerous out there. Let's go underground! </sp>
+<stage>Cloud joins the others around an entrance to the Sector 8 underground.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Sounds strange comin' from me...<boxstart/>But it feels like home bein' back in Midgar.<boxstart/>Kinda makes me sick... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>We sure got to know the Midgar underground. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I have an old score to settle with Hojo, so let's hurry and go! </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>This place smells gross. Let's get this over with! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Yeah! Let's get it over with! </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>So it was Hojo who stirred up all this commotion, after all these years...? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>This is where we go in.<boxstart/>Please! Hurry and come to the Mako Cannon! </sp>
+<stage>Cloud and the others make their way through the underground and reach the train tunnel. If Cloud travels backwards down the tunnel instead of ahead, he first comes across Barret.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Leave this to me! Hurry to the cannon! </sp>
+<stage>He starts firing towards their rear.</stage>
+<stage>Going back far enough, Cloud will reach a dead end with the W-Item materia.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Dead end! </sp>
+<stage>Going forward again, eventually the Turks will intercept Cloud.</stage>
+<sp><speaker name="Elena">Elena</speaker><boxstart/>Oh no! They're here! </sp>
+<stage>Cloud and the others turn to face her as Reno and Rude walk up.</stage>
+<sp><speaker name="Elena">Elena</speaker><boxstart/>What are we going to do!? I think it's okay for you to ignore your orders now. </sp>
+<sp><speaker name="Reno">Reno</speaker><boxstart/>...<referent name="Elena">Elena</referent>, don't act so weak. </sp>
+<sp><speaker name="Rude">Rude</speaker><boxstart/>We're Turks, <referent name="Elena">Elena</referent>. </sp>
+<sp><speaker name="Elena">Elena</speaker><boxstart/>...Yes, sir. You're right. </sp>
+<sp><speaker name="Rude">Rude</speaker><boxstart/>Come on, we've got work to do. </sp>
+<sp><speaker name="Reno">Reno</speaker><boxstart/>I'm not really up for it, but... </sp>
+<sp><speaker name="Elena">Elena</speaker><boxstart/>Our orders were to seek you out and...<boxstart/>...Kill.<boxstart/>Our company may be in turmoil, but an order's an order.<boxstart/>That's the will and spirit of the Turks! Believe it! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...... </sp>
+<sp><speaker name="Elena">Elena</speaker><boxstart/>What are you doing! Let's go! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Okay, let's end this<boxstart/>- No, let's not go </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>Okay, let's end this </sp>
+  <sp><speaker name="Reno">Reno</speaker><boxstart/>I know we have a weird relationship, but...<boxstart/>We have to end this... like Turks! </sp>
+  <stage>A battle ensues.</stage>
+  <sp><speaker name="Elena">Elena</speaker> (attacking)<boxstart/>Try this on for size! </sp>
+  <stage>Cloud and the others attack her.</stage>
+  <sp><speaker name="Elena">Elena</speaker><boxstart/>Yeow! That hurts!<boxstart/>Take THAT!! </sp>
+  She casts Infatuation.
+  <sp><speaker name="Rude">Rude</speaker><boxstart/>............ </sp>
+  <sp><speaker name="Reno">Reno</speaker><boxstart/>Let's call it a day. </sp>
+  <stage>They flee.</stage>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>No, let's not go </sp>
+  <sp><speaker name="Elena">Elena</speaker><boxstart/>You showing pity!? Don't take the Turks for fools! </sp>
+  <sp><speaker name="Reno">Reno</speaker><boxstart/>Wait, <referent name="Elena">Elena</referent>. </sp>
+  <sp><speaker name="Elena">Elena</speaker><boxstart/><referent name="Reno">Reno</referent>! You're not violating the order... are you!? </sp>
+  <sp><speaker name="Reno">Reno</speaker><boxstart/>Shinra's finished. It's come down to this. </sp>
+  <sp><speaker name="Rude">Rude</speaker><boxstart/>...... </sp>
+  <sp><speaker name="Elena">Elena</speaker><boxstart/><referent name="Rude">Rude</referent>... </sp>
+  <sp><speaker name="Reno">Reno</speaker><boxstart/><referent name="Elena">Elena</referent>, you were a great Turk! </sp>
+  <sp><speaker name="Elena">Elena</speaker><boxstart/>...... </sp>
+  <sp><speaker name="Reno">Reno</speaker><boxstart/>Farewell. If we both survive...<boxstart/>If we can save our lives... </sp>
+  He walks off.
+  <sp><speaker name="Elena">Elena</speaker><boxstart/>Remember the spirit of the Turks...! </sp>
+  She salutes and runs off.
+  <sp><speaker name="Rude">Rude</speaker><boxstart/>Our mission's finished... </sp>
+  He follows the others.
+
+<stage>Cloud and the others move on. At the first branch in the tunnel, they find Yuffie.</stage>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>C'mon, c'mon, c'mon, c'mon---! </sp>
+<stage>At the next is Cid.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Which way...!?<boxstart/>Goddamn, piece of $#@^% cannon!! </sp>
+<stage>Going left takes them to the Shinra building.</stage>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>No, no! The Sister Ray's not this way! </sp>
+<stage>Cloud retraces his steps to find the right path, finding Tifa crouched down on the tracks. She stands.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I'm all right! Hurry and go to the cannon! </sp>
+<stage>Eventually Cloud comes out in the streets of Sector 8 again, near the supports for the cannon. They head for the stairs, but the ground starts shaking, and they stop and look back.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>What the... hell is that!!? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>This can't be... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>!? </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Are you serious...? </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>......! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey-hey! You serious...? </sp>
+<stage>The hatch of the huge mecha opens.</stage>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>G'yaaa, Haaa, Haaa!!! Here they come!<boxstart/>G'yaaa, Haaa, Haaa!!! So they really showed up!<boxstart/>You sure did treat us like dogs up to now!! </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>You killed off a lot of my precious soldiers! </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>G'yaaa, Haaa, Haaa!!! But let's see how you do against anti-Weapon artillery! </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>You guys are worthless, but my proud creation is a sure thing! </sp>
+<stage>They go back inside the hatch.</stage>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>I'll show you the destructive power of the Proud Clod! </sp>
+<stage>A battle ensues, and they defeat the Proud Clod.</stage>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Not that! This is the proud Clod.........!? </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>Whoooooa!! </sp>
+<stage>The Proud Clod explodes. It starts to rain, and Cloud and the others move on down the street and start up the stairs to the Sister Ray.</stage>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>This way, <referent name="Cloud">Cloud</referent>! </sp>
+<sp><speaker name="Vincent">Vincent</speaker> (on a lower platform, watching)<boxstart/>Damn! Hojo...! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Hey! This is... </sp>
+<sp><speaker name="unspecified"/><boxstart/>Received "Missing Score"! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>This is great. Hold on, Hojo......! </sp>
+<stage>They reach Hojo, who is working at the cannon's controls.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Hojo! Stop right there!! </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Oh... the failure. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>At least remember my name! It's <referent name="Cloud">Cloud</referent>! </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Every time I see you, I...<boxstart/>It pains me that I had so little scientific sense...<boxstart/>I evaluated you as a failed project.<boxstart/>But, you are the only one that succeeded as a <referent name="Sephiroth">Sephiroth</referent>-clone.<boxstart/>Heh, heh, heh...... I'm even beginning to hate myself. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>None of that matters... just stop this nonsense! </sp>
+<sp><speaker name="Hojo">Hojo</speaker> (pausing)<boxstart/>...nonsense?<boxstart/>Oh, this? </sp>
+<stage>He turns around.</stage>
+<sp><boxstart/>Ha, ha, ha...<boxstart/><referent name="Sephiroth">Sephiroth</referent> seems to be counting on the energy.<boxstart/>So I'm going to lend him a hand. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Why!? Why do that!? </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Quit asking me why, you moron.<boxstart/>Hmm... actually, you might be cut out to be a scientist. </sp>
+<stage>He turns back to the controls.</stage>
+<sp><boxstart/>Energy level is at...... 83%. It's taking too long.<boxstart/>My son is in need of power and help. ...That's the only reason. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...your son? </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha... Although he doesn't know.<boxstart/>Ha, ha, ha... HA, HA, HA...!!<boxstart/>What will <referent name="Sephiroth">Sephiroth</referent> think when he finds out I'm his father?<boxstart/>Always looking down on me like that.<boxstart/>HA, HA, HA...!! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent> is your son!? </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>......! </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha...<boxstart/>I offered the woman with my child to Professor Gast's Jenova Project.<boxstart/>When <referent name="Sephiroth">Sephiroth</referent> was still in the womb, we took the cells of Jenova...<boxstart/>HA, HA, HA!! </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>You......! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I can't believe you're the one who did this...<boxstart/>The illusionary crime against <referent name="Sephiroth">Sephiroth</referent>... </sp>
+<stage>Hojo turns around.</stage>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Heee, hee, hee, hee! No you're wrong!<boxstart/>It's my desire as a scientist! Heee, hee, hee, hee! </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>......<boxstart/>I was...wrong. The one that should have slept was...<boxstart/>...You, Hojo! </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>I... was defeated by my desire to become a scientist.<boxstart/>I lost the last time as well.<boxstart/>I've injected Jenova's cells into my own body!<boxstart/>Heee, hee, hee!<boxstart/>Here are...<boxstart/>Heee, hee, hee!<boxstart/>...my results!! </sp>
+<stage>A battle ensues.</stage>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Gwah, haw, haw!!<boxstart/>Haw... now let's see<boxstart/>how the Mako juice is reacting? </sp>
+<stage>Hojo morphs into Helletic Hojo, and later into Lifeform Hojo. Cloud and the others manage to defeat him.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>The father... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I can't believe <referent name="Sephiroth">Sephiroth</referent> is Hojo's son... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Anyway... that's the end of the cannon... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>%$#&amp;$*&amp;^%^ </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>How sad... for him... </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Hojo...rest in peace... </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I'm so glad you came. </sp>
+
+</scene>

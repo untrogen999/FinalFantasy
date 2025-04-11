@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="NorthCorel">
+
+
+
+<h1>North Corel - Huge Materia</h1>
+
+<h4><a href="#arrival">Arrival at the Corel Reactor</a></h4>
+<h4><a href="#return">Return to North Corel</a></h4>
+<h4><a href="#highwind">Back on the Highwind</a></h4>
+<hr></hr>
+<p class="italic">At Kalm...</p>
+<p class="indent"><b>Redhead</b><br/>Hey, listen to me! The Shinra troops are on the move.<br/>The TV news said Rufus came up with 2 plans. One, is to launch a rocket into space containing Huge Materia......<br/>Is Huge Materia really that destructive?</p>
+<hr></hr>
+<p class="italic">At Corel...</p>
+<p class="indent"><b>Man</b><br/>Shinra soldiers came around sayin' they were gathering up all the Huge Materia.<br/>I think they're gonna bring it here by coal train, from the Corel Reactor.</p>
+<p class="indent"><b>Big Man</b><br/>Some Shinra soldiers went up to Mt. Corel. They said they're collecting Huge Materia to blow up Meteor!<br/>Ya think they can really do it...? I'll bet the reactor destroys everything even before Meteor hits!</p>
+<p class="italic"><a name="arrival"></a>Cid and the others travel through the mountains to the Corel Reactor.</p>
+<p class="indent"><b>Soldier</b><br/>You guys are...!</p>
+<p class="italic">They fight and defeat the two soldiers guarding the door.</p>
+<p class="indent"><b>Cid</b><br/>Guess we're safe for now...!</p>
+<p class="italic">A train whistle sounds.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Da---mn!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Ohh!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Wa... wait!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Wha... what is it, what is it!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>!!</p>
+</blockquote>
+<p class="italic">They get out of the way as a train exits the reactor.</p>
+<p class="indent"><b>Cid</b><br/>Looks like they're takin' off with the Huge Materia in that train!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>NO! You damn boneheads!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Did the Shinra beat us!?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>What are ya gonna do!? Huge Materia!?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Wha... you're not thinking about giving up...</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...go after them?</p>
+</blockquote>
+<p class="indent"><b>Cid</b><br/>Hey, do you know who I am?<br/>I'm Cid - that's who the hell I am! Now just let me handle it!</p>
+<p class="italic">They run inside the reactor and another whistle sounds.</p>
+<p class="indent"><b>Cid</b><br/>Hey, hey, hey, hey---!</p>
+<p class="italic">They come out riding a smaller train.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>How can they even drive this?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>It sure helped having Cid here. I had no idea he could drive a train...</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Pretty good for an old guy. I'm impressed you can move this thing!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Way to go, Mister! You used to drivin' this thing too?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>I'm impressed. You can drive this too...?</p>
+</blockquote>
+<p class="indent"><b>Cid</b><br/>Don't ask me... I don't know!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>What!?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Wa...What!?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>What!? You serious!?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Huh? What'd you just say!?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Wha... what...!?</p>
+</blockquote>
+<p class="indent"><b>Cid</b><br/>Don't worry! I can handle this kinda stuff!<br/>Two levers; one on the right and one on the left...<br/>I see, just alternate the two levers up and down, right!?<br/>Judging from the enemy's speed, I'd say it'll take about 10 minutes.<br/>We're gonna fly!! Hold on tight!!</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight"><a name="return"></a>If they fail to catch up to Shinra's train...</span></p>
+  <p class="indent-nopad"><b>Cid</b><br/>DAMN!<br/>Sorry! I couldn't catch up to them!</p>
+  <p class="italic">They walk into North Corel, which is unharmed.</p>
+  <p class="indent-nopad"><b>Cid</b><br/>Sorry... I never shoulda gave that Huge Materia to the Shinra so easily...</p>
+  <blockquote class="party-nopad">
+	  <p class="indent-nopad"><b>Barret</b><br/>Can't keep regrettin' the past... It's the future we gotta think about now.</p>
+	  <p class="indent-nopad"><b>Nanaki</b><br/>What are we going to do now?</p>
+	  <p class="indent-nopad"><b>Yuffie</b><br/>No use baggin' on yourself! It's not like you, OLD guy!</p>
+	  <p class="indent-nopad"><b>Cait Sith</b><br/>It's not all over yet. Cheer up!</p>
+	  <p class="indent-nopad"><b>Vincent</b><br/>...Isn't it too early to give up?</p>
+  </blockquote>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If they catch up to Shinra's train in time...</span></p>
+	<p class="indent-nopad"><b>Cid</b><br/>All right! We're gonna jump!!</p>
+	<p class="italic">They jump to the other train and fight their way to the front.</p>
+	<p class="indent-nopad"><b>Soldier Driving</b><br/>What the! You... you guys!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>All right--- Just hand over the Huge Materia!</p>
+	<p class="indent-nopad"><b>Soldier Driving</b><br/>Sh......<br/>Whooooa----!</p>
+	<p class="italic">They fight off the soldier.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>You got guts comin' after me!<br/>I'll never forget you!</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Got no time for that now!</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>We got it going, but what about the brakes?</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>Forget about the Huge Materia, WE'RE the ones in deep trouble!</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>What are we gonna do, kill off the engineer!?</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>Hit the brakes, Chief.</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>I KNOW, already! Just shut up and keep quiet! If we keep this up, we'll crash right into North Corel!<br/>Let's see... If we alternately use the levers to accelerate, ...<br/>It should brake if we move the levers up or down simultaneously!</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Hey, it's not working!</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>We're gaining speed!</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>What are you doin' accelerating!?</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Hey---------WAIT! ...other way, other way, other way!</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>Isn't it... the other way?</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>@#*#! The other way!? Just watch, this time, I'll...</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Hey... HEY HEY!!</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>WHOOOOOO----A!!</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>Get serious, you old man!</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>No... DON'T----!!</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>	......!!</p>
+	</blockquote>
+	<div class="block"/>
+	  <p class="italic"><span class="highlight"><a name="return"></a>If Cid slows the train down in time...</span></p>
+	  <p class="indent-nopad"><b>Cid</b><br/>SHI---------!!</p>
+	  <p class="italic">The train stops just at the entrance to North Corel.</p>
+	  <div class="highlight-nopad"/><p>Received Key Item "Huge Materia"!</p>
+	  <p class="indent-nopad"><b>Older Woman</b><br/>You sure are brave. I'm impressed!</p>
+	  <p class="indent-nopad"><b>Man</b><br/>You guys are really something!</p>
+	  <p class="indent-nopad"><b>Big Man</b><br/>Aren't you the ones that stopped the Shinra Train?<br/>The Shinra was just about to destroy our lives again...</p>
+	  <p class="indent-nopad"><b>Man</b><br/>To you it may be a junk yard, but to us its home.</p>
+	  <p class="italic-inline-nopad">If Barret is in the party, he will instead say:</p>
+	  <p class="block-inline-nopad">It might be full of junk, but this is the only home we got, Barret!!</p>
+	  <p class="indent-nopad"><b>Barret</b><br/>Of... of course! We're all born and raised in the coal mines!!<br/>No matter how tough it gets, our hearts burn bright red like coal!</p>
+	  <p class="indent-nopad"><b>Man</b><br/>To hell with Meteor! We're Coal Miners, ain't we?<br/>We'll dig a deep tunnel and hide from the Meteor!</p>
+	  <p class="indent-nopad"><b>Big Man</b><br/>That's it!<br/>Hey, kid! How about givin' somethin' to these guys fightin' the Shinra?</p>
+	  <p class="italic">A kid comes down from above.</p>
+	  <p class="indent-nopad"><b>Kid</b><br/>I got it out of the well. Isn't it an amazing rock!!</p>
+	  <div class="highlight-nopad"/><p>Received "Ultima" Materia!</p>
+	  <p class="indent-nopad"><b>Man</b><br/>Must've been a horrific battle. You have scars all over your body.<br/>I already talked to the Inn's owner, today you can rest for free.</p>
+	  <p class="italic">Cid and the others spend the night.</p>
+	  <p class="italic">The next day, inside the crumbling house...</p>
+	  <p class="indent-nopad"><b>Man</b><br/>I don't want to die, but who can stop Meteor?</p>
+	  <p class="indent-nopad"><b>Woman</b><br/>Is Meteor really going to crash down on us......?<br/>I'm still young...... I'll never marry again.<br/>This memento is all I have left of my husband... I'll give it to you if you'll please stop Meteor...</p>
+	  <div class="highlight-nopad"/><p>Received "Catastrophe"!</p>
+	  <p class="indent-nopad"><b>Little Girl</b><br/>Hey, what's a Meteor?</p>
+	  <p class="italic">Back outside...</p>
+	  <p class="indent-nopad"><b>Man</b><br/>Whenever I look up in the sky, I see Meteor staring me right in the face......<br/>If you're comin' down, then hurry up do it!! 'Cause I'm gonna kick the $#@&amp; outta ya!</p>
+	  <p class="indent-nopad"><b>Big Man</b><br/>I figure if I stay alive long enough, something good's bound to happen.</p>
+	  <p class="italic">Inside a tent...</p>
+	  <p class="indent-nopad"><b>Old Man</b><br/>What the? Don't get hit by the train!</p>
+	  <p class="indent-nopad"><b>Black Woman</b><br/>With Meteor coming, I guess it won't make any difference...</p>
+	  <p class="italic">In another tent...</p>
+	  <p class="indent-nopad"><b>Woman</b><br/>You saved my life. Not that I have much longer to live anyway...</p>
+	  <p class="indent-nopad"><b>Kid</b><br/>When I grow up, I'm gonna travel the world collecting glowing stones!</p>
+	
+	<div class="block"/>
+	  <p class="italic"><span class="highlight">If Cid fails to slow the train down in time...</span></p>
+	  <p class="indent-nopad"><b>Cid</b><br/>Oh ^%$#&amp;$! We're gonna crash into North Corel!</p>
+	  <p class="italic">The train crashes into North Corel. Cid comes to in the inn, rolling off the bed.</p>
+	  <p class="indent-nopad"><b>Innkeeper</b><br/>You all right?<br/>Some townspeople carried you here so the Shinra wouldn't find you.<br/>How much more will they have to destroy before they're satisfied!?<br/>Isn't anyone brave enough to stick it to Shinra?</p>
+	  <p class="italic">Cid and the others step outside to see the damage.</p>
+	  <p class="indent-nopad"><b>Cid</b><br/>^$#@%$! We couldn't stop the train...</p>
+	  <blockquote class="party-nopad">
+		  <p class="indent-nopad"><b>Barret</b><br/>I did it again... I can't keep up with this.</p>
+		  <p class="indent-nopad"><b>Nanaki</b><br/>I could never forgive Shinra!</p>
+		  <p class="indent-nopad"><b>Yuffie</b><br/>I'd be sad if this place was my hometown...</p>
+		  <p class="indent-nopad"><b>Cait Sith</b><br/>We got into this situation because we goofed...</p>
+		  <p class="indent-nopad"><b>Vincent</b><br/>A spectacular sight...</p>
+	  </blockquote>
+	  <p class="indent-nopad"><b>Man in Hardhat</b><br/>Hey, what's this world coming to...?<br/>Even the Gold Saucer is closing. So does that mean there's no time to be playing around?</p>
+	  <p class="italic">Inside the crumbling house...</p>
+	  <p class="indent-nopad"><b>Man</b><br/>The town is in shambles...... and Meteor is falling our way...</p>
+	  <p class="indent-nopad"><b>Older Woman</b><br/>All we have left is our love for each other.</p>
+	  <p class="indent-nopad"><b>Woman</b><br/>Is Meteor really going to crash down on us......?<br/>I'm still young...... I'll never marry again.<br/>This memento is all I have left of my husband... I'll give it to you if you'll please stop Meteor...</p>
+	  <div class="highlight-nopad"/><p>Received "Catastrophe"!</p>
+	  <p class="indent-nopad"><b>Little Girl</b><br/>Hey, what's a Meteor?</p>
+	  <p class="indent-nopad"><b>Weapons Shopkeeper</b><br/>My store was all right!</p>
+	  <p class="indent-nopad"><b>Big Man</b><br/>We've lost everything... Now we have to start again from '1'... no, from '0'.</p>
+	  <p class="indent-nopad"><b>Man</b><br/>God, what have we done...?<br/>Well, no use just sitting around talking about it. What can we do to get things back to normal?</p>
+	  <p class="indent-nopad"><b>Man 2</b><br/>While you guys were relaxing, Shinra troops took the Huge Materia.</p>
+	  <p class="indent-nopad"><b>Old Man</b><br/>Um... where was the next train station?</p>
+	  <p class="indent-nopad"><b>Black Woman</b><br/>Seeing that train got Grandpa more excited than I've seen him for some time.</p>
+	  <p class="indent-nopad"><b>Kid</b><br/>I got a glowing rock from the well.<br/>I'll sell it to you for 50000 gil!</p>
+	  <p class="indent-nopad"><b>Cid</b><br/>- Buy it<br/>- Don't buy it</p>
+	  <div class="block"/>
+		<p><span class="highlight">Buy it</span></p>
+		<div class="highlight-nopad"/><p>Received "Ultima" Materia!</p>
+		<p class="indent-nopad"><b>Kid</b><br/>Yay! My house is finished!!</p>
+		<p class="italic-inline-nopad">Or, if you don't have enough money:</p>
+		<p class="block-inline-nopad">You don't have enough money! Don't try to take advantage of me just because I'm a kid!!</p>
+	  
+	  <div class="block"/>
+		<p><span class="highlight">Don't buy it</span></p>
+		<p class="indent-nopad"><b>Kid</b><br/>I wish someone would buy this rock off of me...</p>
+	  
+	
+
+<p class="italic"><a name="highwind"></a>Back on the Highwind...</p>
+<p class="indent"><b>Cid</b><br/>What's next? Shall we head for Fort Condor?</p>
+<p class="indent"><b>Barret</b><br/>Huh? Mr. Leader, what's next!?</p>
+<p class="indent"><b>Nanaki</b><br/>We'll do our best for Cloud and you.<br/>......And Aerith, too.</p>
+<p class="indent"><b>Vincent</b><br/>......Don't expect anything else from me except fighting beside you.<br/>I don't have any comforting words.<br/>Of course, I don't believe you're the type of guy who needs kindness from other's...... </p>
+<p class="italic">It is possible to do Fort Condor first and Corel second, in which case the dialogue is different:</p>
+<p class="indent"><b>Cid</b><br/>There's only one more Huge Materia the Shinra needs... That's the one at the Underwater Reactor.</p>
+<p class="indent"><b>Yuffie</b><br/>We've got to hurry and stop 'em!!</p>
+<p class="indent"><b>Cid</b><br/>With us always in their face, even the Shinra's gotta be getting tired of it all.<br/>We have to hurry that much... ...right now I'm more worried about him than anything else!</p>
+<p class="indent"><b>Vincent</b><br/>Cloud...</p>
+<p class="indent"><b>Cid</b><br/>Yeah, and I'm worried about Tifa, too.<br/>Let's go see what's going on at Mideel...</p>
+
+</scene>

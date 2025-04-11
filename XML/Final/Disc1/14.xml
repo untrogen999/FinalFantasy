@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="CostaDelSol">
+
+
+
+<sp> Costa del Sol - Taking a Break </sp>
+
+<sp> Arrival at Costa del Sol </sp>
+<sp> The Shinra's Arrival </sp>
+<sp> Exploring the Town </sp>
+<sp> The Beach </sp>
+<sp> The Next Morning </sp>
+
+<stage>The cargo ship arrives in Costa del Sol, and everyone gets off. Yuffie runs over to talk to one of the locals before joining the group.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Damn! Sure is hot here!<boxstart/>But I sure feel better now that I can say good-bye to this sailor suit.<boxstart/>Yo listen up!! Y'all be sure to mingle like regular folks here! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh, too bad. I liked <referent name="Barret">Barret</referent>'s sailor suit.<boxstart/>He looked so cute. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>......What'ya mean "cute"? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Right... well, uh...<boxstart/><referent name="Barret">Barret</referent>, why don't you use that sailor suit for pajamas?<boxstart/>Right, <referent name="Cloud">Cloud</referent>? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I guess<boxstart/>- Keep your mind on <referent name="Sephiroth">Sephiroth</referent> </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>I guess </sp>
+  Ahhh...... You look like a bear wearing a marshmallow.
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell's that supposed to mean!? This happens to be the most comfortable, so shu'up! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Keep your mind on <referent name="Sephiroth">Sephiroth</referent> </sp>
+  Remember, this isn't a vacation. We're here after Sephiroth.<boxstart/>I'm going on ahead.
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Hmmph, <referent name="Cloud">Cloud</referent>. You're the one, who's always hangin' around wastin' time. I'm going to skip this resort! </sp>
+
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>...puff... puff...<boxstart/>Would you kindly hurry? The heat here is drying my nose. </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Yeah, mine, too!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>All right. We'll take a break and then head off.<boxstart/>Don't wander too far off. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I'll wander wherever I damn well want! Who made him the leader? </sp>
+<stage>Barret runs off.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Maybe I should get a tan for a change.<boxstart/>Which do you like, <referent name="Cloud">Cloud</referent>? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I like fair complexions.<boxstart/>- Maybe a healthy tan is nice. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker> (she says the same thing regardless)<boxstart/>Got it. I'll remember that. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I think I'll go swimming. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Sounds good to me!<boxstart/>Hmm? <referent name="Cloud">Cloud</referent>, are you thinking of anything in particular?<boxstart/>Your cool exterior's cracking...<boxstart/>Well then, let's go! </sp>
+<stage>She and Tifa run off.</stage>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>It looks like my mane got messed up.<boxstart/>I'm going to rest somewhere cool. </sp>
+<stage>He slinks away.</stage>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Don't bother looking for me! </sp>
+<stage>She runs off.</stage>
+<sp> <speaker name="Sailor">Sailor</speaker><boxstart/>You're stowaways, right?<boxstart/>It's okay. I'm used to them.<boxstart/>The truth is, before I worked here, I was one of the best.<boxstart/>Costa del Sol... a harbor paradise where the sun always shines and it's summer all year round!<boxstart/>Hmm...... Things aren't going well...... You can go sightseeing in the city. </sp>
+<sp> <speaker name="Sailor Running Around">Sailor Running Around</speaker><boxstart/>Don't bug me. This is <referent name="Rufus">Rufus</referent>'s first official visit since becoming President.<boxstart/>It seems like he's here on business this time.<boxstart/>I'm so jealous of him, I could spit. We're both about the same age, but, he's President. </sp>
+<sp> <speaker name="Sailor on the Helipad">Sailor on the Helipad</speaker><boxstart/>Oh crap... The manager of Shinra won't come down.<boxstart/>Even though the President's here on business. All he does is play, forgetting everything to do with work. </sp>
+<sp> <speaker name="Woman Lounging on Sea Plane">Woman Lounging on Sea Plane</speaker><boxstart/>But a bunch of hardworking deckhands like you wouldn't understand.<boxstart/>On the marine blue sea, Gazing at the eternal skies that seem to go on forever... Gives you the feeling like you're taking a nap on the wing of a Cessna.<boxstart/>It's the ultimate high! </sp>
+<sp> <speaker name="Man Near Sea Plane">Man Near Sea Plane</speaker><boxstart/>Heh, heh... I hear the Shinra brass are arriving soon.<boxstart/>Heh, heh...! Got nothing to do with us, does it? </sp>
+<stage>Cloud leaves the dock, and Shinra's helicopter lands on the helipad as Rufus and Heideggar get off the ship.</stage>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>What a long boat ride that was!!<boxstart/>Hmmm...... Good work everyone...... </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya, Heh, heh..., ha!! Hurry up with that! </sp>
+<sp> <speaker name="Sailor">Sailor</speaker><boxstart/>Yes, sir!! </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>I heard <referent name="Sephiroth">Sephiroth</referent> was on board. </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>......Yes. </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>And it seems <referent name="Cloud">Cloud</referent> and the others were on board, too. </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>......Yes. </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>They all slipped through...... You messed up big this time, Heidegger. </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>I'm ashamed of myself. </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Is that all you can do...?<boxstart/>Give one word answers and apologize for everything? </sp>
+<sp> <speaker name="Sailor">Sailor</speaker><boxstart/>Ready for departure, sir!! </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>......Do something. I'll be expecting results. </sp>
+<stage>He walks to the helicopter, and Heidegger charges the sailors, throwing them into the ocean. The helicopter takes off.</stage>
+
+<stage>Back to Cloud. If he goes back to the harbor...</stage>
+<sp> <speaker name="Man Near Sea Plane">Man Near Sea Plane</speaker><boxstart/>Hey! Spread out, all of you, out!!<boxstart/>Put any fingerprints, scratches, or dents on that plane and I'll put one in your head!<boxstart/>Da plane, da plane!! This's something you'll never be able to do in your lifetime.<boxstart/>So you just watch from a distance... and wish. </sp>
+<sp> <speaker name="Woman Lounging on Sea Plane">Woman Lounging on Sea Plane</speaker><boxstart/>He's quite handsome, isn't he?......<boxstart/>Oh, don't worry, I'm not talking about you.<boxstart/>I'm talking about President <referent name="Rufus">Rufus</referent>. Charming, rich, blond... He even looks good in a double-breasted suit. </sp>
+<sp> <speaker name="Sailor">Sailor</speaker><boxstart/>Damn. I'm soaking wet down to my underwear.<boxstart/>Oops! You must be those AVALANCHE guys!<boxstart/>Quick! Let's get outta here! Heidegger's in charge of the transport ship.<boxstart/>That's tough for both of us.<boxstart/>The transport ship won't be sailing for quite a while. Heidegger's orders. </sp>
+<sp> <speaker name="Sailor Running Around">Sailor Running Around</speaker><boxstart/><referent name="Rufus">Rufus</referent> complimented me on my job!<boxstart/>Wow!! I guess it pays to do good work. </sp>
+<sp> <speaker name="Shinra Manager">Shinra Manager</speaker><boxstart/>Oh, oh, oh!!! I'm gonna quit this company!!<boxstart/>I mean it, I'm really gonna quit!!<boxstart/>Heidegger's such an idiot!!<boxstart/>And <referent name="Rufus">Rufus</referent>, acting all big!!<boxstart/>God, that sure felt good... </sp>
+<stage>Back to the town...</stage>
+<sp> <speaker name="Woman at the Information Kiosk">Woman at the Information Kiosk</speaker><boxstart/>Say, aren't you bored? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Not that much<boxstart/>- Yeah, we fight a lot </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Not that much </sp>
+  <sp> <speaker name="Woman at the Information Kiosk">Woman at the Information Kiosk</speaker><boxstart/>Oh, really? I'm a little bored.<boxstart/>Come on, back to work now! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yeah, we fight a lot </sp>
+  <sp> <speaker name="Woman at the Information Kiosk">Woman at the Information Kiosk</speaker><boxstart/>Isn't that good? You're just expecting too much. </sp>
+
+<sp> <speaker name="Woman at the Information Kiosk">Woman at the Information Kiosk</speaker><boxstart/>Here you are! The Costa del Sol tourist information guide.<boxstart/>What do you want to know? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Where's the inn?<boxstart/>- Where're the stores?<boxstart/>- Show me around town. </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Where's the inn? </sp>
+  <sp> <speaker name="Woman at the Information Kiosk">Woman at the Information Kiosk</speaker><boxstart/>Let's see. I recommend a resort located on the outskirts of the city. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Where're the stores? </sp>
+  <sp> <speaker name="Woman at the Information Kiosk">Woman at the Information Kiosk</speaker><boxstart/>If you're looking for souvenirs, we recommend Butch's. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Show me around town </sp>
+  <sp> <speaker name="Woman at the Information Kiosk">Woman at the Information Kiosk</speaker><boxstart/>Wait a minute. I'm going to look at my guidebook.<boxstart/>It says, Costa del Sol is the gateway to the West. And has a prominent world renown resort, which has been around for ages.<boxstart/>Come on! I don't care about that!<boxstart/>If you want a good time, come to the beach! There are lots of beautiful women.<boxstart/>You wouldn't happen to be... rich? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Oh yeah...<boxstart/>- Well, not so </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Oh yeah... </sp>
+    <sp> <speaker name="Woman at the Information Kiosk">Woman at the Information Kiosk</speaker><boxstart/>You're kidding! You can't tell just by looking.<boxstart/>But I'll tell you just in case.<boxstart/>After relaxing at Costa del Sol, stop by the Gold Saucer. It's a rich and exciting place to play!<boxstart/>Head south to the Gold Saucer, and you'll find casinos and an amusement park.<boxstart/>But if you're planning to walk, you'll have to cross mountains and valleys. I wouldn't recommend it.<boxstart/>But if you're on a vacation, you should go there at least once. </sp>
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Well, not so </sp>
+    <sp> <speaker name="Woman at the Information Kiosk">Woman at the Information Kiosk</speaker><boxstart/>I thought so.<boxstart/>Are you interested? This is the road to Gold Saucer.<boxstart/>Head south to the Gold Saucer, and you'll find casinos and an amusement park.<boxstart/>But if you're planning to walk, you'll have to cross mountains and valleys. I wouldn't recommend it.<boxstart/>But if you're on a vacation, you should go there at least once. </sp>
+  
+
+<stage>Cloud enters a nearby villa, and finds a suited man resting in the bedroom.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>What a fluffy bed...... feels so great......<boxstart/>Mmm... Just a little longer......<boxstart/>Oh!!<boxstart/>Oh, I'm sorry...... I didn't know you were here. This is embarrassing.<boxstart/>Take your time and look around.<boxstart/>By the way, are you seriously considering buying? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The heck do ya mean?<boxstart/>- I'm out of here </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>The heck do ya mean? </sp>
+  What are you selling?
+  <sp> <speaker name="Man">Man</speaker><boxstart/>That's pretty low. Are you pulling my leg?<boxstart/>I'm talking about this house. This villa used to belong to President Shinra. It only recently came back on the market.<boxstart/>How do you like it?<boxstart/>It has a large lot, comes fully furnished with this goose-down bed, and there's even a basement to boot.<boxstart/>The villagers call it the Shinra Villa.<boxstart/>Of course, we're not giving it away... </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- How much is it?<boxstart/>- Not interested </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>How much is it? </sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>Wha? How do you plan to buy it without a dime on you?<boxstart/>Well, I'll tell the price just for your information.<boxstart/>It's a steal at 300,000 gil. Out of your range? Out! Go on, out!<boxstart/>Hmm... Is this some kind of joke? </sp>
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Not interested </sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>Yes, you're right. I'm sorry, please continue.<boxstart/>Well, what do you think? Isn't it a fabulous villa?<boxstart/>The feeling you get with owning a villa is simply... how should I say? ...indescribable.<boxstart/>Well, let's wait for the captain. </sp>
+  
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>I'm out of here </sp>
+  <sp> <speaker name="Man">Man</speaker><boxstart/>Yes, you're right. I'm sorry, please continue.<boxstart/>Well, what do you think? Isn't it a fabulous villa?<boxstart/>The feeling you get with owning a villa is simply... how should I say? ...indescribable.<boxstart/>Well, let's wait for the captain. </sp>
+
+<stage>If by chance Cloud actually has the money to buy the villa...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>'Praise the Lord,' it's a miracle!! Who'd ever think someone with some real money would ever come here...... I probably shouldn't even ask, but Are you really going to buy it? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yep, 300,000 gil<boxstart/>- I changed my mind </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yep, 300,000 gil </sp>
+  Bought "Villa Cloud"!
+  <sp> <speaker name="Man">Man</speaker><boxstart/>Hmm, good-bye!! Good-bye fluffy bed!! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>I changed my mind </sp>
+  <sp> <speaker name="Man">Man</speaker><boxstart/>Oh well I'm kind of glad! </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This is MY villa. Rest up in your new villa?<boxstart/>- With pleasure<boxstart/>- Gotta move on </sp>
+<stage>In the basement, there is a man sleeping at his desk amidst bunch of crates.</stage>
+<sp> <speaker name="Manager">Manager</speaker><boxstart/>Yes sir!!<boxstart/>Oh, those items are free, so please help yourself.<boxstart/>...SNORE... SNORE...<boxstart/>Geez my lower back's killing me!<boxstart/>Y, yes... sir!!<boxstart/>How do you do! I'm the Manager.<boxstart/>Nice to meet you.<boxstart/>Well, if you'll pardon me, I'll be leaving. Good-night. </sp>
+<stage>In the corner pub, from whose window a woman peeks out occasionally.</stage>
+<sp> <speaker name="Waitress">Waitress</speaker><boxstart/>You want drink? Iz ok. You take time. </sp>
+<sp> <speaker name="Surfer">Surfer</speaker><boxstart/>We're all headin' over to Gold Saucer now.<boxstart/>We're gonna make a ton of money at the Chocobo races.<boxstart/>Then we're gonna take a trip to Icicle Inn and snowboard. </sp>
+<sp> <speaker name="Surfer 2">Surfer 2</speaker><boxstart/>Yeah, snowboarding's what's happening this year.<boxstart/>I'm sick of surfing. </sp>
+<sp> <speaker name="Black Man">Black Man</speaker><boxstart/>...huff... puff... I can't stand hot places... </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>......HIC... Mm? Wanna order? We're outta that now. </sp>
+<sp> <speaker name="Mukki">Mukki</speaker><boxstart/>I really like this town.<boxstart/>You could walk around nearly naked, and no one'd look twice at you. </sp>
+<sp> <speaker name="Man in Corner">Man in Corner</speaker><boxstart/>Come on... please. If you don't buy from me... I can't make ends meet. </sp>
+<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Welcome to Bar del Sol! Here's to tropical nights! </sp>
+<sp> <speaker name="Woman Behind Counter">Woman Behind Counter</speaker><boxstart/>Hey! I thought you'd drop by.<boxstart/>(That's 1, 2... 4 fishes all together...... not bad.) </sp>
+<stage>Back outside...</stage>
+<sp> <speaker name="Women Walking Around">Women Walking Around</speaker><boxstart/>Shall we play our hand around here?<boxstart/>Not yet. Remember, no compromises.<boxstart/>You're right. After all, this trip was expensive.<boxstart/>But only your average Joes are trying to pick us up.<boxstart/>Well, that's because we're just too beautiful and hard to approach.<boxstart/>I guess so. Well, I envy the plain Janes.<boxstart/>Why don't we compromise? We'll make do with what we have.<boxstart/>Not yet. Remember, no compromises. </sp>
+<stage>Nearby, Red XIII is sitting in the shade, hitting a soccer ball around with two kids.</stage>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Hm, that's interesting.<boxstart/>It's not as if I'm doing this because I want to.<boxstart/>You see, this tail of mine, moves quite independently of my will. </sp>
+<sp> <speaker name="Little Girl">Little Girl</speaker><boxstart/>I heard. That big dog talks like a human.<boxstart/>That's cool... but it's weird. </sp>
+<stage>If Cloud kicks the soccer ball at Red XIII, he'll jump up and growl at him.</stage>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Grrr....... </sp>
+<sp> <speaker name="Little Boy">Little Boy</speaker><boxstart/>1, 2, 3, here we go! </sp>
+<stage>If Red XIII is in your party, the kids are playing by themselves.</stage>
+<sp> <speaker name="Little Girl">Little Girl</speaker><boxstart/>It's the ocean. A creepy man was signaling for us to come.<boxstart/>I was scared to come here! </sp>
+<sp> <speaker name="Butch">Butch</speaker><boxstart/>Well, we're lucky to have that cutie working for us part-time. </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Ah, <referent name="Cloud">Cloud</referent>! Let me make a buck why don't you?<boxstart/>I'm sellin' Materia. Why don't you buy some!? </sp>
+<stage>If Yuffie is in your party, Butch is tending the shop by himself.</stage>
+<sp> <speaker name="Butch">Butch</speaker><boxstart/>Yeah, I'd like to hire a gorgeous chick and have a great time. </sp>
+<sp> <speaker name="Item Shopkeeper">Item Shopkeeper</speaker><boxstart/>How about a 'Soft' as a memento of this wonderful trip? Made especially in Costa del Sol! </sp>
+<stage>Inside the inn, Barret is in the bathroom in his sailor outfit, posing in front of the mirror.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Uh uh!<boxstart/>Hmmm!?<boxstart/>Marlene! You ok?......<boxstart/>Dad'll wear this when I go to see you.<boxstart/>Uh uh!<boxstart/>Hey, yo!!! Someone's in here, awright!? </sp>
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Uggh! I feel God awful! Oh!! You!<boxstart/>Weren't you the one with that big sailor? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Dunno what you're talking about<boxstart/>- Wasn't me </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Dunno what you're talking about </sp>
+  What's the matter?
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Listen to this...<boxstart/>All of a sudden, this big sailor just busts in here, and takes over the restroom.<boxstart/>He's been in there moaning ever since.<boxstart/>I don't know what I'm gonna do.<boxstart/>Ah...... if you're checking in, would you please pay his bill, too? </sp>
+  <stage>Barret runs out of the bathroom.</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, <referent name="Cloud">Cloud</referent>! Still too early, ain't it? </sp>
+  <stage>Cloud shrugs, and Barret runs back into the bathroom.</stage>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Come on now... He's a friend of yours...... fibber.<boxstart/>What now? Call it a night?<boxstart/>200 gil a night. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Wasn't me </sp>
+  I don't know.
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Wrong guy? It puts us in a bad situation. That guy's taken over the john.<boxstart/>And he hasn't even paid his hotel bit yet.<boxstart/>Ah...... if you're checking in, would you please pay his bill, too? </sp>
+  <stage>Barret runs out of the bathroom.</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, <referent name="Cloud">Cloud</referent>! Still too early, ain't it? </sp>
+  <stage>Cloud shrugs, and Barret runs back into the bathroom.</stage>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Come on now... He's a friend of yours...... fibber.<boxstart/>What now? Call it a night?<boxstart/>200 gil a night. </sp>
+
+<stage>If Barret is in your party...</stage>
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Shucks!! Too bad!<boxstart/>Hey! Hey you! Does your friend have a cute lady?<boxstart/>She came in here looking for him a while ago. Shouldn't you find her?<boxstart/>What are you going to do? Just forget about her and go to bed?<boxstart/>200 gil a night. </sp>
+<stage>Inside Johnny's house, Johnny is standing around nervously and someone is taking a bath in the bathroom.</stage>
+<sp> <speaker name="Johnny">Johnny</speaker><boxstart/>What's with YOU!!<boxstart/>Hey, is it.........you?<boxstart/>We were in SOLDIER, and childhood friends before that. You were such a playboy.<boxstart/>And a $#&amp;^ murderer!!<boxstart/>Why can't I remember your name? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Who are YOU?<boxstart/>- I'm <referent name="Cloud">Cloud</referent>, and don't forget it </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Who are YOU? </sp>
+  <sp> <speaker name="Johnny">Johnny</speaker><boxstart/>That's right. Long time no see. Do you remember me?<boxstart/>That's okay. We'll just keep on like we don't know each other.<boxstart/>I'm starting a new life in this town.<boxstart/>A lot of things happened to us. Heh, I better stop my mumbling! I sure envy you all just living outside with the sky as your ceiling. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>I'm <referent name="Cloud">Cloud</referent>, and don't forget it </sp>
+  <sp> <speaker name="Johnny">Johnny</speaker><boxstart/>You think you're good enough to go around bragging about who you are?<boxstart/>I don't wanna here it! Heh, no more mumbling from me!<boxstart/>From now on, I'm starting a new life! </sp>
+
+<sp> <speaker name="Woman in Bathroom">Woman in Bathroom</speaker><boxstart/>I'm sorry about that. He's had some big shocks lately and is pretty depressed. </sp>
+<sp> <speaker name="Johnny">Johnny</speaker><boxstart/>Hurry up and get out of here!<boxstart/>I'm happy like this. So keep out of my life. </sp>
+<stage>Down at the beach...</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh! <referent name="Cloud">Cloud</referent>!! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Look, look at that! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hm...?<boxstart/>- Who, Hojo...?<boxstart/>- That girl in the bikini......? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Who, Hojo...? </sp>
+  Is that man over there, Hojo?
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Go over and talk to him. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>That girl in the bikini......? </sp>
+  Not a bad view......
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What're you looking at?<boxstart/>That man over there. That's Hojo from Shinra. Get outta here Go talk to him! </sp>
+
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Go over and talk to him. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I have a bad feeling about this. </sp>
+<sp> <speaker name="Men on the Beach">Men on the Beach</speaker><boxstart/>heh heh...... All the good ones are gone. </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Tifa">Tifa</referent> or <referent name="Aerith">Aerith</referent> are in the party...</sp>
+  <sp> <speaker name="Men on the Beach">Men on the Beach</speaker><boxstart/>What about that one? Shall we make do with her?<boxstart/>But she's got a guy with her.<boxstart/>No problem, I can handle him.<boxstart/>Right? You thought so, too? </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Tifa">Tifa</referent> and <referent name="Aerith">Aerith</referent> are not in the party...</sp>
+  <sp> <speaker name="Men on the Beach">Men on the Beach</speaker><boxstart/>Geez! What about those two?<boxstart/>Heh heh...... I want the one on the left.<boxstart/>Well then, I guess that leaves me with the one on the right. </sp>
+
+<stage>Cloud runs over to where Hojo is lying in a lounge chair, surrounded by three women in bikinis.</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>God!! What do you want? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I want to talk with that man<boxstart/>- Is that Hojo? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>I want to talk with that man </sp>
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>(Hey, who do you think you are?)<boxstart/>Professor Hojo. That scary man says he wants to talk with you. </sp>
+  <sp> <speaker name="Hojo">Hojo</speaker><boxstart/>I'm busy right now. </sp>
+  <sp> <speaker name="Someone">Someone</speaker><boxstart/>......But. Too bad. </sp>
+  <sp> <speaker name="Hojo">Hojo</speaker><boxstart/>No, I remember you all now......<boxstart/>Yes, yes. I remember now.<boxstart/>It's been a long time, <referent name="Cloud">Cloud</referent>. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Is that Hojo? </sp>
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>(What's his problem?)<boxstart/>Yes, that's right. It's the Professor!<boxstart/>Professor... someone's here to see you, sir. </sp>
+  <sp> <speaker name="Hojo">Hojo</speaker><boxstart/>I'm busy right now. </sp>
+  <sp> <speaker name="Someone">Someone</speaker><boxstart/>......But. Too bad. </sp>
+  <sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Heh heh heh...... All right. You sure are loud.<boxstart/>Long time no see, <referent name="Cloud">Cloud</referent>. </sp>
+
+<stage>The others run over to join Cloud.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hojo...... </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Sometimes you just gotta do something like this. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......What are you doing? </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>It should be obvious, I'm getting a tan. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Answer me! </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Hmm! I believe we're both after the same goal. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You mean <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Did you see him? </sp>
+<stage>Cloud nods.</stage>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>I see...... Ha! Ha! </sp>
+<stage>He stands up on his beach chair.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What is it? </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Nothing. I just remembered a certain hypothesis......<boxstart/>Haven't you ever had the feeling something is calling you?<boxstart/>Or that you had to visit some place?...... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'll go anywhere <referent name="Sephiroth">Sephiroth</referent> is at!<boxstart/>To beat him and put an end to all this! </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>I see...... This could be interesting.<boxstart/>Were you in SOLDIER? .......Heh heh heh! Would you like to be my guinea pig? </sp>
+<stage>Cloud reaches for his sword.</stage>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Oh, now what? Are you going to draw your sword? </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, yo! It's a bad idea to kill him. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, don't. If he dies, we won't find out anything! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Stop, <referent name="Cloud">Cloud</referent>! I know how you feel, but you mustn't. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>...huff... puff... Stop, <referent name="Cloud">Cloud</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Knock it off, <referent name="Cloud">Cloud</referent>! Look I don't know, but he knows a lot of stuff, right? </sp>
+
+<stage>Red XIII collapses, and Cloud shakes his head.</stage>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Ha! Ha! Ha!...... </sp>
+<stage>He walks to Aerith.</stage>
+<sp> <boxstart/>Say, aren't you the 'Ancient'? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm <referent name="Aerith">Aerith</referent>. The least you can do is remember my name.<boxstart/>I want you to tell me something, Professor Hojo...<boxstart/>I know I'm an Ancient. My mother told me. </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Your mother? Oh, you mean Ifalna.<boxstart/>How is she? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You didn't know!? She died. </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>......I see. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Professor Hojo...<boxstart/>Is Jenova an Ancient? Is <referent name="Sephiroth">Sephiroth</referent> an Ancient? Do we all have the same blood? </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>......mumble... mumble... head west...... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>He's mumbling slowly... That must mean he's hiding something! </sp>
+<stage>Hojo sits down again.</stage>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>.................. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Grrr, Grrr......... ...huff... puff... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hey! Answer us!! </sp>
+<stage>Red XIII collapses again.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......It's no use. It's no go. </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>He never takes off his lab coat even in this heat. I guess that's the mark of an intellectual. </sp>
+<sp> <speaker name="Woman 2">Woman 2</speaker><boxstart/>I'll interpret Professor Hojo's whispers.<boxstart/>Head west, past Mt. Corel and keep going......<boxstart/>Did you get that? I didn't understand it well, myself. </sp>
+<sp> <speaker name="Woman 3">Woman 3</speaker><boxstart/>I'd be happy to be a guinea pig, if it's for Professor Hojo! </sp>
+<sp> <speaker name="Man Swimming">Man Swimming</speaker><boxstart/>Yipes!! Help!!<boxstart/>...breath... breath...! Kind of takes your breath away, don't it!? </sp>
+<sp> <speaker name="Man on Beach">Man on Beach</speaker><boxstart/>If you're headed for Mt. Corel, then you'd better buy some "Soft".<boxstart/>At least that's what they always say, don't they?<boxstart/>Be prepared, and you'll never fear.<boxstart/>Hey, I'm no idiot. I NEVER count my chickens before they hatch! Pretty good, huh? </sp>
+<stage>Inside Johnny's new house, Tifa is talking with him, the two of them sitting across from each other on the beds.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh, right! I remember that, too. </sp>
+<sp> <speaker name="Johnny">Johnny</speaker><boxstart/>Yeah, yeah! And you remember the time when......? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hee, hee, hee! </sp>
+<sp> <speaker name="Johnny">Johnny</speaker><boxstart/>Ha, ha, ha!...... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Ha, ha... oh stop it! That's right. Oh really...... </sp>
+<sp> <speaker name="Johnny">Johnny</speaker><boxstart/>Yeah. Oh yeah, and then that time...... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Yeah, yeah! </sp>
+<stage>Cloud enters the room, and both Tifa and Johnny turn to look at him.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, would you mind leaving us alone for the day?<boxstart/>We haven't seen each other for ages and sometimes it's fun to talk about old times for a change.<boxstart/>We'll try not to be too late.<boxstart/>So please don't worry about us! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Worry......?<boxstart/>- Yeah...... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Worry......? </sp>
+  I'm not worried.
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're right...... </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yeah...... </sp>
+  Just remember we're leaving early tomorrow.
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Ok, I know. </sp>
+
+<sp> <speaker name="Johnny">Johnny</speaker><boxstart/>Yeah, so don't get mad or something. </sp>
+<stage>Back at the inn, Aerith is lying on one of the beds.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Whew... I don't know why I'm so tired.<boxstart/>There's so many things I don't understand......<boxstart/>I feel a little uneasy.<boxstart/><referent name="Cloud">Cloud</referent>...?<boxstart/>What do you think of me? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I dunno<boxstart/>- Nothing much </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>I dunno </sp>
+  I don't understand anything.
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>......You're right.<boxstart/>Even I don't understand myself.<boxstart/>I wonder what part of me is like an Ancient?<boxstart/>What is an Ancient supposed to be like? It's strange, isn't it?<boxstart/>I don't understand it......<boxstart/>Ahh...... I'm going around in circles. I wonder if there's any answer to this. Everything's so complicated.<boxstart/>I'm going on to bed. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Nothing much </sp>
+  Sorry, but I never thought about things like that.
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>How could you say such a thing! Sometimes you make me so mad!<boxstart/>Oh, I never should have brought this up!!<boxstart/>I don't want to talk about it! </sp>
+
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Welcome!! What's it going to be?<boxstart/>200 gil a night. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Stay<boxstart/>- I've changed my mind. </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Stay </sp>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>You must be tired.<boxstart/>Tomorrow in the Costa del Sol area the weather is going to be...... sunny, again.<boxstart/>Cradled by the sound of the ocean waves...... Sweet dreams... </sp>
+  <stage>Cloud and the others spend the night.</stage>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Good morning. Be careful traveling.<boxstart/>Your party has departed.<boxstart/>Oops......<boxstart/>That's bad luck......<boxstart/>I mean, they have already left. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>I've changed my mind. </sp>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>You sure? I'll just be playing around here so drop by whenever you feel like it. </sp>
+
+<stage>After spending the night...</stage>
+<sp> <speaker name="Butch">Butch</speaker><boxstart/>You got me there...... We just hired her part-time.<boxstart/>She ran off with our money and Materia.<boxstart/>I guess a situation that's too good to be true, usually is.<boxstart/>Well, please feel free to browse around. Just don't mind looking at what's left. </sp>
+<stage>Back at the beach...</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>That's right!! It totally skipped my mind!<boxstart/>There was something I was supposed to tell you.<boxstart/>That's right! It's about that!<boxstart/>It was yesterday. A man wearing a black cloak came up from the ocean.<boxstart/>I think he had tickets for the Gold Saucer... no, that wasn't it... I wonder if it was all just an illusion? </sp>
+<sp> <speaker name="Man on the Beach">Man on the Beach</speaker><boxstart/>Hey...... heh heh...... don't forget to talk to me, too. </sp>
+<sp> <speaker name="Woman 2">Woman 2</speaker><boxstart/>Hey! President <referent name="Rufus">Rufus</referent> came here yesterday.<boxstart/>He used to be the President's little boy. We nicknamed him the little Prez!<boxstart/>He didn't look much different than the surfers on the beach. </sp>
+<sp> <speaker name="Man Swimming">Man Swimming</speaker><boxstart/>Eeeew!! Leave me alone!<boxstart/>Ublk! Glug... glug...... You're gonna drown... I'm </sp>
+<sp> <speaker name="Woman 3">Woman 3</speaker><boxstart/>Yes, Professor Hojo. Where...?<boxstart/>It looks like the Professor discovered or found a solution to something.<boxstart/>You know, I wonder...... if they headed west for Mt. Corel?<boxstart/>I'm getting a little sad.<boxstart/>Professor Hojo looks happy like a child when he discovers something. He gets this big smile and then laughs......<boxstart/>I guess we should chase after him. A vacation for two from Mt. Corel to Gold Saucer. </sp>
+<stage>In Johnny's house, Johnny's sleeping, and the woman is still in the bathroom.</stage>
+<sp> <speaker name="Johnny">Johnny</speaker><boxstart/>mumble... mumble... (<referent name="Tifa">Tifa</referent>, promise me you're gonna be happy.) </sp>
+<stage>Cloud and the others leave Costa del Sol and make for Corel.</stage>
+
+</scene>

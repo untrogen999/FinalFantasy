@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2500" height="2200">
+   <g transform="translate(250,100)">
+      <g>
+         <text x="0"
+               y="-5"
+               font-family="sans-serif"
+               font-size="20px"
+               fill="white">Recurring Characters in Final Fantasy</text>
+      </g>
+      <g>
+         <g>
+            <line x1="0"
+                  y1="0"
+                  x2="1937"
+                  y2="0"
+                  stroke="cyan"
+                  stroke-width="15"/>
+            <text x="1947"
+                  y="0"
+                  font-family="sans-serif"
+                  font-size="12px"
+                  fill="black">1937</text>
+            <line x1="0"
+                  y1="25"
+                  x2="771"
+                  y2="25"
+                  stroke="black"
+                  stroke-width="15"/>
+            <text x="781"
+                  y="25"
+                  font-family="sans-serif"
+                  font-size="12px"
+                  fill="gray">771</text>
+            <line x1="0"
+                  y1="50"
+                  x2="663"
+                  y2="50"
+                  stroke="grey"
+                  stroke-width="15"/>
+            <text x="673"
+                  y="50"
+                  font-family="sans-serif"
+                  font-size="12px"
+                  fill="black">663</text>
+            <line x1="0"
+                  y1="75"
+                  x2="327"
+                  y2="75"
+                  stroke="green"
+                  stroke-width="15"/>
+            <text x="337"
+                  y="75"
+                  font-family="sans-serif"
+                  font-size="12px"
+                  fill="black">327</text>
+            <line x1="0"
+                  y1="100"
+                  x2="311"
+                  y2="100"
+                  stroke="orange"
+                  stroke-width="15"/>
+            <text x="321"
+                  y="100"
+                  font-family="sans-serif"
+                  font-size="12px"
+                  fill="black">311</text>
+            <line x1="0"
+                  y1="125"
+                  x2="176"
+                  y2="125"
+                  stroke="red"
+                  stroke-width="15"/>
+            <text x="186"
+                  y="125"
+                  font-family="sans-serif"
+                  font-size="12px"
+                  fill="black">176</text>
+            <line x1="0"
+                  y1="150"
+                  x2="336"
+                  y2="150"
+                  stroke="yellow"
+                  stroke-width="15"/>
+            <text x="346"
+                  y="150"
+                  font-family="sans-serif"
+                  font-size="12px"
+                  fill="black">336</text>
+            <line x1="0"
+                  y1="175"
+                  x2="480"
+                  y2="175"
+                  stroke="pink"
+                  stroke-width="15"/>
+            <text x="490"
+                  y="175"
+                  font-family="sans-serif"
+                  font-size="12px"
+                  fill="black">480</text>
+            <line x1="0"
+                  y1="200"
+                  x2="245"
+                  y2="200"
+                  stroke="white"
+                  stroke-width="15"/>
+            <text x="255"
+                  y="200"
+                  font-family="sans-serif"
+                  font-size="12px"
+                  fill="black">245</text>
+            <line x1="0" x2="0" y1="0" y2="225" fill="white"/>
+         </g>
+      </g>
+   </g>
+</svg>

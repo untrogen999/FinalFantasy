@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="Nibelheim">
+
+
+
+<h1>Nibelheim - Reconstructed</h1>
+
+<h4><a href="#arrival">Arrival at Nibelheim</a></h4>
+<h4><a href="#explore">Exploring Nibelheim</a></h4>
+<h4><a href="#vincent">Vincent Valentine</a></h4>
+<h4><a href="#library">The Basement Library</a></h4>
+<hr></hr>
+<p class="italic"><a name="arrival"></a>Cloud and the others arrive at Nibelheim, only to find the town almost exactly as it looked before the incident five years ago.</p>
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Tifa is in the party...</span></p>
+	<p class="indent-nopad"><b>Tifa</b><br/>What---!!</p>
+	<p class="italic-inline-nopad">She turns to Cloud.</p>
+	<p class="block-inline-nopad">This was all supposed to be burnt down, right?</p>
+	<p class="indent-nopad"><b>Cloud</b><br/>...I thought so.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Then why...? My house is still there too...</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>The hell's goin' on!? This a dream or somethin'?</p>
+		<p class="indent-nopad"><b>Aerith</b><br/>...somthing's strange?</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>I wonder what's going on...</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>What the...!?</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Cloud, maybe you were just dreaming...?</p>
+	</blockquote>
+
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Tifa is not in the party...</span></p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>You said the whole town burnt down, right?</p>
+		<p class="indent-nopad"><b>Aerith</b><br/>This is Nibelheim, right? But the town's all here.</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>This is Nibelheim? I heard it burnt down.</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>I heard from someone that this town was gone!</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>The whole town was destroyed by Sephiroth. At least that's what I heard...</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cloud</b><br/>...Yeah.</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>You trin' to fool us!?</p>
+		<p class="indent-nopad"><b>Aerith</b><br/>Hey, what's going on?</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>Cloud... Did you lie to us?</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>What happened?</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Cloud, did you make up your story just to get our support?</p>
+	</blockquote>
+
+<p class="indent"><b>Cloud</b><br/>I'm not lying!<br/>I remember... the intense heat of the flames...</p>
+<p class="italic"><a name="explore"></a>At the inn...</p>
+<p class="indent"><b>Innkeeper</b><br/>Hi, welcome.</p>
+<p class="indent"><b>Cloud</b><br/>- Give me a room<br/>- What's your story?</p>
+<div class="block"/>
+  <p><span class="highlight">Give me a room</span></p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>It'll be 100 gil a night. Is that all right with you?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Yes<br/>- Never mind.</p>
+
+<div class="block"/>
+  <p><span class="highlight">What's your story?</span></p>
+  <p>This town was supposed to have been burnt down five years ago.<br/>What the hell is going on?</p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Sir, don't say such awful things.<br/>I was born and raised in this town. What you say never happened.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>You're lying...</p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>EXUSE ME...... That's so rude...<br/>If you're going to talk like that to me, I'm going to have to ask you to leave.<br/>Oh, I'm so sorry. I've got lots to do...</p>
+
+<p class="italic">In the kitchen is a hunched figure in a black cape.</p>
+<p class="indent"><b>Cloud</b><br/>Man in a Black Cape?<br/>He has a tattoo number '6'. Hmm? He has something...</p>
+<div class="highlight"/><p>Received "Luck Source!"</p>
+<p class="indent"><b>Clone #6</b><br/>Urrr...... rrrrr...... rrrgh... must... go... to... Re... uni... on...</p>
+<p class="italic">In the neighboring store...</p>
+<p class="indent"><b>Woman</b><br/>Nice town, huh?<br/>We've been in business here for a long time...</p>
+<p class="indent"><b>Cloud</b><br/>...You're lying.</p>
+<p class="indent"><b>Woman</b><br/>Do you have anything to do with this town?</p>
+<p class="indent"><b>Cloud</b><br/>- How about bein' born and raised here?<br/>- Nope, guess not</p>
+<div class="block"/>
+  <p><span class="highlight">How about bein' born and raised here?</span></p>
+  <p>I was here until I was 14 and I don't remember you.</p>
+  <p class="indent-nopad"><b>Woman</b><br/>It's not nice to lie!!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Nope, guess not</span></p>
+  <p>...nothing.</p>
+  <p class="indent-nopad"><b>Woman</b><br/>Oh yeah...?</p>
+
+<p class="italic">By the furnace is another clone.</p>
+<p class="indent"><b>Cloud</b><br/>He has a tattoo of the number '12'. Mmm? He has something.</p>
+<div class="highlight"/><p>Received "Elixir"!</p>
+<p class="indent"><b>Clone #12</b><br/>Can...... you...... hear? The... voice... of... Se... phi... ro... th......</p>
+<p class="italic">At Cloud's house...</p>
+<p class="indent"><b>Woman</b><br/>What is it?</p>
+<p class="indent"><b>Cloud</b><br/>- Nothing<br/>- I want to hear your story</p>
+<div class="block"/>
+  <p><span class="highlight">Nothing</span></p>
+  <p class="indent-nopad"><b>Woman</b><br/>Oh, really. Then, it'll help me too.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I want to hear your story</span></p>
+  <p>I lived in this house until I was 14...<br/>No, but this town was burned down.</p>
+  <p class="indent-nopad"><b>Woman</b><br/>Are you sick... saying those things?<br/>Get out of here!</p>
+
+<p class="italic">At Tifa's house...</p>
+<p class="indent"><b>Clone #5</b><br/>...must...... get...... it... and bring... to... Se... phi... roth...<br/>Then... become... one... with... Se... phi... roth...</p>
+<p class="indent"><b>Cloud</b><br/>This guy's number '5'...</p>
+<p class="italic">In the kitchen...</p>
+<p class="indent"><b>Cloud</b><br/>He has a tattoo of the number '11'...</p>
+<p class="indent"><b>Clone #11</b><br/>...must...... go......... Reun... ion...</p>
+<p class="italic">In Tifa's parents' bedroom...</p>
+<p class="indent"><b>Cloud</b><br/>Tattoo number '4'</p>
+<div class="highlight"/><p>Received "Platinum Fist!"</p>
+<p class="indent"><b>Clone #4</b><br/>...Where... are... you...? Great... Se... phi... roth...</p>
+<p class="italic">In Tifa's room... Cloud walks to the piano.</p>
+<p class="indent"><b>Cloud</b><br/>But... I definitely remember playing the piano then. But why didn't it get burnt down?<br/>Play the piano......?</p>
+<p class="italic">On Tifa's desk is a report.</p>
+<div class="highlight"/><p>"Periodic Report to Professor Hojo"<br/><br/>1 Clone Activity Report<br/><br/>Unfortunately, no 'CLONES' have left this town this quarter.<br/>As previously reported, the 'CLONES' seem to be sensing something.<br/>But all they say is, 'reunion' or 'Sephiroth' and show no other signs of activity.<br/><br/>2 Confidentiality Report<br/><br/>A total of eight people have visited this town this quarter.<br/>Fortunately, none knew about the incident five years ago.<br/>Therefore, no one knows the town was restored exactly as it was five years ago.<br/>Our staff, disguised as townspeople have improved their acting skills, and we do not report any problems at this time.<br/>That is all.</p>
+<p class="italic">In the neighboring house's attic...</p>
+<p class="indent"><b>Small Clone</b><br/>...Re...... union.</p>
+<p class="indent"><b>Smaller Clone</b><br/>............ion</p>
+<p class="italic">Cloud looks back and forth between them and sighs.</p>
+<p class="indent"><b>Smaller Clone</b><br/>..................</p>
+<p class="italic">Outside the Shinra mansion are another two clones.</p>
+<p class="indent"><b>Clone</b><br/>Wooooo-----ooow...... He's... calling...... Sephiroth...... is...... calling......</p>
+<p class="indent"><b>Clone 2</b><br/>The... Great... Se... phi...... roth...... is... near......<br/>In... side...... inside... the Mansion...... Urrrrrrrgh...... the great...... Sephi...... roth</p>
+<p class="italic"><a name="vincent"></a>Inside the mansion...</p>
+<p class="indent"><b>Letter</b><br/>I must get rid of all those that stand in the way of my research. Even that one from the Turks.<br/>I scientifically altered him, and put him to sleep in the basement. If you want to find him, then search the area.<br/>But... this is merely a game I thought of. It is not necessary for you to participate if you don't want to.</p>
+<p class="indent"><b>Cloud</b><br/>There seems to be another letter.<br/>- Read it<br/>- Ignore it</p>
+<p class="indent"><b>Letter</b><br/>Move the dial on the safe carefully, but quickly. You have 20 seconds. You can not go past the numbers while turning. The 4 hints for the numbers are...</p>
+<div class="block"/><ul>
+  <li><p>dial (1)<br/>The lid of the box with the most oxygen.</p></li>
+  <li><p>dial (2)<br/>Behind the Ivory's short of tea and ray.</p></li>
+  <li><p>dial (3)<br/>The creek in the floor near the chair on the second floor... then to the left five steps, up nine steps, left two steps, and up six steps.</p></li>
+  <li><p><br/>The fourth row has been written in invisible ink... Dial (4) is (Right 97)</p></li>
+</ul>
+<p class="italic">At the safe on the second floor...</p>
+<p class="indent"><b>Cloud</b><br/>I have a bad feeling about this...<br/>- Still open the safe<br/>- Don't open</p>
+<p class="italic">Cloud opens the safe and fights the Lost Number.</p>
+<div class="highlight"/><p>Received Key Item "Key to the Basement"!</p>
+<p class="italic">The party heads down to the basement. Using the key, they enter the room with the coffins and approach the closed one in the center.</p>
+<p class="italic"><b>* Note:</b> Because it's possible to get Vincent after Cid joins the party, I've included his responses here as well.</p>
+<p class="indent"><b>Vincent</b><br/>...To wake me from the nightmare</p>
+<p class="italic-inline">He throws off the lid.</p>
+<p class="block-inline">Who is it!?</p>
+<p class="italic-inline">He sits up.</p>
+<p class="block-inline">...Never seen you before. You must leave.</p>
+<p class="indent"><b>Cloud</b><br/>You were having a nightmare.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>I woke ya up. Ya outta be thankin' me.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>You'll dream about bad things if you sleep in a place like THIS.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>How bad was your dream?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>...You don't look good.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Man, you really WERE having a bad dream! Even I feel bad!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Aren't you glad you woke up?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>The air's pretty heavy here. How can you sleep in a place like this?</p>
+</blockquote>
+<p class="indent"><b>Vincent</b><br/>Hmph... a nightmare...? My long sleep has given me time to atone.</p>
+<p class="indent"><b>Cloud</b><br/>What are you saying?</p>
+<p class="indent"><b>Vincent</b><br/>I have nothing to say to strangers. Get out.<br/>This mansion is the beginning of your nightmare.</p>
+<p class="indent"><b>Cloud</b><br/>...you can say that again.</p>
+<p class="indent"><b>Vincent</b><br/>Hmm? What do you know?</p>
+<p class="indent"><b>Cloud</b><br/>- Don't say a thing<br/>- Talk about Sephiroth</p>
+<div class="block"/>
+  <p><span class="highlight">Don't say a thing</span></p>
+  <p class="indent-nopad"><b>Vincent</b><br/>I see. Then, I'll return to my nightmare...<br/>...What? More?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- No, good night<br/>- Tell him about Sephiroth</p>
+
+<div class="block"/>
+  <p><span class="highlight">Talk about Sephiroth</span></p>
+  <p class="italic">Cloud talks about Sephiroth.</p>
+
+<p class="indent"><b>Cloud</b><br/>Like you said, this mansion is the beginning of a nightmare.<br/>No, it's not a dream, it's for real.<br/>Sephiroth has lost his mind. He found the secrets hidden in this mansion...</p>
+<p class="indent"><b>Vincent</b><br/>Sephiroth!?</p>
+<p class="indent"><b>Cloud + Vincent</b><br/>You know Sephiroth?</p>
+<p class="italic">Vincent leaps from the coffin and lands on its edge.</p>
+<p class="indent"><b>Vincent</b><br/>You start first.</p>
+<p class="italic">Cloud gestures as he tells his story.</p>
+<p class="indent"><b>Cloud</b><br/>...That's how it was.</p>
+<p class="indent"><b>Vincent</b><br/>So Sephiroth knows he was created five years ago? And about the Jenova Project?<br/>...He was missing, but has just recently reappeared.<br/>He has taken many lives and is seeking the Promised Land.</p>
+<p class="italic">* <b>Note</b>: Vincent's comment here is likely a translation error and should have been something like "So five years ago, Sephiroth learned that he had been created?"</p>
+<p class="indent"><b>Cloud</b><br/>Now it's your turn.</p>
+<p class="indent"><b>Vincent</b><br/>Sorry... I cannot speak.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Hey! You lyin' white-faced!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>That's dirty!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Hmm... I'm disappointed.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>What... you're serious?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Oh, that's okay. It was probably depressing anyway.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Hey, that's not right---</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Good! I'm not in the mood to hear long stories. Let's get the hell outta here!</p>
+</blockquote>
+<p class="indent"><b>Vincent</b><br/>Hearing your stories, has added upon me yet another sin.<br/>More nightmares shall come to me now, more than I previously had.</p>
+<p class="italic-inline">He gets back into the coffin.</p>
+<p class="block-inline">Now... please leave.<br/>...You're still here.</p>
+<p class="indent"><b>Cloud</b><br/>- Good night<br/>- Who are you?</p>
+<div class="block"/>
+  <p><span class="highlight">Good night</span></p>
+  <p class="italic">Nothing happens.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Who are you?</span></p>
+  <p>At least tell us your name.</p>
+
+<p class="indent"><b>Vincent</b><br/>I was with... the Shinra Manufacturing Department in Administrative Research, otherwise known as--the Turks...<br/>Vincent.</p>
+<p class="indent"><b>Cloud</b><br/>The Turks!?</p>
+<p class="indent"><b>Vincent</b><br/>Formerly of the Turks.<br/>I have no affiliation with Shinra now.<br/>...And you?</p>
+<p class="indent"><b>Cloud</b><br/>Cloud, formerly of SOLDIER.</p>
+<p class="indent"><b>Vincent</b><br/>You were also with Shinra...? Then do you know Lucrecia?</p>
+<p class="indent"><b>Cloud</b><br/>Who?</p>
+<p class="indent"><b>Vincent</b><br/>......Lucrecia.</p>
+<p class="italic">Cloud shakes his head.</p>
+<p class="indent"><b>Vincent</b><br/>The woman who gave birth to Sephiroth.</p>
+<p class="indent"><b>Cloud</b><br/>...gave birth...?<br/>Wasn't Jenova Sephiroth's mother?</p>
+<p class="indent"><b>Vincent</b><br/>That isn't completely wrong, but just a theory.<br/>He was born from a beautiful lady.<br/>That lady was Lucrecia.<br/>She was an assistant to Professor Gast of the Jenova Project. Beautiful... Lucrecia.</p>
+<p class="indent"><b>Cloud</b><br/>...A human experiment?</p>
+<p class="indent"><b>Vincent</b><br/>There was no way to cancel the experiment.<br/>I couldn't stop her.<br/>That was my sin.<br/>I let the one I loved, the one I respected most, face the worst.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>That why you started sleepin' in a box? Gimme a break!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>So your punishment was to sleep? That's... kinda weird.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>So the punishment was sleep? That's weird.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>So you slept as punishment? Isn't that strange? That thinking...</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>OK. Boring story no. 1.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>You think that's punishing yourself? You're just sleeping.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>You shouldn't sleep just because of that. Sleep?</p>
+</blockquote>
+<p class="italic">Vincent lies back down.</p>
+<p class="indent"><b>Vincent</b><br/>Let me sleep...</p>
+<p class="italic">Cloud and the others start back down the hallway.</p>
+<p class="indent"><b>Vincent</b><br/>Wait!<br/>If I go with you will I meet Hojo?</p>
+<p class="indent"><b>Cloud</b><br/>Dunno. But we're after him and Sephiroth. So, I guess sooner or later...</p>
+<p class="indent"><b>Vincent</b><br/>Lucrecia...<br/>All right. I've decided to go with you.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>W, what?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Sure is a quick change of heart. Huh?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>What? You're coming with us?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>What?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Huh? Oh great just what I needed...</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>What?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hey, hold on sleepy. You're pretty damn pushy!</p>
+</blockquote>
+<p class="indent"><b>Vincent</b><br/>Being a former Turks, I may be of help to you...</p>
+<p class="indent"><b>Cloud</b><br/>All right, then.</p>
+<p class="italic"><a name="library"></a>Moving onward to the library, they find Sephiroth standing in the hallway leading to the study.</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth!</p>
+<p class="indent"><b>Sephiroth</b><br/>Being here brings back memories.<br/>Are you going to participate in the Reunion?</p>
+<p class="indent"><b>Cloud</b><br/>I don't even know what a Reunion is!</p>
+<p class="indent"><b>Sephiroth</b><br/>Jenova will be at the Reunion. Jenova will join the Reunion becoming a calamity from the skies.</p>
+<p class="indent"><b>Cloud</b><br/>Jenova, a calamity from the skies? You mean she wasn't an Ancient!?</p>
+<p class="indent"><b>Sephiroth</b><br/>...I see. I don't think you have the right to participate.<br/>I will go North past Mt. Nibel. If you wish to find out... then follow...</p>
+<p class="indent"><b>Cloud</b><br/>...Reunion? Calamity from the skies?</p>
+<p class="italic">Sephiroth throws a materia orb at Cloud and then flies past him out of the library.</p>
+<p class="indent"><b>Glass Tank</b><br/>C project specimen (B) codeC<br/>A scratch left by a fingernail inside the beaker... 'Let's get out of here...'.</p>
+<p class="indent"><b>Second Tank</b><br/>C project specimen (A) codeZ<br/>A scratch left by a fingernail inside the beaker... 'Feeding Time'... that's our chance...!</p>
+<p class="indent"><b>Escapee Report no. 1</b><br/>X Month X Day<br/>The two escapees were located near Midgar.</p>
+<p class="indent"><b>Escapee Report no. 2</b><br/>Description of the time of capture.<br/>A Former member of SOLDIER/Number ( )<br/>No effect could be detected from either Mako Radiation Therapy or Jenova on him.<br/>B Regular/Number ( )<br/>Reaction to Jenova detected.</p>
+<p class="indent"><b>Escapee Report no. 3</b><br/>Concerning their disposal.<br/>A Shot for resisting.<br/>B Escaped during A's resistance.</p>
+<p class="indent"><b>Escapee Report no. 4</b><br/>Other<br/>B's whereabouts is currently unknown. But, we submit there is no need to pursue him, due to his diminishing consciousness. Awaiting further instructions.</p>
+<p class="italic">Back outside the mansion...</p>
+<p class="indent"><b>Clone 2</b><br/>Great...... Sephi...... roth......... left us......<br/>Over... mountains...... gone......</p>
+<p class="italic">Cloud and the others leave Nibelheim to cross the mountains after Sephiroth.</p>
+
+</scene>

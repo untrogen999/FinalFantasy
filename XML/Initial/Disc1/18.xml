@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scene name="Gongaga">
+
+
+
+<h1>Gongaga - A Ruined Reactor</h1>
+
+<h4><a href="#turks">The Turks</a></h4>
+<h4><a href="#reactor">A Ruined Reactor</a></h4>
+<h4><a href="#village">Gongaga Village</a></h4>
+<h4><a href="#zack">Zack's House</a></h4>
+<hr></hr>
+<p class="italic"><a name="turks"></a>Cloud enters the forest surrounding Gongaga.</p>
+<p class="italic"><b>* Note</b>: Because the party can trigger these events by visiting Gongaga any time before getting the Keystone, Vincent and Cid's responses are included here as well. Red XIII also has slightly different dialogue after completing the events at Cosmo Canyon.</p>
+<p class="indent"><b>Cloud</b><br/>...Is someone there?</p>
+<p class="italic">Farther along the path, Reno and Rude stand talking.</p>
+<p class="indent"><b>Reno</b><br/>Hey, Rude. Who do you like?</p>
+<p class="italic">Rude turns away.</p>
+<p class="indent"><b>Reno</b><br/>What are you getting so embarrassed about? Come on? Who do you like?</p>
+<p class="indent"><b>Rude</b><br/>.........Tifa.</p>
+<p class="indent"><b>Reno</b><br/>Hmmmm...<br/>That's a tough one.<br/>But, poor Elena. She...... you......</p>
+<p class="indent"><b>Rude</b><br/>No, she likes Tseng.</p>
+<p class="indent"><b>Reno</b><br/>I never knew that! But Tseng likes that Ancient...</p>
+<p class="indent"><b>Cloud</b><br/>What are they talking about?</p>
+<p class="italic">Elena comes up from behind him, and he turns around in surprise.</p>
+<p class="indent"><b>Elena</b><br/>It's so stupid!<br/>They always talk about who they like or don't like. But Tseng is different.<br/>Ah! Oh no!</p>
+<p class="italic-inline">She runs past Cloud to join Reno and Rude.</p>
+<p class="block-inline">They're here! They're really here!</p>
+<p class="indent"><b>Reno</b><br/>Hmm... Then it's time...<br/>Rude... Don't go easy on them even though they're girls.</p>
+<p class="indent"><b>Rude</b><br/>...Don't worry, I'll do my job.</p>
+<p class="indent"><b>Elena</b><br/>Then, we're counting on you. I'll report to Tseng!</p>
+<p class="italic-inline">She runs off down the right fork of the path.</p>
+<p class="indent"><b>Reno</b><br/>It's been a while.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If coming any time before the Wutai sidequest...</span></p>
+	<p class="indent-nopad"><b>Reno</b><br/>Payback time for what you did in Sector 7.</p>
+	<p class="indent"><b>Cloud</b><br/>- Sector 7?<br/>- Out of our way</p>
+	<div class="block"/>
+	  <p><span class="highlight">Sector 7?</span></p>
+	  <p class="indent-nopad"><b>Reno</b><br/>That's sad.</p>
+	
+	<div class="block"/>
+	  <p><span class="highlight">Out of out way</span></p>
+	  <p class="indent-nopad"><b>Reno</b><br/>I don't like being taken for a fool.</p>
+	
+
+<p class="indent"><b>Rude</b><br/>That's as far as you go.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If coming after encountering the Turks in Wutai...</span></p>
+	<p class="indent-nopad"><b>Reno</b><br/>This is just part of the job. Don't take it personally.</p>
+
+<p class="italic">Cloud and the others fight and defeat Reno and Rude.</p>
+<p class="indent"><b>Reno</b><br/>We may be retreating, but...<br/>we're still victorious!</p>
+<p class="indent"><b>Rude</b><br/>...............</p>
+<p class="italic">Rude and Reno each check their watches and run off.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>I don't like it. How'd they find out where we were?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>...How could they know we were coming here.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Hey, something seems wrong, Like they knew we were coming.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Interesting... They were definitely waiting for us.</p>
+	<p class="italic-inline-nopad">Or, after Cosmo Canyon:</p>
+	<p class="block-inline-nopad">Hey, Cloud. How did the Turks know to wait and ambush us here?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>I don't like this! It's like the whole world knows where we're going.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>How'd they know that we were here?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>How did they know that we were here...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Man, looks like they've taken a short cut.</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>They followed us...... But there weren't any signs of it. Then, that means......</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>A spy, maybe? No, no way.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>That there's a Shinra spy...</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>A spy!?...No way.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>......someone's been informing them.</p>
+	<p class="italic-inline-nopad">Or, after Cosmo Canyon:</p>
+	<p class="block-inline-nopad">...You think someone told the Shinra about us?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Maybe it's someone in this group?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>You don't think there's a spy, do you Cloud?<br/>I hate this. Now everyone's gonna blame me because I'm new.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Means there's a Shinra spy...?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>And a couple of Shinra dogs are here too!</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>I don't even want to think that there's a spy...<br/>I trust everyone.</p>
+<p class="italic"><a name="reactor"></a>The right fork of the path leads to the ruins of a Mako reactor.</p>
+<p class="indent"><b>Cloud</b><br/>A ruined reactor.</p>
+<p class="italic">A helicopter lands outside the reactor, and Scarlet and Tseng get off.</p>
+<p class="indent"><b>Cloud</b><br/>It's Scarlet, Head of Shinra Weapon Development.</p>
+<p class="italic">He runs and hides in the rubble. Scarlet enters the reactor, Tseng following.</p>
+<p class="indent"><b>Scarlet</b><br/>......Hmph! This isn't any good either.<br/>You only get junky materia from junky reactors.<br/>This reactor's a failure.<br/>What I'm looking for is big, large, huge materia. You seen any?</p>
+<p class="indent"><b>Tseng</b><br/>...No I haven't seen it. I'll get on it right away.</p>
+<p class="indent"><b>Scarlet</b><br/>Please. We could make the ultimate weapon if we only had some.</p>
+<p class="indent"><b>Tseng</b><br/>I just can't wait.</p>
+<p class="indent"><b>Scarlet</b><br/>With Hojo gone, the Weapon Development's been betting a bigger budget.</p>
+<p class="indent"><b>Tseng</b><br/>I envy them.</p>
+<p class="indent"><b>Scarlet</b><br/>But, even if we make the perfect weapon, could that stupid Heidegger even use it?</p>
+<p class="indent"><b>Tseng</b><br/>......</p>
+<p class="indent"><b>Scarlet</b><br/>Oh... sorry! I forgot Heidegger was your boss! Ha ha ha!</p>
+<p class="indent"><b>Tseng</b><br/>......</p>
+<p class="indent"><b>Scarlet</b><br/>Let's go!</p>
+<p class="italic">She walks back towards the helicopter, and Tseng follows.</p>
+<p class="indent"><b>Cloud</b><br/>...Big, large, huge materia?<br/>An ultimate weapon? The perfect weapon?<br/>Just what are the Shinra up to...?</p>
+<p class="italic-inline">He waits for the helicopter to leave before getting out of his hiding place. He inspects the rubble.</p>
+<p class="block-inline">There's something shiny back there...<br/>- Don't do anything<br/>- Reach for it</p>
+<div class="highlight"/><p>Received "Titan" Materia!</p>
+<p class="italic"><a name="village"></a>Cloud goes back and takes the left fork, which leads to the village. Along the path there, there is a cemetery.</p>
+<p class="indent"><b>Old Man</b><br/>............<br/>No matter how much I pray, it won't bring our grandson back...</p>
+<p class="indent"><b>Redhead</b><br/>Three years ago when the reactor exploded, my husband...<br/>Do people really need reactors to live?<br/>Aren't there more important things in life...?</p>
+<p class="italic">Cloud enters the village and looks beyond to the reactor in the distance.</p>
+<p class="indent"><b>Cloud</b><br/>A ruined reactor.</p>
+<p class="italic">Inside the weapons shop...</p>
+<p class="indent"><b>Accessory Shopkeeper</b><br/>Huh...... did you want something?</p>
+<p class="indent"><b>Cloud</b><br/>- Buy accessories?<br/>- Hear a story?<br/>- Nothing in particular</p>
+<div class="block"/>
+  <p><span class="highlight">Buy accessories?</span></p>
+  <p class="italic">The shop menu opens.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Hear a story?</span></p>
+  <p class="indent-nopad"><b>Accessory Shopkeeper</b><br/>People can live without the Shinra's Mako Reactors.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Nothing in particular</span></p>
+  <p class="indent-nopad"><b>Accessory Shopkeeper</b><br/>They sell the weapons on the second floor. Climb up the pole to get there.</p>
+
+<p class="italic">Up the pole...</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>...You want something?</p>
+<p class="indent"><b>Cloud</b><br/>- Hear a story?</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>It's been a while since the explosion, but you can still find pieces of it left all over town.</p>
+<p class="italic">At the inn...</p>
+<p class="indent"><b>Innkeeper</b><br/>Uh... need somethin'?</p>
+<p class="indent"><b>Cloud</b><br/>- Hear a story?</p>
+<p class="indent"><b>Innkeeper</b><br/>One day, there was a huge explosion. Many townspeople died in it...</p>
+<p class="italic">At the Mayor's house...</p>
+<p class="indent"><b>Mayor</b><br/>This is Gongaga Village. Many people died here in a Mako reactor explosion.<br/>The Shinra people told us that everyone would be happy once the Reactor was built. But, all it brought us was sadness......</p>
+<p class="italic">In the Item Shop...</p>
+<p class="indent"><b>Item Shopkeeper</b><br/>Oh... you here to shop?</p>
+<p class="indent"><b>Cloud</b><br/>- Hear a story?</p>
+<p class="indent"><b>Item Shopkeeper</b><br/>Shinra built the reactor without even thinking about the town's safety. And, this is the result.</p>
+<p class="italic"><a name="zack"></a>The party enters the house of an older couple, Zack's parents.</p>
+<p class="indent"><b>Zack's Father</b><br/>You a traveller? Hey wait, that glare in your eye... you in SOLDIER?</p>
+<p class="indent"><b>Zack's Mother</b><br/>Oh you're right! Don't you know anything about our son?</p>
+<p class="indent"><b>Zack's Father</b><br/>His name is Zack.</p>
+<p class="indent"><b>Zack's Mother</b><br/>It's been close to 10 years since he left for the city, saying that he didn't want to live in the country...</p>
+<p class="indent"><b>Zack's Father</b><br/>He left saying he's going to join SOLDIER. You ever hear of a Zack in SOLDIER?</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If neither Aerith nor Tifa are in the party...</span></p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Hmmm... I don't know.</p>
+  <p class="italic-inline-nopad">He turns for the door.</p>
+  <p class="block-inline-nopad">...Zack.<br/>Zack. I don't know anything about that man.<br/>......But That name sounds familiar...<br/>Why...!?</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If both Aerith and Tifa are in the party...</span></p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Hmmm... I don't know.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Zack...</p>
+  <p class="indent-nopad"><b>Zack's Father</b><br/>Young lady, you know him?</p>
+  <p class="indent-nopad"><b>Zack's Mother</b><br/>I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you?</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>That can't...</p>
+  <p class="italic-inline-nopad">She leaves the house.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Zack...</p>
+  <p class="italic-inline-nopad">She follows.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>What happened to you two?</p>
+  <p class="italic-inline-nopad">He goes outside.</p>
+  <p class="block-inline-nopad">[<a href="#Aerith">Cloud talks to Aerith.</a>]<br/>[<a href="#tifa">Cloud talks to Tifa.</a>]</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If only Aerith is in the party...</span></p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Hmm.. I don't know.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Zack...</p>
+  <p class="indent-nopad"><b>Zack's Father</b><br/>Young lady, you know him?</p>
+  <p class="indent-nopad"><b>Zack's Mother</b><br/>I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you?</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>That can't...</p>
+  <p class="italic-inline-nopad">She leaves.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Aerith...</p>
+  <p class="italic-inline-nopad">He follows her outside.</p>
+  <p class="block-inline-nopad">[<a href="#Aerith">Cloud talks to Aerith.</a>]</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If only Tifa is in the party...</span></p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Hmmm... I don't know.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Zack...</p>
+  <p class="indent-nopad"><b>Zack's Father</b><br/>Young lady, you know him?</p>
+  <p class="indent-nopad"><b>Zack's Mother</b><br/>I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you?</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>...No, it wasn't.</p>
+  <p class="italic-inline-nopad">She walks outside.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Tifa... What happened?</p>
+  <p class="italic-inline-nopad">He follows her outside.</p>
+  <p class="block-inline-nopad">[<a href="#tifa">Cloud talks to Tifa.</a>]</p>
+
+<p class="italic"><a name="Aerith"></a>Cloud talks to Aerith.</p>
+<p class="indent"><b>Cloud</b><br/>Aerith...</p>
+<p class="indent"><b>Aerith</b><br/>What a shock... I didn't know Zack was from this town.</p>
+<p class="indent"><b>Cloud</b><br/>You know him?</p>
+<p class="indent"><b>Aerith</b><br/>Didn't I tell you? He was my first love.</p>
+<p class="indent"><b>Cloud</b><br/>............</p>
+<p class="indent"><b>Aerith</b><br/>Zack... SOLDIER First Class. Same as Cloud.</p>
+<p class="indent"><b>Cloud</b><br/>Strange, there aren't that many who make First Class, but I've never heard of him.</p>
+<p class="indent"><b>Aerith</b><br/>That's all right. It's all in the past now. I was just worried because I heard he's been missing.</p>
+<p class="indent"><b>Cloud</b><br/>Missing?</p>
+<p class="indent"><b>Aerith</b><br/>I think it was 5 years ago. He went out on a job, and never came back.<br/>He loved women, a real lady's man. He probably found someone else...<br/>Hey? What's wrong?</p>
+<p class="indent"><b>Cloud</b><br/>- Poor guy<br/>- (...jealous... envious...)</p>
+<div class="block"/>
+  <p><span class="highlight">Poor guy</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>I don't really mind that I haven't heard from him. But I feel for his parents.</p>
+
+<div class="block"/>
+  <p><span class="highlight">(...jealous... envious...)</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Are you... jealous? Hmm? Hmmm? Are you, Cloud?</p>
+  <p class="italic">He turns away.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>I'm kidding. I'm sorry.</p>
+
+<p class="indent"><b>Aerith</b><br/>Let's go, Cloud.</p>
+<p class="italic"><a name="tifa"></a>Cloud talks to Tifa.</p>
+<p class="indent"><b>Tifa</b><br/>Zack......</p>
+<p class="indent"><b>Cloud</b><br/>Do you know him?</p>
+<p class="indent"><b>Tifa</b><br/>N, no, I don't know him!</p>
+<p class="indent"><b>Cloud</b><br/>Your face tells me differently.</p>
+<p class="indent"><b>Tifa</b><br/>I told you, I don't!</p>
+<p class="indent"><b>Cloud</b><br/>A, all right.</p>
+<p class="indent"><b>Tifa</b><br/>............<br/>That sounds just like you, leaving town, and saying 'I'm joining SOLDIER!'.</p>
+<p class="indent"><b>Cloud</b><br/>There were a lot of guys like that back then.</p>
+<p class="indent"><b>Tifa</b><br/>You must really be something making it in SOLDIER out of a group like that.<br/>I really respect you...</p>
+<p class="indent"><b>Cloud</b><br/>- I just got lucky<br/>- I worked hard for it</p>
+<div class="block"/>
+  <p><span class="highlight">I just got lucky</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Don't be so humble!</p>
+
+<div class="block"/>
+  <p><span class="highlight">I worked hard for it</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Hard work pays off, huh.</p>
+
+<p class="indent"><b>Tifa</b><br/>Cloud, thanks for caring.</p>
+<p class="italic">Back at Zack's house.</p>
+<p class="indent"><b>Zack's Father</b><br/>Have you ever met someone in SOLDIER named Zack?</p>
+<p class="indent"><b>Zack's Mother</b><br/>I can't believe he hasn't contacted us in 10 years...! ...After all, we're his parents.</p>
+<p class="italic">Cloud and the others leave Gongaga and continue westward.</p>
+
+</scene>

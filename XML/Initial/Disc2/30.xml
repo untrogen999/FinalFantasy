@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="NorthernCrater">
+
+
+
+<h1>Northern Crater - Shinra's Promised Land</h1>
+
+<h4><a href="#glacier">Great Glacier and Gaea's Cliffs</a></h4>
+<h4><a href="#crater">Arrival at the Crater</a></h4>
+<h4><a href="#sephiroth">Encountering Sephiroth</a></h4>
+<h4><a href="#nibelheim">The Nibelheim Illusion</a></h4>
+<h4><a href="#shinra">The Shinra Arrive at the Crater</a></h4>
+<h4><a href="#deception">Sephiroth's Deception</a></h4>
+<h4><a href="#failure">Cloud's Failure</a></h4>
+<hr></hr>
+<p class="italic"><a name="glacier"></a>Flying off a cliff at the end of the snowboarding slopes, Cloud and the others land in Great Glacier.</p>
+<p class="indent"><b>Cloud</b><br/>Ugh...</p>
+<p class="italic-inline">He gets to his feet.</p>
+<p class="block-inline">I guess we're still in one piece.<br/>Everyone all right?</p>
+<p class="italic">The others get up.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Of course.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Yeah, somehow.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Got snow in my ear...</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>God! I can't stand it!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>A little off.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Yeah, I'm all right.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>I can't be doin' this! Damn!</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>So where did we land?<br/>Seems like it didn't end up being such a big jump... / We've jumped pretty far...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Hey, what's that!? They just gave you something, right? Let's use the [] button to find out.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Oh yeah, we got the map, right? Let's look at the map by pressing the [] button.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>At times like these, we need the map! Let's open it with the [] button.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Then, let's look at the map. Just open it with the [] button.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>We should check it on the map. Press the [] button.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Quick! The map, the map! Look at it with the [] button!</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>It sure is cold. We'll freeze if we stay here any longer.</p>
+<p class="italic">In the Frostbite Cave...</p>
+<p class="indent"><b>Cloud</b><br/>Looks like trouble.<br/>- We're outta here!<br/>- Wait a minute!</p>
+<p class="italic">Choosing "We're outta here," Cloud does some fancy footwork and ends up outside of Great Glacier entirely.</p>
+<p class="italic">There is a cave within the mountains where they find a woman in blue. If Cloud speaks to her without going to the hot springs...</p>
+<p class="indent"><b>Woman in Blue</b><br/>...Please leave.<br/>Please don't worry about me.<br/>Now, I don't want to harm any of you.<br/>And don't come back again.<br/>Please stop it.<br/>Please, that is enough.</p>
+<p class="italic">At the hot springs...</p>
+<p class="indent"><b>Cloud</b><br/>This is the only place not frozen.<br/>- Touch it<br/>- Let's go on</p>
+<p class="indent"><b>Cloud</b><br/>Hmm, a hot spring.</p>
+<p class="italic">Having gone to the hot springs, Cloud and the others may return to the woman in the mountain cave.</p>
+<p class="indent"><b>Woman in Blue</b><br/>Yeeew... You got a lot of nerve trying to touch me with the same dirty hands that touched that filthy hot spring!<br/>I'll never forgive you.</p>
+<p class="italic">Cloud and the others fight and defeat the Snow woman.</p>
+<p class="indent"><b>Woman in Blue</b><br/>Why this...?</p>
+<p class="italic-inline">The woman collapses.</p>
+<div class="highlight"/><p>Received "Alexander" Materia!</p>
+<p class="italic">Travelling into the northern reaches of the glacier, they end up on seemingly endless snowfields.</p>
+<p class="indent"><b>Cloud</b><br/>...Snow... as far as you can see... Better watch where I walk.<br/>...I'll place a landmark, and start walking.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud makes it to Holzoff's house on his own...</span></p>
+  <p class="indent-nopad"><b>Holzoff</b><br/>Now, this is a surprise!!<br/>How many years has it been since I last saw anyone here...?<br/>Oh, excuse me! My name is Holzoff. I've lived here for 20 years now.<br/>You mind listening to the stories of a lonely climber?<br/>Why don't we go to the next room and sit down.</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud collapses before reaching the house...</span></p>
+  <p class="italic">Cloud wakes to find himself in Holzoff's house.</p>
+  <p class="indent-nopad"><b>Holzoff</b><br/>You awake?<br/>You collapsed at the Great Glacier. It's a miracle you're all right.</p>
+  <p class="italic">Cloud scratches his head.</p>
+  <p class="indent-nopad"><b>Holzoff</b><br/>My name is Holzoff. I've been living here 20 years now.<br/>If you are planning to head North, you'd better listen to my story.<br/>Why don't we go to the next room and sit down.</p>
+
+<p class="italic">They go into the next room and sit down.</p>
+<p class="indent"><b>Holzoff</b><br/>You ever hear about those who challenged the cliff?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah<br/>- No</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah</span></p>
+  <p class="indent-nopad"><b>Holzoff</b><br/>The first time my friend Yamski and I tried to climb the cliff was 30 years ago.</p>
+
+<div class="block"/>
+  <p><span class="highlight">No</span></p>
+  <p class="indent-nopad"><b>Holzoff</b><br/>There's an old legend that says something fell from the sky here a long time ago.<br/>That's what's supposed to have pushed the land up and formed this cliff.<br/>30 Years ago, Yamski and I took this cliff on to see what was on the other side.</p>
+
+<p class="indent"><b>Holzoff</b><br/>But, we weren't prepared for it. We did expect the temperature to be low but...<br/>On that cliff, there's always a biting cold wind. The cold air lowers your body temperature.<br/>Yamski, was below me. He cut his own rope...<br/>...and I didn't even notice...<br/>Ever since then, I've settled here... continuing to challenge the cliff, and provide warning and shelter to my fellow climbers.<br/>If you're going to climb the cliff, there's 2 precautions you'll need to take.<br/>First, check your route... It's hard to find because of all the snow.<br/>Second, once you get to a ledge, make sure you warm yourselves up.<br/>Understand?</p>
+<p class="indent"><b>Cloud</b><br/>- One more time<br/>- Yes</p>
+<p class="indent"><b>Holzoff</b><br/>You must've used a lot of energy getting up here... Better get some rest before you head out.</p>
+<p class="italic">Cloud and the others spend the night and then gather outside.</p>
+<p class="indent"><b>Barret</b><br/>You know, I've been thinkin'...?</p>
+<p class="indent"><b>Cloud</b><br/>- What is it?<br/>- Save it for later</p>
+<p class="indent"><b>Barret</b><br/>...Seein' a place like this, makes you realize how awesome nature is.<br/>But, if anyone ever told me to live here, I'd tell them to... you know...<br/>I'll tell you one thing though, If I did have to live here I'd change things around 'n' make it better.<br/>I guess the total opposite of this would be...... Midgar.<br/>When you think of it that way, Shinra don't seem so bad...<br/>Uuuuuuurrrrrgh!!<br/>What the hell am I sayin'!? The Shinra, not bad!?</p>
+<p class="indent"><b>Cloud</b><br/>We'll secure the route. You come up later.</p>
+<p class="indent"><b>Barret</b><br/>Y'know... standing here like this...<br/>Kinda makes you feel like the Planet's not on our side, don't it?<br/>Of course we can't even compete. I mean... The Planet don't even notice us humans...</p>
+<p class="indent"><b>Tifa</b><br/>This blizzard's nothing! I gotta say that or... brr...</p>
+<p class="indent"><b>Nanaki</b><br/>I wonder what's at the top of that cliff? Well we shall see...</p>
+<p class="indent"><b>Yuffie</b><br/>Brrrr, I can't take this cold!!</p>
+<p class="indent"><b>Cait Sith</b><br/>This is secret info, but... Rufus's going to arrive here, too.</p>
+<p class="indent"><b>Vincent</b><br/>I wonder what's on the other side of the cliff...</p>
+<p class="indent"><b>Cid</b><br/>Damn! If I could just get back in the air, this cliff would be nothing!</p>
+<p class="italic">Cloud and the others scale Gaea's Cliffs. In a tunnel near the top of the cliffs, they come across one of the clones.</p>
+<p class="indent"><b>Clone</b><br/>Ugh...... Errgaahh!!</p>
+<p class="italic">It collapses and disappears. Cloud runs through the tunnel and runs into a two-headed dragon. After defeating it, Cloud and the others continue through the tunnel and reach the top of Gaea's Cliffs. They look over the edge at the crater and then start down the slope.</p>
+<p class="indent"><a name="crater"></a><b>Cloud</b><br/>An old crater...<br/>Something fell out of the sky and crashed down here......<br/>Leaving a scar on the planet.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>So all this energy's gathered here for the planet to heal itself?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>So the planet has gathered all this energy here to heal itself?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>The energy of the planet is concentrated here.<br/>It is slowly healing its old wound.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Even I know what's going on. The energy's bein' gathered here to heal the gash.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>It's trying to heal its wound by gathering all that energy here.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>It's amassed a vast amount of energy to heal itself.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Damn, this's somethin'. It's gathered all that energy to try an' heal itself.</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>Sephiroth took that energy and is trying to use Meteor.<br/>Next time the wound won't be so small.</p>
+<p class="italic">They continue down the slope.</p>
+<p class="indent"><b>Clone</b><br/>...b, back... to... Sep...... i... roth...</p>
+<p class="italic">Further down, they come to the edge of Whirlwind Maze.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Tifa is in the party...</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>The time has come to settle things with Sephiroth, huh?</p>
+  <p class="italic">Cloud nods.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>I, too, have lost many things because of Sephiroth.<br/>Let's go!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Tifa is not in the party...</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Cloud, wait for me!!<br/>Please take me with you. You're going to have it out with Sephiroth, aren't you?<br/>Because of Sephiroth, I, too, have lost many things, so please take me along.<br/>Don't say no. Okay?......</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>It can't be helped......</p>
+  <p class="italic">One of the others stays behind:</p>
+  <blockquote class="party-nopad">
+	  <p class="indent-nopad"><b>Barret</b><br/>The rest is up to you!</p>
+	  <p class="indent-nopad"><b>Nanaki</b><br/>I'm going to call everyone.</p>
+	  <p class="indent-nopad"><b>Yuffie</b><br/>Are you saying you don't like me?</p>
+	  <p class="indent-nopad"><b>Cait Sith</b><br/>I'll gather everybody, so you go on ahead.</p>
+	  <p class="indent-nopad"><b>Vincent</b><br/>Don't be caught off guard...... Sephiroth may be near.</p>
+	  <p class="indent-nopad"><b>Cid</b><br/>Man, I sure am thankful. Wanna rest a while?</p>
+  </blockquote>
+<p class="italic">They move on through the maze. Reaching the first wind wall, Cloud looks up.</p>
+<p class="indent"><b>Cloud</b><br/>That's......!!!</p>
+<hr></hr>
+<p class="italic">Above them flies the Highwind, with a full compliment of Shinra executives.</p>
+<p class="indent"><b>Rufus</b><br/>So, I finally found you.</p>
+<p class="indent"><b>Scarlet</b><br/>Kyaa haa hah.<br/>Kyaa haa hah.<br/>haa hah<br/>haa......... hah<br/>This is incredible......</p>
+<p class="indent"><b>Heidegger</b><br/>This is the Promised Land the President has been searching for!!</p>
+<p class="indent"><b>Rufus</b><br/>But, I'll be the one who gets it.<br/>Sorry, old man.</p>
+<p class="indent"><b>Hojo</b><br/>Heh heh heh......<br/>That land is no one's.<br/>It's where the Reunion will take place...... They will all gather here......<br/>I wonder if we'll see...... Sephiroth?</p>
+<hr></hr>
+<p class="italic">Back to Cloud and the first wind wall.</p>
+<p class="indent"><b>Tifa</b><br/>We need to cross when the wind is calm, or we'll get swept off!</p>
+<p class="indent"><b>Clones</b><br/>uph... Se... phi... roth...<br/>wh-... who---a</p>
+<p class="italic"><a name="sephiroth"></a>Beyond the first wind wall, a long trail of Sephiroth clones works its way towards the second wind wall. Beyond the second wall, Cloud comes upon Sephiroth attacking the clones.</p>
+<p class="indent"><b>Sephiroth</b><br/>This is the end... for all of you.</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth!!!<br/>This is the end!</p>
+<p class="indent"><b>Sephiroth</b><br/>You're right. This is the end of this body's usefulness.</p>
+<p class="italic-inline">He disappears and the screen tints red.</p>
+<p class="indent"><b>Cloud</b><br/>He disappeared!?</p>
+<p class="indent"><b>Tifa</b><br/>He might still be nearby......</p>
+<p class="block-grey">Our purpose is to deliver the Black materia to our master.</p>
+<p class="indent"><b>Cloud</b><br/>Our...?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>He got away?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>I feel something... danger?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>I was just getting into it!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Vanished?...That can't be!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Stay on alert. You never know when Sephiroth might appear.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hey, hey,! What's goin' on?</p>
+</blockquote>
+<p class="block-grey">Those who carry Jenova's cells...</p>
+<p class="indent"><b>Cloud</b><br/>Master...!?</p>
+<p class="block-grey">Of course... Sephiroth.<br/>Heh, heh, heh...</p>
+<p class="italic">Sephiroth leaps down and knocks them all to the ground. Cloud slowly gets to his feet, and they enter a battle with Jenova∙DEATH. Afterwards, the Black Materia is left lying on the ground.</p>
+<p class="indent"><b>Cloud</b><br/>Jenova's cells...<br/>...hmm. So that's what this is all about.<br/>The Jenova Reunion...</p>
+<p class="indent"><b>Tifa</b><br/>Not Sephiroth!? You mean all this time it wasn't Sephiroth we've been after?</p>
+<p class="indent"><b>Cloud</b><br/>I'll explain later. Right now, the only thing I'm thinking about is beating Sephiroth.</p>
+<p class="indent"><b>Tifa</b><br/>But Sephiroth is......</p>
+<p class="indent"><b>Cloud</b><br/>He's here. The real Sephiroth is just beyond here.<br/>It's both incredibly wicked and cruel...<br/>But it's releasing a powerfully strong will from deep within this planet's wound.</p>
+<p class="italic-inline">He walks forward to pick up the Black Materia.</p>
+<p class="block-inline">...The Black Materia is back in our hands.<br/>Now all we have to do is defeat Sephiroth and that'll be the end of it.</p>
+<p class="indent"><b>Tifa</b><br/>We'd better not take the Black Materia any further. Why don't you give it to someone else to hold on to?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Nanaki</b><br/>What's happening, Cloud? That wasn't Sephiroth!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>What!? You mean that wasn't Sephiroth? All that time I was following this... thing?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>You serious!? That's not Sephiroth!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>You mean... we weren't in pursuit of Sephiroth...?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hoo-boy...</p>
+</blockquote>
+<p class="indent"><b>Yuffie</b><br/>I don't want anything to do with that Black Materia!</p>
+<p class="indent"><b>Cait Sith</b><br/>No, not the Black materia, please.</p>
+<p class="indent"><b>Vincent</b><br/>How about if you hold on to the Black Materia?</p>
+<p class="indent"><b>Cloud</b><br/>I don't think I can...</p>
+<p class="indent"><b>Cid</b><br/>Me and Black Materia just don't mix.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">Cloud gives the Black Materia to Barret.</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>Damn, man! ...Pressure's on now.</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">Cloud gives the Black Materia to Nanaki.</span></p>
+  <p class="indent-nopad"><b>Nanaki</b><br/>You want me to take the Black Materia? ......all right, I understand.</p>
+
+<p class="indent"><b>Cloud</b><br/>Don't give it to ANYONE. I'm counting on you.</p>
+<p class="indent"><b>Barret</b><br/>Sephiroth...... What a damn crazy #*&amp;^%.</p>
+<p class="indent"><b>Nanaki</b><br/>Cloud, be careful!</p>
+<p class="indent"><b>Yuffie</b><br/>Shouldn't we hurry? The real Sephiroth is still close, right?</p>
+<p class="indent"><b>Cait Sith</b><br/>Something feels rea---lly weird here!</p>
+<p class="indent"><b>Vincent</b><br/>You never know when Sephiroth may show up... so don't let your guard down.</p>
+<p class="indent"><b>Cid</b><br/>Let me catch some shut-eye.</p>
+<p class="indent"><b>Tifa</b><br/>Let's find Sephiroth!!</p>
+<p class="indent"><b>Cloud</b><br/>We're going in first! You guys stay and keep watch.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>I'll take care of the Black Materia. No matter what happens, I'll be right here.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>I'll protect the Black Materia no matter what!</p>
+</blockquote>
+<p class="italic"><a name="nibelheim"></a>Cloud moves on past the final wind wall and suddenly everything goes white.</p>
+<p class="indent"><b>Tifa</b><br/>What is this? What happened?</p>
+<p class="indent"><b>Cloud</b><br/>Calm down, Tifa.<br/>Sephiroth is near. Anything could happen.</p>
+<p class="italic">The surroundings change to Nibelheim. Cloud and the others stand at its gates.</p>
+<p class="indent"><b>Tifa</b><br/>Nibelheim...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Why Nibelheim!? Are you high on Mako or something?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>But, why!? A dream? An illusion?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>But why Nibelheim? This is freaky, REALLY freaky!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>But Tifa! Isn't this an illusion?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...Why...... is it an illusion?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>What the hell? Why Nibelheim!?</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>This is an illusion Sephiroth made up.<br/>He's trying to confuse us.<br/>It'll be all right. As long as we know it's an illusion, there's nothing to be afraid of.<br/>Come on, let's keep going.</p>
+<p class="indent"><b>Tifa</b><br/>Yeah, you're right...<br/>Look!!</p>
+<p class="italic">They turn around and run aside as Sephiroth walks up to the gates. He turns to someone behind him.</p>
+<p class="indent"><b>Sephiroth</b><br/>All right, let's go.</p>
+<p class="italic">Two soldiers and a man with spiky black hair follow Sephiroth into Nibelheim.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>That ain't Cloud... The hell is he?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Cloud's not here... I wonder who...... this is...?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Huh---! Cloud's not here.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Cloud, something's strange here. Who is this guy?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...It's not Cloud. Who is this man?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Cloud's not here......</p>
+</blockquote>
+<p class="italic">Tifa shakes her head, and the others turn to look at her.</p>
+<p class="indent"><b>Tifa</b><br/>Stop... Sephiroth.</p>
+<p class="indent"><b>Cloud</b><br/>This is so stupid...</p>
+<p class="italic">A flash, and Sephiroth and the others vanish.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>How the hell're we gonna get outta here?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Is this illusion going to continue forever? How do we get out of it?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>I don't want to be in an illusion. Let's get back to the real world!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Come on, we have to hurry back to the real world!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Now, how can we get out of here...?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hey, Cloud. Let's get back to the real world, huh.</p>
+</blockquote>
+<p class="indent"><b>Tifa</b><br/>Cloud... It's just an illusion.<br/>Don't worry about it...</p>
+<p class="italic">Another flash of white.</p>
+<p class="indent"><b>Cloud</b><br/>What's... next?</p>
+<p class="indent"><b>Tifa</b><br/>Stop it already!!</p>
+<p class="italic">A burning Nibelheim fades into view.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>This is bad... Just like Corel.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>This is terrible... Did Sephiroth do this?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Wow...... I didn't know it was THIS bad...</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>This is insane...</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...All this... while I was sleeping...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>This is terrible...</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>...This is what actually happened five years ago.<br/>But...<br/>It's probably not me that's going to come out of the Shinra mansion.<br/>He's going to try and show us another stupid illusion.</p>
+<p class="italic">The black-haired SOLDIER runs out of the mansion.</p>
+<p class="indent"><b>Cloud</b><br/>See... didn't I tell you?</p>
+<p class="italic">The SOLDIER shakes his head and walks closer to the burning buildings.</p>
+<p class="indent-grey"><b>Zangan</b><br/>Hey it's you! You're still sane, right?</p>
+<p class="italic">The SOLDIER nods.</p>
+<p class="indent-grey"><b>Zangan</b><br/>Then come over here and help me!</p>
+<p class="italic">The SOLDIER runs over to help Zangan.</p>
+<p class="indent"><b>Tifa</b><br/>I don't want to... watch this. Cloud... don't watch.</p>
+<p class="indent-grey"><b>Zangan</b><br/>I'll check this house. You check that one over there!</p>
+<p class="italic-inline">He runs into one of the houses.</p>
+<p class="indent"><b>Cloud</b><br/>...What's wrong, Tifa? I told you before, right?<br/>As long as we know that it's just an illusion, there's no need to be scared.</p>
+<p class="italic">The screen goes white and Cloud and the others find themselves in the midst of the burning town square. Nearby, the man with the camera lies motionless.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Hey, you awright!?<br/>Damn! This was an illusion.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>You all right!!<br/>We were in an illusion...</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>He... hey, you! You alright!?<br/>Oh, a dream! But it felt so real...</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Everyone Ok?<br/>Umm...this was a hallucination.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...You all right?<br/>Hmm... it was an illusion.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>He...hey you!<br/>You alright!?</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>Sephiroth! I know you're listening! I know what you want to say!<br/>That I wasn't in Nibelheim five years ago.<br/>That's it, isn't it?</p>
+<p class="italic">A flash, and Sephiroth appears before them.</p>
+<p class="indent"><b>Sephiroth</b><br/>I see you finally understand.</p>
+<p class="indent"><b>Cloud</b><br/>What you are trying to say is that you want to confuse me, right?<br/>But... even making me see those things won't affect me.<br/>I remember it all. The heat of the fire... the pain in my body... and in my heart!</p>
+<p class="indent"><b>Sephiroth</b><br/>Oh, is that so?<br/>You are just a puppet... You have no heart... and cannot feel any pain...<br/>How can there be any meaning in the memory of such a being?<br/>What I have shown you is reality. What you remember, that is the illusion.</p>
+<p class="indent"><b>Everyone</b><br/>Cloud...</p>
+<p class="indent"><b>Sephiroth</b><br/>...Do you understand?</p>
+<p class="indent"><b>Cloud</b><br/>I don't want to understand.<br/>But, I want to ask you one thing. Why... why are you doing this?</p>
+<p class="indent"><b>Sephiroth</b><br/>Ha, ha, ha......<br/>I want to take you back to your real self.<br/>The one who gave me the Black Materia that day...<br/>Who would have ever thought a failed experiment would prove so useful?<br/>Hojo would die if he knew.</p>
+<p class="indent"><b>Cloud</b><br/>Hojo!? What does he have to do with me!?</p>
+<p class="indent"><b>Sephiroth</b><br/>Five years ago you were...<br/>...constructed by Hojo, piece by piece, right after Nibelheim was burnt.<br/>A puppet made up of vibrant Jenova cells, her knowledge, and the power of Mako.<br/>An incomplete Sephiroth-clone. Not even given a number. ...That is your reality.<br/>Ha, ha, ha......</p>
+<p class="indent"><b>Tifa</b><br/>Cloud... Don't listen to him...<br/>Close your ears! Close your eyes!</p>
+<p class="indent"><b>Cloud</b><br/>What's wrong, Tifa? I'm not affected by it.<br/>...I wasn't paying attention to him.</p>
+<p class="indent"><b>Tifa</b><br/>All that talk of Hojo constructing you is a lie.<br/>Don't we have our memories together?<br/>Being kids together, starlit nights...</p>
+<p class="indent"><b>Sephiroth</b><br/>Ha, ha, ha... Tifa...<br/>Why are you so worried and scared by those words?<br/>Hmm... Shall I show everyone here what's in your heart?</p>
+<p class="italic">Tifa turns away from both him and Cloud.</p>
+<p class="indent"><b>Sephiroth</b><br/>Ha, ha, ha... You look like you're not feeling well.</p>
+<p class="indent"><b>Cloud</b><br/>...Tifa? Is Sephiroth right?</p>
+<p class="indent"><b>Tifa</b><br/>Cloud...</p>
+<p class="indent"><b>Cloud</b><br/>Why are you so scared? Don't worry about me. I'm all right.<br/>No matter how confused I am, I'll never believe a word that Sephiroth says.<br/>It's true that sometimes I can't figure out who I am.<br/>There's a lot of things muddled up in my memories.<br/>But, Tifa......<br/>But you said, 'Long time no see, Cloud' right?<br/>Those words will always support me.<br/>I am the one you grew up with. I'm Cloud of Nibelheim.<br/>No matter how much I lose faith in myself, that is the truth.<br/>That's why you shouldn't be so scared.<br/>No matter what anyone else says to me, it's your attitude that counts...</p>
+<p class="indent"><b>Tifa</b><br/>No, that's not true, Cloud......</p>
+<p class="indent"><b>Cloud</b><br/>What's not? Aren't I the same Cloud you grew up with?</p>
+<p class="indent"><b>Tifa</b><br/>That's not what I mean... I don't know how to say it...<br/>Cloud, I need some time... Just give me a little time...</p>
+<p class="italic">A flash and Sephiroth appears beyond the fire.</p>
+<p class="indent"><b>Sephiroth</b><br/>Cloud... Don't blame Tifa.<br/>The ability to change one's looks, voice, and words, is the power of Jenova.<br/>Inside of you, Jenova has merged with Tifa's memories, creating you.<br/>Out of Tifa's memory......<br/>A boy named Cloud might've just been a part of them.</p>
+<p class="italic-inline">He disappears in another flash.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud...<br/>Please... don't think right now.</p>
+<p class="italic">Sephiroth reappears closer to them.</p>
+<p class="indent"><b>Sephiroth</b><br/>Ha, ha, ha...... Think, Cloud!<br/>...Cloud? Ha, ha, ha...... Oh, excuse me. You never had a name...</p>
+<p class="indent"><b>Cloud</b><br/>Shut up... Sephiroth.</p>
+<p class="indent"><b>Sephiroth</b><br/>You still don't understand? Then...</p>
+<p class="italic-inline">He turns away and laughs.</p>
+<p class="block-inline">Do you remember the picture that we took before we headed for Mt. Nibel?<br/>...Tifa, you remember, right?<br/>But there is no way he would know.<br/>Now... what happened to that picture?</p>
+<p class="italic-inline">He walks over to the motionless camera man.</p>
+<p class="block-inline">......is this it?<br/>...Do you want to see it? It turned out pretty good.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud... don't...</p>
+<p class="indent"><b>Cloud</b><br/>I... should be in the picture.<br/>Even if I'm not in there, no worry. This is just an illusory world Sephiroth made up.</p>
+<p class="italic">Cloud walks over to look at the photo. The black-haired SOLDIER is standing where Cloud should have been.</p>
+<p class="indent"><b>Cloud</b><br/>...Just as I thought.<br/>This picture's a fake. The truth is in my memory.<br/>...Five years ago, I came back to Nibelheim, to inspect the reactor. I was sixteen.<br/>The town hadn't changed at all. What did I do...? Oh yeah...<br/>I saw my mom. I saw the people in town.<br/>Yeah, I went to Tifa's room. There, I...<br/>I played the piano!<br/>I looked in the drawers!<br/>I read the letter addressed to Tifa!<br/>I spent the night and went to the reactor in Mt. Nibel. I was excited about it.<br/>Because that was my first mission after becoming First Class in SOLDIER.</p>
+<p class="italic">Flash.</p>
+<p class="indent"><b>Cloud</b><br/>...SOLDIER, First Class?</p>
+<p class="italic-inline">He shakes his head.</p>
+<p class="block-inline">...SOLDIER? When did I enter SOLDIER?</p>
+<p class="italic-inline">He clutches his head.</p>
+<p class="block-inline">How did I join SOLDIER?</p>
+<p class="italic-inline">He falls to his knees.</p>
+<p class="block-inline">Why... why can't I remember?<br/>I'm... I'm...</p>
+<p class="italic-inline">He gets back to his feet.</p>
+<p class="block-inline">That's right...<br/>...I didn't have to worry about it, because I was...</p>
+<p class="italic">The screen fades to black.</p>
+<p class="indent"><b>Tifa</b><br/>......Cloud?</p>
+<p class="indent"><b>Cloud</b><br/>Let's go, Tifa. I'm... I'm all right.</p>
+<hr></hr>
+<p class="italic"><a name="shinra"></a>Meanwhile, the Shinra have arrived at the center of the crater.</p>
+<p class="indent"><b>Scarlet</b><br/>Wow!! That's amazing!<br/>It's all Materia!!</p>
+<p class="indent"><b>Rufus</b><br/>The outside is rich with mako energy. The inside is a treasure trove of Materia. This truly is the Promised Land.</p>
+<p class="indent"><b>Hojo</b><br/>There is no such thing as the Promised Land. it's a legend... an old wives tale...... it's utterly ridiculous.</p>
+<p class="indent"><b>Rufus</b><br/>Everything's as I imagined it to be. Isn't it splendid?<br/>It is that kind of dullness that makes you a second-rate scientist.</p>
+<p class="italic">The ground starts quaking.</p>
+<p class="indent"><b>Rufus</b><br/>What's happening?</p>
+<p class="indent"><b>Scarlet</b><br/>It's coming from within the wall! Something's in there! It's moving!</p>
+<p class="italic">A huge eye in the wall opens and closes.</p>
+<p class="indent"><b>Hojo</b><br/>Weapon...<br/>Then it really does exist... I didn't believe in it.</p>
+<p class="indent"><b>Rufus</b><br/>What does this mean?</p>
+<p class="indent"><b>Hojo</b><br/>...Weapon. Monsters created by the Planet.<br/>It appears when the Planet is in danger, reducing everything to nothingness.<br/>That's what was stated in Professor Gast's report.</p>
+<p class="indent"><b>Rufus</b><br/>I never saw that report... Where is it?</p>
+<p class="italic">Hojo taps his head.</p>
+<p class="indent"><b>Hojo</b><br/>Here, right here.</p>
+<p class="indent"><b>Rufus</b><br/>You keep a lot of things to yourself.</p>
+<hr></hr>
+<p class="italic"><a name="deception"></a>Back with who Cloud left guarding the Black Materia...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Are Cloud and the others awright?<br/>But what's up with that? One little piece of materia, destroying the planet...</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>I wonder how Cloud and the others are...<br/>It's hard to believe... such a small piece of materia is able to destroy the Planet...</p>
+</blockquote>
+<p class="italic">Suddenly the others disappear and the background becomes a roiling green.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>What the......?<br/>The hell was that?<br/>H, huh!?<br/>Hey... Guys!<br/>Where are we? Where did we end up?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>What the!?<br/>Is everyone all right?<br/>What's going on?<br/>Where am I!? Don't leave me alone!</p>
+</blockquote>
+<p class="italic">Tifa comes running up.</p>
+<p class="indent"><b>Tifa</b><br/>Barret, you're here! I'm so glad!!</p>
+<p class="italic-inline">Or:</p>
+<p class="block-inline">Nanaki, you're here! I'm so glad!!</p>
+<p class="italic">The background returns, but still no one else is there.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Tifa!!<br/>Something's weird here! It got pitch black all of a sudden, and everyone disappeared!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Tifa!!<br/>Something is strange... Why was it dark all of a sudden and where is everybody?</p>
+</blockquote>
+<p class="indent"><b>Tifa</b><br/>Everyone's waiting! Cloud's in trouble!<br/>Please come. Help us!<br/>Over there!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Yea... yeah!<br/>I don't know what's goin' on, but let's just get on with it.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>R, right!<br/>I'm not sure I understand... but I'll go if you want me to.</p>
+</blockquote>
+<p class="italic">Barret or Nanaki nods to Tifa and runs off in the indicated direction.</p>
+<p class="indent"><b>Tifa</b><br/>......hee hee hee... And remember...</p>
+<p class="italic">Tifa's image morphs into Sephiroth.</p>
+<p class="indent"><b>Sephiroth</b><br/>...the Black Materia!</p>
+<p class="italic">He disappears, and the others are visible again, lying unconscious.</p>
+<hr></hr>
+<p class="italic"><a name="failure"></a>Back to the Shinra...</p>
+<p class="indent"><b>Scarlet</b><br/>Mr. President... I've got a bad feeling about this place...</p>
+<p class="indent"><b>Rufus</b><br/>Hmm... maybe we should go back to our ship now.<br/>We need to prepare for the inspection anyway.</p>
+<p class="italic">A flash, and Cloud his party appear among them.</p>
+<p class="indent"><b>Scarlet</b><br/>Hey!!! Where did you come from?</p>
+<p class="indent"><b>Cloud</b><br/>...don't know...<br/>This place is going to get rough.<br/>Better leave things to me and get out of here while you still can!!</p>
+<p class="indent"><b>Rufus</b><br/>Leave things to you? Hmph... I don't know what you mean.</p>
+<p class="indent"><b>Cloud</b><br/>This is where the Reunion is happening. Where everything begins and ends.</p>
+<p class="indent-grey"><b>Tifa</b><br/>Cloud!!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Hey! We're here to help you!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>I'm here! I'm here to help you, Cloud!</p>
+</blockquote>
+<p class="italic">Cloud clutches his head and slowly walks towards Barret or Nanaki.</p>
+<p class="indent"><b>Cloud</b><br/>Thanks... Barret. Where's the Black Materia?</p>
+<p class="italic-inline">Or:</p>
+<p class="block-inline">Thanks... Nanaki. Where's the Black Materia?</p>
+<p class="indent-grey"><b>Tifa</b><br/>Cloud!!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>It's safe. I have it.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>It's safe. I'm holding on to it.</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>I'll take it from here. Give me the... Black Materia.</p>
+<p class="indent-grey"><b>Tifa</b><br/>You can't hear my voice?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>You alright?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Are you all right, Cloud?</p>
+</blockquote>
+<p class="italic">Cloud nods.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Okay then, here. Had a lot of pressure holding this thing.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Then... here you go. I was a little apprehensive holding this thing.</p>
+</blockquote>
+<p class="indent-grey"><b>Tifa</b><br/>No, don't!! Please stop, Cloud!</p>
+<p class="indent"><b>Cloud</b><br/>Thanks. ......leave the rest to me</p>
+<p class="italic">The screen goes white momentarily.</p>
+<p class="block-color">Come on. The Black materia...</p>
+<p class="block-grey">Wait! Just a little longer!</p>
+<p class="indent"><b>Cloud</b><br/>Everyone, thanks for everything. And... I'm sorry.<br/>...Sorry.<br/>...Sorry.<br/>Especially you, Tifa. I'm really sorry.<br/>You've been so good to me...... I don't know what to say...<br/>I never lived up to being 'Cloud'.<br/>Tifa...... Maybe one day you'll meet the real 'Cloud'.</p>
+<p class="italic">Tifa shakes her head and falls to her knees.</p>
+<p class="indent"><b>Hojo</b><br/>Ha, ha, ha... this is perfect!!!<br/>It means that my experiment was a complete success.<br/>What number were you? Huh? Where is your tattoo?</p>
+<p class="indent"><b>Cloud</b><br/>Professor Hojo... I don't have a number.<br/>You didn't give me one because you said I was a failed experiment.</p>
+<p class="indent"><b>Hojo</b><br/>What the--? You mean only a failure made it here?</p>
+<p class="indent"><b>Cloud</b><br/>Professor... please give me a number. Please, Professor...</p>
+<p class="indent"><b>Hojo</b><br/>Shut up, miserable failure...</p>
+<p class="italic">Cloud flies up into a tangle of branches above them.</p>
+<p class="indent"><b>Rufus</b><br/>Who... was that?</p>
+<p class="indent"><b>Hojo</b><br/>...He's a Sephiroth-clone I created after the real Sephiroth died five years ago.<br/>Jenova cells and Mako, with my knowledge and skills, have been combined with science and nature to bring him to life.<br/>...I'm not wild about the failure part, but the Jenova Reunion Theory has now been proven.<br/>You see, even if Jenova's body is dismembered, it will eventually become one again. That's what is meant by Jenova's Reunion.<br/>I have been waiting for the Reunion to start. Five years have passed, and now the Clones have begun to return.<br/>I thought the clones would begin to gather at Midgar where Jenova is stored.<br/>But my predictions were not entirely correct. Jenova itself began to move away from the Shinra Building.<br/>But being a genius that I am, I soon figured it out. You see it was all Sephiroth's doing.<br/>Sephiroth is not just content to diffuse his will into the Lifestream; he wants to manipulate the Clones himself.</p>
+<p class="block-grey">Yes, that was how it got started.</p>
+<p class="indent"><b>Hojo</b><br/>I wondered where the clones were going, but I was never able to figure it out.</p>
+<p class="block-grey">I couldn't figure it out, either.</p>
+<p class="italic">Below, the third party member runs over to Tifa and helps her up.</p>
+<p class="indent"><b>Hojo</b><br/>The one thing that I did know was that Sephiroth was at their final destination.</p>
+<p class="block-grey">I wasn't pursuing Sephiroth.<br/>I was being summoned by Sephiroth.<br/>All the anger and hatred I bore him, made it impossible for me to ever forget him. That and what he gave me.</p>
+<p class="italic">Cloud stands.</p>
+<p class="block-grey">Sephiroth? Sephiroth? I'm here. And I brought you the Black materia.<br/>Show yourself to me. Where are you?<br/>Sephiroth... So we finally meet again.</p>
+<p class="italic">At the center of the tangle of branches, Sephiroth's body is encased in a huge crystal, his eyes closed.</p>
+<p class="indent"><b>Hojo</b><br/>Did you see it!! It's Sephiroth! So he IS here!<br/>This is perfect! Both Jenova's Reunion and Sephiroth's will!<br/>They won't be diffused into the Lifestream,<br/>but gathered here! Mwa, haa, ha,......</p>
+<p class="indent"><b>Tifa</b><br/>What are you so happy about, Professor? You know what this means, don't you?<br/>Cloud has the Black Materia!<br/>Sephiroth is going to summon Meteor! Every single person is going to die!</p>
+<p class="indent"><b>Rufus</b><br/>Whatever I say now is too little... too late...... We must evacuate.<br/>I want you all to come with me. There is still much more I want to hear.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Yo! Cloud! Stop! Knock it off!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Cloud, NO! Stop! Please!</p>
+</blockquote>
+<p class="indent"><b>Tifa</b><br/>Cloud------!!</p>
+<p class="italic">Cloud gives the Black Materia to Sephiroth. Below, the others run for the Highwind, leaving him behind, and the airship pulls away from the Northern Crater as the Planet's Weapons explode from hiding.</p>
+<br/>
+
+</scene>

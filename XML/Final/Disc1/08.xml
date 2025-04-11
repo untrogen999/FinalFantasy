@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="ShinraBuilding">
+
+<sp> The Shinra Building </sp>
+
+<sp> Arrival at Shinra Headquarters </sp>
+<sp> The 60th Floor </sp>
+<sp> The 61st Floor: Lounge </sp>
+<sp> The 62nd Floor: Mayor's Office + Shinra Library </sp>
+<sp> The 63rd Floor: Coupon Exchange </sp>
+<sp> The 64th Floor: Gym </sp>
+<sp> The 65th Floor: Model of Midgar </sp>
+<sp> The 66th Floor: Conference Hall </sp>
+<sp> The 67th Floor: Hojo's Lab </sp>
+<sp> Captivity </sp>
+<sp> A Trail of Blood </sp>
+<sp> Escaping the Shinra Building </sp>
+
+<stage>Cloud, Tifa, and Barret stand before Shinra Headquarters.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey, you oughta know this building well. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Not really, now that I think about it,<boxstart/>This's the first time I've ever been to the Headquarters. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I heard about this place before.<boxstart/>Every floor above the 60th is special and not easy to get to even for employees.<boxstart/>Must be where they took <referent name="Aerith">Aerith</referent>.<boxstart/>The security's pretty light now. Awright, let's go!! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Wait a second! You're not thinking of just going right through the main entrance, are you? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Well what else does it look like!? I'm gonna kick some Shinra butt and...... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>That's not going to work! We've got to find another way... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Ain't gonna be no other way! If we keep wastin' time like this, <referent name="Aerith">Aerith</referent>'ll... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I know that! But if we get caught here...<boxstart/>Hey, <referent name="Cloud">Cloud</referent>. ...What should we do? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Let's bust on in!<boxstart/>- Let's sneak in quietly </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Let's bust on in! </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>That's more like it! C'mon, let's go!! </sp>
+  <stage>They run inside.</stage>
+  <sp> <speaker name="Receptionist">Receptionist</speaker><boxstart/>Excuse me! If you don't have an appointment, you'll just have to... </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Don't need no appointment... This is a 'mergency!<boxstart/>Anyone who don't wanna get their face bashed in better git outta the way!! </sp>
+  <stage>He aims his gun-arm at the receptionist.</stage>
+  <sp> <speaker name="Receptionist">Receptionist</speaker><boxstart/>Yaagghh! </sp>
+  <sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>Who do they think they are?<boxstart/>Y, You don't think that's AVALANCHE?<boxstart/>Intruders! Seize them!! </sp>
+  <stage>Everyone else flees as the soldiers run to fight Cloud and the others, who defeat them with ease.</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Let's go to the top! </sp>
+  <stage>They run up a staircase to the second floor. There is a bulletin board there with flyers.</stage>
+  <sp> <speaker name="Bulletin">Bulletin</speaker><boxstart/>Shinra, Inc. This week's phrase<boxstart/>Shinra's Future Is The World's Future!!<boxstart/>Mako Energy For A Brighter World!! </sp>
+  <sp> <speaker name="Flyer">Flyer</speaker><boxstart/>Turtle's Paradise Newsletter No. 2<boxstart/>The end of another hard day. Wouldn't you like to sit back with a tall cool one?<boxstart/>You can at the Turtles Paradise!! Stop in today!<boxstart/>There's nothing like a smooth one after work! </sp>
+  <stage>There's a shop nearby, and a couple is looking at a car advertisement on a television screen.</stage>
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>Honey...... Buy me that car! </sp>
+  <sp> <speaker name="Man">Man</speaker><boxstart/>But baby, that's way too expensive. </sp>
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>What did you say? </sp>
+  <stage>They notice Cloud and the others.</stage>
+  <sp> <speaker name="Man + Woman">Man + Woman</speaker><boxstart/>......... </sp>
+  They flee.
+  Hh, hey!<boxstart/>Ww, wait for meeeeeeee............!
+  <sp> <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Welcome. Today we have on special...<boxstart/>Eagghhh!!<boxstart/>Here, t, take the money... </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Don't want no money. AVALANCHE ain't no packa criminals.<boxstart/>We jes want back what your boss stole from us. </sp>
+  <sp> <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>A, AVALANCHE? </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Now we ain't gonna hurt you. Might even pay ya, if ya help us. </sp>
+  <sp> <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Ok... ok... well...<boxstart/>Thank you and come again... Forget I said that... </sp>
+  <stage>If they try to open the treasure chests...</stage>
+  <sp> <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>You opened up all those things without asking and, hey wait! </sp>
+  <stage>Cloud and the others leave and get on an elevator.</stage>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......What's wrong? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I didn't want to start a ruckus till we saved <referent name="Aerith">Aerith</referent>.<boxstart/>I should have known that was impossible though... </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Heh, heh, heh. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What is it? You're givin' me the willies. </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>So there are times when even you fight for other people. I am impressed. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Who cares if you're impressed...? </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Y'know, I ain't so good at sayin' this, but... Sorry... for lotsa things. </sp>
+  <stage>A red light starts flashing and alarms go off.</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Wh, what the!? </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Look! </sp>
+  <stage>The numbers on the elevator are all scrambling.</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>DA-MN...!<boxstart/>I don't care where, <referent name="Cloud">Cloud</referent>! Just stop it! </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What's going on!? </sp>
+  <stage>The elevator stops four times before finally reaching the 59th floor. On some of the floors, instead of fighting Shinra soldiers, a Shinra employee may attempt to get on the elevator.</stage>
+  <sp> <speaker name="Shinra Employee">Shinra Employee</speaker><boxstart/>Oh man!!<boxstart/>No, uh, that's all right. My mistake. I'm, uh, not getting on.<boxstart/>Oh man!! </sp>
+  [on to the 59th floor]
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Let's sneak in quietly </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>See? Let's be careful and find a different route! </sp>
+  <stage>They enter through a side entrance and start climbing the stairs.</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo! You really gonna take these stairs all the way up? </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Well, we've got to get to <referent name="Aerith">Aerith</referent> to help her somehow. </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Talk about out of the way... </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I don't have time to argue with you. I'm going! </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Y, yo, <referent name="Tifa">Tifa</referent>! Don't go off by yourself... </sp>
+  <stage>Barret and Cloud follow Tifa up the stairs.</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Don't know... Why... the hell... We gotta... climb... </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Because we don't want to start a commotion until we've saved <referent name="Aerith">Aerith</referent>.<boxstart/>I doubt that's possible though... </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>...heh heh heh. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Knock it off. You're giving me the creeps. </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>So even you will fight for someone else. I had you figured wrong I guess. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Who cares what you figured! </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>I'm just sayin' mebbe I was wrong... </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>heh heh heh...... </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's that supposed to mean, <referent name="Tifa">Tifa</referent>? </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>...how much farther do these stairs go on? </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Why don't you ask them? </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>It's not one of them endless stairways or somethin', d'ya think? </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Of course not!! </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Right... couldn't be that...<boxstart/>Are we there yet? </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Not yet. </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>...there yet? </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I said not yet! </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo... </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Look, don't even ask! We're way way way way far away from being there yet, ok!? </sp>
+  <stage>Finally Barret stops, panting.</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Damn, man! I've had it! I'm going back! </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>And take just as long going down as you did coming up? </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>............ </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>C'mon, <referent name="Barret">Barret</referent>. Pull it together! </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Yeah, well all I know is I'm just flesh 'n' blood... 'cept for this arm of mine.<boxstart/>Don't treat me like I'm some ex-member of SOLDIER or somethin'...... </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What about me!? I'm human too! Oh, do what you want, I'm going on! </sp>
+  She turns to continue up the stairs, then stops.
+  ......?
+  She pulls her skirt down.
+  Yaah! Barret! You go first!
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>What're ya ignorant? I didn't mean that... </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>All right, all right!<boxstart/><referent name="Cloud">Cloud</referent>, you go on ahead too!! </sp>
+  <stage>They continue on...</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo... What floor is this? </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...I gave up counting. </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Why they gotta build these buildings so damn tall?<boxstart/>That Shinra... They're just no damn good. </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......... </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>huff... Man, I'm beat...<boxstart/>Marlene, Daddy wanted to see your face one more time... </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Would you stop acting like a retard and climb!?<boxstart/>It's just a bit more!<boxstart/>...maybe. </sp>
+  <stage>They finally reach the top and stop, panting.</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>F...finally... M... made it...<boxstart/>N... never wanna see... no more stairs the rest of my life... </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>huff... puff... this really takes it out of you...<boxstart/>But this is it. We'd better get ready...! </sp>
+  <stage>They all walk through the exit to the 59th floor.</stage>
+
+<stage>If Cloud tries to go back down...</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey <referent name="Cloud">Cloud</referent>!<boxstart/>You come all this way, you thinkin' of goin' back down to the 1st floor? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- No...... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yeah </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>This ain't no time for fooling around! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>No...... </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Yeah, that's right! Let's go on then! </sp>
+
+<stage>Some soldiers are standing by the next set of elevators.</stage>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>Destroy the intruders! </sp>
+<stage>Cloud and the others fight off the soldiers, one of whom drops something.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's this? </sp>
+<sp> <speaker name="unspecified"/><boxstart/>Received Key Item "Keycard 60"! </sp>
+<stage>They take the elevator up to the 60th floor.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I hope <referent name="Aerith">Aerith</referent> is all right. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>This is the real thing. Don't let your guard down. </sp>
+<stage>The Shinra employee meant to be watching the cameras is asleep on duty, so he doesn't see Cloud as he steps out of the elevator onto the 60th floor. There are a collection of bust statues here with guards on patrol.</stage>
+<sp> <speaker name="Guard">Guard</speaker><boxstart/>What're you doing here!? No unauthorized people are allowed here!! </sp>
+<sp> <speaker name="Guard 2">Guard 2</speaker><boxstart/>People like you don't belong here! Go on, get out! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Lookit that, all them guards is runnin' around.<boxstart/><referent name="Cloud">Cloud</referent>, you go on ahead and signal us when it's safe to come.<boxstart/>When those guards turn around, MOVE! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Stay in the shadows! </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> messes up...</sp>
+  <sp> <speaker name="Guard">Guard</speaker><boxstart/>Hey there! What do you think you're doing there!? </sp>
+  <stage>Cloud and the others fight off the guards.</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>What the hell're ya doin'? Come on gotta do it again! </sp>
+  <stage>If Cloud messes up four times they end up taking out all the guards.</stage>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>I shoulda known it'd turn out like this...<boxstart/>If I'd known it'd be like this in the first place... </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shhh! Now let's move on. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If they make it past the guards successfully...</sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Ok! We gonna rock! </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Remember, we're here to save <referent name="Aerith">Aerith</referent>. </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Hell, I know that! </sp>
+
+<stage>They continue on to the 61st floor, the door to which is stuck open so they can get through without a keycard. It is a lounge area with a huge tree in the center and a number of employees milling around.</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>I don't remember seeing your face before... You new here?<boxstart/>Say, you're cute. Let me teach you some... things. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Things?<boxstart/>- Um, I'm kinda in a hurry... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Things? </sp>
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>Wipe that stupid look off your face. I was only going to teach you how to get to the next floor.<boxstart/>The higher ups in the company use the floors above the 60th floor. But you can't get there without a keycard.<boxstart/>Get a keycard and you can use the elevators freely. </sp>
+  Ding.
+  ...voila! You hear that sound and the door opens.<boxstart/>Just remember there are different types of cards. One keycard alone won't let you go everywhere.<boxstart/>For example,<boxstart/>'Keycard 60' only takes you to the 60th floor. 'Keycard 65' only takes you to the 65th floor.<boxstart/>It's a security system worthy of Shinra. After all, all the power in Midgar and the world, for that matter, is controlled by them.<boxstart/>Oh, I have to go. Gotta get back to work!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Um, I'm kinda in a hurry... </sp>
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>Oh? That's too bad... </sp>
+
+<sp> <speaker name="Man">Man</speaker><boxstart/>This is the lounge floor. Above us are the special floors for the big wigs in the company.<boxstart/>It's tough working under someone. Tires you out. </sp>
+<sp> <speaker name="Man 2">Man 2</speaker><boxstart/>What's keeping her? Did she forget her keycard?<boxstart/>Even employees can't walk around above the 60th floor without a keycard. </sp>
+<sp> <speaker name="Man 3">Man 3</speaker><boxstart/>The hell are you? What're you doin' around here? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Where's <referent name="Aerith">Aerith</referent>?<boxstart/>- ...... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Where's <referent name="Aerith">Aerith</referent>? </sp>
+  <sp> <speaker name="Man 3">Man 3</speaker><boxstart/>Aerith? How did you know that name? You must be...!?<boxstart/><referent name="Aerith">Aerith</referent>, you mean that kid. The receptionist. Yeah, I was startin' to worry 'bout her myself.<boxstart/>And so another rival appears on the scene, eh?<boxstart/>You mean, she's not? It's someone else? </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>...... </sp>
+  <sp> <speaker name="Man 3">Man 3</speaker><boxstart/>Oh, I see. So you must be that whatcha call it...<boxstart/>Shinra, Inc. Repair Division!!<boxstart/>You know, it looks like this building is starting to fall apart.<boxstart/>This door was just pushed open. You ought to fix this right away.<boxstart/>Oh yeah, and take a look on the other floors too. I'll give you this. </sp>
+  Received Key Item "Keycard 62"!
+  <sp> <speaker name="Man 3">Man 3</speaker><boxstart/>This door is stuck wide open. Better fix this right away. </sp>
+
+<sp> <speaker name="Woman Sitting Down">Woman Sitting Down</speaker><boxstart/>I thought I heard a ruckus downstairs a minute ago. Do you know what that was all about? </sp>
+<sp> <speaker name="Man Sitting Down">Man Sitting Down</speaker><boxstart/>No idea. But no need to worry because everything above the 60th floor is safe. </sp>
+<stage>Having obtained the next keycard, they continue on to the 62nd floor, which houses several different libraries. They find a man waiting outside someone's office.</stage>
+<sp> <speaker name="Hart">Hart</speaker><boxstart/>How do you do?<boxstart/>This is the Midgar Mayor's Office. Mayor Domino is in his office.<boxstart/>I am the Deputy Mayor. If you should have any questions feel free to ask me... </sp>
+<sp> <speaker name="Domino">Domino</speaker><boxstart/>Hmm? Oh, and who might you be?<boxstart/>You all must be those... ahem... Me? I'm Domino, the Mayor of Midgar.<boxstart/>Actually, I'm Mayor in name only. The city and everything in it is really run by Shinra, Inc.<boxstart/>My only real job is watching over Shinra's documents...<boxstart/>Me! The Mayor! A librarian! Ohh......<boxstart/>You want to get upstairs? I tell you what, if you can guess the password, I'll give you my keycard.<boxstart/>Yes, that's it. Guess the password and I'll give you my keycard!<boxstart/>Get it on the first try and I'll even throw in a special item! </sp>
+<sp> <speaker name="Hart">Hart</speaker><boxstart/>Did you speak with the Mayor?<boxstart/>What? A password? Oh, I get it...<boxstart/>He's got way too much time on his hands. But you can't really blame him, Everything in Midgar is controlled by President Shinra.<boxstart/>Maybe I can help you.<boxstart/>What do you want to know? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- HELP<boxstart/>- Forget it </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>HELP </sp>
+  <sp> <speaker name="Hart">Hart</speaker><boxstart/>Sure, sure. All right.<boxstart/>As a public servant, it's my job to serve the needs of the people.<boxstart/>So here's a hint...<boxstart/>...for 500 gil. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Give him the money<boxstart/>- Forget it! </sp>
+  <sp> <speaker name="Hart">Hart</speaker><boxstart/>Oh, my... well, Thank you very much.<boxstart/>Now listen. On this floor are four research libraries for four different sections of Shinra, Inc. ...<boxstart/>Parts of the password are hidden in each of the libraries.<boxstart/>Pay careful attention to the files in each room.<boxstart/>The name of each library is written on the plaque outside the door.<boxstart/>What can I do for you? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Give me the hint again<boxstart/>- Give me the next hint<boxstart/>- Uh, nothing </sp>
+  <sp> <speaker name="Hart">Hart</speaker><boxstart/>Sure, sure. All right.<boxstart/>As a public servant, it's my job to serve the needs of the people. So here's a hint...<boxstart/>...for 1000 gil. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Give him the money<boxstart/>- Forget it! </sp>
+  <sp> <speaker name="Hart">Hart</speaker><boxstart/>Oh, my... well, Thank you very much.<boxstart/>Now, in each library will be one file mixed in from another library.<boxstart/>Look carefully at the numbers on each file.<boxstart/>What can I do for you? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Give me the hint again<boxstart/>- Give me the next hint<boxstart/>- Uh, nothing </sp>
+  <sp> <speaker name="Hart">Hart</speaker><boxstart/>Sure, sure. All right.<boxstart/>As a public servant, it's my job to serve the needs of the people.<boxstart/>So here's a hint...<boxstart/>...for 2000 gil. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Give him the money<boxstart/>- Forget it! </sp>
+  <sp> <speaker name="Hart">Hart</speaker><boxstart/>Oh, my... well, Thank you very much.<boxstart/>There is a number at the beginning of each file name.<boxstart/>Of course there's a number even on the files that don't belong in that library.<boxstart/>Match the number with the letters in the title of the file.<boxstart/>If the file starts with a 4, then check the fourth letter and... well, you get the idea. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Forget it </sp>
+  <sp> <speaker name="Hart">Hart</speaker><boxstart/>...I see. Then, I guess that's that.<boxstart/>Good luck finding it on your own.<boxstart/>If you still can't find it. I'll just be right over here. Ready to tell you anytime... </sp>
+
+<stage>The placement of the books and the numbers vary each time, but below are the titles in their correct libraries without numbers. In each library there is also a television screen displaying a notice.</stage>
+[Shinra, Inc. Urban Dev. Research Library]<boxstart/>Reactor construction chart<boxstart/>Problems with Plate construction in Midgar<boxstart/>New plans for Urban Planning<boxstart/>Midgar City map: Sectors 0-4<boxstart/>Midgar City map: Sectors 5-8<boxstart/>An illustrated guide to City Planning
+<sp> <speaker name="unspecified"/><boxstart/>Materials are non-circulating!<boxstart/>It is forbidden to remove any materials from this floor. </sp>
+[Shinra, Inc. Scientific Research Library]<boxstart/>Biological characteristics of the Ancients<boxstart/>Data on experimental animals living near Midgar<boxstart/>The Jenova Project<boxstart/>The Ancients in History<boxstart/>File on Dr. Gast, Biologist<boxstart/>Final evolutionary stages in land dwelling life
+<sp> <speaker name="unspecified"/><boxstart/>This is the Scientific Research Library.<boxstart/>Materials for the...<boxstart/>Urban Dev. Library<boxstart/>Peace/Weapon Dev. Library<boxstart/>Space Dev. Library<boxstart/>are held in their respective libraries... </sp>
+[Shinra, Inc. Space Dev. Research Library]<boxstart/>Diminishing Mako energy and Planet movements<boxstart/>Modern history of Midgar space program vol. 1<boxstart/>Modern history of Midgar space program vol. 2<boxstart/>Results of failed space mission "YA-79"<boxstart/>Economic report: Space Dev Program<boxstart/>Shinra rocket space travel
+<sp> <speaker name="unspecified"/><boxstart/>This is the Space Dev Research Library.<boxstart/>Click on the plate in front of each library to see what it is. </sp>
+[Shinra, Inc. Peace Preservation/Weapon Dev. Research Library]<boxstart/>Special peace keeping law<boxstart/>Materia production and its military uses<boxstart/>Ranks and extended use of Mako weaponry<boxstart/>Heidegger's Shinra peace keeping law<boxstart/>Plan for new land weapons<boxstart/>Economic report: anti-Shinra activities
+<sp> <speaker name="unspecified"/><boxstart/>This is the Public Order/Weapon Development Library.<boxstart/>Return materials where you found them. Do not mix materials from other libraries. </sp>
+<stage>After obtaining the password, Cloud returns to Domino's office.</stage>
+<sp> <speaker name="Domino">Domino</speaker><boxstart/>Got it?<boxstart/>Then tell me.<boxstart/>So, what's the password? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- BEST<boxstart/>- KING<boxstart/>- ORBS<boxstart/>- BOMB<boxstart/>- MAKO<boxstart/>- HOJO<boxstart/>- Wait a second </sp>
+
+  If Cloud guesses it right the first time, Domino will say any of the following depending on the password. (ORBS and HOJO are never the password.)
+  <sp> <speaker name="Domino">Domino</speaker><boxstart/>BEST!!<boxstart/>God, I love the sound of that! BEST!! I AM the best... ME!! No matter what anyone else says, you'd better believe it.<boxstart/><boxstart/>KING!!<boxstart/>God, I love the sound of that! KING!! President Shinra sucks! I should be King of Midgar!<boxstart/><boxstart/>BOMB!!<boxstart/>God, I love the sound of that! BOMB!! I'm so angry, I'm like a walking time bomb waiting to explode!<boxstart/><boxstart/>MAKO!!<boxstart/>God, I love the sound of that! MAKO! If I had a lot more of it, I would be a real Mayor! </sp>
+  <sp> <speaker name="Domino">Domino</speaker><boxstart/>......hmm. Well, ok. Here, take it. </sp>
+  Received "Keycard 65"!
+  <sp> <speaker name="Domino">Domino</speaker><boxstart/>I never thought you'd get it on the first try...<boxstart/>Just goes to show you can't judge a book by its cover. Oh well, a promise is a promise. Take this, too. </sp>
+  Received "Elemental" Materia!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> guesses wrong...</sp>
+  <sp> <speaker name="Domino">Domino</speaker><boxstart/>Nope! You're ALL wrong! It's a much better word than that! Try again! </sp>
+  
+    If Cloud guesses right the second time, Domino goes through one of his WORD!! exclamations, hands over the keycard, and then...
+    <sp> <speaker name="Domino">Domino</speaker><boxstart/>......hmm. Well, ok. Here, take it.<boxstart/>Hmm. It appears you're not completely stupid.<boxstart/>Fine then, take this. </sp>
+    Received "Elixir"!
+  
+  
+    If Cloud guesses wrong the second time, too, Domino doesn't give him anything extra whenever he finally gets it right.
+  
+
+<sp> <speaker name="Domino">Domino</speaker><boxstart/>Why would I do something like this, you ask?<boxstart/>To mess with them, of course! Shinra's been torturing me forever.<boxstart/>That's why I was a little rough on you all just now. Now go up there and really make them suffer.<boxstart/>This ought to make us even! Heh heh heh......<boxstart/>But my card will only get you to the 65th floor.<boxstart/>Can you believe how they treat me? ...ME! Like some common employee... </sp>
+<sp> <speaker name="Hart">Hart</speaker><boxstart/>If you run into President Shinra please don't tell him about this.<boxstart/>I can't be a partner to anymore trouble for Shinra. </sp>
+<stage>Having obtained Domino's keycard, Cloud and the others continue on to the 63rd floor, which is a maze of small storage rooms with locked doors. Near the escalators is a room with a computer.</stage>
+<sp> <speaker name="Computer">Computer</speaker><boxstart/>...bing... bing... Enter command </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- All clear<boxstart/>- Coupon Change </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>All clear </sp>
+  <sp> <speaker name="Computer">Computer</speaker><boxstart/>......bing... bing... Start again from the beginning?<boxstart/>The information and materials you received on this floor will all be cleared.<boxstart/>Clear them? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah......<boxstart/>- No </sp>
+  <sp> <speaker name="Computer">Computer</speaker><boxstart/>...... ......... ......... Cleared.<boxstart/>You are permitted to open any door on this floor up to three times. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Coupon Change </sp>
+  <sp> <speaker name="Computer">Computer</speaker><boxstart/>...beep......beep...... You do not have any coupons. </sp>
+
+<stage>There is an air duct next to the computer.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>An air-duct... It doesn't look like I'll be able to climb in here. </sp>
+<stage>The ducts can, however, be reached from some of the other rooms. By using the air ducts and the three doors, Cloud can manage to get all three coupons and return to the computer.</stage>
+<sp> <speaker name="Computer">Computer</speaker><boxstart/>...bing... bing... Enter command </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- All clear<boxstart/>- Coupon Change </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>All clear </sp>
+  <sp> <speaker name="Computer">Computer</speaker><boxstart/>......bing... bing... Start again from the beginning?<boxstart/>The information and materials you received on this floor will all be cleared.<boxstart/>Clear them? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah......<boxstart/>- No </sp>
+  <sp> <speaker name="Computer">Computer</speaker><boxstart/>...... ......... ......... Cleared.<boxstart/>You are permitted to open any door on this floor up to three times. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Coupon Change </sp>
+  <sp> <speaker name="Computer">Computer</speaker><boxstart/>You can exchange your coupons for items. Here are the items you can have...<boxstart/>A coupon.........'Star Pendant'<boxstart/>B coupon.........'Four Slots'<boxstart/>C coupon.........'All' Materia<boxstart/>Please use caution... once you have exchanged coupons for items you may not use 'All Clear' function.<boxstart/>Exchange coupon? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah......<boxstart/>- Naw </sp>
+  <sp> <speaker name="Computer">Computer</speaker><boxstart/>...... ......... ...... Coupon exchange complete. </sp>
+  Received "Star Pendant"!
+  Received "Four Slot"!
+  Received "All Materia"!
+
+<stage>Cloud and the others move on to the 64th floor. Here, they find an exercise room, a nap room, and a locker room.</stage>
+<sp> <speaker name="Receptionist">Receptionist</speaker><boxstart/>You must be a visitor. Please feel free to use any unused machines. </sp>
+<sp> <speaker name="Woman on Treadmill">Woman on Treadmill</speaker><boxstart/>...huff... puff... If you're tired, you should get some rest in the next room. </sp>
+<sp> <speaker name="Man on Treadmill">Man on Treadmill</speaker><boxstart/>...huff... weeze... I'm starting to worry about my belly...... </sp>
+<sp> <speaker name="Man Lifting Weights">Man Lifting Weights</speaker><boxstart/>Hmph, hmph... Since I'm head of security for this building, stamina's very important to me. </sp>
+<sp> <speaker name="Vending Machine">Vending Machine</speaker><boxstart/>Take one to restore your energy!! 'Shinra Gym Special Drink'<boxstart/>Only 250 gil!!<boxstart/>- Try it out<boxstart/>- Don't try it </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Try it out </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Nothing... </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Don't try it </sp>
+  <stage>Nothing happens.</stage>
+
+<sp> <speaker name="Man in Nap Room">Man in Nap Room</speaker><boxstart/>...zzz... Please...... let me...... get some... rest...... </sp>
+<sp> <speaker name="Sign in Bathroom">Sign in Bathroom</speaker><boxstart/>Out of Order<boxstart/>Please use a different Floor<boxstart/>Shinra Company Repair Management Department </sp>
+<stage>In the locker room, some of the lockers are unlocked.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What is this...... a Megaphone?<boxstart/>Hanging on to this won't do any good... </sp>
+<stage>They move on to the 65th floor, where there is a model of Midgar in a central room, and treasure chests placed around in side rooms.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>A model of Midgar... born from Mako sucked right out of the earth.<boxstart/>Parts of the model are missing...<boxstart/>- Place the Midgar parts<boxstart/>- Leave it alone </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Sounds like something opened up... </sp>
+<stage>Placing all the parts in the model opens up the treasure chest with Keycard 66 in it.</stage>
+<stage>Cloud and the others move on to the 66th floor, which is dominated by a large conference room. Several offices and a bathroom take up the remaining space.</stage>
+<sp> <speaker name="Secretary">Secretary</speaker><boxstart/>Whew, I'm so sick of carrying all these files...<boxstart/>But I get to meet lots of guys. I guess that's the benefit of being a secretary! </sp>
+<stage>If Cloud speaks to her after she enters one of the offices...</stage>
+<sp> <speaker name="Secretary">Secretary</speaker><boxstart/>Hello!! (He's kinda cute. But looks like that girl's with him... But that's kinda exciting!) </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Is it just me or does the Conference Room smell? There's some sort of stench coming from somewhere... </sp>
+<sp> <speaker name="Man 2">Man 2</speaker><boxstart/>........................<boxstart/>........................<boxstart/>........................<boxstart/>........................<boxstart/>........................<boxstart/>........................<boxstart/>Phew! </sp>
+<sp> <speaker name="Man 3">Man 3</speaker><boxstart/>Hey, when you're in the bathroom, do you ever hear whispers coming from somewhere? </sp>
+<sp> <speaker name="Man 4">Man 4</speaker><boxstart/>They're having another executive meeting. I wonder if it's about that Plate incident. </sp>
+<sp> <speaker name="Man 5">Man 5</speaker><boxstart/>It gives me the feeling that I AM alive. The feeling of moving this world, just with my hands. </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Come on, we're building the future of Mako! </sp>
+<stage>Cloud enters a stall in the bathroom. Above it is a vent.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Flush?<boxstart/>- Climb up?<boxstart/>- Get out of here </sp>
+<stage>Cloud climbs up and enters the duct system, the others following. He, Barret, and Tifa peer down through the next vent at the conference room below, where Shinra's executives are having a meeting.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Geez--! That's a lotta suits! </sp>
+<sp> <speaker name="Reeve">Reeve</speaker><boxstart/>We have the damage estimates for Sector 7.<boxstart/>Considering those factories we already set up and all the investments, the damage is estimated at approximately 10 Billion gil...<boxstart/>The estimated cost to rebuild Sector 7 is... </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>We're not rebuilding. </sp>
+<sp> <speaker name="Reeve">Reeve</speaker><boxstart/>What? </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>We're leaving Sector 7 as it is.<boxstart/>And restarting the Neo-Midgar plan. </sp>
+<sp> <speaker name="Reeve">Reeve</speaker><boxstart/>...then the Ancients? </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>The Promised Land will soon be ours.<boxstart/>I want you to raise the Mako rates 15% in every area. </sp>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Rate hike! Rate hike! Tra, la, la! And please include our Space Program in the budget! </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>Reeve and Scarlet will divide the extra income from the rate increase. </sp>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Oh man! </sp>
+<sp> <speaker name="Reeve">Reeve</speaker><boxstart/>Sir. If you raise the rates, the people will lose confidence... </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>It'll be all right.<boxstart/>The ignorant citizens won't lose confidence, they'll trust Shinra, Inc. even more. </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Ha ha ha!<boxstart/>After all, we're the ones who saved Sector 7 from AVALANCHE! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>That dirty #$*$^ </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>Hojo. How's the girl? </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>As a specimen, she is inferior to her mother. I'm still in the process of comparing her to her mother, Ifalna, but for now the difference is 18%. </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>How long will the research take? </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Probably 120 years. It's probably impossible to finish in our lifetime. Or in the lifetime of the specimen too, for that matter.<boxstart/>That's why we're thinking of breeding her. Then we could create one that could withstand our research for a long time. </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>What about the Promised Land? Won't it hinder our plans? </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>That's why I need to plan. The mother is strong... and yet has her weaknesses. </sp>
+<stage>He starts giggling.</stage>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>That concludes our meeting. </sp>
+<stage>They all get up and head for the door. Scarlet pauses to look up.</stage>
+<sp> <speaker name="Scarlet">Scarlet</speaker><boxstart/>Something stinks... </sp>
+<stage>She, too, walks out.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>They were talking about <referent name="Aerith">Aerith</referent>... right? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I dunno. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Probably. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Let's follow 'em. </sp>
+<stage>They climb back out of the ventilation shaft and into the bathroom. Hojo has fallen behind the others in leaving the conference room, and they follow him at a distance. They stop to wait for him to reach the top of the escalator before entering the stairwell after him.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hojo... huh...? </sp>
+<stage>They follow Hojo up before the door can lock after him, thereby reaching the 67th floor. Here sprawls the lower floor of Hojo's laboratory. The three pause by the escalator.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I remember him.<boxstart/>That Hojo guy. He's in charge of the Shinra's Science Department. <referent name="Cloud">Cloud</referent>, don't you know him? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This is the first time I've actually ever seen him. So... that's what he looks like... </sp>
+<stage>They continue on.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Let's see... The specimen Hojo asked me for is... </sp>
+<stage>Cloud and the others head down the hall and enter the lab, in the center of which is a glass chamber holding a lion-like creature. Someone is coming, so they hide behind some crates.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Is this today's specimen? </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Yes. We're starting right away. Raise it to the upper level. </sp>
+<stage>The man walks away, and Hojo leans forward to touch the glass.</stage>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>My precious specimen... </sp>
+<stage>He turns and leaves. Tifa walks up to the glass.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Precious specimen...?<boxstart/>Is it going to be used for a biological experiment? </sp>
+<stage>Cloud suddenly takes notice of a chamber to his right, and looks through the window.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Jenova... </sp>
+<stage>He clutches his head in pain and collapses. Tifa runs over as he gets up.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Jenova... <referent name="Sephiroth">Sephiroth</referent>'s... So... they've brought it here. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, be strong! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Did you see it? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>See what? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It's moving...... still alive? </sp>
+<stage>Barret looks inside.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Where's its $#&amp;*&amp;@ head? This whole thing's stupid. Let's keep goin'. </sp>
+<stage>They go upstairs to find Hojo standing before a corresponding glass chamber directly above the other, inside of which is Aerith.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>! </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/><referent name="Aerith">Aerith</referent>? Oh, is that her name? What do you want? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We're taking <referent name="Aerith">Aerith</referent> back. </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Outsiders...... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Shoulda noticed it earlier, you... </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>There's so many frivolous things in this world. </sp>
+<stage>Barret runs over and aims his gun-arm at Hojo.</stage>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Are you going to kill me? I don't think you should.<boxstart/>The equipment here is extremely delicate. Without me, who could operate it? Hmm? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Ugh. </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>That's right. I recommend you think things out logically before you make any rash moves.<boxstart/>Now, bring in the Specimen! </sp>
+<stage>The elevator within the glass chamber raises, bringing the lion-creature up to join Aerith. It starts growling at her and she runs away to pound on the glass.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, help! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What do you think you're doin'? </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Lending a helping hand to an endangered species... Both of them are on the brink of extinction...<boxstart/>If I don't help, all these animals will disappear. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...animal? That's terrible! <referent name="Aerith">Aerith</referent> is a human being! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>You're gonna pay! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Barret">Barret</referent>! Can't you do anything? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Awright!! Step back! </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Stop!! </sp>
+<stage>Barret fires at the glass chamber, and it starts glowing brightly. Hojo moves closer to the door.</stage>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>Wh... what are you do-- Oh! My precious specimens... </sp>
+<stage>The door opens and the lion-creature jumps out, pouncing on Hojo.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Now's our chance to get <referent name="Aerith">Aerith</referent>! </sp>
+<stage>He runs inside the chamber.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Thanks, <referent name="Cloud">Cloud</referent>. </sp>
+<stage>She runs out. Cloud starts to follow, but stops and turns around.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... what's wrong? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...The elevator is moving. </sp>
+<sp> <speaker name="Hojo">Hojo</speaker><boxstart/>This is no ordinary specimen. This is a very ferocious specimen! </sp>
+<stage>The lion creature looks up from attacking Hojo to address them.</stage>
+<sp> <speaker name="Red">Red</speaker><boxstart/>He's rather strong. I'll help you all out. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>It talked!? </sp>
+<sp> <speaker name="Red">Red</speaker><boxstart/>I'll talk as much as you want later, Miss. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We'll take care of that monster.<boxstart/>Somebody take <referent name="Aerith">Aerith</referent> somewhere safe...<boxstart/>- <referent name="Tifa">Tifa</referent>, I'm countin' on you!<boxstart/>- <referent name="Barret">Barret</referent>, take care of her! </sp>
+<stage>Aerith runs out with either Tifa or Barret.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's your name? </sp>
+<sp> <speaker name="Red">Red</speaker><boxstart/>Hojo has named me, <referent name="Red XIII">Red XIII</referent>. A name with no meaning whatsoever to me. Call me whatever you wish. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Come on! </sp>
+<stage>They dispatch Hojo's specimen, and Aerith rejoins the group.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>, you all right? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>She seems all right, ...in many ways. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>I have a right to choose, too. I don't like two-legged things. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What are you? </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>An informed question. But difficult to answer. I am what you see.<boxstart/>...You must have many questions, but first, let's get out of here. I'll lead the way. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>... so you did come for me. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>I apologize for what happened back there. I was merely acting to throw Hojo off guard...... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Now we've saved <referent name="Aerith">Aerith</referent>, ain't no need to be in this buildin'! So let's get the hell outta here! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>If all five of us go together, we'll be noticed. Let's break up into two groups. </sp>
+<stage>Whoever he doesn't choose to come with him says goodbye:</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Later! Meet up at the 66th Floor Elevator! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'll see you later!! We'll be waiting at the 66th Floor Elevator. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We'll be going first! Meet at the 66th Floor Elevator. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Don't be late. Do you know where the Elevator is? The 66th Floor! </sp>
+
+<stage>The other group leaves.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>No! Please don't kill me. I only did what Hojo told me to do.<boxstart/>To prove it to you... here, this is the key card to the 68th Floor. Would I be doing this if I was the enemy?<boxstart/><speaker name="unspecified"/><boxstart/>Received Key Item "Keycard 68"! </sp>
+<stage>The man then flees.</stage>
+<stage>If Cloud attempts to go anywhere but the elevator...</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Where you goin'? Everyone's waitin' at the 66th Floor Elevator. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Not that way! Everyone's on the 66th Floor Elevator. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Where are you going? Everyone's waiting for us at the 66th Floor Elevator. </sp>
+
+<stage>Cloud and the others get on the 66th floor elevator. Rude of the Turks enters behind them.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>H, hey! What is it? </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>Would you press 'Up' please? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Turks? Must be a trap... </sp>
+<stage>Rude steps aside and Tseng enters.</stage>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>It must have been a real thrill for you... Did you enjoy it? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Ggh... </sp>
+<stage>The Turks take them up to the 70th floor, where they find the others also taken captive. Aerith is missing, though.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You all got caught, too?<boxstart/>Where is <referent name="Aerith">Aerith</referent>!? </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>In a safe place.<boxstart/>She's the last surviving Ancient...<boxstart/>Don't you know? They called themselves the Cetra, and lived thousands of years ago. Now they are just a forgotten page in history. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Cetra... That girl, is she a survivor of the Cetra? </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>Cetra, or the Ancients will show us the way to the 'Promised Land.' I'm expecting a lot out of her. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>The Promised Land? Isn't that just a legend? </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>Even so, it's just too appealing to not to pursue.<boxstart/>It's been said the Promised Land is very fertile.<boxstart/>...If the land is fertile... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Then there's gotta be Mako! </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>Exactly. That is why our money sucking Mako Reactor is necessary.<boxstart/>The abundant Mako will just come out on its own.<boxstart/>That is where Neo-Midgar will be built. Shinra's new glory... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>@$#*^%! Quit dreamin'! </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>Oh really, don't you know? These days all it takes for your dreams to come true is money and power.<boxstart/>Well, that is all for our meeting. </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>Come on! Outta his way! </sp>
+<stage>Cloud, Tifa, and Red XIII turn away without protest, but Barret hangs back.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hold it! I got a lot I wanna say to you! </sp>
+<stage>He starts towards President Shinra, but Rude drags him away.</stage>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>If you need something else... talk to my secretary. </sp>
+<stage>The scene changes to the detainment area, where they've been placed in cells. Cloud with Tifa, Barret with Red XIII, and Aerith by herself.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Psst (Can we get out?) </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- (Leave it to me)<boxstart/>- (Kinda hard) </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>(Leave it to me) </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Psst (<referent name="Cloud">Cloud</referent>, you're so brave!) </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>(Kinda hard) </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Psst (Don't give up!) </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I wonder how <referent name="Barret">Barret</referent> is doing </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey!<boxstart/>Aerith is an Ancient and the real name of the Ancients is Cetra.<boxstart/>The Ancients know where the Promised Land is and the Shinra is searching for that Promised Land.<boxstart/>I only heard stories 'bout the Promised Land. I don't know if it really exists.<boxstart/>Is that right?<boxstart/>The Shinra believe that the Promised Land is full of Mako energy.<boxstart/>Which means, if the Shinra get there, they'll suck up all the Mako energy.<boxstart/>...and the land'll wither away. The Planet's gonna get weaker.<boxstart/>I can't just leave 'em be. I'm recruitin' new members!!<boxstart/>Me, <referent name="Tifa">Tifa</referent>, <referent name="Cloud">Cloud</referent>... and <referent name="Aerith">Aerith</referent> too. </sp>
+<stage>He turns to Red XIII.</stage>
+<sp> <boxstart/>How 'bout you? </sp>
+<stage>Red XIII turns away and lies down.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>You're so damn boring. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I wonder how <referent name="Red XIII">Red XIII</referent> is doing </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>............Grandpa. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Grandpa!? Ha, ha, ha...... Grandpa, hmm...... ha, ha, ha...... </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>What's so funny? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Nothin'...... ha, ha </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I wonder how <referent name="Aerith">Aerith</referent> is doing </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, are you there? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>!? You safe? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Yeah, I'm all right.<boxstart/>I knew that <referent name="Cloud">Cloud</referent> would come for me. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey, I'm your bodyguard, right? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>The deal was for one date, right? </sp>
+<stage>Tifa sits up from where she's been lying on the cot.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>............oh, I get it. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...!? Tifa! <referent name="Tifa">Tifa</referent>, you're there too! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>EXCUSE me.<boxstart/>You know, <referent name="Aerith">Aerith</referent>. I have a question. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Does the Promised Land really exist? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...I don't know.<boxstart/>All I know is...<boxstart/>The Cetra were born from the Planet, speak with the Planet, and unlock the Planet.<boxstart/>And...... then...<boxstart/>The Cetra will return to the Promised Land. A land that promises supreme happiness. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...What does that mean? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>More than words...... I don't know. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Speak with the Planet? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Just what does the Planet say? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>It's full of people and noisy. That's why I can't make out what they are saying. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You hear it now? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I, I only heard it at the Church in the Slums. Mother said that Midgar was no longer safe. That is... my real mother.<boxstart/>Someday I'll get out of Midgar... Speak with the Planet and find my Promised Land.<boxstart/>...That's what mom said.<boxstart/>I thought I would stop hearing her voice as I grew up, but... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Let's just get some sleep </sp>
+<stage>They settle down to rest. Cloud wakes before the others, finding the door to his and Tifa's cell open.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The door's open... When did it open? </sp>
+<stage>He runs out into the hall to find the guard dead.</stage>
+<sp> <boxstart/>What's happened? </sp>
+<stage>He runs back into the cell.</stage>
+<sp> <boxstart/><referent name="Tifa">Tifa</referent>... Wake up! </sp>
+<stage>She sits up immediately.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What's wrong? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Something's wrong. Look outside. </sp>
+<stage>Tifa runs out, and Cloud joins her.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I wonder what happened... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>He should have the key on him...<boxstart/>Come on, <referent name="Tifa">Tifa</referent>, get <referent name="Aerith">Aerith</referent>. I'll go help <referent name="Barret">Barret</referent> and the others. </sp>
+<stage>Cloud runs into Barret and Red XIII's cell.</stage>
+<sp> <boxstart/><referent name="Barret">Barret</referent>, <referent name="Red XIII">Red XIII</referent>... come with me. Something's wrong. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>How'd you get in? Why's the door open!? </sp>
+<stage>Barret and Red XIII run out.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>This's kinda eerie... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Must've been attacked by... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell's goin' on'!? </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>No human could've done this.<boxstart/>I'll go on ahead. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I'll clean up back here, so you guys go ahead. And don't get caught by Shinra! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Come on, let's follow <referent name="Red XIII">Red XIII</referent>! </sp>
+<stage>Cloud, Aerith, and Tifa follow Red XIII to where the Jenova specimen was kept, finding a huge bloody hole in the front of the empty chamber, with a trail of blood across the floor.</stage>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Jenova Specimen... Looks like it went to the upper floor using that elevator for the specimens. </sp>
+<stage>Red XIII heads for the elevator and the others follow.</stage>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>It looks like it leads up... </sp>
+<stage>They follow the trail of blood to the 70th floor, where they find President Shinra dead at his desk, impaled by the Masamune blade.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>He's dead... The leader of Shinra, Inc. is dead... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Then this sword must be...!? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>'s!! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...<referent name="Sephiroth">Sephiroth</referent> is alive? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Looks like it. Only <referent name="Sephiroth">Sephiroth</referent> can use that sword. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Who cares who did it!? This is the end of the Shinra now! </sp>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Uh! </sp>
+<stage>He comes out from behind a pillar and tries to run, but Cloud and Barret catch him.</stage>
+<sp> <boxstart/>P, p, p, please, don't kill me! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What happened? </sp>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Se... Sephiroth. <referent name="Sephiroth">Sephiroth</referent> came. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Did you see him? Did you see <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Yeah, I saw him! I saw him with my own eyes! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You really saw him? </sp>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Uh! Would I lie to you at a time like this!? And I heard his voice too!<boxstart/>Um, he was saying something about not letting us have the Promised Land. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Then what?<boxstart/>Does that mean that the Promised Land really exists and that <referent name="Sephiroth">Sephiroth</referent>'s here to save it from Shinra? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>So he's a good guy then? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Save the Promised Land? A good guy? No way!!<boxstart/>It's not that simple! I know him! <referent name="Sephiroth">Sephiroth</referent>'s mission is different! </sp>
+<stage>Palmer frees himself and runs off as a helicopter arrives outside.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Rufus">Rufus</referent>! &amp;*%$! I forgot about him! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Who's that? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Vice President <referent name="Rufus">Rufus</referent>. The President's son.<boxstart/>I heard that he's been assigned somewhere else for a long time... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I've heard that no one's ever seen him bleed or cry. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>I only know his name. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I wonder what kinda person he is... </sp>
+<stage>They run outside to where Rufus and Palmer are, Palmer apparently just finishing up a quick report.</stage>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>So... So <referent name="Sephiroth">Sephiroth</referent> was actually here. ...By the way.<boxstart/>Who are you guys? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'm <referent name="Cloud">Cloud</referent>, former SOLDIER First Class! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I'm from AVALANCHE! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Same here! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...a flower girl from the slums. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker> (growling)<boxstart/>...a research specimen. </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>What a crew.<boxstart/>Well, I'm <referent name="Rufus">Rufus</referent>. The President of Shinra, Inc. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>You only President, 'cause yer old man died! </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>That's right. I'll let you hear my new appointment speech.<boxstart/>...Old man tried to control the world with money. It seems to have been working.<boxstart/>The population thought that Shinra would protect them.<boxstart/>Work at Shinra, get your pay. If a terrorist attacks, the Shinra army will help you.<boxstart/>It looks perfect on the outside.<boxstart/>But, I do things differently.<boxstart/>I'll control the world with fear. It takes too much to do it like my old man.<boxstart/>A little fear will control the minds of the common people. There's no reason to waste money on them. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>He likes to make speeches just like his father. </sp>
+<stage>Cloud turns to Barret.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Get outta this building with <referent name="Aerith">Aerith</referent>! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'll explain later! <referent name="Barret">Barret</referent>! This is the real crisis for the Planet! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell's that supposed to mean? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'll tell you later! Just take my word for it now! I'll go after I take care of him! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Awright, <referent name="Cloud">Cloud</referent>! </sp>
+<stage>Barret and the others run back downstairs. Aerith hangs back.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I just thought of something. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...I'll wait for <referent name="Cloud">Cloud</referent>! Everyone, get to the elevator! </sp>
+<stage>Aerith nods, and she, Red XIII, and Barret run on.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hmm, it's going to get pretty ugly from here on. We should check on our equipment. </sp>
+<stage>They get on the elevator, and a combat robot attacks them from the other car. They defeat the robot and continue down.</stage>
+<stage>Back to Cloud, as he and Rufus face off...</stage>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Why do you want to fight me? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You seek the Promised Land and <referent name="Sephiroth">Sephiroth</referent>. </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Hm, exactly.<boxstart/>Mm? Did you know that <referent name="Sephiroth">Sephiroth</referent> is an Ancient? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...A lot has happened. Anyway, I can't let either you or <referent name="Sephiroth">Sephiroth</referent> have the Promised Land! </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>I see. I guess this means we won't become friends. </sp>
+<stage>Cloud fights Rufus and his pet Dark Nation, until Rufus decides to beat a dignified retreat.</stage>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Heh... That's all for today. </sp>
+<stage>Rufus grabs hold of the helicopter and it flies off with him. Cloud runs downstairs to where Tifa is waiting.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Where's <referent name="Rufus">Rufus</referent>? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I couldn't finish 'em. Looks like this's gonna get complicated. </sp>
+<stage>Back to Aerith and the others as they arrive on the first floor and head for the exit.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I'll go on ahead! </sp>
+<stage>He runs out, firing his gun-arm, but soon comes back in.</stage>
+<sp> <boxstart/>*&amp;^%(*... surrounded, huh?<boxstart/>If I was alone this wouldn't be a thang but, I gotta reputation to protect. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You all get out while you can.<boxstart/>It's not you they're after... it's me. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yeah, well that ain't happenin'.<boxstart/>You got caught up in this over Marlene. Now, it's my turn to watch out for you!<boxstart/>Ok, playtime's over for you jackasses... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...thank you, Mr. <referent name="Barret">Barret</referent>! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Who you callin' Mr. <referent name="Barret">Barret</referent>? That don't sound right! </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Well then...<boxstart/>If you are through talking, may I suggest that we think of a way to get out of here. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Huh? Oh, oh yeah... You a cold man. Just like someone else 'round here I know. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Did you say something? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Notta thing. So what're we gonna do? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Barret">Barret</referent>!! </sp>
+<stage>Tifa comes running down from upstairs.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Tifa">Tifa</referent>! Where's <referent name="Cloud">Cloud</referent>? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Everyone, over here! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Huh? What's up? Where's <referent name="Cloud">Cloud</referent>? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I'll tell you later! Hurry, Hurry!! </sp>
+<stage>They all climb into the display truck and drive it out the window, following Cloud on the motorcycle. Shinra troops follow on motorcycles, but Cloud dispatches them with his sword. They reach the end of the road, and a large, armored tank/robot attacks from behind. They defeat the robot, and find themselves standing at the edge of Midgar.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Well, what do we do now? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent> is alive. I... I have to settle the score. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>And that'll save the Planet? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Seems like it. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Awright, I'm going! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'll go too. ...I have things that I want to find out. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>About the Ancients? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>......Many things. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I guess this's good bye, Midgar. </sp>
+<stage>They climb down a cable to the ground level.</stage>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>I'm going back to my hometown. I'll go with you as far as that. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...I guess this is the start of our journey... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- You hate traveling?<boxstart/>- It's dangerous. You sure you want to go? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>You hate traveling? </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...I don't know. But, I don't have anywhere else to go. So I guess it doesn't really matter whether I like to travel or not. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>It's dangerous. You sure you want to go? </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......Mmm. But you know, it should be all right if you keep your promise. </sp>
+
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You know what? This is the first time I've ever left Midgar... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Really? ...You worried?<boxstart/>- It's dangerous. You sure you want to go? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Really? ...You worried? </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>A little, ...no, maybe a lot. But I have my bodyguard, right? </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>It's dangerous. You sure you want to go? </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I thought you'd say that! </sp>
+
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>We told <referent name="Aerith">Aerith</referent>'s mom to go somewhere safe, so Marlene should be safe too. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, she should be<boxstart/>- Hmm, I don't know </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yeah, she should be </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>She said she didn't want to stay in Midgar anymore. ...Maybe it's for the best. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Hmm, I don't know </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it, <referent name="Cloud">Cloud</referent>! I'm worried too. </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Then...<boxstart/>- Let's stay here for a while<boxstart/>- Let's go! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>We need a group leader for our journey. 'Course only me could be the leader. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You think so...? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>It would have to be <referent name="Cloud">Cloud</referent>. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>^#$^%...... awright. Go Northeast to a town called Kalm. If something happens, we'll meet up there.<boxstart/>'Sides, we can't have 5 people strolling down the fields. It's too dangerous. Split us into 2 parties... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> chooses <referent name="Aerith">Aerith</referent> + <referent name="Tifa">Tifa</referent> for his party...</sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>...Thought you'd do that.<boxstart/>Later, at Kalm! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> chooses <referent name="Barret">Barret</referent> + <referent name="Red XIII">Red XIII</referent> for his party...</sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...Unexpected </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...combination.<boxstart/>Well, have fun with just the guys.<boxstart/>We'll see you at Kalm! </sp>
+
+</scene>

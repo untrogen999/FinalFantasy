@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="JunonRufus">
+
+
+
+<h1>Junon - The New President Rufus</h1>
+
+<h4><a href="#lower">Lower Junon</a></h4>
+<h4><a href="#upper">Reaching Upper Junon</a></h4>
+<h4><a href="#rufus">Rufus's Welcoming Ceremony</a></h4>
+<h4><a href="#explore">Exploring Upper Junon</a></h4>
+<h4><a href="#docks">Send-Off at the Docks</a></h4>
+<hr></hr>
+<p class="italic"><a name="lower"></a>Cloud and the others arrive at Junon, walking into the old part of the town, grey and nearly lifeless. At the far end of the little street is an elevator to the upper city guarded by a single Shinra soldier.</p>
+<p class="indent"><b>Cloud</b><br/>What happened to this town? It's so run-down...</p>
+<p class="indent"><b>Woman</b><br/>Wow, now this is rare. We almost never have anyone other than the Shinra people visit this town.<br/>I know you guys want to go to the Western Continent, but the only way is on a Shinra ship.</p>
+<p class="italic">Inside the Weapon Shop...</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>If you see a weapon you want, you'd better buy it.</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Fisherman</b><br/>Ever since... Shinra built that city up above during the war, ...ugh, ugh.<br/>There's been no fish in the water! It got so polluted... phew...</p>
+<p class="indent"><b>Cloud</b><br/>What kinda place is this?</p>
+<p class="indent"><b>Older Man</b><br/>Who are you people? Where did you come from?</p>
+<p class="indent"><b>Cloud</b><br/>Did you see a man with a black cape?</p>
+<p class="indent"><b>Older Man</b><br/>Hmm... I've never seen that feller before.<br/>There's nothing here now... But it used to be a busy port.</p>
+<p class="indent"><b>Elevator Guard</b><br/>HEY! This is Shinra, Inc.'s elevator. Don't be snooping around here!!</p>
+<p class="italic">Cloud goes down to the beach, where a little girl is playing with a dolphin.</p>
+<p class="indent"><b>Priscilla</b><br/>He-y! Mr. Dolphin!<br/>My name is......<br/>Pri-scil-la!<br/>Now you say it.</p>
+<p class="italic-inline">She turns around as Cloud approaches.</p>
+<p class="block-inline">Who are you guys? Are you members of the Shinra, Inc.?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>No! You got it all wrong! We're fighting against the Shinra!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>No you're wrong! We have nothing to do with the Shinra.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>No... stay calm...</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>...we don't get along well with the Shinra.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Hey watch your mouth! We hate the Shinra!</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>...that's how it is.</p>
+<p class="indent"><b>Priscilla</b><br/>I don't believe you! Get out of here!</p>
+<p class="indent"><b>Cloud</b><br/>Great...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Hey! Look at that!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>What's that!?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Look at that!</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Hey! It's a monster!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Whoa, Gawd!</p>
+</blockquote>
+<p class="italic">A sea serpent approaches from deeper out in the ocean.</p>
+<p class="indent"><b>Priscilla</b><br/>Be careful Mr. Dolphin!</p>
+<p class="italic">She runs out into the water, the serpent attacks her, and she falls unconscious.</p>
+<p class="indent"><b>Cloud</b><br/>Hey! Hold on, we're coming!</p>
+<p class="italic">They fight and defeat the sea monster, and then Cloud carries Priscilla ashore.</p>
+<p class="indent"><b>Cloud</b><br/>This is bad... You don't think she's dead, do you?</p>
+<p class="indent"><b>Older Man</b><br/>Priscilla!!</p>
+<p class="italic-inline">He comes down to kneel near her.</p>
+<p class="block-inline">Nope... she's not breathing...<br/>Hey, that's it!<br/>Young man, CPR, now!</p>
+<p class="indent"><b>Cloud</b><br/>Mouth to mouth!?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>C'mon Cloud.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Cloud, hurry!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Do it, Cloud!</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>But, ... she's just a girl......</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Tifa</b><br/>Cloud, what are you going to do?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>You know I can't.</p>
+</blockquote>
+<p class="indent"><b>Older Man</b><br/>What? You don't know how? Come over here, I'll show you.</p>
+<p class="indent"><b>Cloud</b><br/>Guess I gotta do it...</p>
+<p class="indent"><b>Older Man</b><br/>Just take a deep breath, hold it in. Then breathe into her.<br/>Hurry up and do it!</p>
+<p class="italic">Eventually Cloud manages to resuscitate the girl.</p>
+<p class="indent"><b>Priscilla</b><br/>Uh... ugh...</p>
+<p class="indent"><b>Older Man</b><br/>Hey hey! Priscilla, are you alright?</p>
+<p class="italic">He picks her up and carries her off. Cloud follows, going up to Priscilla's house.</p>
+<p class="indent"><b>Older Man</b><br/>Sorry, Cloud. Priscilla needs to rest for a while.</p>
+<p class="indent"><b>Woman</b> (waiting outside her house)<br/>Hey, come in for a while.</p>
+<p class="italic">Cloud and the others follow the woman into her house.</p>
+<p class="indent"><b>Woman</b><br/>I heard what happened. You've done so much for Priscilla.<br/>You all must be tired. If you want to get some rest, stay here.<br/>Make yourselves at home.</p>
+<p class="italic-inline">She leaves the house.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>I'm gonna relax for a while.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Want to rest?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Take a rest?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Shall we rest?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Wanna rest?</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>Yeah...<br/>- We'll try later<br/>- Let's rest</p>
+<p class="italic">Cloud and the others turn in for a while.</p>
+<p class="block-grey">...That reminds me.</p>
+<p class="indent-grey"><b>Cloud</b><br/>You again?<br/>...Who are you?</p>
+<p class="block-grey">...You'll find out soon. ......But more importantly, 5 years ago...</p>
+<p class="indent-grey"><b>Cloud</b><br/>5 Years ago... Nibelheim?</p>
+<p class="block-grey">When you went to Mt. Nibel then, Tifa was your guide, right?</p>
+<p class="indent-grey"><b>Cloud</b><br/>Yeah... I was surprised.</p>
+<p class="block-grey">But where was Tifa other than that?</p>
+<p class="indent-grey"><b>Cloud</b><br/>...I dunno.</p>
+<p class="block-grey">It was a great chance for you two to see each other again.</p>
+<p class="indent-grey"><b>Cloud</b><br/>...You're right.</p>
+<p class="block-grey">Why couldn't you see each other alone?</p>
+<p class="indent-grey"><b>Cloud</b><br/>...I don't know. I can't remember clearly...</p>
+<p class="block-grey">Why don't you try asking Tifa?</p>
+<p class="indent-grey"><b>Cloud</b><br/>...Yeah.</p>
+<p class="block-grey">Then, get up!</p>
+<p class="indent"><b>Tifa</b><br/>Hey wake up. Wake up, Cloud!</p>
+<p class="italic"><a name="upper"></a>Cloud wakes to find Tifa standing nearby. There is muffled but lively music in the background.</p>
+<p class="indent"><b>Cloud</b><br/>Tifa...<br/>When Sephiroth and I went to Nibelheim, where were you?</p>
+<p class="indent"><b>Tifa</b><br/>...We saw each other, right?</p>
+<p class="indent"><b>Cloud</b><br/>The other time.</p>
+<p class="indent"><b>Tifa</b><br/>No... it was 5 years ago. I don't remember.<br/>But, something seems strange outside. Cloud, come quick.</p>
+<p class="italic">Cloud follows her outside.</p>
+<p class="indent"><b>Woman</b><br/>For the past few decades, the only thing I've been hearing about is the Shinra.<br/>I miss the times when we used to talk only about fish...</p>
+<p class="italic">Cloud finds the others all gathered at the stairs leading up to Priscilla's house.</p>
+<p class="indent"><b>Barret</b><br/>Seems like something's goin' on up there!</p>
+<p class="indent"><b>Aerith</b><br/>I heard that girl regained consciousness.</p>
+<p class="indent"><b>Tifa</b><br/>Doesn't it seem a little strange? Everything getting so noisy all of a sudden...?</p>
+<p class="indent"><b>Red XIII</b><br/>Does this have something to do with the Shinra?</p>
+<p class="indent"><b>Yuffie</b><br/>What's this loud music? It's giving me a headache!</p>
+<p class="italic">Cloud starts up the steps and Priscilla comes out of her house.</p>
+<p class="indent"><b>Cloud</b><br/>Are you all right now?</p>
+<p class="indent"><b>Priscilla</b><br/>Umm... thanks for helping...<br/>I'm sorry, I mistook you for one of those Shinra, Inc. ...</p>
+<p class="indent"><b>Cloud</b><br/>That's all right.</p>
+<p class="indent"><b>Priscilla</b><br/>I'll give you something SPECIAL!<br/>It's an amulet. Take good care of it, ok?</p>
+<div class="highlight"/><p>Received "Shiva" Materia!</p>
+<p class="indent"><b>Barret</b><br/>What's that music? It sure sounds lively.</p>
+<p class="indent"><b>Priscilla</b><br/>I heard they're rehearsing the reception for the new Shinra president.</p>
+<p class="indent"><b>Barret</b><br/>Rufus!? I gotta pay my respects.</p>
+<p class="indent"><b>Priscilla</b><br/>Grandpa and grandma told me this beach was beautiful when they were small.<br/>But after the Shinra built that city above, the sun stopped shining here, and the water got polluted...<br/>I was raised on that story and hate Shinra so much, I could die!</p>
+<p class="indent"><b>Aerith</b><br/>You think Rufus is thinking about crossing the ocean from here, too?<br/>What? Does that mean Sephiroth already crossed the ocean?</p>
+<p class="indent"><b>Red XIII</b><br/>Cloud, didn't you finish Rufus off?</p>
+<p class="indent"><b>Barret</b><br/>We gotta get to the town up there... Mebbe we could climb the tower?</p>
+<p class="indent"><b>Priscilla</b><br/>No! No! There's a high voltage current running underneath the tower. Don't wander near it, it's dangerous!<br/>But... you might be able to if Mr. Dolphin helps you. Follow me!</p>
+<p class="italic">She runs for the water, but the others hang back.</p>
+<p class="indent"><b>Tifa</b><br/>High voltage tower......<br/>I guess this means Cloud'll be all right.</p>
+<p class="indent"><b>Aerith</b><br/>Yeah, better leave it to Cloud!</p>
+<p class="indent"><b>Red XIII</b><br/>We're counting on you, Cloud.</p>
+<p class="indent"><b>Cloud</b><br/>Hey!!<br/>Wait a second!</p>
+<p class="italic">The others disperse, ignoring him. Barret stands near the fisherman, Tifa and Aerith stand talking to each other, and Red XIII and Yuffie stand together.</p>
+<p class="indent"><b>Barret</b><br/>Yeah, I'd like to take a good look at the new President of Shinra, Inc.!</p>
+<p class="indent"><b>Tifa</b><br/>Don't you just hate this?</p>
+<p class="indent"><b>Aerith</b><br/>You're probably right.</p>
+<p class="indent"><b>Red XIII</b><br/>That looks like a Shinra soldier.</p>
+<p class="indent"><b>Yuffie</b><br/>Aren't you going to follow her?</p>
+<p class="italic">Cloud goes down to the beach where Priscilla is waiting.</p>
+<p class="indent"><b>Priscilla</b><br/>Wait a minute.</p>
+<p class="italic">She blows a whistle and the dolphin jumps. Barret comes down to join them.</p>
+<p class="indent"><b>Barret</b><br/>Now ain't that something! I ain't never seen no Dolphin jump like that!</p>
+<p class="indent"><b>Priscilla</b><br/>Pretty cool, huh? When I blow this whistle, Mr. Dolphin jumps for me.<br/>Here!! This is for you, Cloud!</p>
+<p class="indent"><b>Cloud</b><br/>A gift? What am I supposed to do with it!?</p>
+<p class="indent"><b>Priscilla</b><br/>Just go into the water, blow this whistle, and Mr. Dolphin'll jump you to the top of the pole!</p>
+<p class="indent"><b>Cloud</b><br/>Jump to the top of the pole?</p>
+<p class="indent"><b>Priscilla</b><br/>See that rod sticking out at the top? If you jump just right, you can climb to the top of the town.</p>
+<p class="indent"><b>Barret</b><br/>Good luck Cloud! If you make it, we'll follow you!<br/>Whoa, I'll hold the PHS for you. It'll break if it gets wet.</p>
+<p class="indent"><b>Priscilla</b><br/>You wanna jump with Mr. Dolphin?</p>
+<p class="indent"><b>Cloud</b><br/>- Explain it to me again<br/>- Sure<br/>- I'll pass</p>
+<div class="block"/>
+  <p><span class="highlight">Explain it to me again</span></p>
+  <p class="italic">Priscilla repeats her explanation.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Sure</span></p>
+  <p class="italic">Cloud goes into the water to begin the jumping-to-the-top-of-the-pole ordeal.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I'll pass</span></p>
+  <p class="indent-nopad"><b>Priscilla</b><br/>Come back whenever you want to see Mr. Dolphin!</p>
+
+<p class="italic"><a name="rufus"></a>Eventually the dolphin jumps Cloud to the top of the pole, and he climbs up to the Shinra airfield, where the Highwind is. He enters the base to find a group of soldiers running out to the street.</p>
+<p class="indent"><b>Soldiers</b><br/>Eh! Oh!<br/>The New President! He's here! He's here!<br/>Hurry! Hurry!</p>
+<p class="indent"><b>Commander</b><br/>Hey! You still dressed like that!? Come 'ere!</p>
+<p class="italic">If Cloud tries to run out...</p>
+<p class="indent"><b>Commander</b><br/>Hey! Rookie!! Can't you hear me!! Come over here!<br/>Here!! Get in the room!</p>
+<p class="italic">Cloud enters the locker room.</p>
+<p class="indent"><b>Commander</b><br/>Today's the big day when we welcome President Rufus! Hurry up and change!<br/>There's a uniform in the locker. Hurry and change!</p>
+<p class="indent"><b>Cloud</b><br/>It's the Shinra uniform.<br/>- Don't change<br/>- Change</p>
+<div class="block"/>
+  <p><span class="highlight">Don't change</span></p>
+  <p>There's Shinra soldiers all around. Better not try anything dumb...</p>
+
+<div class="block"/>
+  <p><span class="highlight">Change</span></p>
+  <p>Brings back memories...</p>
+
+<p class="indent"><b>Commander</b><br/>Quit yappin'! Hurry up!</p>
+<p class="italic">Cloud changes into the Shinra uniform.</p>
+<p class="indent"><b>Cloud</b><br/>A Shinra uniform...<br/>I was so proud when I first put it on.<br/>I wonder when it was...<br/>...I couldn't stand wearing this thing anymore.</p>
+<p class="indent"><b>Commander</b><br/>Wow! You look good in it!<br/>You remember the Greeting procedure, right!?</p>
+<p class="italic">Cloud shrugs.</p>
+<p class="indent"><b>Commander</b><br/>...the look on your face says you forgot. All right, I'll show you again!<br/>Do just like we do.</p>
+<p class="italic">Two soldiers run in.</p>
+<p class="indent"><b>Soldiers</b><br/>Commander!! We'll help too!<br/>This is how to do it!<br/>We'll sing too!</p>
+<p class="indent"><b>Commander</b><br/>All right! Show 'em!!<br/>Now, march!! This's the Welcoming March!</p>
+<p class="indent"><b>Soldier</b><br/>Then! I'll sing along with you!<br/>Quietly--!!<br/>Aaaaah!<br/>Aaaaah!<br/>Hey, come on now.</p>
+<p class="indent"><b>Commander</b><br/>Now! Keep in step with the soldier next to you and march smoothly!</p>
+<p class="indent"><b>Soldiers</b><br/>Rufus--- Rufus Shinra----<br/>We---are---Shinra Company---- The new-----President------<br/>Oh----- Oh-----Shinra---------<br/>Oh-----Oh oh -----Shinra, Inc.<br/>Realization----of the new era--- New----President Ru--fus<br/>Oh-----Oh oh -----Shinra, Inc.<br/>Building-----the new era------ Shinra-----forev---er---------</p>
+<p class="indent"><b>Commander</b><br/>Once you're all in step, shoulder your gun!<br/>Good! Make sure you do well at the real parade!</p>
+<p class="italic">Another soldier runs in.</p>
+<p class="indent"><b>Soldier</b><br/>Rufus has arrived! Preparation completed!</p>
+<p class="indent"><b>Commander</b><br/>All right, show time! Don't disgrace yourselves!</p>
+<p class="italic">Elsewhere...</p>
+<p class="indent"><b>Soldier</b><br/>Begin the Welcome Parade!</p>
+<p class="italic">The parade begins. Back to Cloud: The commander, the two soldiers, and Cloud walk out onto an empty street.</p>
+<p class="indent"><b>Commander</b><br/>Oh... no...!! No one's here!<br/>Late---!?<br/>Hey Rookie!! It's because you're running around like that!!</p>
+<p class="indent"><b>Soldier</b><br/>Captain!! We'll take a short cut!</p>
+<p class="indent"><b>Commander</b><br/>Right!<br/>Good idea.<br/>Get over here!!<br/>All right! You first!</p>
+<p class="italic">If Cloud tries to run away...</p>
+<p class="indent"><b>Commander</b><br/>Hey!! Don't get me any madder than I already am!</p>
+<p class="italic">They go through an alley connecting to the street on which the parade is going by.</p>
+<p class="indent"><b>Commander</b><br/>Now listen up! This parade's gonna be broadcast live on Shinra TV, around the world!<br/>If you look bad, the whole Junon army will look bad. Remember that and don't screw up!<br/>OK! Jump in when I give you the sign!<br/>Just sneak in from the back! Don't mess up the row!<br/>And no matter what you do don't try to go in from the front!<br/>All right!! Start marching!!<br/>Charge-----!!</p>
+<p class="italic">Cloud manages to sneak into the parade as instructed.</p>
+<p class="indent"><b>TV Producer</b><br/>What the hell was that soldier doing?</p>
+<p class="indent"><b>AD</b><br/>I don't know.</p>
+<p class="indent"><b>TV Producer</b><br/>Are the points up?</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud did poorly...</span></p>
+  <p class="indent-nopad"><b>AD</b><br/>This's terrible! Am... am I fired?</p>
+  <p class="indent-nopad"><b>TV Producer</b><br/>What!? You're FIRED!!<br/>Send that soldier a bomb or something!</p>
+  <div class="highlight-nopad"/><p>Received "Grenade"!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud did okay...</span></p>
+  <p class="indent-nopad"><b>AD</b><br/>Well, it's so-so.</p>
+  <p class="indent-nopad"><b>TV Producer</b><br/>Hmm...<br/>Better send that soldier something.</p>
+  <div class="highlight-nopad"/><p>Received 6 "Potion"!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud did pretty well...</span></p>
+  <p class="indent-nopad"><b>AD</b><br/>So-so.</p>
+  <p class="indent-nopad"><b>TV Producer</b><br/>Really.<br/>I want somebody to send that soldier an expensive gift.</p>
+  <div class="highlight-nopad"/><p>Received 6 "Ether"!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud did very well...</span></p>
+  <p class="indent-nopad"><b>AD</b><br/>They just shot up!!</p>
+  <p class="indent-nopad"><b>TV Producer</b><br/>We did it!<br/>Send that soldier something special.</p>
+  <div class="highlight-nopad"/><p>Received 5000 gil!</p>
+
+<p class="italic">Cloud and the others join a group of soldiers drilling in front of Rufus and Heidegger.</p>
+<p class="indent"><b>Commander</b><br/>Good! We made it.<br/>Oh! President Rufus!<br/>Hey! Line up and shut up!<br/>Don't make a move!</p>
+<p class="italic">The soldiers finish their show. Heidegger turns to Rufus.</p>
+<p class="indent"><b>Rufus</b><br/>How's the job?<br/>What happened to the Airship?</p>
+<p class="indent"><b>Heidegger</b><br/>The long range airship is still being prepared.<br/>It should be ready in about three more days. Gya haa haa!</p>
+<p class="indent"><b>Rufus</b><br/>Even the Air Force's Gelnika?</p>
+<p class="indent"><b>Heidegger</b><br/>......Gya haa haa!</p>
+<p class="indent"><b>Rufus</b><br/>Stop that stupid horse laugh.<br/>Things are different than when father was in charge.</p>
+<p class="indent"><b>Heidegger</b><br/>Gya...</p>
+<p class="indent"><b>Rufus</b><br/>Is the ship ready?</p>
+<p class="indent"><b>Heidegger</b><br/>Yes Sir, we'll get it ready quickly.</p>
+<p class="italic">Rufus turns and climbs up into the lift into the base. Heidegger turns to his group and charges. Everyone but Cloud flees. Heidegger punches Cloud and then runs after Rufus.</p>
+<p class="indent"><b>Soldiers</b><br/>What a disaster.<br/>Heidegger was really irritated...<br/>The man in the Black Cape's been roaming the city, but we can't find him.</p>
+<p class="indent"><b>Cloud</b><br/>Man in a Black Cape?</p>
+<p class="indent"><b>Soldiers</b><br/>He showed up two or three days ago, and killed a few of our soldiers.<br/>He disappeared right after that. There's a rumor going around that it was Sephiroth.</p>
+<p class="indent"><b>Commander</b><br/>Attention! Dismissed!</p>
+<p class="italic">The soldiers leave, and the commander walks up to Cloud.</p>
+<p class="indent"><b>Commander</b><br/>Hey! Hey you! You messing with the army?</p>
+<p class="indent"><b>Cloud</b><br/>- Who cares?<br/>- What if I am?</p>
+<p class="indent"><b>Commander</b> (he says the same thing regardless)<br/>You're too lazy!! No break for you!!<br/>Get over here!</p>
+<p class="italic">The commander takes Cloud back to the locker room.</p>
+<p class="indent"><b>Commander</b><br/>This is the military, soldier!! Your orders for today are to send off President Rufus at the dock!<br/>I'll keep drilling you until it's time!</p>
+<p class="italic">The two soldiers come back in.</p>
+<p class="indent"><b>Soldiers</b><br/>I'll help, sir!<br/>Me too, sir!</p>
+<p class="indent"><b>Commander</b><br/>All right!! Line up in order and show me your final pose!<br/>Today's command is Formation!<br/>Remember it!<br/>Ready!?<br/>Junon Military Send Off, BEGIN!!</p>
+<p class="italic">The soldiers practice the send off.</p>
+<p class="indent"><b>Commander</b><br/>All right! Now you try it!</p>
+<p class="italic">Cloud practices with them.</p>
+<p class="indent"><b>Commander</b><br/>So, you got it?</p>
+<p class="indent"><b>Cloud</b><br/>- Not yet!<br/>- I've got it!</p>
+<p class="indent"><b>Commander</b><br/>All right! Don't mess up during the real thing!</p>
+<p class="indent"><b>Soldier</b><br/>Commander!! What's today's special pose?</p>
+<p class="indent"><b>Commander</b><br/>Huh? ...I haven't decided yet.<br/>All right, rookie!! I'll let you decide!<br/>Show me your best move!</p>
+<p class="indent"><b>Cloud</b><br/>Let's see... My best move is...</p>
+<p class="italic-inline">He twirls his gun over his head the same way he twirls his sword after a battle.</p>
+<p class="indent"><b>Soldiers</b><br/>Woo----ow!<br/>That's awesome!</p>
+<p class="indent"><b>Commander</b><br/>All right!! We'll go with that as today's special!!<br/>Practice it!</p>
+<p class="indent"><b>Soldiers</b><br/>Yes sir!!</p>
+<p class="indent"><b>Commander</b><br/>Well then! Meet at the dock!! Don't be late!!<br/>Attention! Dismissed!!</p>
+<p class="italic"><a name="explore"></a>If Cloud goes back down the elevator...</p>
+<p class="indent"><b>Elevator Guard</b><br/>What? It's not time for our shift, yet. Just relax.</p>
+<p class="indent"><b>Cloud</b><br/>Uh... yea......</p>
+<p class="italic">He gets back on the elevator to Upper Junon.</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>Come on, forget about your job! Step right up!!</p>
+<p class="italic">Cloud enters the shop.</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>Welcome!<br/>I was just starting to get worried... You see our sales were pretty bad today.</p>
+<p class="italic">In the bar, Rude is smoking at a table with a group of bald men.</p>
+<p class="indent"><b>Barkeeper</b><br/>I'm sorry! It's all rented out today!</p>
+<p class="indent"><b>Rude</b><br/>Mm...? You too?<br/>Then, take your mask off and come here. That's our rule.</p>
+<p class="indent"><b>Man with Head on Table</b><br/>Looks like something's going on outside, but we're too smashed to do anything...<br/>Ooh, oohh... Oh man, my head's burning up...</p>
+<p class="indent"><b>Bald Man in Suspenders</b><br/>Seems like you're all a little too young to be in here.</p>
+<p class="indent"><b>Big Bald Man</b><br/>Seaweed... Seaweed...</p>
+<p class="italic">Inside the barracks...</p>
+<p class="indent"><b>Man</b><br/>Hey, how could you do that!? Nobody woke me up!<br/>And I can't find the uniform I left in my locker, either. I wonder if I left it somewhere...<br/>Geez! Do you think this could be... what they call 'bullying?'<br/>Oh man, My future in the military, is pretty bleak.</p>
+<p class="indent"><b>Soldier</b><br/>Hmm? A know-it-all, huh?<br/>All right!! Come in!!</p>
+<p class="italic">Cloud goes downstairs.</p>
+<p class="indent"><b>Soldier</b><br/>This is a Respectable Inn... guests only!<br/>You should absorb all the wisdom until it is a part of you.</p>
+<p class="indent"><b>Soldier 2</b><br/>Ok wise-guy, I'll ask about Materia just so you can let off some stress.</p>
+<p class="italic-inline">A tutorial menu opens.</p>
+<p class="indent"><b>Soldier 3</b><br/>Ok. Expert! Enlighten us on Limit Techniques, why doncha?</p>
+<p class="italic-inline">A tutorial menu opens.</p>
+<p class="indent"><b>Ghost</b><br/>This is the Beginner's Hall (Intermediate)!<br/>Your explanations were so complicated I couldn't return to the Planet.<br/>So, I have a right to ask you again.</p>
+<p class="italic-inline">A tutorial menu opens.</p>
+<p class="indent"><b>Ghost 2</b><br/>Ok, Mr. Know-it-all, ex-SOLDIER! Let me revenge... I mean, review!</p>
+<p class="italic-inline">A tutorial menu opens.</p>
+<p class="italic">On up to the third floor...</p>
+<p class="indent"><b>Soldier Studying</b><br/>Mmm? I'm not going to the parade.<br/>The road to becoming SOLDIER First Class is very difficult.<br/>Don't mind me.<br/>As a man with promise and future, I don't have any time to fool around like the rest of you.</p>
+<p class="italic">Cloud goes on towards the port...</p>
+<p class="indent"><b>Sailor Outside Underwater Reactor</b><br/>What is it? The elevator's out of order right now due to an inspection.<br/>You know, right under us, is a Submarine Dock and the Underwater Mako Reactor.<br/>Mako energy puts a lot of wear and tear on the machinery.<br/>A lot of problems can pop up. So it's necessary for close inspections and maintenance.</p>
+<p class="indent"><b>Soldier Near Lift</b><br/>Oh! How's it going!? If you're looking for Junon dock, it's over there!<br/>This lift goes to the Shinra section...<br/>Ever since that Black-caped murderer... But we can't use it because we're all on red alert.</p>
+<p class="italic">Inside Shinra's member bar...</p>
+<p class="indent"><b>Barkeeper</b><br/>Hey soldier-boy, aren't you still on duty?</p>
+<p class="indent"><b>Tseng</b><br/>Stay outta this.</p>
+<p class="indent"><b>Reno</b><br/>The President's safety is secure because we're here.</p>
+<p class="indent"><b>Elena</b><br/>The minute you think the job's boring, you guys start messing around.</p>
+<p class="italic">Inside Junon Inn...</p>
+<p class="indent"><b>Innkeeper</b><br/>Are you sure it's all right?<br/>Nap while on duty?<br/>- 30 gil<br/>- Forget it</p>
+<p class="italic">On the second floor...</p>
+<p class="indent"><b>Girl</b><br/>Please! Come in...</p>
+<p class="italic">Cloud enters the Materia Shop.</p>
+<p class="indent"><b>Girls</b><br/>Welcome!</p>
+<p class="indent"><b>Redhead</b><br/>I won't charge you for a smile...</p>
+<p class="indent"><b>Black-haired girl</b><br/>Buy a lot, cutie!</p>
+<p class="indent"><b>Girl</b><br/>Please go to the counter.</p>
+<p class="indent"><b>Shopkeeper</b><br/>There's lots of stores in Junon.<br/>If we don't do this... we can't compete.<br/>But, what bothers me is that the girls make more than me.</p>
+<p class="italic">Cloud leaves the shop.</p>
+<p class="indent"><b>Girls</b><br/>Thank you very much!</p>
+<p class="italic">On the third floor...</p>
+<p class="indent"><b>Accessory Shopkeeper</b><br/>I used to be in SOLDIER... Once I left, I opened up this shop...<br/>But to tell you the truth, I'd rather be at the shop downstairs.</p>
+<p class="italic">Inside another barracks...</p>
+<p class="indent"><b>Soldier</b><br/>Hey! Aren't you still on duty!?<br/>Look, I'm in no position to talk, but...<br/>Don't become a delinquent worker like me.</p>
+<p class="italic">On the second floor...</p>
+<p class="indent"><b>Shinra Manager</b><br/>It's so shameful!<br/>...and they told me that I would be staying at five star hotels on these trips...<br/>How can you guys sleep in a place like this?</p>
+<p class="italic">Inside the Weapons Shop...</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>Oh! Welcome!<br/>We don't have anything special now. I kind of messed up the last time I ordered but feel free to look around!</p>
+<p class="italic"><a name="docks"></a>Cloud finally goes to the dock and lines up with the other soldiers. Red XIII is watching from just inside the ship's cargo hold.</p>
+<p class="indent"><b>Commander</b><br/>All right, it's time!</p>
+<p class="indent"><b>Soldier</b><br/>President Rufus... has now arrived!<br/>Ten... HUT!</p>
+<p class="indent"><b>Commander</b><br/>This is it!! Junon Military Reception--!<br/>Do it right---, Do it with enthusiasm...! Ready...!</p>
+<p class="italic">Cloud and the soldiers perform the send-off exercises they practiced earlier.</p>
+<p class="indent"><b>Commander</b><br/>All right! Now finish strong! Special!</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If they did well...</span></p>
+  <p class="indent-nopad"><b>Rufus</b><br/>Well done.<br/>Keep up the good work for Shinra, Inc.</p>
+  <p class="indent-nopad"><b>Heidegger</b><br/>Gya haa ha...!! Here's a special bonus for you!!<br/>A token of the President's kindness! Don't forget it!</p>
+  <div class="highlight-nopad"/><p>Received "Force Stealer"!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If they did okay...</span></p>
+  <p class="indent-nopad"><b>Rufus</b><br/>Very entertaining. Keep up the good work.</p>
+  <p class="indent-nopad"><b>Heidegger</b><br/>Gya haa ha...!! Here's a special bonus for you!!<br/>A token of the President's kindness! Don't forget it!</p>
+  <div class="highlight-nopad"/><p>Received "HP Plus" Materia!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If they did poorly...</span></p>
+  <p class="indent-nopad"><b>Rufus</b><br/>Looks like you need more practice.<br/>With things looking like this, you better be ready for pay cuts...</p>
+  <p class="indent-nopad"><b>Heidegger</b><br/>Gya haa ha...!! Here's a special bonus for you!!<br/>A token of the President's kindness! Don't forget it!</p>
+  <div class="highlight-nopad"/><p>Received "Silver Glasses"!</p>
+
+<p class="indent"><b>Rufus</b><br/>Once the word gets out that Sephiroth's here, Cloud and his friends will show up, too.</p>
+<p class="indent"><b>Heidegger</b><br/>We'll crush them as soon as we find them!</p>
+<p class="indent"><b>Rufus</b><br/>We can't have them get in our way.</p>
+<p class="indent"><b>Heidegger</b><br/>Leave it up to me, sir! Gya haa ha!</p>
+<p class="indent"><b>Rufus</b><br/>I thought I told you to stop that stupid laugh...</p>
+<p class="italic-inline">He turns and gets on the ship.</p>
+<p class="indent"><b>Heidegger</b><br/>Gya......</p>
+<p class="italic-inline">He charges for the soldiers, but a whistle sounds and he turns to run on the ship.</p>
+<p class="indent"><b>Commander</b><br/>All right! Dismissed!</p>
+<p class="indent"><b>Soldiers</b><br/>That was close.<br/>Heidegger's been really edgy lately.<br/>Because Hojo disappeared, leaving a letter of resignation.<br/>Heidegger's been forced to take care of that investigation, too.</p>
+<p class="indent"><b>Commander</b><br/>Hey--! I thought you were dismissed!</p>
+<p class="italic">Three of the soldiers leave, but one runs onto the ship.</p>
+<p class="indent"><b>Commander</b><br/>We got some cleaning up to do! Hurry up!</p>
+<p class="italic">Inside the cargo hold, Red XIII is just visible.</p>
+<p class="indent"><b>Red XIII</b><br/>Hey, hurry. You're the last one.</p>
+<p class="indent"><b>Cloud</b><br/>How did you get here?</p>
+<p class="indent"><b>Red XIII</b><br/>A dolphin gave me a ride.<br/>Priscilla remembered the dolphin after you climbed the pole. But, you mustn't be mad at her.</p>
+<p class="italic">Instead of following the others away from the dock, Cloud, too, sneaks onto the ship.</p>
+
+</scene>

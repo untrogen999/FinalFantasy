@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="Highwind">
+
+
+
+<sp>The Highwind - What We're Fighting For </sp>
+
+<sp>Cloud's Speech </sp>
+<sp>Cloud and Tifa Await the Others' Return </sp>
+<sp>Back on the Highwind </sp>
+
+<stage>On the Highwind's bridge...</stage>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Shinra's...... finished. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Meteor's gonna fall in about...... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Seven more days. That's what Grandfather said. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Nanaki">Nanaki</referent>......<boxstart/>You want to see everyone in Cosmo Canyon again? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>.........yes. </sp>
+<sp><speaker name="Cloud">Cloud</speaker> (turning to Barret)<boxstart/>You want to see Marlene, right? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Don't ask me that. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>We'll beat Sephiroth...<boxstart/>Then, if we don't release the power of Holy in seven days......<boxstart/>There won't be a planet left to protect.<boxstart/>If we can't beat <referent name="Sephiroth">Sephiroth</referent>...<boxstart/>It's as good as death for us.<boxstart/>We'll just go a few days sooner than the rest who'll die from Meteor. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Don't be thinkin' you're gonna lose before ya even fight! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>No!<boxstart/>What I meant was...<boxstart/>What are we all fighting for? I want us all to understand that.<boxstart/>Save the planet... for the future of the planet... Sure, that's all fine.<boxstart/>But really, is that really how it is?<boxstart/>For me, this is a personal feud.<boxstart/>I want to beat <referent name="Sephiroth">Sephiroth</referent>. And settle my past.<boxstart/>Saving the planet just happens to be part of that.<boxstart/>I've been thinking.<boxstart/>I think we all are fighting for ourselves.<boxstart/>For ourselves... and that someone... something... whatever it is, that's important to us.<boxstart/>That's what we're fighting for.<boxstart/>That's why we keep up this battle for the planet. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>You're right...<boxstart/>It sounds cool sayin' it's to save the planet.<boxstart/>But I was the one who blew up that Mako reactor......<boxstart/>Lookin' back on it now, I can see that wasn't the right way to do things.<boxstart/>I made a lot of friends and innocent bystanders suffer...<boxstart/>...At first, it was revenge against Shinra. For attackin' my town.<boxstart/>But now......<boxstart/>Yeah. I'm fightin' for Marlene.<boxstart/>For Marlene... For Marlene's future...<boxstart/>Yeah... I guess I want to save the planet for Marlene's sake... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Go and see her. Make sure you're right, and come back.<boxstart/>All of you. Get off the ship and find out your reasons for yourselves.<boxstart/>I want you to make sure. Then I want you to come back. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Maybe ain't none of us'll come back.<boxstart/>Meteor's gonna kill us all anyway. Let's just forget any useless struggling! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I know why I'm fighting.<boxstart/>I'm fighting to save the planet, and that's that.<boxstart/>But besides that, there's something personal too...<boxstart/>A very personal memory that I have.<boxstart/>What about you all?<boxstart/>I want all of you to find that something within yourselves.<boxstart/>If you don't find it, then that's okay too.<boxstart/>You can't fight without a reason, right?<boxstart/>So, I won't hold it against you if you don't come back. </sp>
+<stage>Everyone leaves but Tifa. Cloud turns to her.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What are you going to do, <referent name="Tifa">Tifa</referent>? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Did you forget?<boxstart/>I'm... all alone. I don't have anywhere to go. </sp>
+<stage>Cloud and Tifa climb down from the airship.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Everyone's gone... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Yeah, we don't have anywhere or anyone to go home to. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>You're right...<boxstart/>But... I'm sure someday... they'll come back, don't you think? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Hmm... I wonder...?<boxstart/>Everyone has an irreplaceable something they're holding on to...<boxstart/>But this time, our opponent... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Hmm... But that's all right, even if no one comes back.<boxstart/>As long as I'm with you... As long as you're by my side... I won't give up even if I'm scared. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>.........<referent name="Tifa">Tifa</referent>...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>No matter how close we are... We were far apart... before this.<boxstart/>But when we were in the Lifestream surrounded by all those screams of anguish, I thought I heard your voice...<boxstart/>...sniff... you probably don't remember this...<boxstart/>But deep in my heart I heard you calling my name... Or at least I thought I did... </sp>
+<stage>Depending on Cloud's actions throughout the game, the dialogue continues differently.</stage>
+
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> has favored <referent name="Tifa">Tifa</referent>...</sp>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>Yeah... At that time I heard you calling me.<boxstart/>You were calling me back from the stream of consciousness in the Lifestream.<boxstart/>After all, I promised. That if anything were to ever happen to you, I would come to help. </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...? Do you think the stars can hear us?<boxstart/>Do you think they see how hard we're fighting for them? </sp>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>I dunno... But...<boxstart/>Whether they are or not, we still have to do what we can. And believe in ourselves...<boxstart/>I'll find the answer someday. Right, <referent name="Tifa">Tifa</referent>?<boxstart/>That's what I learned from you when I was in the Lifestream. </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Yeah...... that's right...  </sp>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>Hey <referent name="Tifa">Tifa</referent>...... I...... There are a lot of things I wanted to talk to you about.<boxstart/>But now that we're together like this, I don't know what I really wanted to say...<boxstart/>I guess nothing's changed at all... Kind of makes you want to laugh... </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... Words aren't the only thing that tell people what you're thinking... </sp>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>............ </sp>
+  <stage>Cloud and Tifa spend the night on the ground beneath the airship, Tifa leaning against Cloud.</stage>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>............It's almost dawn... </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/>H, huh...? </sp>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>Sorry. Did I wake you...? It's almost dawn, <referent name="Tifa">Tifa</referent>. </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Umm... G, good morning... <referent name="Cloud">Cloud</referent>.<boxstart/>Give me a little longer... Just a little bit longer... </sp>
+  She leans back against him.
+  This day will never come again... So let me have this moment...
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>Yeah... okay.<boxstart/>This is probably the last time we'll have together...... </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> has favored one of the others...</sp>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>I see......<boxstart/>I think I've heard about it, too.<boxstart/>At that time, it was <referent name="Tifa">Tifa</referent>'s voice...... </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...? Do you think the stars can hear us?<boxstart/>Do you think they see how hard we're fighting for them? </sp>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>I dunno... But...<boxstart/>Whether they are or not, we still have to do what we can. And believe in ourselves...<boxstart/>I'll find the answer someday. As long as I keep trying. </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Yeah...... that's right... </sp>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>We've got a big battle tomorrow, we'd better get some sleep... </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Umm. Yes, I guess you're right...... </sp>
+  <stage>Cloud and Tifa spend the night on the ground beneath the airship, Tifa leaning against Cloud.</stage>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>............It's almost dawn... </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/>H, huh...? </sp>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>Morning, <referent name="Tifa">Tifa</referent>. It's almost dawn... </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Mmm...... Good morning, <referent name="Cloud">Cloud</referent>.<boxstart/>Give me a little longer... Just a little big longer... </sp>
+  She leans back against him.
+  This day will never come again... So let me have this moment...
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>............ </sp>
+
+<stage>Later, some time after the sun has risen.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>......... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>We'd better go. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>But, I still...!? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>It's all right, <referent name="Tifa">Tifa</referent>. You said so yourself yesterday.<boxstart/>At least we don't have to go on alone. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Yes... That's right! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Okay! Let's go! </sp>
+<stage>Together they return to the Highwind.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>The airship is too big for just the two of us.<boxstart/>Yeah, it's a little lonely without everyone. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Don't worry. It'll be okay.<boxstart/>I'll make a big enough ruckus for everyone.<boxstart/>Besides, I'm the pilot.<boxstart/>No more flying around casually like before.<boxstart/>We won't have time to feel lonely. </sp>
+<stage>Tifa nods. Suddenly the airship starts up.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Huh!? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>It's moving...... </sp>
+<stage>They run to the bridge, where they find Cid and Barret at the controls.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Barret">Barret</referent>! <referent name="Cid">Cid</referent>! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>O, oh...... is that okay with you? </sp>
+<stage>Nanaki bounds up from the stairs.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Nanaki">Nanaki</referent>! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Why didn't you tell me!? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>But, you know, <referent name="Cid">Cid</referent>. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, <referent name="Nanaki">Nanaki</referent>.<boxstart/>If you butt in now, you never know what they'll say later...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>......Were you listening? </sp>
+<stage>She runs off, embarrassed. Cloud turns away, scratching his head, and notices Vincent.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Vincent">Vincent</referent>! </sp>
+<stage>Everyone turns to look. Vincent turns away.</stage>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Why such a puzzled look?<boxstart/>You don't want me to come? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>No, it's just that you're always so cold. I thought you didn't care what was happening. </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Cool?<boxstart/>Hmm...... I guess that's just how I am, sorry. </sp>
+<stage>He jumps over to his usual spot.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Well lookey-here. The Shinra Manager's come back. </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Uh, excuse me but...<boxstart/>I wanted to come with the main group, but I couldn't get away......<boxstart/>So some people in Midgar took me in.<boxstart/>I know I have a stuffed animal body, but I'll work really hard! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>I guess that's everyone. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>No, <referent name="Yuffie">Yuffie</referent>'s missing. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>She ain't gonna show up.<boxstart/>'Least this time she didn't steal our materia. Guess we gotta be thankful for that. </sp>
+<stage>Yuffie drops down from the ceiling and shakes her fist at him.</stage>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>How could you say that!?<boxstart/>I came all the way here after being seasick as a dog!<boxstart/>I didn't go through all that just to have you guys have the best parts all to yourselves! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Welcome back, <referent name="Yuffie">Yuffie</referent>. </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Gee, <referent name="Cloud">Cloud</referent>...... that's so nice of you to say that. ......You sick?<boxstart/>Well, whatever. I'm gonna be in my reserved seat in the hall...... waiting...... upp! ......Urk! </sp>
+<stage>She runs out of the bridge.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Thanks everyone. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>We didn't come back for your spikey headed ass!<boxstart/>We came back for Marlene. Guess it's jes' my...... whatcha call, feelings or somethin'.<boxstart/>I, uh, I ain't got now words now...... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>......Although she's not here, she left us a window of opportunity... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>We can't let it go like this. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>......Aerith.<boxstart/>She was smiling to the end.<boxstart/>We have to do something, or that smile will just freeze like that.<boxstart/>Let's all go together.<boxstart/>Memories of Aerith......<boxstart/>Although she should've returned to the planet by now, something stopped her and now she's stuck......<boxstart/>We've got to let go of <referent name="Aerith">Aerith</referent>'s memory. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Has anyone here changed their mind? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I'm counting on you, <referent name="Cid">Cid</referent>. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Yeah, yeah......<boxstart/>There are 2 levers here that've been buggin' me for a while now...<boxstart/>Let me try them out.<boxstart/>All right, so what should I do?<boxstart/>You decide, <referent name="Cloud">Cloud</referent>. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>This is our last battle.<boxstart/>Our target is the North Cave. Our enemy is...... <referent name="Sephiroth">Sephiroth</referent>!<boxstart/>So let's move out! </sp>
+<stage>Cid pulls the levers and the Highwind blasts off.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>We're almost to the North Cave! We're on our way, <referent name="Sephiroth">Sephiroth</referent>! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Man, I'm going to stick it to him! </sp>
+<stage>A warning sounds.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What is it, <referent name="Cid">Cid</referent>? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Errrrggh! Some incredible force! Losing... control......! </sp>
+<stage>Cid's crew runs over to help him.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Get the hell outta here, flunkies! Didn't I tell you all to go home!? </sp>
+<sp><speaker name="Crew">Crew</speaker><boxstart/>Yes, sir. This is our home!! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Oh ma--......stop trying to act so cool.<boxstart/>All right, you jokers! Hold me down with everything you got!!<boxstart/>Geronimo!! </sp>
+
+</scene>

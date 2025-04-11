@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="RocketTown">
+
+
+
+<h1>Rocket Town - Meeting Cid</h1>
+
+<h4><a href="#explore">Exploring the Town</a></h4>
+<h4><a href="#bronco">The Tiny Bronco</a></h4>
+<h4><a href="#cid">Captain Cid</a></h4>
+<h4><a href="#shera">Shera's Story</a></h4>
+<h4><a href="#shinra">The Shinra's Arrival</a></h4>
+<hr></hr>
+<p class="italic"><a name="explore"></a>After passing through the Nibel Mountains, Cloud and the others reach Rocket Town.</p>
+<p class="indent"><b>Cloud</b><br/>What's that...!?</p>
+<p class="italic-inline">He looks up to see the rocket.</p>
+<p class="block-inline">A rusty old rocket... Wonder what they'd make something that huge for?</p>
+<p class="italic">In the Weapons Shop...</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>A gun is a MAN'S weapon! Ain't nuthin' else'll do!<br/>Let me handle all your weapon and accessory needs!</p>
+<p class="italic">At the Shanghai Inn...</p>
+<p class="indent"><b>Man Looking at Painting</b><br/>Hmm. Is it real or fake?</p>
+<p class="indent"><b>Barkeeper</b><br/>Would you like something to drink?</p>
+<p class="indent"><b>Cloud</b><br/>- Let me hear your story<br/>- Not interested</p>
+<div class="block"/>
+  <p><span class="highlight">Let me hear your story</span></p>
+  <p class="indent-nopad"><b>Barkeeper</b><br/>Did you meet the Captain already? He's really the town's representative, so you should really talk with him.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Not interested</span></p>
+  <p class="indent-nopad"><b>Barkeeper</b><br/>......that's too bad. Please come again.</p>
+
+<p class="indent"><b>Man at Table</b><br/>Better ask the Captain about this town. He's the one in charge of it.</p>
+<p class="indent"><b>Cloud</b><br/>- Captain?<br/>- Did you see a man in a Black Cape?</p>
+<div class="block"/>
+  <p><span class="highlight">Captain?</span></p>
+  <p>Who's the 'Captain'?</p>
+  <p class="indent-nopad"><b>Man at Table</b><br/>The Captain was a pilot when Shinra was still interested in their Space Program.<br/>He was going to be the world's first astronaut, but there was an accident...<br/>Ever since then, he's been wasting his life away here dreaming about going into outer space.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Did you see a man in a Black Cape?</span></p>
+  <p class="indent-nopad"><b>Man at Table</b><br/>A man in a Black Cape? Nope... don't know a thing about it.</p>
+
+<p class="indent"><b>Man at Table</b><br/>A drink will ease your heart...</p>
+<p class="indent"><b>Man in Bathroom</b><br/>...I'm in here.<br/>P...... Urrrrgh... aaaaaghh...<br/>Urrrrgh, urrrgh</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Redhead</b><br/>That rusted out rocket is all that remains of the Shinra's Space Program.</p>
+<p class="indent"><b>Mechanic</b><br/>Everyone in this town was a mechanic back when they were planning to launch the rocket.</p>
+<p class="italic">Inside the house on the left...</p>
+<p class="indent"><b>Man</b><br/>Mmm, I'm so bored. Isn't there anything that can get me excited?</p>
+<p class="indent"><b>Woman</b><br/>Geeeeez, it's boring! Isn't anything exciting going to happen here?</p>
+<p class="indent"><b>Old Man outside Item Shop</b><br/>This used to be a Shinra base where they used to launch rockets.<br/>You saw the leaning rocket, right? That's Shinra No. 26. It never got off the ground though.<br/>It just looms there. That's how the town got its name... 'Shinra No. 26'.<br/>Want to look at the rocket with me?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah, let's take a look<br/>- No, not interested</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah, let's take a look</span></p>
+  <p class="indent-nopad"><b>Old Man</b><br/>I get so impressed every time I look at it.<br/>Sorry to get you into this. For me, it's a kinda hobby.<br/>But, out of appreciation, let me give you this.</p>
+  <div class="highlight-nopad"/><p>Received "Yoshiyuki"!</p>
+  <p class="indent-nopad"><b>Old Man</b><br/>I wish you'd take care of it and use it...</p>
+
+<div class="block"/>
+  <p><span class="highlight">No, not interested</span></p>
+  <p class="indent-nopad"><b>Old Man</b><br/>Oh, how boring...</p>
+
+<p class="italic">Inside the Item Shop...</p>
+<p class="indent"><b>Old Woman</b><br/>All gramps does is gaze at that rocket all day long.<br/>Well he's a man that really loves machinery...</p>
+<p class="italic">Inside the house on the right...</p>
+<p class="indent"><b>Old Man</b><br/>My job's to make everyone laugh all over the world...</p>
+<p class="italic"><a name="bronco"></a>At Cid's house... Cloud and the others go out to the back yard to find a plane.</p>
+<p class="indent"><b>Cloud</b><br/>There's a Shinra logo on it. Tiny Bronco...... This is cool.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>The Shinra always keep the most useful things to themselves. Let's steal it!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Let's take it? OK, Cloud!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>I wonder if we can borrow it...</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Will it fly? Is it all right to just take it?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Cloud, let's steal it! I love stealing from the Shinra!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Cloud! If we steal it, we'll get in deep trouble!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...Want me to keep watch?</p>
+</blockquote>
+<p class="italic">Shera comes out of the house behind them.</p>
+<p class="indent"><b>Shera</b><br/>Um... may I help you?</p>
+<p class="indent"><b>Cloud</b><br/>No... We're just looking at it.</p>
+<p class="indent"><b>Shera</b><br/>...If you would like to use it, please ask the Captain. The Captain should be in the Rocket.<br/>I'm Shera. And what are your names?</p>
+<p class="indent"><b>Cloud</b><br/>I'm Cloud.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>I'm Barret, of AVALANCHE.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>I'm Aerith.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Tifa. Nice to meet you.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Nanaki, otherwise known as Red XIII.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>I'm Yuffie!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Fortune telling machine Cait Sith, here.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Vincent. My occupation is...... forget it.</p>
+</blockquote>
+<p class="indent"><b>Shera</b><br/>Hmm... So you're not with the Shinra.<br/>I thought the approval for the reopening of the Space Program came.</p>
+<p class="indent"><b>Cloud</b><br/>......!?</p>
+<p class="indent"><b>Shera</b><br/>President Rufus is scheduled to come here. The Captain's been so restless all morning.</p>
+<p class="italic-inline">She goes back inside.</p>
+<p class="indent"><b>Cloud</b><br/>Rufus!!?</p>
+<p class="italic"><a name="cid"></a>Cloud goes to the rocket, and finds Cid inside.</p>
+<p class="indent"><b>Cid</b><br/>What're you guys doin' here?</p>
+<p class="indent"><b>Cloud</b><br/>We heard the Captain was here.</p>
+<p class="indent"><b>Cid</b><br/>Captain? I'm the Captain!<br/>The name's Cid. Everyone calls me 'Captain', though.<br/>What d'ya want?</p>
+<p class="indent"><b>Cloud</b><br/>- Tell me about this rocket<br/>- Is Rufus coming?<br/>- Can we borrow the "Tiny Bronco"?</p>
+<div class="block"/>
+  <p><span class="highlight">Tell me about this rocket</span></p>
+  <p class="indent-nopad"><b>Cid</b><br/>Wow! Not bad for a kid.<br/>Alright then, I'll explain it to you.<br/>You know Shinra developed a lot of technological gadgets during the meaningless war, right?<br/>Now it's a Mako company, but in the old days it was a weapons manufacturer.<br/>Well, they came up with a Rocket Engine.<br/>There was so much excitement about the thought of going into outer space. Our dreams got bigger and bigger.<br/>They put a major budget into it and made prototype after prototype! Finally, they completed the Shinra No. 26.<br/>They chose the best pilot in Shinra--no, in the world--me. I mean, come on.<br/>And finally we get to the day of the launch. Everything was goin' well...</p>
+  <p class="italic-inline-nopad">He kicks the wall.</p>
+  <p class="block-inline-nopad">But, because of that dumb-ass Shera, the launch got messed up. That's why they became so anal!<br/>And so, Shinra nixed their outer space exploration plans.<br/>After they told me how the future was Space Exploration and got my damn hopes up... DAMN THEM!<br/>Then, it was all over once they found out Mako energy was profitable. They didn't even so much as look at space exploration.<br/>Money, moola, dinero! My dream was just a financial number for them!<br/>Look at this rusted Rocket. I was supposed to be the first man in space with this.<br/>Everyday, it tilts a little bit more.<br/>At this rate, I don't know which will come first, this thing falling down or me gettin' outta here.<br/>My last hope is to talk to the President......</p>
+  <p class="italic">If Cloud leaves the rocket and comes back to ask him a second time...</p>
+  <p class="indent-nopad"><b>Cid</b><br/>Ummm... Just look around...</p>
+
+<div class="block"/>
+  <p><span class="highlight">Is Rufus coming?</span></p>
+  <p class="indent-nopad"><b>Cid</b><br/>Yeah! It must be news about restarting the Space Program.<br/>A young President, that's what we needed! He still has dreams, too!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Can we borrow the "Tiny Bronco"?</span></p>
+  <p class="indent-nopad"><b>Cid</b><br/>You out of your *&amp;$^$# mind!? That's my most cherished possession. I can't let you take it.</p>
+
+<p class="italic">Back at the inn...</p>
+<p class="indent"><b>Barkeeper</b><br/>Would you like something to drink?</p>
+<p class="indent"><b>Cloud</b><br/>- Let me hear your story</p>
+<p class="indent"><b>Barkeeper</b><br/>Cid's had some bad breaks. It's really no one's fault he couldn't go into space.<br/>Just bad luck, I guess...</p>
+<p class="italic"><a name="shera"></a>Cloud and the others return to Cid's house.</p>
+<p class="indent"><b>Shera</b><br/>Excuse me... Cloud?<br/>Did the Captain say anything?</p>
+<p class="indent"><b>Cloud</b><br/>Nope...</p>
+<p class="indent"><b>Shera</b><br/>Oh...?</p>
+<p class="italic">Cid enters.</p>
+<p class="indent"><b>Cid</b><br/>^%$#! Shera. What are you, blind!?<br/>We got guests!! GET SOME TEA! ^%$#!</p>
+<p class="indent"><b>Shera</b><br/>I... I'm sorry.</p>
+<p class="indent"><b>Cloud</b><br/>Really, don't mind us.</p>
+<p class="indent"><b>Cid</b><br/>Shut up! Sit your ass down in that chair and drink your goddamn TEA!<br/>Argggggggh! DAMN, I'm pissed!<br/>Shera! I'll be in the backyard tunin' up Tiny Bronco!<br/>An' make sure to serve them some tea! All right!?</p>
+<p class="italic-inline">He goes out back.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>...damn, man. Wassup with that guy's attitude?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Sheesh...!! What bad manners!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Poor Shera.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Who does he think he is......?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Man, this sucks...!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Man, he sure seems wound up tight.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>............</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>Sorry. It's our fault.</p>
+<p class="indent"><b>Shera</b><br/>No, no. He's always like this.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>He always like this? That's pretty bad!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Is it like this all the time? You keep quiet even when he's like that to you?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Is it always like this...? Why is Cid so hard on you?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>I think it's a bit too harsh.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>What's his prob!? I'm gonna go clean that guy's clock!!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Is he like this all the time...? Bitin' your head off like that? I could never stand it...</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...It's amazing that you can live with it.</p>
+</blockquote>
+<p class="indent"><b>Shera</b><br/>No... It's because of my stupid mistake.<br/>I was the one who destroyed his dream...</p>
+<p class="indent"><b>Cloud</b><br/>What happened?</p>
+<div class="highlight"/><p class="italic">In flashback, Cid is watching Shera as she inspects the rocket's oxygen tanks.</p>
+<p class="indent-nopad"><b>Cid</b> (laughing)<br/>Hey! Get your ass in gear! You work like a snail!<br/>Even the moon'd get tired waitin' around for your ass!</p>
+<p class="indent-nopad"><b>Shera</b><br/>I'm... I'm sorry.</p>
+<p class="indent-nopad"><b>Cid</b><br/>Don't take so much time checkin' that *%$^# oxygen tank!<br/>Shera, bein' careful's good, but it won't do any good, no matter how many times you check that oxygen tank.<br/>That thing wouldn't break even if hell froze over.</p>
+<p class="indent-nopad"><b>Shera</b><br/>But...</p>
+<p class="indent-nopad"><b>Cid</b><br/>No buts!!<br/>You're not stupid, so be more efficient!</p>
+<p class="indent-nopad"><b>Shera</b><br/>I'm sorry......</p>
+<p class="italic">Cid joins his crew outside the cockpit.</p>
+<p class="indent-nopad"><b>Men</b><br/>Captain! Our dreams are finally coming true!<br/>We are so proud to be a part of the launch of Shinra No. 26.<br/>Captain, preparations are complete! All that's left is lift off!</p>
+<p class="indent-nopad"><b>Cid</b><br/>Yeah! Leave it all to me! I'll be back in a few!</p>
+<p class="indent-nopad"><b>Men</b><br/>All right, Captain! Fly our dreams into outer space!</p>
+<p class="indent-nopad"><b>Cid</b><br/>Thanks, guys!</p>
+<p class="italic-inline-nopad">He enters the cockpit.</p>
+<p class="indent-nopad"><b>Men</b><br/>We're praying for your safety!</p>
+<p class="indent-nopad"><b>Cid</b><br/>Instrument panel... all clear. Shinra No. 26, ready for launch.</p>
+<div class="highlight-white"/><p>Engine pressure rising. Shinra No. 26, 3 minutes to launch. Beginning countdown.</p>
+<p class="indent-nopad"><b>Cid</b><br/>......finally.</p>
+<p class="italic">A red light starts flashing.</p>
+<p class="indent-nopad"><b>Cid</b><br/>What the? What happened!?</p>
+<div class="highlight-white"/><p>Cid! We have an emergency situation!<br/>A mechanic is still in the engine section of the rocket!</p>
+<p class="indent-nopad"><b>Cid</b><br/>What!? Who is the little ^%$@!?</p>
+<div class="highlight-white"/><p>I don't know. Activating the intercom in the engine section.</p>
+<p class="italic">In the engine section, Shera is still checking the oxygen tanks.</p>
+<div class="highlight-white"/><p class="indent-nopad"><b>Cid</b><br/>Hey goddammit!! Who the &amp;%$#'s still in there?</p>
+<p class="indent-nopad"><b>Shera</b><br/>It's Shera, Captain. Don't mind me, go ahead with the launch.</p>
+<div class="highlight-white"/><p class="indent-nopad"><b>Cid</b><br/>Shera!? What are you still doin' in there!?</p>
+<p class="indent-nopad"><b>Shera</b><br/>I was still concerned. The results of the oxygen tank test weren't satisfactory.</p>
+<div class="highlight-white"/><p class="indent-nopad"><b>Cid</b><br/>You stupid little ^$#^%!<br/>It's gonna get so hot in there that there ain't gonna be SHIT left when we blast off!<br/>You're gonna be burnt to a crisp! You're gonna die! You know that, doncha!?</p>
+<p class="indent-nopad"><b>Shera</b><br/>I don't mind.<br/>If I can just fix this, the launch will be a success. I'm almost done.</p>
+<p class="italic">Back in the cockpit...</p>
+<p class="indent-nopad"><b>Cid</b><br/>Almost done!? You're gonna die!</p>
+<div class="highlight-white"/><p>Cid, we must start the countdown. We won't make it if we don't!<br/>Starting engine!</p>
+<p class="indent-nopad"><b>Cid</b><br/>Hey, wait a minute! Shera's still in here!</p>
+<div class="highlight-white"/><p>What are you going to do, Cid? If we cancel now, it'll be another six months until the next launch!</p>
+<p class="indent-nopad"><b>Cid</b><br/>GODDAMNIT, Shera... you wanna make me a murderer?</p>
+<div class="highlight-white"/><p class="indent-nopad"><b>Shera</b><br/>Captain!</p>
+<p class="indent-nopad"><b>Cid</b><br/>Shera!?</p>
+<div class="highlight-white"/><p class="indent-nopad"><b>Shera</b><br/>Tank Number 7 check is complete. Once I complete Tank Number 8, it's all clear.</p>
+<p class="indent-nopad"><b>Cid</b><br/>Come on, Shera... hurry up... You're gonna die...</p>
+<div class="highlight-white"/><p>30 seconds until ignition. Beginning countdown.<br/>Cid! Forget about her. We won't make it in time.</p>
+<p class="indent-nopad"><b>Cid</b><br/>What... what am I....... What am I supposed to do...?</p>
+<div class="highlight-white"/><p>15 seconds until ignition. Internal temperature rising.</p>
+<p class="indent-nopad"><b>Cid</b><br/>Oh man, the moon... outer space... my dreams...</p>
+<div class="highlight-white"/><p>Ignite Engine!</p>
+<p class="indent-nopad"><b>Cid</b><br/>SH---------------IT!!</p>
+<p class="italic">The rocket starts to take off, but the engine stalls immediately and the rocket falls back onto the launch pad. It tilts, creaking, and comes to a stop.</p>
+<p class="indent"><b>Shera</b><br/>He pushed the Emergency Engine Shut Down switch, aborting the mission, to save my life.<br/>After that, the Space Program was cut back and the launch was canceled.<br/>It's my fault his dream was destroyed...<br/>That's why... it's all right. I don't care what the Captain says, I'll live my life for him.</p>
+<p class="italic">Cid returns.</p>
+<p class="indent"><b>Cid</b><br/>Shera! You still haven't served 'em tea!</p>
+<p class="indent"><b>Shera</b><br/>I... I'm sorry.</p>
+<p class="italic">Cid sits down and props one foot up on the table.</p>
+<p class="indent"><b>Cid</b><br/>Hurry up and sit down! Or ain't my hospitality good enough for you!?<br/>They're late... Where is Rufus...?</p>
+<p class="italic"><a name="shinra"></a>Palmer comes in.</p>
+<p class="indent"><b>Palmer</b><br/>Hey-HEY! Long time no see! So Cid, how ya been?</p>
+<p class="indent"><b>Cid</b><br/>Well, if it ain't fat man, Palmer. How long were you figurin' on keepin' me waitin'!?</p>
+<p class="italic-inline">He runs over.</p>
+<p class="block-inline">So? When's the Space Program gonna start up again?</p>
+<p class="indent"><b>Palmer</b><br/>Hey-hey! I don't know. The President's outside, so why don't you ask him?</p>
+<p class="indent"><b>Cid</b><br/>^$#&amp;! Good for nothing, fat &amp;$#$^@!</p>
+<p class="italic-inline">He goes outside.</p>
+<p class="indent"><b>Palmer</b><br/>Don't say 'fat'!<br/>Hey-hey! Tea!<br/>Can I have some too? With lotsa sugar and honey and... oh yeah, don't forget the lard!</p>
+<p class="indent"><b>Shera</b><br/>Is President Rufus here to announce that he's going to restart the Space Program?</p>
+<p class="indent"><b>Palmer</b><br/>Hey-hey? Have we met before?<br/>Hey-hey! Is the tea ready yet?<br/>With plenty of sugar and honey. Oh yeah, and don't forget the lard too.</p>
+<p class="italic">Cloud steps outside.</p>
+<p class="indent"><b>Cid</b><br/>What the......! You got me all excited for nothing!?<br/>Then, what'd you come here for?</p>
+<p class="indent"><b>Rufus</b><br/>I want to borrow the Tiny Bronco.<br/>We're going after Sephiroth. But seems like we've been going in the wrong direction.<br/>But now, we think we know where he's headed. But, we have to cross the ocean. That's why we want your plane...</p>
+<p class="indent"><b>Cid</b><br/>&amp;^#^%! First the Airship, then the Rocket, and now, the Tiny Bronco.<br/>Shinra took outer space away from me and now you want to take the sky away from me too!?</p>
+<p class="indent"><b>Rufus</b><br/>Oh my...<br/>You seem to forget it was because of Shinra, Inc. that you were able to fly in the first place.</p>
+<p class="indent"><b>Cid</b><br/>What!?</p>
+<p class="indent"><b>Shera</b> (from behind Cloud)<br/>Uh, excuse me...<br/>This way...</p>
+<p class="italic">Cloud follows her back inside and she shuts the door behind them.</p>
+<p class="indent"><b>Shera</b><br/>You wanted to use the Tiny Bronco, right?</p>
+<p class="italic">Cloud nods.</p>
+<p class="indent"><b>Shera</b><br/>I believe Palmer's going to take it. Why don't you talk to him?</p>
+<p class="italic">Cloud and the others go out back to find Palmer on the wing of the Tiny Bronco.</p>
+<p class="indent"><b>Palmer</b><br/>Hmm... Why do I have to do this...? I'm the head of the Space Program...</p>
+<p class="indent"><b>Cloud</b><br/>We'll be takin' that Tiny Bronco.</p>
+<p class="indent"><b>Palmer</b><br/>I've seen you somewhere before...<br/>I know! The Shinra building! When the President was killed! Ulp!<br/>Se... se... security!!</p>
+<p class="italic">Cloud and the others fight Palmer.</p>
+<p class="indent"><b>Palmer</b><br/>Heh-hic-heh-hic!<br/>Heh heh hic!</p>
+<p class="italic-inline">He runs away, but gets hit by a Shinra truck pulling up.</p>
+<p class="block-inline">Ugh!</p>
+<p class="italic">Meanwhile the Tiny Bronco is still revving up.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>It won't stop!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>It won't stop!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>It won't stop!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>It's going to take off.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>No!! It's gonna take off!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>No! It's going to take off!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>It's not going to stop...</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>Forget it! Get in!!</p>
+<p class="italic">They climb aboard the Tiny Bronco as it takes off with an empty cockpit. As it swoops by Cid and Rufus, Shinra soldiers start firing at it, and Cid jumps on.</p>
+<p class="indent"><b>Cid</b><br/>Shit!! The tail's been hit!</p>
+<p class="indent"><b>Cloud</b><br/>Emergency landing...</p>
+<p class="indent"><b>Cid</b><br/>This's gonna be a big splash. Hold on to your drawers and don't piss in 'em!</p>
+<p class="italic">The plane crashes into the ocean and drifts to a stop.</p>
+<p class="indent"><b>Cid</b><br/>She won't fly anymore...</p>
+<p class="indent"><b>Cloud</b><br/>Can't we use it as a boat?</p>
+<p class="indent"><b>Cid</b><br/>$#&amp;%! Do whatever you want!</p>
+<p class="indent"><b>Cloud</b><br/>Cid, what are you going to do now?</p>
+<p class="indent"><b>Cid</b><br/>Dunno. I'm history with the Shinra and I've given up on the town.</p>
+<p class="indent"><b>Cloud</b><br/>How 'bout your wife? How 'bout Shera?</p>
+<p class="indent"><b>Cid</b><br/>Wife? Don't make me laugh! Just thinkin' 'bout marryin' her gives me the chills.<br/>What're you guys gonna do?</p>
+<p class="indent"><b>Cloud</b><br/>We're going after a man named Sephiroth. We'll have to get Rufus of the Shinra someday too.</p>
+<p class="indent"><b>Cid</b><br/>I don't know about any of that, but...<br/>What the hell!? Sign me up!</p>
+<p class="indent"><b>Cloud</b><br/>How 'bout it, everyone?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>I don't care.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>I'm all for it.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Of course, no problem!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>I don't really care.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Whatever!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>I don't mind.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...Do whatever you like.</p>
+</blockquote>
+<p class="indent"><b>Cid</b><br/>Glad to be aboard, numbskulls!</p>
+<p class="indent"><b>Cloud</b><br/>Numskulls...?</p>
+<p class="indent"><b>Cid</b><br/>Yeah. Anyone stupid enough to go up against Shinra nowadays, has GOTTA be a numskull! I like it!<br/>So, where we headed?<br/>Rufus was goin' after Sephiroth towards the Temple of the Ancients.</p>
+<p class="indent"><b>Cloud</b><br/>Really!? ...Where is it? That Temple of the Ancients?</p>
+<p class="indent"><b>Cid</b><br/>Dunno. That numskull kid was tellin' me he was headin 'The wrong direction'... so maybe it's off this way?</p>
+<p class="indent"><b>Cloud</b><br/>Let's just head for land and get some information. Temple of the Ancients... that name bothers me.</p>
+<p class="indent"><b>Yuffie</b><br/>.........Hm. How 'bout goin' west?<br/>No, no reason. NO reason at all!</p>
+<p class="italic">Cloud and the others head for land, the closest just happening to be the Wutai continent to the west.</p>
+
+</scene>

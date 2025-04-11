@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="FortCondor">
+
+
+
+<sp> Fort Condor - Fighting the Shinra </sp>
+
+<sp> The Situation </sp>
+<sp> Fighting the Shinra </sp>
+
+<stage>On the way to Junon, Cloud and the others may happen across the entrance to Fort Condor.</stage>
+<sp> <speaker name="* Note">* Note</speaker>: Because they can bypass Fort Condor, it's possible to come for the first time at later points in the game, including while Tifa is the party leader, in which case the dialogue is slightly different. Red XIII also has slightly different dialogue after completing the events at Cosmo Canyon.</sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>We've been fighting the Shinra for a long time at this battlefield.<boxstart/>Even now, we're still settled in for a long war with them.<boxstart/>If you aren't in a hurry, would you help us fight them?<boxstart/>Listen, we don't want to push you but, if you're in the middle of something, why don't you finish that first? </sp>
+
+<sp> <speaker name="Cloud"/><boxstart/>On the way to Junon...</sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Where is Junon?<boxstart/>- We'll help you </sp>
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>Where is Junon? </sp>
+	  <sp> <speaker name="Man">Man</speaker><boxstart/>Let's see...... Head north along the coast, and keep going for a ways and you'll run into Junon.<boxstart/>You gotta be careful 'cause it sits in the shadows of a small hill. </sp>
+	
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>We'll help you </sp>
+	  <sp> <speaker name="Man">Man</speaker><boxstart/>Really!? Then go on up and they'll fill you in on the details. </sp>
+	
+
+
+<sp> <speaker name="Cloud"/><boxstart/>If the party has already been to Junon...</sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Like to help but...<boxstart/>- I guess we'll help you<speaker name="Tifa"><referent name="Tifa">Tifa</referent></speaker><boxstart/>- I'm sorry... really<boxstart/>- All right, we'll help </sp>
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>Like to help but... </sp>
+	  <sp> <speaker name="Man">Man</speaker><boxstart/>All right then...... Take care of yourselves... </sp>
+	
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>I guess we'll help you </sp>
+	  <sp> <speaker name="Man">Man</speaker><boxstart/>Really!? Then go on up and they'll fill you in on the details. </sp>
+	
+
+<stage>Cloud and the others go inside. They find the man by himself in the shed at the top of the fort, looking out the window.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Do you guys want to see it, too? </sp>
+
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>See what? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What? </sp>
+
+<sp> <speaker name="Man">Man</speaker><boxstart/>The condors. They're huge. Come on, have a look. </sp>
+<stage>Cloud has a look out the window. A huge condor is nesting close to the Mako reactor that sits atop Fort Condor's hill.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>What do ya think? Awesome, huh? </sp>
+<sp> <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Hello. I'm sorry but we're not selling anything now.<boxstart/>We're using everything we have for ourselves. </sp>
+<sp> <speaker name="Item Shopkeeper">Item Shopkeeper</speaker><boxstart/>Sorry, but I can't sell you anything now. </sp>
+<sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Hmmn, now this is something, I never thought anyone would ever climb up here.<boxstart/>......Your eyes are different. Well, anyhow. Any minute now, this will be a battlefield against Shinra. </sp>
+<stage>(If you talk to him as Tifa, he does not remark on her eyes.)</stage>
+<sp> <boxstart/>You'd better get down before you get involved. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Shinra? The hell those jackasses doing here? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What do you mean, "a battlefield"? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You mean Shinra? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>The Shinra...... </sp>
+	Or, after Cosmo Canyon:
+	Shinra again.
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>The Shinra? Here too? </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>...... </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>What do you mean by that? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>A battlefield, we can't overlook that. </sp>
+
+<sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>It appears you have a problem with Shinra, too. After all, you climbed up here.<boxstart/>Why not listen to what I have to say for a moment? </sp>
+
+<sp> <speaker name="Cloud"/><boxstart/>With <referent name="Cloud">Cloud</referent> as the party leader...</sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......<boxstart/>- I guess so<boxstart/>- Not interested </sp>
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>I guess so </sp>
+	  <stage>Cloud's companions don't say anything.</stage>
+	
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>Not interested </sp>
+	  
+		  <sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell you talkin' about!? They're all fightin' the Shinra too! You gonna ignore that!? </sp>
+		  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>After all, we came all this way, <referent name="Cloud">Cloud</referent>. </sp>
+		  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, let's listen to what they have to say. </sp>
+		  <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Is this about the jewels? </sp>
+		  <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I know, I know, <referent name="Cloud">Cloud</referent>. But let's listen for a bit. </sp>
+		  <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>There's no harm in listening to them. </sp>
+		  <sp> <speaker name="Cid">Cid</speaker><boxstart/>Man, she sure's cold. </sp>
+	  
+	
+
+
+<sp> <speaker name="Cloud"/><boxstart/>With <referent name="Tifa">Tifa</referent> as the party leader...</sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh, by all means. </sp>
+
+<sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Do you know what's at the top of this mountain? </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Huh? Something's up there? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Come on, let's get it together. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Look close, old man. </sp>
+
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>A huge bird. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>That's the reactor. And the condor. </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Yeah, come to think of it there was something. </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Come to think of it, there was a reactor. But I've never seen anything shaped like it...... </sp>
+
+
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The reactor and the condor. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>That's the reactor and the condor. </sp>
+
+<sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>I can see you're very perceptive. Yes, it's a reactor and a condor.<boxstart/>It seems the Shinra doesn't like the idea of having a condor on top of the reactor. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Damn, that's one big bird! But why are they trying to get rid of it with weapons? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What's so wrong with having a condor on top of the reactor? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>It's not very logical. </sp>
+	Or, after Cosmo Canyon:
+	The logic eludes me.
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I'm certain there must be state-of-the-art materia inside the reactor. Am I right? </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Huh?...... </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>......That's too much. </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Huh? I don't get it. </sp>
+
+<sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>It seems there's some type of special materia in the reactor above us.<boxstart/>And because the condors came, the Shinra rushed troops here.<boxstart/>The military wants to get the condor and all the villagers off this mountain.<boxstart/>The condors are now warming their eggs, which hatch only once every few years.<boxstart/>We would like to protect the condors from being harmed. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>New lives...... </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>I'll do it! I'll protect them from Shinra! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We must protect the condor eggs, right? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Condors' eggs. A real work of nature.<boxstart/>We've got to protect the life of the planet. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>So, to protect the eggs, are you gonna protect the reactor?...... </sp>
+	Or, after Cosmo Canyon:
+	We're going to protect the reactor in order to save the eggs.
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Special materia, huh? Well, well, things are getting interesting. </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I'm gonna leave it up to you all. </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>......and come out in one piece? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>You guys, what are ya gonna do? </sp>
+
+<sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Unfortunately, we don't have the ability to fight Shinra ourselves.<boxstart/>That's why we have hired soldiers to help us.<boxstart/>As our sponsor you can help us with a contribution or by fighting along side of us...<boxstart/>What do you think? You want to join us in our fight? </sp>
+
+	<sp> <speaker name="Cloud"/><boxstart/>With <referent name="Cloud">Cloud</referent> as the party leader...</sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...... </sp>
+	
+		<sp> <speaker name="Barret">Barret</speaker><boxstart/>What's there to think about? We gotta do it! </sp>
+		<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, why are you still worrying about it? </sp>
+		<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... </sp>
+		<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>You decide what we're going to do. </sp>
+		Or, after Cosmo Canyon:
+		What are we going to do?
+		<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>If things go right, we might even be able to pray to that special materia. </sp>
+		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I'll leave it up to you so please do as you see fit. </sp>
+		<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>It's difficult to get back what you've lost...... </sp>
+		<sp> <speaker name="Cid">Cid</speaker><boxstart/>Don't be so wishy-washy. Hurry and make up your mind. </sp>
+	
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......<boxstart/>- All right<boxstart/>- Not interested </sp>
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>All right </sp>
+	  
+		  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey! We'll come to the rescue. </sp>
+		  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Yes, yes. Let's do our best. </sp>
+		  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, thanks. </sp>
+		  <sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>I got it. Let me lend a hand, too. </sp>
+		  Or, after Cosmo Canyon:
+		  Got it. I'm gonna lend a hand, too.
+		  <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Okay, it's settled. We're gonna get the materia, right? </sp>
+		  <sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/> Well then, let's do our best. </sp>
+		  <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>That's the right decision. </sp>
+		  <sp> <speaker name="Cid">Cid</speaker><boxstart/>If you've made up your mind, let's just do it. </sp>
+	  
+	  <sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Whew, we'll be saved.<boxstart/>Ask my son, who's standing guard at the shed, about the details of our military tactics. We're depending on you.<boxstart/>Yes, yes, I've also told the store owners about you, so they should sell you various items.<boxstart/>And feel free to use our beds. </sp>
+	
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>Not interested </sp>
+	  
+		  <sp> <speaker name="Barret">Barret</speaker><boxstart/>What are you thinking!? And you call yourself a human!? </sp>
+		  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What a jerk. I'm disappointed in you. </sp>
+		  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Well...... </sp>
+		  <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>We may have lost the materia. </sp>
+		  <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Now don't regret what's already past. </sp>
+		  <sp> <speaker name="Cid">Cid</speaker><boxstart/>If you've made up your mind, let's just do it. </sp>
+	  
+	  <sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>I see...... Come back if you should change your mind. </sp>
+	  <stage>If you talk to him again...</stage>
+	  <sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Have you by chance changed your mind? </sp>
+	  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......<boxstart/>- Well, let's do it<boxstart/>- My position hasn't changed </sp>
+	  <stage>His response if Cloud agrees is the same as if he agrees the first time around. Otherwise he says nothing.</stage>
+	
+
+
+	<sp> <speaker name="Cloud"/><boxstart/>With <referent name="Tifa">Tifa</referent> as the party leader...</sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Everyone, listen to what I have to say.<boxstart/>I can't possibly leave these people like this.<boxstart/>Let's do whatever we can to help them. All right? </sp>
+	
+		<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey! We'll come to the rescue. </sp>
+		<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Got it. I'm gonna lend a hand, too. </sp>
+		<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Okay, it's settled. We're gonna get the materia, right? </sp>
+		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Well then, let's do our best. </sp>
+		<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>That's the right decision. </sp>
+		<sp> <speaker name="Cid">Cid</speaker><boxstart/>If you go that far, what can I say. Well, we'll be able to do something if you leave it up to us. </sp>
+	
+
+<stage>After agreeing to help, the shopkeepers will sell their goods and their dialogue is different.</stage>
+<sp> <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Hello. Do your best. We will, too. </sp>
+<sp> <speaker name="Item Shopkeeper">Item Shopkeeper</speaker><boxstart/>You hang in there! </sp>
+<stage>Cloud goes back up to the shed.</stage>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If he didn't agree to help...</sp>
+  <sp> <speaker name="Man">Man</speaker><boxstart/>So, will you help us? I don't want them to get killed.<boxstart/>They're gigantic birds and so striking. We simply can't let them be killed by man's selfishness?<boxstart/>Of course not. There's no way, especially at the hands of Shinra.<boxstart/>If you're going to go look at them, get on top of that chair over there. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If he did agree to help...</sp>
+  <sp> <speaker name="Man">Man</speaker><boxstart/>Thanks for accepting.<boxstart/>Let me explain our strategy.<boxstart/>The enemy will climb the mountain looking for the reactor. We will leave a trap for them and hire soldiers to protect the area.<boxstart/>Well, that's all, but...... This village doesn't have any money. Even if we wanted to fight, our hands are tied 'cause we're broke.<boxstart/>If we hired one soldier, we would need 400 gil. So, if we hire 20 soldiers, we must have 8000 gil.<boxstart/>So if you folks have the time, we would like you to use your own money to hire these soldiers, buy the trap, set it up and command the troops.<boxstart/>If you're pressed for time we'd like you to help us with the money.<boxstart/>If you can give us the money, we can then hire soldiers with the funds and block Shinra's attack.<boxstart/>We know that what we're asking is selfish.<boxstart/>We have sent our wives and children to another village. We are resigned to our fate.<boxstart/>Let's get back to square one. If the enemy penetrates our shed, you'll have to fight them immediately.<boxstart/>Well, just because you lost once, it's not the end of the world, but if you lose repeatedly, it could be dangerous.<boxstart/>Now then, is there anything you wish to ask? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Conditions for victory<boxstart/>- The enemy<boxstart/>- Soldiers, which can be hired<boxstart/>- About funding<boxstart/>- Other issues<boxstart/>- Enough </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Conditions for victory </sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>You can win by wiping out the enemy or killing the enemy commander in charge.<boxstart/>If the enemy reaches the shed, they'll attack, and you'll have no choice but to go into battle immediately.<boxstart/>In the event that you lose during direct contact, even if the enemy gets to the reactor, there's still a chance to save things.<boxstart/>But it's only a slight chance, and we have no idea how much the reactor can endure in an attack.<boxstart/>When we can't stand up to the attack any longer, the Shinra will take both the condors and our lives, as well as all the materia within the reactor. </sp>
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>The enemy </sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>There are four types of enemies. </sp>
+    <stage>He explains about wyverns, beasts, barbarians, and commanders.</stage>
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Soldiers, which can be hired </sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>Your mobile allies are: Fighters, Attackers, Defenders, Shooters, Repairers and Workers.<boxstart/>Your immobile allies are: Stoner, Tristoner, Catapult, and Fire Catapult. </sp>
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>About funding </sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>We have 15000 gil right now.<boxstart/>We need 3000 gil for each battle. </sp>
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Other issues </sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>First off, we must prepare the troops.<boxstart/>Move the cursor wherever the x mark does not appear, then press the O button to set-up.<boxstart/>After all positions are in place, select by pressing the X button. This starts the battle.<boxstart/>Soldiers can only be arranged near the shed, in the beginning.<boxstart/>That's because if the soldiers are too far away, they won't be able to follow instructions.<boxstart/>You can only put soldiers on the horizontal line at the very bottom.<boxstart/>Soldiers can be instructed by pushing the select button. So if any commands are unclear, push it.<boxstart/>Soldiers can report by pushing the O button......<boxstart/>The cursor will move to the soldier who made the report.<boxstart/>Press the X button and you'll hear the report without moving.<boxstart/>And you can bet Shinra will send platoons at you on a regular basis.<boxstart/>It would be great if you could spare the time to help us...<boxstart/>But if you really don't have time, would you contribute some financial assistance. </sp>
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Enough </sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>Hey, this one climbing up here looks like they'd be just right. Please, any help is appreciated...<boxstart/>Preparations ready? </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Wait<boxstart/>- Okay, ready<boxstart/>- Contribute gil<boxstart/>- Let them handle it<boxstart/>- Hear more </sp>
+  
+
+<stage>If at length Cloud decides to enter the battle...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>You have 10 enemies. There appear to be many Beasts, so you may want to deploy more Attackers. </sp>
+<stage>The battle begins, with Shinra troops climbing the hill towards the reactor, Fort Condor's defenders in the way.</stage>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If they defeat the enemy...</sp>
+  <sp> <speaker name="Man">Man</speaker><boxstart/>Whew, that was good. But Shinra's troops will be back.<boxstart/>Be sure and scout the area well... we don't know when they'll attack again.<boxstart/>We have 6 allies left, so here's 1200 gil.<boxstart/>Oh, yeah. I found this just now on the battlefield. Maybe it'll come in handy for you guys. </sp>
+  Received "Magic Comb"!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If the enemy reaches the shed...</sp>
+  <sp> <speaker name="Man">Man</speaker><boxstart/>My God! They're attacking! We're counting on you. </sp>
+  <stage>Cloud runs outside to fight the commander.</stage>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>If they win the battle...</sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>We made it through that one somehow. But Shinra'll be back.<boxstart/>Be sure and scout the area well... we don't know when they'll attack again. </sp>
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>If they lose the battle...</sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>Are you all right? Looks like a few got through. </sp>
+  
+
+<sp> <speaker name="Man">Man</speaker><boxstart/>How are things going? Seems like there's no activity at Shinra. </sp>
+<stage>Cloud and the others leave Fort Condor and head for Junon.</stage>
+
+</scene>

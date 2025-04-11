@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scene name="Highwind">
+
+
+
+<h1>The Highwind - What We're Fighting For</h1>
+
+<h4><a href="#speech">Cloud's Speech</a></h4>
+<h4><a href="#wait">Cloud and Tifa Await the Others' Return</a></h4>
+<h4><a href="#highwind">Back on the Highwind</a></h4>
+<hr></hr>
+<p class="italic"><a name="speech"></a>On the Highwind's bridge...</p>
+<p class="indent"><b>Cait Sith</b><br/>Shinra's...... finished.</p>
+<p class="indent"><b>Cloud</b><br/>Meteor's gonna fall in about......</p>
+<p class="indent"><b>Nanaki</b><br/>Seven more days. That's what Grandfather said.</p>
+<p class="indent"><b>Cloud</b><br/>Nanaki......<br/>You want to see everyone in Cosmo Canyon again?</p>
+<p class="indent"><b>Nanaki</b><br/>.........yes.</p>
+<p class="indent"><b>Cloud</b> (turning to Barret)<br/>You want to see Marlene, right?</p>
+<p class="indent"><b>Barret</b><br/>Don't ask me that.</p>
+<p class="indent"><b>Cloud</b><br/>We'll beat Sephiroth...<br/>Then, if we don't release the power of Holy in seven days......<br/>There won't be a planet left to protect.<br/>If we can't beat Sephiroth...<br/>It's as good as death for us.<br/>We'll just go a few days sooner than the rest who'll die from Meteor.</p>
+<p class="indent"><b>Barret</b><br/>Don't be thinkin' you're gonna lose before ya even fight!</p>
+<p class="indent"><b>Cloud</b><br/>No!<br/>What I meant was...<br/>What are we all fighting for? I want us all to understand that.<br/>Save the planet... for the future of the planet... Sure, that's all fine.<br/>But really, is that really how it is?<br/>For me, this is a personal feud.<br/>I want to beat Sephiroth. And settle my past.<br/>Saving the planet just happens to be part of that.<br/>I've been thinking.<br/>I think we all are fighting for ourselves.<br/>For ourselves... and that someone... something... whatever it is, that's important to us.<br/>That's what we're fighting for.<br/>That's why we keep up this battle for the planet.</p>
+<p class="indent"><b>Barret</b><br/>You're right...<br/>It sounds cool sayin' it's to save the planet.<br/>But I was the one who blew up that Mako reactor......<br/>Lookin' back on it now, I can see that wasn't the right way to do things.<br/>I made a lot of friends and innocent bystanders suffer...<br/>...At first, it was revenge against Shinra. For attackin' my town.<br/>But now......<br/>Yeah. I'm fightin' for Marlene.<br/>For Marlene... For Marlene's future...<br/>Yeah... I guess I want to save the planet for Marlene's sake...</p>
+<p class="indent"><b>Cloud</b><br/>Go and see her. Make sure you're right, and come back.<br/>All of you. Get off the ship and find out your reasons for yourselves.<br/>I want you to make sure. Then I want you to come back.</p>
+<p class="indent"><b>Cid</b><br/>Maybe ain't none of us'll come back.<br/>Meteor's gonna kill us all anyway. Let's just forget any useless struggling!</p>
+<p class="indent"><b>Cloud</b><br/>I know why I'm fighting.<br/>I'm fighting to save the planet, and that's that.<br/>But besides that, there's something personal too...<br/>A very personal memory that I have.<br/>What about you all?<br/>I want all of you to find that something within yourselves.<br/>If you don't find it, then that's okay too.<br/>You can't fight without a reason, right?<br/>So, I won't hold it against you if you don't come back.</p>
+<p class="italic"><a name="wait"></a>Everyone leaves but Tifa. Cloud turns to her.</p>
+<p class="indent"><b>Cloud</b><br/>What are you going to do, Tifa?</p>
+<p class="indent"><b>Tifa</b><br/>Did you forget?<br/>I'm... all alone. I don't have anywhere to go.</p>
+<p class="italic">Cloud and Tifa climb down from the airship.</p>
+<p class="indent"><b>Tifa</b><br/>Everyone's gone...</p>
+<p class="indent"><b>Cloud</b><br/>Yeah, we don't have anywhere or anyone to go home to.</p>
+<p class="indent"><b>Tifa</b><br/>You're right...<br/>But... I'm sure someday... they'll come back, don't you think?</p>
+<p class="indent"><b>Cloud</b><br/>Hmm... I wonder...?<br/>Everyone has an irreplaceable something they're holding on to...<br/>But this time, our opponent...</p>
+<p class="indent"><b>Tifa</b><br/>Hmm... But that's all right, even if no one comes back.<br/>As long as I'm with you... As long as you're by my side... I won't give up even if I'm scared.</p>
+<p class="indent"><b>Cloud</b><br/>.........Tifa......</p>
+<p class="indent"><b>Tifa</b><br/>No matter how close we are... We were far apart... before this.<br/>But when we were in the Lifestream surrounded by all those screams of anguish, I thought I heard your voice...<br/>...sniff... you probably don't remember this...<br/>But deep in my heart I heard you calling my name... Or at least I thought I did...</p>
+<p class="italic">Depending on Cloud's actions throughout the game, the dialogue continues differently.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud has favored Tifa...</span></p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Yeah... At that time I heard you calling me.<br/>You were calling me back from the stream of consciousness in the Lifestream.<br/>After all, I promised. That if anything were to ever happen to you, I would come to help.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Cloud...? Do you think the stars can hear us?<br/>Do you think they see how hard we're fighting for them?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>I dunno... But...<br/>Whether they are or not, we still have to do what we can. And believe in ourselves...<br/>I'll find the answer someday. Right, Tifa?<br/>That's what I learned from you when I was in the Lifestream.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Yeah...... that's right... </p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Hey Tifa...... I...... There are a lot of things I wanted to talk to you about.<br/>But now that we're together like this, I don't know what I really wanted to say...<br/>I guess nothing's changed at all... Kind of makes you want to laugh...</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Cloud... Words aren't the only thing that tell people what you're thinking...</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>............</p>
+  <p class="italic">Cloud and Tifa spend the night on the ground beneath the airship, Tifa leaning against Cloud.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>............It's almost dawn...</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>H, huh...?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Sorry. Did I wake you...? It's almost dawn, Tifa.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Umm... G, good morning... Cloud.<br/>Give me a little longer... Just a little bit longer...</p>
+  <p class="italic-inline-nopad">She leans back against him.</p>
+  <p class="block-inline-nopad">This day will never come again... So let me have this moment...</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Yeah... okay.<br/>This is probably the last time we'll have together......</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud has favored one of the others...</span></p>
+  <p class="indent-nopad"><b>Cloud</b><br/>I see......<br/>I think I've heard about it, too.<br/>At that time, it was Tifa's voice......</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Cloud...? Do you think the stars can hear us?<br/>Do you think they see how hard we're fighting for them?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>I dunno... But...<br/>Whether they are or not, we still have to do what we can. And believe in ourselves...<br/>I'll find the answer someday. As long as I keep trying.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Yeah...... that's right...</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>We've got a big battle tomorrow, we'd better get some sleep...</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Umm. Yes, I guess you're right......</p>
+  <p class="italic">Cloud and Tifa spend the night on the ground beneath the airship, Tifa leaning against Cloud.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>............It's almost dawn...</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>H, huh...?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Morning, Tifa. It's almost dawn...</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Mmm...... Good morning, Cloud.<br/>Give me a little longer... Just a little big longer...</p>
+  <p class="italic-inline-nopad">She leans back against him.</p>
+  <p class="block-inline-nopad">This day will never come again... So let me have this moment...</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>............</p>
+
+<p class="italic">Later, some time after the sun has risen.</p>
+<p class="indent"><b>Tifa</b><br/>.........</p>
+<p class="indent"><b>Cloud</b><br/>We'd better go.</p>
+<p class="indent"><b>Tifa</b><br/>But, I still...!?</p>
+<p class="indent"><b>Cloud</b><br/>It's all right, Tifa. You said so yourself yesterday.<br/>At least we don't have to go on alone.</p>
+<p class="indent"><b>Tifa</b><br/>Yes... That's right!</p>
+<p class="indent"><b>Cloud</b><br/>Okay! Let's go!</p>
+<p class="italic"><a name="highwind"></a>Together they return to the Highwind.</p>
+<p class="indent"><b>Tifa</b><br/>The airship is too big for just the two of us.<br/>Yeah, it's a little lonely without everyone.</p>
+<p class="indent"><b>Cloud</b><br/>Don't worry. It'll be okay.<br/>I'll make a big enough ruckus for everyone.<br/>Besides, I'm the pilot.<br/>No more flying around casually like before.<br/>We won't have time to feel lonely.</p>
+<p class="italic">Tifa nods. Suddenly the airship starts up.</p>
+<p class="indent"><b>Tifa</b><br/>Huh!?</p>
+<p class="indent"><b>Cloud</b><br/>It's moving......</p>
+<p class="italic">They run to the bridge, where they find Cid and Barret at the controls.</p>
+<p class="indent"><b>Cloud</b><br/>Barret! Cid!</p>
+<p class="indent"><b>Barret</b><br/>O, oh...... is that okay with you?</p>
+<p class="italic">Nanaki bounds up from the stairs.</p>
+<p class="indent"><b>Cloud</b><br/>Nanaki!</p>
+<p class="indent"><b>Tifa</b><br/>Why didn't you tell me!?</p>
+<p class="indent"><b>Nanaki</b><br/>But, you know, Cid.</p>
+<p class="indent"><b>Cid</b><br/>Hey, Nanaki.<br/>If you butt in now, you never know what they'll say later......</p>
+<p class="indent"><b>Tifa</b><br/>......Were you listening?</p>
+<p class="italic">She runs off, embarrassed. Cloud turns away, scratching his head, and notices Vincent.</p>
+<p class="indent"><b>Cloud</b><br/>Vincent!</p>
+<p class="italic">Everyone turns to look. Vincent turns away.</p>
+<p class="indent"><b>Vincent</b><br/>Why such a puzzled look?<br/>You don't want me to come?</p>
+<p class="indent"><b>Cloud</b><br/>No, it's just that you're always so cold. I thought you didn't care what was happening.</p>
+<p class="indent"><b>Vincent</b><br/>Cool?<br/>Hmm...... I guess that's just how I am, sorry.</p>
+<p class="italic-inline">He jumps over to his usual spot.</p>
+<p class="indent"><b>Barret</b><br/>Well lookey-here. The Shinra Manager's come back.</p>
+<p class="indent"><b>Cait Sith</b><br/>Uh, excuse me but...<br/>I wanted to come with the main group, but I couldn't get away......<br/>So some people in Midgar took me in.<br/>I know I have a stuffed animal body, but I'll work really hard!</p>
+<p class="indent"><b>Barret</b><br/>I guess that's everyone.</p>
+<p class="indent"><b>Nanaki</b><br/>No, Yuffie's missing.</p>
+<p class="indent"><b>Barret</b><br/>She ain't gonna show up.<br/>'Least this time she didn't steal our materia. Guess we gotta be thankful for that.</p>
+<p class="italic">Yuffie drops down from the ceiling and shakes her fist at him.</p>
+<p class="indent"><b>Yuffie</b><br/>How could you say that!?<br/>I came all the way here after being seasick as a dog!<br/>I didn't go through all that just to have you guys have the best parts all to yourselves!</p>
+<p class="indent"><b>Cloud</b><br/>Welcome back, Yuffie.</p>
+<p class="indent"><b>Yuffie</b><br/>Gee, Cloud...... that's so nice of you to say that. ......You sick?<br/>Well, whatever. I'm gonna be in my reserved seat in the hall...... waiting...... upp! ......Urk!</p>
+<p class="italic-inline">She runs out of the bridge.</p>
+<p class="indent"><b>Cloud</b><br/>Thanks everyone.</p>
+<p class="indent"><b>Barret</b><br/>We didn't come back for your spikey headed ass!<br/>We came back for Marlene. Guess it's jes' my...... whatcha call, feelings or somethin'.<br/>I, uh, I ain't got now words now......</p>
+<p class="indent"><b>Nanaki</b><br/>......Although she's not here, she left us a window of opportunity...</p>
+<p class="indent"><b>Cid</b><br/>We can't let it go like this.</p>
+<p class="indent"><b>Cloud</b><br/>......Aerith.<br/>She was smiling to the end.<br/>We have to do something, or that smile will just freeze like that.<br/>Let's all go together.<br/>Memories of Aerith......<br/>Although she should've returned to the planet by now, something stopped her and now she's stuck......<br/>We've got to let go of Aerith's memory.</p>
+<p class="indent"><b>Cid</b><br/>Has anyone here changed their mind?</p>
+<p class="indent"><b>Cloud</b><br/>I'm counting on you, Cid.</p>
+<p class="indent"><b>Cid</b><br/>Yeah, yeah......<br/>There are 2 levers here that've been buggin' me for a while now...<br/>Let me try them out.<br/>All right, so what should I do?<br/>You decide, Cloud.</p>
+<p class="indent"><b>Cloud</b><br/>This is our last battle.<br/>Our target is the North Cave. Our enemy is...... Sephiroth!<br/>So let's move out!</p>
+<p class="italic">Cid pulls the levers and the Highwind blasts off.</p>
+<p class="indent"><b>Cloud</b><br/>We're almost to the North Cave! We're on our way, Sephiroth!</p>
+<p class="indent"><b>Cid</b><br/>Man, I'm going to stick it to him!</p>
+<p class="italic">A warning sounds.</p>
+<p class="indent"><b>Cloud</b><br/>What is it, Cid?</p>
+<p class="indent"><b>Cid</b><br/>Errrrggh! Some incredible force! Losing... control......!</p>
+<p class="italic">Cid's crew runs over to help him.</p>
+<p class="indent"><b>Cid</b><br/>Get the hell outta here, flunkies! Didn't I tell you all to go home!?</p>
+<p class="indent"><b>Crew</b><br/>Yes, sir. This is our home!!</p>
+<p class="indent"><b>Cid</b><br/>Oh ma--......stop trying to act so cool.<br/>All right, you jokers! Hold me down with everything you got!!<br/>Geronimo!!</p>
+
+</scene>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="Mideel">
+
+
+
+<sp>Mideel - Finding Cloud </sp>
+
+<sp>Searching Mideel </sp>
+<sp>Finding Cloud </sp>
+<sp>Shinra's Huge Materia Plan </sp>
+<sp>A New Leader </sp>
+
+<stage>Tifa leads the way into Mideel.</stage>
+<sp><speaker name="Old Man at Entrance">Old Man at Entrance</speaker><boxstart/>Ahoy! Hey ain't you a beaut. This here's Mideel. It's a quiet little Hot Springs town.<boxstart/>Just the perfect place for old folks like us to live out our lives.<boxstart/>I hear that things ain't so peaceful on the outside. But here it's still nice and quiet. </sp>
+<stage>In the Item Shop...</stage>
+<sp><speaker name="Shopper">Shopper</speaker><boxstart/>But anyhow, that overgrown moon is going to fall down on us isn't it?<boxstart/>This's no joke! We've got to start stocking up on supplies before they're all gone!<boxstart/>Outta the way! Hey, move it, move it! </sp>
+<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Welcome! We always welcome cash! Now, about where you want to go...<boxstart/>I'm afraid other customers have already booked it up. There's nothing left.<boxstart/>......just kidding! Just a little joke. Now what can I do for you?<boxstart/>Thank you! Come again! </sp>
+<sp><speaker name="Girl in Blue Outside">Girl in Blue Outside</speaker><boxstart/>Gather 'round, gather 'round, this is a bargain!!<boxstart/>We've got the best armor and weapons, the likes of which you won't find anywhere else.<boxstart/>But it's first come first served, so get yours now!<boxstart/>Step right up! You there, don't just stand around outside.<boxstart/>Go on in! Come on! Don't be shy, step right up!<boxstart/>I'll never know why he wanted to open a store in a dead town like this. What's up with him......? ...sigh...... </sp>
+<stage>On the upper platform at the far left...</stage>
+<sp><speaker name="Man">Man</speaker><boxstart/>Everything must come to an end. And someday it's gonna be your turn. Even the world's gotta end sometime.<boxstart/>Everybody leaves at one time or another. And everyone gets left also. That's just fate...<boxstart/>It's sad, but there's nothing that can be done about it. So that's why I'm prayin' like this for all of you. </sp>
+<stage>As she walks past him, there is a clinking noise.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Huh......? What could that be?<boxstart/>There's something stuck deep inside that looks like a key... It's hard to get out.<boxstart/>Well, I'll just let it go for now...... </sp>
+<stage>In the Weapons Shop...</stage>
+<sp><speaker name="Shopper">Shopper</speaker><boxstart/>You again! You aren't here hoarding up goods too are you?<boxstart/>Don't reach in front of me! Everything in this store is mine!<boxstart/>I've got money to burn! I've been saving it like mad just for a time like this!<boxstart/>C'mon, outta the way! Move, will you? Move! </sp>
+<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Welcome to the charity store, a store of love and courage! What can I get you today?<boxstart/>Thank you very much! Please come again. </sp>
+<stage>In the back of the store is a door. Tifa knocks on it.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>No good... I wonder if it's locked? </sp>
+<stage>She returns to the key.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I wonder if there isn't some way to get this outta here...?<boxstart/>If I just move this...... And push that...... Okay! I got it out! </sp>
+<stage>Or, if she didn't notice the key earlier:</stage>
+<sp><boxstart/>There's something stuck deep inside that looks like an old key... </sp>
+<sp><speaker name="unspecified"/><boxstart/>Received a "Beat-up Useless Old Key"! </sp>
+<stage>Inside the nearby house...</stage>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>You say you don't know when the stars are gonna fall outta the sky? Is that for real?<boxstart/>I still don't believe it! How could this be happen? </sp>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>Ancient Weapon? End of the world? I don't know nothing about that! I'm gonna live to be a hundred!<boxstart/>There's tons of stuff I still gotta do! This's just the beginning.<boxstart/>And what have Shinra and SOLDIER done about it? Tell me! They're a waste!! </sp>
+<sp><speaker name="Girl">Girl</speaker><boxstart/>Actually, I'm a beautiful maid. I just work here in the accessory store part-time.<boxstart/>Everything here can compare with the best goods anywhere. So, how about one?<boxstart/>Thank you. Stop by again. </sp>
+<stage>Back to the Weapons Shop, Tifa again inspects the door...</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Oh yeah, shall I try that old beat up key?<boxstart/>- Use the beat up old key!<boxstart/>- Forget it </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>Use the beat up old key! </sp>
+  Okay, this is it.<boxstart/>hmm. Huh...? This is pretty tight...<boxstart/>Eyaaah...!?<boxstart/>Oh no! ......it broke. Now I can't get it out...
+  <sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Is something wrong......? </sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Ulp!?<boxstart/>Huh? Uh, no......<boxstart/>What am I gonna do......?<boxstart/>- Lie your butt off!<boxstart/>- Tell them the truth! </sp>
+  
+    <sp><speaker name="Cloud"/><boxstart/>Lie your butt off! </sp>
+    Nothing! I was just thinking how nice that door was, that's all.
+    <sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Oh... why, thank you very much. </sp>
+    <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Whew... that was close. But that was kind of bad... </sp>
+    Tifa looks at the door.
+    ...... The key's broken off inside, and I can't get to it...<boxstart/>...... I don't know anything about it.
+  
+  
+    <sp><speaker name="Cloud"/><boxstart/>Tell them the truth! </sp>
+    I'm... sorry! I forced the key and it broke!
+    <sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Huh? Key? You mean the one to that door? </sp>
+    <stage>Tifa nods.</stage>
+    <sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Hah, hah, hah! That's a good one! </sp>
+    <sp><speaker name="Tifa">Tifa</speaker><boxstart/>??? </sp>
+    <sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Of course there's no key. It's a wall. We just painted a door on it. </sp>
+    <sp><speaker name="Tifa">Tifa</speaker><boxstart/>What!? It's not a real door? </sp>
+    <sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>That's right. We drew it on there to make it feel like you could pass through it to another world.<boxstart/>Sorry to have surprised you. It's not much of an apology, but please take this. </sp>
+    <sp><speaker name="Tifa">Tifa</speaker><boxstart/>Really? Thank you. </sp>
+    Tifa and the others received "Cursed Ring"!
+    <sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>If possible, we're hoping to pass through a dream door like that one into another world<boxstart/>I got the feeling that you all might be able to make my dreams come true in my place. Weird, isn't it? </sp>
+  
+
+
+  <sp><speaker name="Cloud"/><boxstart/>Forget it </sp>
+  I'd better not. It doesn't look like it even fits.
+
+<sp><speaker name="Woman">Woman</speaker><boxstart/>Huh? Never seen you here before. You from outta town? How're things on the outside?<boxstart/>Between the earthquakes and Meteor...... It just might be the end of the world like everyone's been sayin'...<boxstart/>Oh, how depressing! What a miserable world this is...... </sp>
+<stage>In the Materia shop...</stage>
+<sp><speaker name="Shopper">Shopper</speaker><boxstart/>Oh...... there's not much time left!! You never know when that moon is gonna come crashing down!!<boxstart/>When it all comes down to it, this world's about money and material things!<boxstart/>If you got 'em, you can get by whenever, wherever!<boxstart/>Gotta buy!! Gotta buy, buy, buy!! I'm gonna shop till I drop!! </sp>
+<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Ah, welcome to you! What I get you to-day?<boxstart/>Thank very much! You come 'gain. </sp>
+<stage>Outside, Tifa comes across a lone dog.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>What's the matter? Are you all alone? </sp>
+<stage>She kneels down in front of it as it whines.</stage>
+<sp><boxstart/>You got lost didn't you? Separated from someone you love......? Silly thing... </sp>
+<sp><speaker name="Bald Man">Bald Man</speaker><boxstart/>......guess it's been about a week now since he washed up here on the shore... Poor pokey-headed young thing... </sp>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>It was really sad...... but weird. he was holding this really long sword.<boxstart/>I dunno. The whole thing feels unlucky to me. But the amazing thing was those weird blue eyes...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Wha!? </sp>
+<stage>She jumps up.</stage>
+<sp><boxstart/>Wh...... wait a minute!! What did you just say!? </sp>
+<stage>She runs over to the two men.</stage>
+<sp><boxstart/>Excuse me! That young person you were just talking about...... </sp>
+<sp><speaker name="Bald Man">Bald Man</speaker><boxstart/>Yeah... a villager found him a little ways down the coast... It was about a week ago I think. </sp>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>Yeah, poor kid...... He must've drifted from somewhere pretty far away... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Cloud!! It must be!! It's <referent name="Cloud">Cloud</referent>!! </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>You sure!? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Over here! </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>BINGO!! </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Jackpot! </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>You've found him. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Heh, good job, <referent name="Tifa">Tifa</referent>. </sp>
+
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>So where is he? Is he safe!? Where is he now......? </sp>
+<sp><speaker name="Bald Man">Bald Man</speaker><boxstart/>Yeah... up ahead here... At the, uh, clinic...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>He's alive...!<boxstart/>Cloud...... <referent name="Cloud">Cloud</referent>'s alive!! </sp>
+<stage>She runs off towards the clinic.</stage>
+<sp><boxstart/><referent name="Cloud">Cloud</referent>......!! </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Uh...!? Yo, <referent name="Tifa">Tifa</referent>! </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Halt! </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey!! </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Wait up! </sp>
+
+<stage>Tifa runs into the clinic.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!? </sp>
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>Here now. The way you're running around here, you'd think Meteor fell or something. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I'm sorry, but I heard that a friend of mine was being taken care of here...... </sp>
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>A friend...?<boxstart/>Oh yeah......! That young fellow!?<boxstart/>Don't worry. Your friend is next door. But I'm afraid his condition is... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Here?<boxstart/>Over here. </sp>
+<stage>She runs into the next room, where Cloud is sitting in a wheelchair with a nurse near him.</stage>
+<sp><boxstart/><referent name="Cloud">Cloud</referent>...!? </sp>
+<stage>The nurse steps aside and lowers her head. The doctor comes to the doorway as the others run into the clinic.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Oh... Cloud!! I'm so glad you're safe!?<boxstart/>......!?<boxstart/><referent name="Cloud">Cloud</referent>......? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Uh...... aaa......? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Wh...... what's wrong...... <referent name="Cloud">Cloud</referent>......? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>A...... Gurk......? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>! What happened to you......!? </sp>
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>Mako poisoning...... Quite an advanced case......<boxstart/>It appears this young man's been exposed to a high level of Mako energy for a protracted period of time.<boxstart/>He probably has no idea who or where he is now......<boxstart/>Poor fellow, his voice doesn't even work. He is literally miles away from us.<boxstart/>Some place far away where no one's ever been... All alone...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Doctor......!! </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>That's bad...... </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>How horrible...... </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>You lyin' or what!? </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>That's terrible...... </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>......... </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Damn...... that's evil. </sp>
+
+<stage>Tifa drops to her knees before Cloud.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... </sp>
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>Ahem! Let us excuse ourselves.<boxstart/>Listen, would you all mind...... waiting outside? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>...... </sp>
+<stage>Everyone files outside, leaving Tifa alone with Cloud.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Why......? What do you want me to do?<boxstart/>Please, Cloud...... Talk to me......<boxstart/>Tell me you see me, that you can hear me...... Tell me, please......<boxstart/>I came this far believing in the memories we have together...<boxstart/>This isn't happening......! This is too cruel......<boxstart/>Oh, <referent name="Cloud">Cloud</referent>......! I............ </sp>
+<stage>Meanwhile, outside...</stage>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>So what about him? You know...... <referent name="Cloud">Cloud</referent>? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Tell me doctor, is <referent name="Cloud">Cloud</referent> all right? I mean will he heal? </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey doc, is he okay? Is he gonna heal? </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hey doctor, is <referent name="Cloud">Cloud</referent> all right? Is he gonna get better? Come on, tell us the truth. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Listen Doc, why don't you tell us the truth.<boxstart/>What about <referent name="Cloud">Cloud</referent>? Is he all right? </sp>
+
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>I'll say it again, he's got Mako poisoning. I've never seen a case this bad...<boxstart/>An immense amount of Mako-drenched knowledge was put into his brain all at once......<boxstart/>No normal human could have survived it...... It's a miracle he did! </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>No wonder...... After fallin' in the Lifestream an' bein' washed up here...... </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>No wonder. He fell into the Lifestream and was washed up here...... </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>No lie. After fallin' head first into the Lifestream. </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>No wonder. After falling into the Lifestream...... </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>No wonder...... After all he fell into the Lifestream and was carried down here. </sp>
+
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>But remember, the light of hope can be found anywhere.<boxstart/>Listen, if you give up hope... What will happen to him? </sp>
+
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Hmm, I know he'll recover! <referent name="Cloud">Cloud</referent> was a strong member of SOLDIER. </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Yeah, that's right. Besides, WE'RE here for him. He's gotta get better! </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Yeah! I know <referent name="Cloud">Cloud</referent>'ll get better!<boxstart/>With friends like us worrying about him He can't go wrong. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>......... Hope............<boxstart/>I guess that's all that's left for us now...... </sp>
+
+<sp><speaker name="Barret">Barret</speaker><boxstart/>......hope......<boxstart/>Hey, but honestly, man...... Do I really want him to come back?<boxstart/>What did he do for the world? What can he do for us from here on out? He may be nothing more than <referent name="Sephiroth">Sephiroth</referent>'s shadow...... </sp>
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>Is something wrong? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>No, nothin'. Nothin' at all, doc. </sp>
+<stage>Tifa steps outside.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>......... </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>You okay? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Are you all right, <referent name="Tifa">Tifa</referent>? </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>You okay, <referent name="Tifa">Tifa</referent>? </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You all right? </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>You okay? </sp>
+
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Yes...... I'm sorry I had you all worried.<boxstart/>And I have something I want to tell you all...... </sp>
+<stage>She turns back inside and the others follow.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I don't care about anything else, only <referent name="Cloud">Cloud</referent>......<boxstart/>I...... want to be by his side...... </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Yeah, that's probably best......<boxstart/>For <referent name="Cloud">Cloud</referent>...... an' for you...... </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Yes, that's best! </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>You gotta do it then. You gotta live true to yourself. </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>If <referent name="Tifa">Tifa</referent> was my nurse, I'd switch places with <referent name="Cloud">Cloud</referent> any day! </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Do what you wish. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Yeah. Right. Hang in there, <referent name="Tifa">Tifa</referent>. </sp>
+
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I'm sorry, everyone... At a time like this...... </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Why you apologizin'? We'll come back again an' check on ya. </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>That's all right. We'll be by again. </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>No big, no big. I'll pop in again later. </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What're you talkin' about? Not even. We'll stop in again. </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Don't worry. We'll return and check on him later. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Don't worry. I'll stop by again sometime. </sp>
+
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>You take care now, <referent name="Tifa">Tifa</referent>. And take care of <referent name="Cloud">Cloud</referent>. </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Do your best, <referent name="Tifa">Tifa</referent>. Take care of <referent name="Cloud">Cloud</referent>. </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Look after <referent name="Cloud">Cloud</referent>. Take care, <referent name="Tifa">Tifa</referent>. </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hope <referent name="Cloud">Cloud</referent> gets better soon. </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Take care of him. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>You hang in there, <referent name="Tifa">Tifa</referent>. Take care of <referent name="Cloud">Cloud</referent>. </sp>
+
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Right...... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Oh, and uh, <referent name="Tifa">Tifa</referent>... I don't like askin' this but......<boxstart/>Is he really your childhood friend? And not <referent name="Sephiroth">Sephiroth</referent>'s shadow? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Huh!? Well... that is......<boxstart/>No, I'm sure of it! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Yeah......? Okay then...... Sorry for askin' that. </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>We gotta get back to the Highwind. </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>We should be getting back to the Highwind. </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey, shouldn't we be gettin' back to the Highwind? </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Well, I guess we'd better go back to the Highwind. </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Very well then, we should be getting back to the Highwind. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Now, we gotta be headin' back to the Highwind. </sp>
+
+
+<stage>The others leave Tifa with Cloud and return to the Highwind.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>What're we gonna do now! What can WE do?<boxstart/>Huh? Ain't there nothin' we can do?<boxstart/>An' don' go tellin' us to wait for <referent name="Cloud">Cloud</referent> to get better. </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Oh, I've got some news. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Yeah, what!? That you a spy? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Yeah...... I've already told you I was.<boxstart/>Both gya ha ha and Kya ha ha, are up to something.<boxstart/>Wanna eavesdrop? </sp>
+
+<stage>In the Conference Room at Shinra HQ...</stage>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>Now then...... We're faced with two issues.<boxstart/>1 Destroy Meteor. 2 Remove the barrier around North Cave and defeat <referent name="Sephiroth">Sephiroth</referent>.<boxstart/>Any ideas? </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya haah hah hah! We already solved the first problem!<boxstart/>Meteor will soon be smashed to bits!<boxstart/>The plan has already been put in motion. Namely, to collect Huge Materia from each region. </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>Well...... </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Huge Materia is a high density special type of materia made through a special compression process in Mako reactors.<boxstart/>The energy extracted from it is 330 times the strength of normal materia.<boxstart/>Ha, ha, ha! How about that!?<boxstart/>We will gather all the Huge Materia together and ram it into Meteor.<boxstart/>That will cause a huge explosion!! Reducing Meteor literally to bits. </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>You're going to ram Meteor?<boxstart/>Do you think we have the technology to do it? </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Don't worry about that!<boxstart/>More importantly, we've got to collect Huge Materia from each area. </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>We've already collected materia from Nibelheim.<boxstart/>All that's left is "Corel" and "Fort Condor".<boxstart/>I've already dispatched troops to Corel.<boxstart/>Ghaa haah hah hah! </sp>
+
+<stage>Back on the Highwind...</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Corel!<boxstart/>What else can they do to Corel!? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>And the Huge Materia......<boxstart/>You mean the Huge Materia, don't you? I've heard about it.<boxstart/>When, our small materia nears the larger one, something should happen.<boxstart/>I'm certain of it.<boxstart/>That's why we're using the power of materia in our fight...... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Can't let Shinra get a hold of the Huge Materia!<boxstart/>Besides, when <referent name="Cloud">Cloud</referent> gets back, I wanna show him this Huge Materia. He's gonna be shocked. </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>So, what are you saying, <referent name="Barret">Barret</referent>?<boxstart/>Even though you're always knocking him, you really want <referent name="Cloud">Cloud</referent> to return. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>I ain't sayin' nothin' 'bout nothin'. You just... shut your face!<boxstart/>Every group's gotta have a leader.<boxstart/>An' that's me!<boxstart/>Or at least I wanna be... But I ain't cut out to be no leader.<boxstart/>I never knew that till lately.<boxstart/>An' that's what is...... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>......ZZZZ...... hmph? </sp>
+<stage>He wakes and gets to his feet.</stage>
+<sp><boxstart/>Wha? What's goin' on? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>You been chosen to be the new leader. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Pain in the ass. Forget it. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>But for us to fight, we gotta have Highwind, and you.<boxstart/>We need it to save the Planet. An' who's runnin' this ship? You!<boxstart/>That's why you're our new leader. Ain't no one else can. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hm...... this ship's gonna save the Planet, huh? Ain't that gonna be just a little tough?<boxstart/>Oh man, that went straight to my heart.<boxstart/>I'm a man, too!<boxstart/>Okay, I'll do it! Everyone, follow me! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Awright, now here's the first job.<boxstart/>The Operation Room's waiting for you! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Yeah!! </sp>
+<stage>He runs off.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Yo, <referent name="Cid">Cid</referent>!<boxstart/>When you're ready, we're headin' for the Corel Reactor. C'mon Mr. leader, you'd better hurry. </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cid">Cid</referent>......????<boxstart/>I know you're all dyin' to talk to a babe like me!<boxstart/>But just leave me alone. This ship makes me...... urk...!! </sp>
+<sp><speaker name="Crew Members">Crew Members</speaker><boxstart/>I'm not just shooting the breeze! I'm also working!<boxstart/>Good day, Captain!<boxstart/>Looks like you turned out to be the leader after all, Captain...... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Yo, Mr. Leader! Get your pilot ass up here! </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cid">Cid</referent>.<boxstart/>Let's visit <referent name="Cloud">Cloud</referent> and <referent name="Tifa">Tifa</referent> from time to time. </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hmmn, the Huge Materia is at Corel, Fort Condor......<boxstart/>I'm sure there was another place that had it. Where was that......? </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/><referent name="Cid">Cid</referent>...... I wish I had your go-get-them attitude.<boxstart/>It appears my feelings vanished into thin air ever since I was in that long slumber...... </sp>
+<sp><speaker name="Pilot in training (LV6)">Pilot in training (LV6)</speaker><boxstart/>Yaah! Shall we take off? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>- Yes<boxstart/>- No </sp>
+<sp><speaker name="Pilot in training (LV6)">Pilot in training (LV6)</speaker><boxstart/>Yaah! We're taking off! </sp>
+</scene>

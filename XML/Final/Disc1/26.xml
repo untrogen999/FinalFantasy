@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="Gongaga2">
+
+
+
+<sp> Gongaga - Afraid to Go On </sp>
+
+<stage>Cloud wakes in the Gongaga inn. Barret and Tifa are at his bedside.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>You look like you was havin' a nightmare.<boxstart/>How are you feeling? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I seem to be OK<boxstart/>- Not good<boxstart/>- Don't really know </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>I seem to be OK </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>That's good. Man, I didn't know what was gonna happen. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Not good </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Oh... Better keep it to yourself. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Don't really know </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>I guess that's right. Well, don't worry too much about it. </sp>
+
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You know, <referent name="Cloud">Cloud</referent>. <referent name="Aerith">Aerith</referent> is gone. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Everyone's out looking for <referent name="Aerith">Aerith</referent>. </sp>
+<stage>Cloud sits up.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......City of the Ancients. <referent name="Aerith">Aerith</referent> is headed there. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>By herself!? Why did she go by herself!?<boxstart/>Hey, we're goin' too. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Only the Ancients, only <referent name="Aerith">Aerith</referent> can save us from Meteor... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Then we must go. What'll we do if something happens to <referent name="Aerith">Aerith</referent>? If <referent name="Sephiroth">Sephiroth</referent> finds her, she's in trouble. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>... already knows. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey! Why are you still sittin' around? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Let's go, <referent name="Cloud">Cloud</referent>. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No. </sp>
+<stage>He clutches his head.</stage>
+<sp> <boxstart/>I might lose it again.<boxstart/>If <referent name="Sephiroth">Sephiroth</referent> comes near me<boxstart/>I might...... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yeah, godammit! It's 'cuz of you that <referent name="Sephiroth">Sephiroth</referent> got the Black Materia in the first place. It's your damn fault! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>My fault? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I know you got problems... hell, we all do. But you don't even understand yourself.<boxstart/>But you gotta understand that there ain't no gettin' offa this train we're on, till we get to the end of the line. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, we came this far... Aren't you going to settle up with <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker> (shaking his head)<boxstart/>No...<boxstart/>I'm afraid.<boxstart/>If this keeps up, I may go crazy!<boxstart/>I'm afraid... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Just a damn jackass, that's what you are...<boxstart/>Yo, jes' think about it... How many people in this world do ya think really understand themselves?<boxstart/>People get depressed in life because they don't know what's up.<boxstart/>But, they go on living. They don't run away... Isn't that how it is? </sp>
+<stage>He walks out of the room.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... you'll come with us, right? I believe in you. </sp>
+<stage>She walks out after Barret.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What... am I supposed to do?<boxstart/>Pull out of here?<boxstart/>Pull out? ...To where? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker> (from the next room)<boxstart/><referent name="Cloud">Cloud</referent>... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Wait a minute, <referent name="Tifa">Tifa</referent>. Give him a little time.<boxstart/>He has to decide this on his own.<boxstart/>You believe in <referent name="Cloud">Cloud</referent>... right? </sp>
+<stage>He leaves the inn, and Tifa follows reluctantly.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......I'm afraid to find out the truth...? But...... why? </sp>
+<stage>He gets to his feet.</stage>
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>You awake?<boxstart/>Those people were so worried that they stayed by your side until you woke up.<boxstart/>You sure do have good friends. </sp>
+<stage>Cloud walks outside.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey, how are you?<boxstart/>I just wanna know, which is it gonna be?<boxstart/>You wanna find out about yourself? Or are you afraid to find out?<boxstart/>Either way, you stay around here and about all you can do is worry about it.<boxstart/>Even if you do go nuts again when you see <referent name="Sephiroth">Sephiroth</referent>... If it happens, it happens.<boxstart/>I'll go upside your spikey white head and bring you back to normal! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, it'll be all right. We're all with you. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>But... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>If it happens, it happens. Don't worry 'bout it. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...You're... right. ......He's right, isn't he? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Come on, let's go and find <referent name="Aerith">Aerith</referent>...? </sp>
+<stage>Together, they leave Gongaga to search for Aerith.</stage>
+
+</scene>

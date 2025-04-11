@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="Aerith">
+
+
+
+<h1>Sector 5 - Aerith</h1>
+
+<h4><a href="#church">The Church</a></h4>
+<h4><a href="#reno">Enter Reno of the Turks</a></h4>
+<h4><a href="#explore">Exploring Sector 5</a></h4>
+<h4><a href="#house">Aerith's House</a></h4>
+<h4><a href="#leaving">Leaving Sector 5</a></h4>
+
+<hr></hr>
+<p class="block-grey">......You all right?<br/>......Can you hear me?</p>
+<p class="indent-grey"><b>Cloud</b><br/>......Yeah......</p>
+<p class="block-grey">Back then...... You could get by with just skinned knees......</p>
+<p class="indent-grey"><b>Cloud</b><br/>......What do you mean by 'back then'?</p>
+<p class="block-grey">What about now? Can you get up?</p>
+<p class="indent-grey"><b>Cloud</b><br/>......What do you mean by 'that time'? ......What about now?</p>
+<p class="block-grey">......Don't worry about me. You just worry about yourself now.</p>
+<p class="indent-grey"><b>Cloud</b><br/>......I'll give it a try.</p>
+<p class="indent"><b>Flower Girl</b><br/>Oh! It moved!<br/>Whew... Am I glad.</p>
+<p class="block-grey">......How about that?<br/>Take it slow now. Little by little......</p>
+<p class="indent"><b>Flower Girl</b><br/>Hello, hello?</p>
+<p class="indent-grey"><b>Cloud</b><br/>......I know.<br/>Hey... who are you?</p>
+<p class="indent"><b>Flower Girl</b><br/>Hello, hello!</p>
+<p class="italic"><a name="church"></a>Cloud struggles for a second, then manages to sit up. He finds himself in a flower bed in an old, run-down church.</p>
+<p class="indent"><b>Flower Girl</b><br/>You okay?<br/>This is a church in the Sector 5 slums.<br/>It suddenly fell on top of me. It really gave me a scare.</p>
+<p class="indent"><b>Cloud</b><br/>......I came crashing down?</p>
+<p class="indent"><b>Flower Girl</b><br/>The roof and the flower bed must have broken your fall. You're lucky.</p>
+<p class="indent"><b>Cloud</b><br/>Flower bed...... is this yours?</p>
+<p class="italic-inline">He leaps up.</p>
+<p class="block-inline">Sorry about that.</p>
+<p class="indent"><b>Flower Girl</b><br/>That's all right. The flowers here are quite resilient because this is a sacred place.<br/>They say you can't grow grass and flowers in Midgar.<br/>But for some reason, the flowers have no trouble blooming here.<br/>I love it here.<br/>......So, we meet again.<br/>......Don't you remember me?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah, I remember you......<br/>- Never saw you before</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah, I remember you......</span></p>
+  <p>- You were selling flowers<br/>- You're the slum drunk</p>
+  <div class="block"/>
+    <p><span class="highlight">You were selling flowers</span></p>
+    <p class="indent-nopad"><b>Flower Girl</b><br/>Oh! I'm so happy!<br/>Thanks for buying my flowers.</p>
+	<p class="italic-inline-nopad">Or, if you didn't buy a flower:</p>
+	<p class="block-inline-nopad">Oh! I'm so happy!<br/>You didn't buy any flowers from me though. Well, that's okay.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">You're the slum drunk</span></p>
+    <p class="indent-nopad"><b>Flower Girl</b><br/>Excuse me, but that's really rude!<br/>I don't remember a thing.<br/>But I'll forgive you, because you bought flowers from me.</p>
+	<p class="italic-inline-nopad">Or, if you didn't buy a flower:</p>
+	<p class="block-inline-nopad">Excuse me, but that's really rude!<br/>I don't remember a thing.<br/>Well, that's okay.</p>
+  
+
+<div class="block"/>
+  <p><span class="highlight">Never saw you before</span></p>
+  <p class="indent-nopad"><b>Flower Girl</b><br/>......I guess you don't remember. You were walking in a daze.<br/>But I'll forgive you, because you bought flowers from me.</p>
+  <p class="italic-inline-nopad">Or, if you didn't buy a flower:</p>
+  <p class="block-inline-nopad">......I guess you don't remember. You were walking in a daze.<br/>Well, that's okay.</p>
+
+<p class="indent"><b>Flower Girl</b><br/>Say, do you have any materia?</p>
+<p class="indent"><b>Cloud</b><br/>Yes, some.<br/>Nowadays you can find materia anywhere.</p>
+<p class="indent"><b>Flower Girl</b><br/>But mine is special. It's good for absolutely nothing.</p>
+<p class="indent"><b>Cloud</b><br/>......good for nothing? You probably just don't know how to use it.</p>
+<p class="indent"><b>Flower Girl</b><br/>No, I do...... it just doesn't do anything.<br/>I feel safe just having it. It was my mother's......<br/>Say, I feel like talking. Do you feel up to it?<br/>After all, here we are meeting again, right?</p>
+<p class="indent"><b>Cloud</b><br/>- I don't mind<br/>- Got nothing to talk about</p>
+<div class="block"/>
+  <p><span class="highlight">I don't mind</span></p>
+  <p class="indent-nopad"><b>Flower Girl</b><br/>Wait here. I've got to check my flowers. It'll just be a minute.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Got nothing to talk about</span></p>
+  <p class="indent-nopad"><b>Flower Girl</b><br/>......oh, I see.<br/>Ahhh. I wonder whose fault that is. It takes a lot to grow them, you know. Poor flowers.</p>
+
+<p class="italic">She crouches down by the flower bed. Cloud walks over to her.</p>
+<p class="indent"><b>Flower Girl</b><br/>Just a little longer.<br/>Oh!<br/>Now that you mention it......<br/>We don't know each other's names, do we?<br/>My name is......<br/>I'm Aerith, the flower girl. Nice to meet you.</p>
+<p class="italic"><a name="reno"></a>While they're talking, a redhead in a blue suit (Reno) walks into the church and stops just inside the door.</p>
+<p class="indent"><b>Cloud</b><br/>The name's Cloud.<br/>Me......? I do a little bit of everything.</p>
+<p class="indent"><b>Aerith</b><br/>Oh...... a jack of all trades.</p>
+<p class="indent"><b>Cloud</b><br/>Yeah, I do whatever's needed.<br/>What's so funny? What are you laughing at?</p>
+<p class="indent"><b>Aerith</b><br/>Sorry...... I just</p>
+<p class="italic-inline">She notices Reno and stops.</p>
+<p class="block-inline">Sorry, bad timing on my part.<br/>Cloud! Don't let it get to you!</p>
+<p class="italic">Cloud shrugs.</p>
+<p class="indent"><b>Reno</b><br/>Don't worry about me.</p>
+<p class="indent"><b>Aerith</b><br/>Say, Cloud. Have you ever been a bodyguard?<br/>You DO do everything, right?</p>
+<p class="indent"><b>Cloud</b><br/>......Yeah, that's right.</p>
+<p class="indent"><b>Aerith</b><br/>Then, get me out of here. Take me home.</p>
+<p class="indent"><b>Cloud</b><br/>OK, I'll do it... but it'll cost you.</p>
+<p class="indent"><b>Aerith</b><br/>Well then, let's see......<br/>How about if I go out with you once?</p>
+<p class="italic">Cloud steps back and shakes his finger at her. Then he walks forwards towards Reno.</p>
+<p class="indent"><b>Cloud</b><br/>I don't know who you are, but......<br/>You don't know me......?</p>
+<p class="block-grey">......I know you.</p>
+<p class="italic">Flash of white.</p>
+<p class="indent"><b>Cloud</b><br/>Oh yeah...... I know you.<br/>that uniform......</p>
+<p class="italic">Three soldiers run enter behind Reno, laughing.</p>
+<p class="indent"><b>Soldier</b><br/>......Hey sis, this one's a little weird.</p>
+<p class="indent"><b>Cloud</b><br/>Shut up! You Shinra spy!</p>
+<p class="indent"><b>Soldier</b><br/>Reno! Want him taken out?</p>
+<p class="indent"><b>Reno</b><br/>I haven't decided yet.</p>
+<p class="indent"><b>Aerith</b><br/>Don't fight here! You'll ruin the flowers!</p>
+<p class="italic-inline">She runs towards the door to the left of the altar.</p>
+<p class="block-inline">The exit is back there.</p>
+<p class="italic">She and Cloud run through. Reno walks forward across the flower bed.</p>
+<p class="indent"><b>Reno</b><br/>They were...... Mako eyes.<br/>Yeah, all right. Back to work, back to work.</p>
+<p class="italic-inline">He approaches the exit and then runs back.</p>
+<p class="block-inline">Oh!<br/>And don't step on the flowers......</p>
+<p class="indent"><b>Soldiers</b><br/>Hey Reno, you just stepped on them!<br/>They're all ruined!<br/>You're gonna catch holy hell!</p>
+<p class="italic">In the back room of the church, Cloud and Aerith hurry up a set of stairs towards the rafters. They stop before a broad gap in the floorboards as Reno and the soldiers run in.</p>
+<p class="indent"><b>Reno</b><br/>There they are, over there!</p>
+<p class="indent"><b>Aerith</b><br/>Cloud... that one!</p>
+<p class="indent"><b>Cloud</b><br/>I know. Looks like they aren't going to let us go.</p>
+<p class="indent"><b>Aerith</b><br/>What should we do?</p>
+<p class="indent"><b>Cloud</b><br/>Well we can't let them catch us, can we? Then, there's only one thing left.</p>
+<p class="italic-inline">He jumps the gap.</p>
+<p class="block-inline">Aerith! This way!</p>
+<p class="italic">She walks to the gap and shakes her head. Cloud nods.</p>
+<p class="indent"><b>Cloud</b><br/>All right. I'll hold them off.</p>
+<p class="indent"><b>Aerith</b><br/>Right. Make sure they don't get through!</p>
+<p class="indent"><b>Reno</b><br/>The Ancient is getting away! Attack! Attack! Attack!</p>
+<p class="italic">The soldiers fire at Aerith and she tumbles down to the bottommost floor.</p>
+<p class="indent"><b>Aerith</b><br/>Eaygh!!</p>
+<p class="indent"><b>Cloud</b><br/>Aerith!</p>
+<p class="indent"><b>Reno</b><br/>Think we killed 'em? They shouldn't have put up a fight, I say!</p>
+<p class="italic">One of the soldiers advances on Aerith.</p>
+<p class="indent"><b>Aerith</b><br/>Cloud, help!</p>
+<p class="indent"><b>Cloud</b><br/>Damn!</p>
+<p class="italic-inline">He looks up at the barrels on the rafters.</p>
+<p class="block-inline">What's that......?<br/>Aerith!<br/>- Hold on a minute!<br/>- Fight 'em!<br/>- RUN!</p>
+<div class="block"/>
+  <p><span class="highlight">Hold on a minute!</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>A, all right.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Here's a barrel. If I can just push it over......<br/>Push the barrel?<br/>- Yes<br/>- No</p>
+    <div class="block"/>
+      <p class="italic"><span class="highlight">If he pushes the right barrel...</span></p>
+      <p class="italic">The barrel falls down and knocks over the soldier.</p>
+      <p class="indent-nopad"><b>Soldier</b><br/>Nwahh!</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Thanks, Cloud.</p>
+    
+    <div class="block"/>
+      <p class="italic"><span class="highlight">If he pushes the wrong barrel...</span></p>
+      <p class="italic">The barrel falls and lands on the ground.</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Oh, Cloud, what are you doing!?</p>
+      <p class="italic">She has to fight the soldier anyway.</p>
+    
+
+<div class="block"/>
+  <p><span class="highlight">Fight 'em!</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>A, all right.</p>
+  <p class="italic">She steps forward to fight the soldier.</p>
+
+<div class="block"/>
+  <p><span class="highlight">RUN!</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>A, all right.</p>
+  <p class="italic">She runs for the stairs.</p>
+
+<p class="italic">Somehow or another, Cloud and Aerith dispatch the three soldiers, and then Aerith joins Cloud up in the rafters.</p>
+<p class="indent"><b>Cloud</b><br/>Aerith, this way.</p>
+<p class="italic">He leads her up through a hole in the roof. They stop for a moment outside.</p>
+<p class="indent"><b>Aerith</b><br/>Ha, ha...... They're looking for me again.</p>
+<p class="indent"><b>Cloud</b><br/>You mean it's not the first time they've been after you?</p>
+<p class="indent"><b>Aerith</b><br/>...no.</p>
+<p class="indent"><b>Cloud</b><br/>They're the Turks.</p>
+<p class="indent"><b>Aerith</b><br/>Hmmm......</p>
+<p class="indent"><b>Cloud</b><br/>The Turks are an organization in Shinra. They scout for possible candidates for SOLDIER.</p>
+<p class="indent"><b>Aerith</b><br/>This violently? I thought they were kidnapping someone.</p>
+<p class="indent"><b>Cloud</b><br/>They're also involved in a lot of dirty stuff on the side.<br/>Spying, murder... you know.</p>
+<p class="indent"><b>Aerith</b><br/>They look like it.</p>
+<p class="indent"><b>Cloud</b><br/>But, why're they after you? There must be a reason, right?</p>
+<p class="indent"><b>Aerith</b><br/>No, not really. I think they believe I have what it takes to be in SOLDIER!</p>
+<p class="indent"><b>Cloud</b><br/>Maybe you do. You want to join?</p>
+<p class="indent"><b>Aerith</b><br/>I don't know... But I don't want to get caught by THOSE people!</p>
+<p class="indent"><b>Cloud</b><br/>Then, let's go!</p>
+<p class="italic">They start off across the roofs, Cloud running ahead.</p>
+<p class="indent"><b>Aerith</b><br/>Wait... Wait, I said!</p>
+<p class="italic">Cloud turns to wait for her to catch up.</p>
+<p class="indent"><b>Aerith</b><br/>Puff... wheeze...<br/>Slow...... down... Don't leave me......</p>
+<p class="indent"><b>Cloud</b><br/>Funny...<br/>I thought you were cut out to be in SOLDIER?</p>
+<p class="indent"><b>Aerith</b><br/>Oh! You're terrible!</p>
+<p class="italic">They both laugh.</p>
+<p class="indent"><b>Aerith</b><br/>Hey...... Cloud. Were you... ever in SOLDIER?</p>
+<p class="indent"><b>Cloud</b><br/>......<br/>...I used to be. How did you guess?</p>
+<p class="indent"><b>Aerith</b><br/>...Your eyes. They have a strange glow...</p>
+<p class="indent"><b>Cloud</b><br/>That's the sign of those who have been infused with Mako...<br/>A mark of SOLDIER.<br/>But, how did you know about that?</p>
+<p class="indent"><b>Aerith</b><br/>......Oh, nothing.</p>
+<p class="indent"><b>Cloud</b><br/>Nothing...?</p>
+<p class="indent"><b>Aerith</b><br/>Right, nothing!<br/>Come on, let's go! Bodyguard!</p>
+<p class="italic">They continue on and jump down from the roofs.</p>
+<p class="indent"><b>Aerith</b><br/>Whew! Finally made it off! Now what...</p>
+<p class="italic-inline">She looks around.</p>
+<p class="block-inline">My house is over here. Hurry before he comes.</p>
+<p class="italic"><a name="explore"></a>If Cloud runs back into the church, he finds two small children there.</p>
+<p class="indent"><b>Boy</b><br/>Um, we're, um taking care of the um, flowers for the um, lady here.<br/>......is that ok?</p>
+<p class="indent"><b>Cloud</b><br/>- I don't mind<br/>- No it's not!</p>
+<div class="block"/>
+  <p><span class="highlight">I don't mind</span></p>
+  <p>Take good care of them.</p>
+  <p class="indent-nopad"><b>Boy</b><br/>Yeah!</p>
+  <p class="indent-nopad"><b>Girl</b><br/>Sure!</p>
+
+<div class="block"/>
+  <p><span class="highlight">No it's not!</span></p>
+  <p>That's too much to ask of kids.</p>
+  <p class="indent-nopad"><b>Boy</b><br/>Too much to ask? What's that? I don't get it.</p>
+
+<p class="italic">The children run back to the flower bed.</p>
+<p class="indent"><b>Boy</b><br/>They're purty!</p>
+<p class="indent"><b>Girl</b><br/>I'm gonna water them later......</p>
+<p class="italic">Cloud and Aerith continue through Sector 5. Two men are blocking the way to Sector 6.</p>
+<p class="indent"><b>Brown-haired Guy</b><br/>Aaaaah...... what a drag. You wanna go to that store in Sector 6 again?</p>
+<p class="indent"><b>Redhead</b><br/>Huh? The hell are you? The hell do ya think you're talkin' to!!</p>
+<p class="italic">Not far from them is a large segment of pipe that's been converted into a small, one-room home.</p>
+<p class="indent"><b>Person Outside the Pipe</b><br/>That guy in the pipe's a weird one. No matter what you ask him, he only answers 'uuh' or 'aahh'.</p>
+<p class="indent"><b>Aerith</b><br/>This guy are sick.<br/>He passed out nearby and someone must have helped him here.</p>
+<p class="italic">She and Cloud step into the pipe.</p>
+<p class="indent"><b>Man</b><br/>ooh...... aaah......... aghhhh......</p>
+<p class="indent"><b>Aerith</b><br/>This is the one...... Won't you help him?</p>
+<p class="indent"><b>Man</b><br/>ooh...... aaah......... aghhhh......</p>
+<p class="indent"><b>Cloud</b><br/>Listen, I'm no doctor.</p>
+<p class="indent"><b>Aerith</b><br/>No... I guess not...<br/>Hey... that man has a tattoo. I think it was the number 2.</p>
+<p class="italic">They go back outside and continue towards her house.</p>
+<p class="indent"><b>Man in Straw Hat</b><br/>You ever hear of Wall Market?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah<br/>- Nope</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah</span></p>
+  <p class="indent-nopad"><b>Man in Straw Hat</b><br/>Oh yeah? Then maybe I should have you pick something up for me next time you're there...</p>
+
+<div class="block"/>
+  <p><span class="highlight">Nope</span></p>
+  <p class="indent-nopad"><b>Man in Straw Hat</b><br/>It's a market in the slums of Sector 6. They've got everything you could ever want there.<br/>If you can get there, that is. The road's something else.</p>
+
+<p class="indent"><b>Woman Walking Around</b><br/>What am I doing? I'm walking around looking at the ground.<br/>You find a lot of things people dropped when you look down. You never find them when you're looking up. Right?</p>
+<p class="italic">Inside the Materia Shop...</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>I don't care if it's scrap metal or materia. We can get anything here in the slums.<br/>Got a lot of good materia here. Why don't you look it over?</p>
+<p class="italic">If Cloud looks inside the shopkeeper's freezer...</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>Hey!<br/>Don't come barging into my house and be opening up my freezer! Didn't your mother ever teach you that?</p>
+<p class="italic">Inside the Item Shop...</p>
+<p class="indent"><b>Item Shopkeeper</b><br/>...stare... ......hmph... we only trade items for gil here.</p>
+<p class="italic">In a nearby house, a man is watching TV.</p>
+<p class="indent"><b>Man</b><br/>Hmph......! Everything President Shinra says is a lie.<br/>But then again, you can't trust that AVALANCHE, or whatever you call them.<br/>You can bat it around all you like. But in the end it comes down to wanting to be like those who live up above.<br/>So who do you believe in? Oneself! Me! I never lie to myself, that's for sure!<br/>I only believe what I say. That's because I never lie to myself.</p>
+<div class="highlight"/><p>And now for the news.<br/>Due to a terrorist attack by the group named AVALANCHE, parts of Midgar that were temporarily out of power will be restored momentarily.<br/>Following President Shinra's lead, Mayor Domino also spoke out public against AVALANCHE.</p>
+<p class="italic">Upstairs...</p>
+<p class="indent"><b>Flyer</b><br/>Turtles Paradise News No. 1<br/>For delicious wine with a nice ring to it......<br/>Stop on by the "Turtle's Paradise"!!</p>
+<p class="indent"><b>Kid Sleeping</b><br/>glug... glug...<br/>Now... no one... will find it... num...<br/>The top one... and the bottom one...</p>
+<p class="italic">Cloud walks to the set of drawers.</p>
+<p class="indent"><b>Cloud</b><br/>............<br/>......huh?<br/>- Open the top drawer<br/>- Open the bottom drawer<br/>- Open the hidden drawer between the drawer</p>
+<p class="italic">The top and bottom drawers are empty, but in the hidden drawer is 5 gil, which Cloud has the option of taking.</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Person Running Around</b><br/>Outta the way! Move! You want something... move into the store!</p>
+<p class="italic">Inside the Weapon Shop...</p>
+<p class="indent"><b>Man</b><br/>Huh? You want weapons? That's too damn bad......<br/>I ain't got no weapons to sell ya! And the reason why is...<br/>...the weapon store's over that way.</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>Take care of yourself. It's the law of the slums. But to do that, first you need weapons, right?</p>
+<p class="indent"><b>Kid</b><br/>Toot toot! Next stop... Midgar Midgar.<br/>Any passengers getting off on Midgar should please ring.<br/>You know, Midgar's supposed to be sparkly 'n' springy 'n' sleeky.<br/>Oh yeah. Someday, I'm goin' there.</p>
+<p class="italic"><a name="house"></a>They reach Aerith's house and go inside.</p>
+<p class="indent"><b>Aerith</b><br/>I'm home, mom.<br/>This is Cloud. My bodyguard.</p>
+<p class="indent"><b>Elmyra</b><br/>Bodyguard......? You mean you were followed again!?<br/>Are you all right!? You're not hurt, are you!?</p>
+<p class="indent"><b>Aerith</b><br/>I'm all right. I had Cloud with me.</p>
+<p class="indent"><b>Elmyra</b><br/>Thank you, Cloud.</p>
+<p class="italic-inline">She turns and walks upstairs.</p>
+<p class="indent"><b>Aerith</b><br/>So what are you going to do now?</p>
+<p class="indent"><b>Cloud</b><br/>...Is Sector 7 far from here? I want to go to Tifa's bar.</p>
+<p class="indent"><b>Aerith</b><br/>Is Tifa...... a girl?</p>
+<p class="indent"><b>Cloud</b><br/>Yeah.</p>
+<p class="indent"><b>Aerith</b><br/>A girl...friend?</p>
+<p class="indent"><b>Cloud</b><br/>Girlfriend?<br/>- No way!<br/>- Yeah, that's right</p>
+<div class="block"/>
+  <p><span class="highlight">No way!</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Hee hee hee......<br/>You don't have to get THAT upset...</p>
+
+<div class="block"/>
+  <p><span class="highlight">Yeah, that's right</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Oh, how nice.</p>
+
+<p class="indent"><b>Aerith</b><br/>Well, that's... nice.<br/>Let's see, Sector 7? I'll show you the way.</p>
+<p class="indent"><b>Cloud</b><br/>You gotta be kidding. Why do you want to put yourself in danger again?</p>
+<p class="indent"><b>Aerith</b><br/>I'm used to it.</p>
+<p class="indent"><b>Cloud</b><br/>Used to it!?<br/>......Well, don't know... getting help from a girl...</p>
+<p class="indent"><b>Aerith</b><br/>A girl!! What do you mean by that!?<br/>You expect me to just sit by and listen, after hearing you say something like that!?<br/>Mom! I'm taking Cloud to Sector 7. I'll be back in a while.</p>
+<p class="italic">Elmyra comes back down from upstairs.</p>
+<p class="indent"><b>Elmyra</b><br/>But dear... I give up. You never listen once you've made up your mind.<br/>But if you must go, why don't you go tomorrow? It's getting late now.</p>
+<p class="indent"><b>Aerith</b><br/>Yeah, you're right, mom.</p>
+<p class="indent"><b>Elmyra</b><br/>Aerith, please go and make the bed.</p>
+<p class="italic">Aerith disappears upstairs.</p>
+<p class="indent"><b>Elmyra</b><br/>That glow in your eyes... you're from SOLDIER, right?</p>
+<p class="indent"><b>Cloud</b><br/>Yeah. Rather I used to be...</p>
+<p class="indent"><b>Elmyra</b><br/>......I don't know how to say this, but...<br/>Would you please leave here, tonight? Without telling Aerith.<br/>SOLDIER... the last thing Aerith needs is to get her feelings hurt again...</p>
+<p class="italic">Cloud heads upstairs.</p>
+<p class="indent"><b>Aerith</b><br/>You need to go through Sector 6 to get to Sector 7. Sector 6 is a little dangerous so you'd better get some rest tonight.<br/>Cloud...<br/>Good night.</p>
+<p class="italic-inline">She turns and goes downstairs.</p>
+<p class="indent"><b>Cloud</b><br/>Oh, man...</p>
+<p class="italic">Cloud goes to sleep.</p>
+<p class="block-grey">...seem pretty tired......</p>
+<p class="indent-grey"><b>Cloud</b><br/>.........!?</p>
+<p class="block-grey">I haven't slept in a bed like this ...in a long time.</p>
+<p class="indent-grey"><b>Cloud</b><br/>...Oh, yeah.</p>
+<p class="block-grey">Ever since that time.</p>
+<div class="highlight"/><p class="italic">Flashback to Cloud's house in Nibelheim, where Cloud is lying sprawled on his bed, his mother walking about nearby.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>My, how you've grown.<br/>I'll bet the girls never leave you alone.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>...Not really.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>...I'm worried about you.<br/>There are a lot of temptations in the city...<br/>I'd feel a lot better if you just settled down and had a nice girlfriend.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>...I'm all right.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>You should have...<br/>an older girlfriend, one that'll take care of you.<br/>I think that would be the perfect type for you.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>......I'm not interested.</p>
+<p class="italic"><a name="leaving"></a>Cloud wakes up.</p>
+<p class="indent"><b>Cloud</b><br/>...I must've fallen asleep.<br/>Sector 7's past Sector 6... I should be all right by myself...</p>
+<p class="italic">Cloud starts past Aerith's room, but if he hits the creak in the floorboards, Aerith runs out of her room.</p>
+<p class="indent"><b>Aerith</b><br/>Cloud! I thought the Turks came back! Get some rest!</p>
+<p class="italic">Cloud goes back to sleep for a bit.</p>
+<p class="indent"><b>Cloud</b><br/>Can't get caught this time...</p>
+<p class="italic">Slipping past her room, Cloud goes downstairs and leaves Aerith's house.</p>
+<p class="indent"><b>Cloud</b><br/>Through Sector 6 to get to Sector 7. I should be able to do it alone...</p>
+<p class="italic">He heads through Sector 5 alone, only to find Aerith waiting at the exit.</p>
+<p class="indent"><b>Aerith</b><br/>You're up bright and early.</p>
+<p class="indent"><b>Cloud</b><br/>How could I ask you to go along when I knew it would be dangerous?</p>
+<p class="indent"><b>Aerith</b><br/>Are you done?</p>
+<p class="italic">Cloud scratches his head sheepishly.</p>
+<p class="indent"><b>Aerith</b><br/>You have to go through the slum in Sector 6 to get to Tifa's 7th Heaven.<br/>I'll take you there. Come on!</p>
+<p class="italic">She runs off, and Cloud follows.</p>
+
+</scene>

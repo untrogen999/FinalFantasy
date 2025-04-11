@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="FortCondor2">
+
+
+
+<h1>Fort Condor - Huge Materia</h1>
+<hr></hr>
+<p class="italic">Because Fort Condor is optional until this point, it is possible for this to be the party's first visit.</p>
+<div class="block"/>
+<p class="italic"><span class="highlight">If this is the party's first visit to Fort Condor...</span></p>
+	<p class="indent-nopad"><b>Man</b><br/>We've been fighting the Shinra for a long time at this battlefield.<br/>Even now, we're still settled in for a long war with them.<br/>If you aren't in a hurry, would you help us fight them?<br/>Listen, we don't want to push you but, if you're in the middle of something, why don't you finish that first?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>- Like to help but...<br/>- I guess we'll help you</p>
+	<div class="block"/>
+	  <p><span class="highlight">Like to help but...</span></p>
+	  <p class="indent-nopad"><b>Man</b><br/>All right then...... Take care of yourselves...</p>
+	
+	<div class="block"/>
+	  <p><span class="highlight">I guess we'll help you</span></p>
+	  <p class="indent-nopad"><b>Man</b><br/>Really!? Then go on up and they'll fill you in on the details.</p>
+	
+	<p class="italic">Cid and the others go inside. They find the man by himself in the shed at the top of the fort, looking out the window.</p>
+	<p class="indent-nopad"><b>Man</b><br/>Do you guys want to see it, too?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>What is it?</p>
+	<p class="indent-nopad"><b>Man</b><br/>The condors. They're huge. Come on, have a look.</p>
+	<p class="italic">Cid has a look out the window, seeing a huge condor nesting close to the Mako reactor that sits atop Fort Condor's hill.</p>
+	<p class="indent-nopad"><b>Man</b><br/>What do ya think? Awesome, huh?</p>
+	<p class="indent-nopad"><b>Man with Hat</b><br/>Hmmn, now this is something, I never thought anyone would ever climb up here.<br/>Any minute now, this will be a battlefield against Shinra. You'd better get down before you get involved.</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Shinra? The hell those jackasses doing here?</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>Shinra again.</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>The Shinra? Here too?</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>......</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>What do you mean by that?</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>A battlefield, we can't overlook that.</p>
+	<p class="indent-nopad"><b>Man with Hat</b><br/>It appears you have a problem with Shinra, too. After all, you climbed up here.<br/>Why not listen to what I have to say for a moment?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>All right, talk on!</p>
+	<p class="indent-nopad"><b>Man with Hat</b><br/>Do you know what's at the top of this mountain?</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Huh? Something's up there?</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>Look close, old man.</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Yeah, come to think of it there was something.</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>No matter how you look at it, that's a reactor. And on top of it, is that the Condor?</p>
+	<p class="indent-nopad"><b>Man with Hat</b><br/>I can see you're very perceptive. Yes, it's a reactor and a condor.<br/>Looks like there's a special materia up in the Mako reactor.<br/>Then came the condor, so Shinra dispatched the troops to get rid of it.<br/>Their plan is to get rid of the condor and the people on this mountain and to get the materia from the Mako Reactor.<br/>Unfortunately, we don't have the ability to fight Shinra ourselves.<br/>That's why we have hired soldiers to help us.<br/>As our sponsor you can help us with a contribution or by fighting along side of us...<br/>What do you think? You want to join us in our fight?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>If you go that far, what can I say. Well, we'll be able to do something if you leave it up to us.</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Hey! We'll come to the rescue.</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>Got it. I'm gonna lend a hand, too.</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>Okay, it's settled. We're gonna get the materia, right?</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Well then, let's do our best.</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>That's the right decision.</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Man with Hat</b><br/>I'm begging you. Please prevent the reactor from being destroyed and the condors from being killed.</p>
+	<p class="italic">They go on up to the shack.</p>
+	<p class="indent-nopad"><b>Man</b><br/>So shall I let you in on our strategy?<br/>The enemy is targeting this mountain's reactor and will be climbing to reach it.<br/>We must set a trap and hire soldiers to protect this place.<br/>Well, this is all we have...... this village doesn't have any money. Even if we wanted to fight, our hands are tied 'cause we're broke.<br/>To hire one soldier, we need 400 gil. So, if we hire 20 soldiers, we must have 8000 gil.<br/>That is, we would like you to use your own money to hire these soldiers, buy the trap, set it up and give the commands.<br/>We know that we're asking is selfish. We sent our wives and kids to another village. We are resigned to our fate.<br/>Let's get back to square one. If the enemy penetrates this shed, you'll have to fight them off immediately.<br/>I know it's a one shot deal, but I'm asking for your help.<br/>Now then, is there anything you wish to ask?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>- Enough</p>
+	<p class="indent-nopad"><b>Man</b><br/>Ready?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>- Wait<br/>- <a href="#ready">Okay, ready</a><br/>- Hear more</p>
+
+<div class="block"/>
+<p class="italic"><span class="highlight">If the party has visited Fort Condor before...</span></p>
+	<p class="indent-nopad"><b>Man with Hat</b><br/>You've come at a good time. Shinra's changing its strategy now.<br/>It seems that Shinra will destroy the reactor and then take out the materia that's inside.</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Man, we're walking on dangerous ground. We can't lose now!</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>We can't afford to be beaten!</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>If we lose here, all the materia we gathered will be for nothing.</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>You're right. If we lose here, we'll be in great danger.</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>We must protect this area.</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>Damn! I guess we have to protect this area, too.</p>
+	<p class="italic">They go on up to the shack.</p>
+	<p class="indent-nopad"><b>Man</b><br/>The situation has changed. Looks like the enemy is set to attack. If we lose here, it's over.<br/>Our lives are in your hands. We're counting on you.<br/>Ready?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>- Wait<br/>- <a href="#ready">Okay, ready</a><br/>- Hear more</p>
+
+<p class="italic"><a name="ready"></a>Once the party agrees to fight...</p>
+<p class="indent"><b>Man</b><br/>This is the deciding battle. The enemy numbers more than ever before.</p>
+<p class="italic">A lengthy battle with Shinra troops ensues.</p>
+<div class="block"/>
+<p class="italic"><span class="highlight">If Cid and the others defeat the Shinra...</span></p>
+	<p class="indent-nopad"><b>Man</b><br/>YES! We did it! That was wonderful! Thank you!! I doubt Shinra will attack now.</p>
+	<p class="italic-inline-nopad">He laughs, then looks outside.</p>
+	<p class="block-inline-nopad">A, arrgghh......</p>
+	<p class="italic">Outside, the condor's egg begins to crack, there is a blaze of light, and the condor falls from atop the reactor. The egg hatches.</p>
+	<p class="indent-nopad"><b>Man</b><br/>Th, that light just now......<br/>The condor......<br/>The eggs......<br/>What!?<br/>Would you go outside and see what it was?</p>
+	<p class="italic">Cid goes outside to investigate. He picks up the Phoenix materia and watches the hatchling condor fly off. Cid goes back inside.</p>
+	<p class="indent-nopad"><b>Man</b><br/>Gone...<br/>Be sure and report to my father, too.<br/>Oh, it's you. Thanks a lot.</p>
+	<p class="italic">Cid goes down to report to the father.</p>
+	<p class="indent-nopad"><b>Man with Hat</b><br/>Everyone, thanks. I really mean it. Thanks.<br/>Although there isn't anything we can give you, we'll make sure you can stop in and stay any time, so be sure to drop by.<br/>Yes, yes, and there's one thing I forgot to tell you......<br/></p>
+	<div class="highlight-nopad"/><p>Received key item "Huge Materia"!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Huh? What's this?</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Damn man, it's Huge Materia.</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>Gotta have that materia!</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Hmm, you mean this?</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>This is......</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Man with Hat</b><br/>The truth is, this is the materia inside the reactor.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>What the hell did we fight for?</p>
+	<p class="indent-nopad"><b>Man with Hat</b><br/>We weren't protectin' the reactor, we were protectin' the condors.<br/>When that reactor was built, they forced us to help. That's how we knew what was inside the reactor.<br/>I knew this day would come, so after the Shinra left, I sneaked in and took the materia.<br/>I didn't mean to fool you, but I guess that's how it ended up. I'm really sorry.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Just forget about it. Anyway, we're still alive.</p>
+	<p class="indent-nopad"><b>Man with Hat</b><br/>I see. If you put it that way...... we're really grateful.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>So the last Huge Materia that Shinra's after's in the underwater reactor in Junon?</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>We gotta get there first and beat 'em no matter what!</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>We must get there before them and stop them!</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>We gotta get there and stop 'em...</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>Getting to the reactor before them...</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>But ya know, Shinra's probably on high alert since we always mess with 'em.<br/>How 'bout we take a break and go see that little fella for a bit?</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>You mus' mean Cloud......</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>You mean, Cloud...?</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>Cloud, right...?</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>You must mean Mr. Cloud......</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>Yeah, I'm worried 'bout Tifa; she may've collapsed takin' care of the guy.<br/>How 'bout checkin' in on 'em! Down to Mideel!</p>
+
+<div class="block"/>
+<p class="italic"><span class="highlight">If the party loses the battle...</span></p>
+	<p class="italic">Cid comes back inside the shack and falls over.</p>
+	<p class="indent-nopad"><b>Man</b><br/>...... Even if you could only spare them......</p>
+	<p class="italic">The party comes to at the bottom of Fort Condor and slowly gets up.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>God! What the hell happened here!?</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>He's still alive.</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>Where are we?</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>Oh good, they're still alive.</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Oy! What on earth happened?</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>Seems like we survived.</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>Damn!! I can't stand this!</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Oh man...... You look like hell.</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>......not enough strength.</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>Well, I'm just glad we're all alive.</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Things sure don't go smoothly.</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>We might have understimated the situation.</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>This ain't no joke, Jack.</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Oh man, this is real bad.</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>Things don't seem too favorable.</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>I told you I'm not kidding!</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>It'd be one thing if it was a joke, but this's the truth.</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>This is a rather harsh reality.</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>It's Huge Materia that the Shinra's after...... The only one left is in the underwater reactor in Junon.</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>We gotta get there first and protect it!!</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>We must get there first and stop them.</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>We got to get there first and stop them......</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>We've got to get there first and stop them.</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>Yeah, but ever since we got in their way the last time, they should've gotten a little more cautious.<br/>I doubt they'll fly right into action. I'm more concerned about him that anything else.</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Cloud, it's you......</p>
+		<p class="indent-nopad"><b>Nanaki</b><br/>Yes, it's you Cloud......</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>It is you Cloud......</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Cloud......</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>Cloud, it's you......</p>
+	</blockquote>
+	<p class="indent-nopad"><b>Cid</b><br/>Yeah, and I'm worried that even Tifa's gonna fall over on her butt.<br/>Let's go back and see what's happening?...... to Mideel...</p>
+	<p class="italic">The others nod.</p>
+
+
+</scene>

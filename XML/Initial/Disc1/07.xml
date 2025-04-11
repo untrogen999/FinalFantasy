@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="AerithsStory">
+
+
+
+<h1>Sector 5 - Aerith's Story</h1>
+
+<h4><a href="#elmyra">Aerith's House: Elmyra Explains</a></h4>
+<h4><a href="#wallmarket">Wall Market: A Golden Shiny Wire of Hope</a></h4>
+<hr></hr>
+<p class="italic">Cloud and the others arrive in Sector 5.</p>
+<p class="indent"><b>Person Outside the Pipe</b><br/>Even with all that commotion, you went on like nothing happened. You must really been through the mill to get that.</p>
+<p class="italic">Inside the Materia Shop...</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>Living in a place like this, you could live out several lives, and it still wouldn't be enough!<br/>Well, how about some materia? Make some money and then scramble out of here!</p>
+<p class="indent"><b>Woman Walking Around</b><br/>Never thought that would come tumbling down. Maybe I better walk around looking up from now on.</p>
+<p class="italic">Inside the nearby house...</p>
+<p class="indent"><b>Man</b><br/>The hell's up with that!? I don't care if they're AVALANCHE or Avant-garde or whatever you call them. Anyone who brings the plates down on us is nuts!!</p>
+<div class="highlight"/><p>This just in. An accident today...<br/>...the worst in the history of the metropolis. But thanks to the quick response by those in charge, there were no civilian casualties.<br/>The cause of the accident is unclear at this time, however, according to some sources it is believed to have something to do with the terrorist activities of the group, AVALANCHE.</p>
+<p class="italic">Upstairs, if Cloud took the kid's 5 gil earlier...</p>
+<p class="indent"><b>Kid</b><br/>sniff......... sniff......... ......'n' I hid it...... so nuthin' like this...... would ever happen......... sniff......</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Kid from the Weapons Shop</b><br/>...sniff... sniff...<br/>First there was a rumbling...... ...then cracking... and then ker-blaMM!!...<br/>...I was so scared... sniff...</p>
+<p class="indent"><b>Person in Blue</b><br/>You finally think you're making a living in the pits of Midgar, and then a big piece of scrap like that falls down here... what's next?</p>
+<p class="indent"><b>Man in Straw Hat</b><br/>Yeah, that's right! But, even so, where could we move to now...?</p>
+<p class="italic">Inside the Weapons Shop...</p>
+<p class="indent"><b>Man</b><br/>...sure is loud outside. Wonder what's happening?</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>You never know what's going to happen! It's a crazy world,<br/>so you'd better at least have a weapon you can depend on! Am I right or what?</p>
+<p class="italic"><a name="elmyra"></a>They continue onward to Aerith's house, where Elmyra is there to receive them.</p>
+<p class="indent"><b>Elmyra</b><br/>Cloud...... wasn't it?<br/>It's about Aerith, isn't it?</p>
+<p class="indent"><b>Cloud</b><br/>...Sorry. The Shinra have her.</p>
+<p class="indent"><b>Elmyra</b><br/>I know. They took her from here.</p>
+<p class="indent"><b>Cloud</b><br/>They were here?</p>
+<p class="indent"><b>Elmyra</b><br/>That's what Aerith wanted...</p>
+<p class="indent"><b>Cloud</b><br/>Why is Shinra after Aerith?</p>
+<p class="indent"><b>Elmyra</b><br/>Aerith is an Ancient. The sole survivor.</p>
+<p class="indent"><b>Barret</b><br/>...What did you say? But, aren't you her mother?</p>
+<p class="indent"><b>Elmyra</b><br/>...Not her real mother. Oh... it must have been 15 years ago...<br/>...during the war. My husband was sent to the front. Some far away place called Wutai.</p>
+<div class="highlight"/><p class="block-grey">One day, I went to the station because I got a letter saying he was coming home on leave.</p><br/>
+<p class="italic">In the flashback, Elmyra is waiting at the Sector 7 train station. A pair who look very much like Biggs and Jessie is hanging around at the lamp post like a couple. A man gets off the train and picks up his girlfriend. Another man gets off, and his wife picks him up. No one else gets off. Elmyra runs up to the station man who shakes his head.</p>
+<p class="block-grey">My husband never came back.<br/>I wonder if something happened to him?<br/>No, I'm sure his leave was just canceled.<br/>I went to the station everyday.<br/>Then, one day.........</p><br/>
+<p class="italic">Aerith's mother Ifalna is lying at the bottom of the steps, and a seven-year-old Aerith stands nearby crying. Elmyra runs over.</p>
+<p class="block-grey">You used to see this sort of thing a lot during the war.<br/>Her last words were, "Please take Aerith somewhere safe."<br/>My husband never came back. I had no child. I was probably lonely. So I decided to take her home with me.<br/>Aerith and I became close very quickly. That child loved to talk. She used to talk to me about everything.<br/>She told me she escaped from some kind of research laboratory somewhere. And that her mother had already returned to the planet, so she wasn't lonely... and many other things.</p>
+<p class="indent"><b>Barret</b><br/>Returned to the planet?</p>
+<p class="indent"><b>Elmyra</b><br/>I didn't know what she meant. I asked if she meant a star in the sky,<br/>But she said it was this planet... She was a mysterious child in many ways.</p>
+<div class="highlight"/><p class="indent-nopad"><b>Aerith</b><br/>Mom.<br/>Please don't cry.</p>
+<p class="indent-grey"><b>Elmyra</b><br/>Aerith just blurted that out all of a sudden. When I asked her if something happened...</p><br/>
+<p class="indent-nopad"><b>Aerith</b><br/>Someone dear to you has just died.<br/>His spirit was coming to see you, but he already returned to the planet.</p>
+<p class="indent-grey"><b>Elmyra</b><br/>At that time I didn't believe her.<br/>But...<br/>Several days later... We received a notice saying my husband died...<br/>...and that's how it was.<br/>A lot had happened, but we were happy. Until one day...</p><br/>
+<p class="italic">Tseng of the Turks has come to the house. A young Aerith is hiding behind Elmyra.</p><br/>
+<p class="indent-nopad"><b>Tseng</b><br/>We want you to return Aerith to us. We've been searching for her for a long time.</p><br/>
+<p class="indent-nopad"><b>Aerith</b><br/>No! Never!</p><br/>
+<p class="indent-nopad"><b>Tseng</b><br/>Aerith, you're a very special child. You are of special blood.<br/>Your real mother was an 'Ancient'.</p>
+<p class="indent-grey"><b>Elmyra</b><br/>Of course I heard it. That she was an Ancient.</p><br/>
+<p class="indent-nopad"><b>Tseng</b><br/>The Ancients will lead us to a land of supreme happiness.<br/>Aerith will be able to bring happiness to all those in the slums.<br/>That is why the Shinra would like Aerith's cooperation......</p><br/>
+<p class="indent-nopad"><b>Aerith</b><br/>He's wrong! I'm not an Ancient! I'm not!</p><br/>
+<p class="indent-nopad"><b>Tseng</b><br/>But Aerith, surely you hear voices sometimes when you're all alone?</p><br/>
+<p class="indent-nopad"><b>Aerith</b><br/>No, I don't!</p>
+<p class="indent-grey"><b>Elmyra</b><br/>But I knew. I knew about her mysterious powers...<br/>She tried so hard to hide it, so I acted as though I never noticed.</p>
+<p class="indent"><b>Cloud</b><br/>It's amazing how she's avoided the Shinra for all these years...</p>
+<p class="indent"><b>Elmyra</b><br/>The Shinra needed her, So I guess they wouldn't harm her.</p>
+<p class="indent"><b>Tifa</b><br/>But why now......</p>
+<p class="indent"><b>Elmyra</b><br/>She brought a little girl here with her.<br/>On the way here, Tseng found them. She probably couldn't get away fast enough.<br/>She decided to go to the Shinra in exchange for the little girl's safety.</p>
+<p class="indent"><b>Cloud</b><br/>Must be Marlene.</p>
+<p class="indent"><b>Barret</b><br/>Marlene!! Aerith was caught because of Marlene!?<br/>I'm sorry. Marlene's my daughter. I'm... really... sorry...</p>
+<p class="indent"><b>Elmyra</b><br/>You're her father!? How in the world could you ever leave a child alone like that!?</p>
+<p class="indent"><b>Barret</b><br/>...please don't start with that. I think about it all the time. What would happen to Marlene, if I...<br/>But you gotta understand somethin'... ...I don't got an answer. I wanna be with Marlene... But I gotta fight.<br/>'Cause if I don't... the planet's gonna die.<br/>So I'm gonna keep fightin'!<br/>But, I'm worried 'bout Marlene. I really just wanna be with her... always.<br/>See? I'm goin' in circles, now.</p>
+<p class="indent"><b>Elmyra</b><br/>...I think I understand what you're saying... She's upstairs asleep, Why don't you go and see her.</p>
+<p class="italic">Barret goes upstairs.</p>
+<p class="indent"><b>Tifa</b><br/>It's my fault... I was the one who got Aerith involved in this.</p>
+<p class="indent"><b>Elmyra</b><br/>Don't say that. Aerith doesn't think that.</p>
+<p class="indent"><b>Tifa</b><br/>I feel so depressed.</p>
+<p class="indent"><b>Elmyra</b><br/>...sigh...</p>
+<p class="italic">Upstairs, Barret is hugging Marlene to him.</p>
+<p class="indent"><b>Barret</b><br/>I'm so glad...... I'm so glad you're all right...</p>
+<p class="indent"><b>Marlene</b><br/>Daddy, don't cry. Your whiskers hurt!</p>
+<p class="italic">Cloud moves to leave without saying anything, but Barret notices him.</p>
+<p class="indent"><b>Barret</b><br/>Cloud!<br/>You gonna go help Aerith, right? She's done so much for me...<br/>If it's the Shinra you're dealin' with, I can't just sit here! I'm comin', too!</p>
+<p class="indent"><b>Marlene</b><br/>Guess what? Guess what? Aerith was asking me lots of questions.<br/>Like what kind of person Cloud is. I bet she likes you, Cloud!</p>
+<p class="indent"><b>Cloud</b><br/>- I don't know<br/>- Let's hope so</p>
+<div class="block"/>
+  <p><span class="highlight">I don't know</span></p>
+  <p class="indent-nopad"><b>Marlene</b><br/>Stupid!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Let's hope so</span></p>
+  <p class="indent-nopad"><b>Marlene</b><br/>I won't tell Tifa!</p>
+
+<p class="italic">Cloud goes back downstairs and heads for the door.</p>
+<p class="indent"><b>Tifa</b><br/>You're going after Aerith, right?</p>
+<p class="indent"><b>Cloud</b><br/>Yeah.</p>
+<p class="indent"><b>Tifa</b><br/>I'm coming with you.</p>
+<p class="indent"><b>Cloud</b><br/>We're going right into Shinra Headquarters. ...You gotta be prepared for the worst.</p>
+<p class="indent"><b>Tifa</b><br/>I know.<br/>Right now, I feel I have to push myself to the limit.<br/>If I stayed here... I'll go crazy.</p>
+<p class="italic">Barret comes thundering down.</p>
+<p class="indent"><b>Barret</b><br/>Sorry, but can you take care of Marlene a bit longer?</p>
+<p class="indent"><b>Elmyra</b><br/>Yes, I don't mind.</p>
+<p class="indent"><b>Barret</b><br/>This place is dangerous now. You better go somewhere else.</p>
+<p class="indent"><b>Elmyra</b><br/>...You're right. But promise me that you'll come back to her. Don't get yourself killed.</p>
+<p class="italic">Barret turns to Cloud and Tifa. They all nod and run outside.</p>
+<p class="indent"><b>Tifa</b><br/>How do we get to the Shinra Building?</p>
+<p class="indent"><b>Barret</b><br/>There ain't no train that goes up there anymore...</p>
+<p class="indent"><b>Tifa</b><br/>......<br/>Well, let's just go to Wall Market. We might be able to find something there.</p>
+<p class="italic">Back inside the house...</p>
+<p class="indent"><b>Elmyra</b><br/>I mean it, come back to her. Don't get yourself killed. </p>
+<p class="italic"><a name="wallmarket"></a>Cloud and the others head for Wall Market to search the area for something useful. At the Honey Bee Inn...</p>
+<p class="indent"><b>Punk</b><br/>Hey!! It's you!!<br/>Sorry, but I already heard about you.<br/>In addition to dressing like a woman, it seems you like to smash and grind things.<br/>We only let cultured customers in! Got it? Then you'd better leave!</p>
+<p class="indent"><b>Kid by Cat Statue</b><br/>It came down from the sky.<br/>But the old guy who likes tanks took all of it away. I wanted some too.</p>
+<p class="indent"><b>Punk</b><br/>I never believed that Sector 7 would ever come down.</p>
+<p class="indent"><b>Man Outside Restaurant</b><br/>According to that guy with the tank, if you're strong enough, anyone can make it to the top plate.<br/>So, build your strength by having a plate of our food.</p>
+<p class="indent"><b>Man Outside Dress Shop</b><br/>That was scary...</p>
+<p class="italic">Inside the Clothing Shop...</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>You're dressed normal today. If something else interesting comes up, let me in on it.</p>
+<p class="indent"><b>Man Cooking Outside</b><br/>Phew, it's all dusty ever since the sky came down. I'll have to start over.</p>
+<p class="indent"><b>Man 1</b><br/>Is this pile of trash getting bigger?</p>
+<p class="indent"><b>Man 2</b><br/>Yes, I think so.<br/>A lot of things came falling down when the Sector 7 pillar fell.</p>
+<p class="indent"><b>Man 1</b><br/>Right, right, you're right. The owner of the Weapons Shop scavenged all the stuff that came falling down.</p>
+<p class="indent"><b>Man 2</b><br/>Oh is that why? He seems pretty suspicious these days.</p>
+<p class="indent"><b>Man 1</b><br/>Oh, you mean he went out to the Plate cross section next to the Don's Mansion, right?</p>
+<p class="indent"><b>Man 2</b><br/>Oh, you know! I wonder what he's doing?</p>
+<p class="indent"><b>Man 1</b><br/>Yeah! It gives me the chills.</p>
+<p class="italic">Inside the gym...</p>
+<p class="indent"><b>Man Using Punching Bag</b><br/>More strength.<br/>I bet you could climb all the way up to the upper plate if you used that pipe.<br/>Don't you know? The old man at the Weapon shop can tell you more about it.</p>
+<p class="italic">In the bar...</p>
+<p class="indent"><b>Redhead</b><br/>Scary, isn't it? You just never know when the plate might come crashing down.</p>
+<p class="indent"><b>Redhead 2</b><br/>Yeah. I'd like to climb up to the plate if I could.</p>
+<p class="italic">In the Weapons Shop...</p>
+<p class="indent"><b>Weapons Shop Owner</b><br/>You goin' up to the plate? You better have a Battery.</p>
+<p class="indent"><b>Cloud</b><br/>You're gonna sell me something you just found?</p>
+<p class="indent"><b>Weapons Shop Owner</b><br/>Hey, you knew? But I repaired it, so it's all right.</p>
+<p class="indent"><b>Cloud</b><br/>Why do I need a battery to climb up to the plate?</p>
+<p class="indent"><b>Weapons Shop Owner</b><br/>You'll find out when you get there. How 'bout 100 Gil for each?</p>
+<p class="indent"><b>Cloud</b><br/>......<br/>- All right, I'll take them<br/>- I think you're full of it</p>
+<div class="block"/>
+  <p><span class="highlight">All right, I'll take them</span></p>
+  <div class="highlight-nopad"/><p>Received "Batteries"!</p>
+
+<div class="block"/>
+  <p><span class="highlight">I think you're full of it</span></p>
+  <p class="indent-nopad"><b>Weapons Shop Owner</b><br/>All right then, go see for yourself. You'll be back again.</p>
+
+<p class="indent"><b>Kid</b><br/>Wanna see somethin' awesome? Follow me!</p>
+<p class="italic">A trio of kids runs into the alley beyond Corneo's mansion. Corneo's mansion is empty, except for Kotch strapped to a table in the basement.</p>
+<p class="indent"><b>Kotch</b><br/>Hey! You're... not them... you're...<br/>Please, help me!</p>
+<p class="indent"><b>Cloud</b><br/>- Help him<br/>- Leave him</p>
+<div class="block"/>
+  <p><span class="highlight">Help him</span></p>
+  <p class="indent-nopad"><b>Kotch</b><br/>Thanks!<br/>You know what? After you left, some Shinra guys forced themselves in here saying things like 'information leaked' and 'good for nothing'.<br/>They took Don somewhere and that's it...... I'm still here.<br/>Oops! They're here again... I'm outta here! SEE ya</p>
+  <p class="italic">He runs off.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Leave him</span></p>
+  <p class="indent-nopad"><b>Kotch</b><br/>I... I was just following the Don's orders! Help me!</p>
+
+<p class="italic">Into the alley beyond the mansion...</p>
+<p class="indent"><b>Girl</b><br/>Everyone climbed up this wire. Looks scary...... Brrr.</p>
+<p class="indent"><b>Tifa</b><br/>Can we climb it?</p>
+<p class="indent"><b>Girl</b><br/>Yeah. It leads to the Upper World.</p>
+<p class="indent"><b>Barret</b><br/>Awright! We'll climb this wire!</p>
+<p class="indent"><b>Cloud</b><br/>There's no way we can do this. You know how far it goes up?</p>
+<p class="indent"><b>Barret</b><br/>There IS a way! Look! What's that look like?</p>
+<p class="indent"><b>Cloud</b><br/>Just a normal wire.</p>
+<p class="indent"><b>Barret</b><br/>Oh yeah? Well to me it looks like a golden shiny wire of hope.</p>
+<p class="italic">They all look up.</p>
+<p class="indent"><b>Tifa</b><br/>You're right. This is the only way to save Aerith...</p>
+<p class="indent"><b>Cloud</b><br/>Ok, that was a bad analogy, but, Barret, I understand how you feel.<br/>Let's go!</p>
+<p class="italic">Cloud and the others start up the wire. At the top of the wall, the other two kids are looking at the rubble of Sector 7.</p>
+<p class="indent"><b>Kid 2</b><br/>Oh man! This is horrible...</p>
+<p class="indent"><b>Kid</b><br/>Hey, scary, huh? Dad told me that it's the Shinra's doing.</p>
+<p class="italic">Cloud climbs past them to where the wire ends and there is a tangle of piping and train tracks.</p>
+<p class="indent"><b>Cloud</b><br/>Maybe if I put a battery in...<br/>The propeller might work.<br/>I guess I'll just have to believe the shopkeeper.</p>
+<p class="italic-inline">Cloud puts a battery in and the propeller spins, ending in a different position and opening up a path. He continues on up.</p>
+<p class="block-inline">Need a battery here, too.<br/>Looks like the only way is to jump onto that bar.<br/>Should make it if I jump before it comes too close. (use OK button to jump)</p>
+<p class="italic-inline">If he misses it he'll say either "Jumped too soon..." or "Jumped too late..."</p>
+<p class="italic">Making their way through the tangle of debris left by Sector 7's destruction, Cloud and the others eventually reach the upper plate...</p>
+
+
+</scene>

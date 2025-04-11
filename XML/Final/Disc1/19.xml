@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="CosmoNanaki">
+
+
+
+<sp> Cosmo Canyon - Nanaki </sp>
+
+<sp> Arrival at Cosmo Canyon </sp>
+<sp> Exploring Cosmo Canyon </sp>
+<sp> Bugenhagen and His Machine </sp>
+<sp> Around the Cosmo Candle </sp>
+<sp> The Gi Cave </sp>
+<sp> Leaving Cosmo Canyon </sp>
+
+<stage>The party may choose to stop at Cosmo Canyon, but if they attempt to bypass it instead, the buggy sparks.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>!? </sp>
+<stage>It continues to spark and then breaks down. Cloud gets out.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Oh man... a breakdown? Now? </sp>
+<stage>They head to the nearby village of Cosmo Canyon in search of a mechanic. Red XIII runs ahead when they reach the gate.</stage>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>I am home! It is I, <referent name="Nanaki">Nanaki</referent>! </sp>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Hey, <referent name="Nanaki">Nanaki</referent>! You're safe!<boxstart/>Come on, and say hello to Bugenhagen! </sp>
+<stage>Red XIII runs on up a staircase along the side of the canyon.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...<referent name="Nanaki">Nanaki</referent>? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I finally made it... So this is... Cosmo Canyon! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Cosmo... Canyon? I wonder if there's any relation to the planet or the Ancients... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Red XIII">Red XIII</referent> seems different, doesn't he? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hmmm... Any Materia? Any Materia around? </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hmmm... So this is Cosmo Canyon. </sp>
+<stage>Cloud and the others approach the gate.</stage>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Welcome to Cosmo Canyon. Are you familiar with this land? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yes<boxstart/>- No </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yes </sp>
+  <sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>You lied. That is something that is not treated lightly here in Cosmo Canyon. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>No </sp>
+  <sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Let me explain.<boxstart/>People from all over the world gather here to seek the Study of Planet Life. </sp>
+
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Wooooooooo!<boxstart/>I always wanted to come here! </sp>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Ummgah! It's full capacity at present, so I'm afraid I can't let you enter. </sp>
+<stage>Red XIII comes back down the stairs.</stage>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>They helped me some when I was on the road. Please let them in. </sp>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>...Oh, is that so? You helped our <referent name="Nanaki">Nanaki</referent>? Please, come in. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Who is <referent name="Nanaki">Nanaki</referent>? </sp>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Nanaki is <referent name="Nanaki">Nanaki</referent>. That's his name. </sp>
+<stage>* <sp> <speaker name="Note">Note</speaker>: From this point on, that's how I'll refer to him. It's his name, after all.</sp></stage>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Welcome to Cosmo Canyon. Make yourselves at home. </sp>
+<stage>Cloud and the others enter the village and go up to where Nanaki is waiting on the stairway landing.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Here is where I was... I mean, ...this is my hometown.<boxstart/>My tribe were protectors of those who appreciate this beautiful canyon and the Planet.<boxstart/>My brave mother fought and died here, but my cowardly father left her...... I am the last of my race. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Cowardly father? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Yes. My father was a wastrel.<boxstart/>And so the mission I inherited from my ancestors, is to protect this place. My journey ends here. </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker> (from above)<boxstart/>Hey! <referent name="Nanaki">Nanaki</referent>--! You're home! </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Coming, Grandpa! </sp>
+<stage>He dashes off up the stairs.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Good timin'. Let's take a breather.<boxstart/>I got stuff I want to find out, too. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Let's rest for a bit. There are some things I want to find out about anyway. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>That's perfect. Why don't we take a break too? We can meet back here in a while, OK? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Rest, rest, rest! I wanna rest! There! It's decided! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I'm just dead tired. Everyone, how 'bout some rest? </sp>
+
+<stage>The others all wander off.</stage>
+<sp> <speaker name="Sign">Sign</speaker><boxstart/>Tasty Cocktails! Pub "Starlet"<boxstart/>Fluffy Beds! In "Shildra Inn"<boxstart/>Come in today!<boxstart/>It's right near Cosmo Candle! </sp>
+<stage>Cloud finds Tifa and Aerith at the pub.</stage>
+<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Welcome. How 'bout our original cocktail, 'Cosmo Candle?'<boxstart/>A drink now and then is good for you. It'll relax you a bit. ...If you know when to stop. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Maybe there are some people here that know about the Promised Land and the Ancients. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Nanaki...... I wonder what's happened to <referent name="Nanaki">Nanaki</referent>...? He's as excited as a little boy. </sp>
+<sp> <speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>Is that so? You brought <referent name="Nanaki">Nanaki</referent> back here?<boxstart/>Yeah, thanks. </sp>
+<stage>Upstairs is the inn.</stage>
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Welcome to 'Shildra Inn'.<boxstart/>It'll be 100 gil a night. Would you like to stay? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yes<boxstart/>- No thanks </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yes </sp>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Have a great dream of the stars... </sp>
+  <stage>After spending the night...</stage>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Were you able to hear the stars whispers?<boxstart/>Well then, please come again. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>No thanks </sp>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Well then, please come again. </sp>
+
+<sp> <speaker name="Flyer on Wall">Flyer on Wall</speaker><boxstart/>[Turtle's Paradise] No. 5<boxstart/>Our cocktails are good but our wine is the best!<boxstart/>Please stop in to "Turtle's Paradise"!! </sp>
+<stage>Back outside...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>So this is Cosmo Canyon... Quite a mysterious place.<boxstart/>Have you come to seek the 'Study of Planet Life'? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- That's it<boxstart/>- No </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>That's it </sp>
+  <sp> <speaker name="Man">Man</speaker><boxstart/>Yeah? I heard there's an awesome observatory here. I'd like to see it if I have a chance. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>No </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>If the buggy broke down...</sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>Oh yeah? What? The car broke down!?<boxstart/>Why don't you look around Cosmo Canyon, while I fix the car? </sp>
+    <stage>He walks out through the gate.</stage>
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> and the others chose to stop...</sp>
+    <sp> <speaker name="Man">Man</speaker><boxstart/>Oh, really?<boxstart/>There really isn't much else to see here. </sp>
+  
+
+<sp> <speaker name="Kid near the Cosmo Candle">Kid near the Cosmo Candle</speaker><boxstart/>Yaaay! Nanaki! <referent name="Nanaki">Nanaki</referent>'s back! It's all thanks to this flame!<boxstart/>This fire is called 'Cosmo Candle'. It has burned for generations.<boxstart/>It is a holy flame that protects this canyon.<boxstart/>I heard once, it only went out once, long ago.<boxstart/>The elders said something horrifying occurred, but I really don't know much about it. </sp>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Since you're here, why don't you listen to Bugenhagen's story? </sp>
+<stage>At the Tiger Lily Weapons shop...</stage>
+<sp> <speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>Oh, welcome.<boxstart/>The people of this canyon hate to compete. So almost everything here are replicas.<boxstart/>But that's all right. Some of them you can really use. </sp>
+<sp> <speaker name="Flyer on wall">Flyer on wall</speaker><boxstart/>[Turtle Paradise Newsletter] Number 4<boxstart/>Now hiring!<boxstart/>Looking for someone who can stand long hours of boredom!<boxstart/>For details, contact Pub "Turtle Paradise"!! </sp>
+<stage>In the Elder's Room...</stage>
+<sp> <speaker name="Elder Hargo">Elder Hargo</speaker><boxstart/>Where did I put it...? I know it's around here... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>There was this guy who studied 'Planetary Life' here.<boxstart/>He couldn't take things the way they were, so he went to Midgar to form AVALANCHE.<boxstart/>Wanna hear more? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Go on </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Guess you could say this is where AVALANCHE was born.<boxstart/>I always wanted to come here... And... I finally...... made it.<boxstart/>A lot... happened... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- And then? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>And then...? I don't know what's going to happen, now that there is no AVALANCHE... </sp>
+<stage>In the Materia shop...</stage>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Oh man! This place looks like a real drag. And their Materia sucks, too. </sp>
+<sp> <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>...num... yawn... Sir,... You... forgot...... your...... change.<boxstart/>...num... Yes, I'm coming...<boxstart/>Are you here to shop? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- That's right<boxstart/>- No, what's your problem? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>That's right </sp>
+  <sp> <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Oh... is that so... You're here to shop? </sp>
+  He jumps up.
+  I'm sorry! We hardly ever get any customers so...... Oh, but I DO have confidence in our materia!<boxstart/>I'm... I'm so sorry! It seems as though I've become so used to being lazy...
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>No, what's your problem? </sp>
+  <sp> <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Oh... is that so... then leave me alone and let me... yawn... sleep... </sp>
+
+<stage>Inside a woman's living quarters...</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Oh man, I'm so busy. I need more help. Mummer... complaint... </sp>
+<stage>If Cait Sith is in the party...</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Those two... uh, Anyway, are you two friends? It really seems strange. </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hmm, this place seems like it has a lot of secrets.<boxstart/>So, when's dinner? </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>All right, all right. I'm making it right now.<boxstart/>...But I wonder which one is going to eat... </sp>
+<sp> <speaker name="Kid outside Sealed Door">Kid outside Sealed Door</speaker><boxstart/>Bugenhagen sealed this door shut.<boxstart/>How'd he do that? With super glue? </sp>
+<stage>Cloud continues on up to the observatory, where Nanaki and Bugenhagen are.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cloud">Cloud</referent>, this is my grandfather, Bugen.<boxstart/>He is incredible. He knows everything. </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. I hear that you looked after Nanaki a bit.<boxstart/><referent name="Nanaki">Nanaki</referent> is still a child you see. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Please stop, grandfather. I'm 48. </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. <referent name="Nanaki">Nanaki</referent>'s tribe has incredible longevity.<boxstart/>So you see his 48 years would only be equivalent to say that of a 15 or 16 year old in human reckoning. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>15 or 16!? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>He's quiet and very deep. You thought he was an adult? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>......grandfather. I want to be an adult.<boxstart/>I want to grow up to be able to protect you and the village. </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. No <referent name="Nanaki">Nanaki</referent>. You can't stand on your own yet.<boxstart/>To do that now would destroy you in the long run.<boxstart/>Reaching up into the heavens, threatening to snatch the very stars from the great city of Midgar. You've seen it, haven't you?<boxstart/>Well, that's a bad example. Looking up too much makes you lose perspective.<boxstart/>When it's time for this planet to die, you'll understand that you know absolutely nothing. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......When the planet dies? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. It may be tomorrow, or 100 years from now... But it's not long off. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>How do you know this? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>I hear the cries of the Planet. </sp>
+<stage>A throbbing noise starts up.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's that? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>The sounds of the stars in the heavens. While this goes on, planets are born, and die. </sp>
+<stage>A keening noise joins the throbbing.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What was that? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. That was a scream from this planet.<boxstart/>Didn't you hear it? As if to say... I hurt, I suffer...... </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>They have come here on a journey to save the planet.<boxstart/>Why don't you show them your apparatus? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. To save the planet? Ho Ho Hoooo!<boxstart/>But, then again, I guess it wouldn't hurt to show him. </sp>
+<sp> <speaker name="Kid">Kid</speaker> (walking in)<boxstart/>Bugenhagen!<boxstart/>Several odd looking people have come. </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>The whole place has gotten busy all of a sudden. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>He brought friends too. I'll go get them. </sp>
+<stage>Nanaki starts for the door.</stage>
+<sp> <boxstart/><referent name="Cloud">Cloud</referent>, please call one of them.<boxstart/>Only three people can fit in grandfather's machine. </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Don't worry. My machine won't run away. You go and invite your friends. </sp>
+<stage>Cloud runs off to invite someone.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hmm? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Are you going somewhere? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker> (in his room)<boxstart/>Don't worry about me. I've seen it many times.<boxstart/>It's my first time back in a while. Let me rest for a bit... </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>God. I HATE studying! </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What did they say? </sp>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Did you get to see Bugenhagen's contraption? If you haven't yet, you must! </sp>
+<stage>Back to the observatory...</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Here, over here. The door's unlocked, come on in. </sp>
+<stage>Cloud enters the room housing the machine.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. It looks like you have them all together. Then let's begin.<boxstart/>I'll be stand there. </sp>
+<stage>Cloud gets on the machine, and Bugenhagen switches it on. The platform lifts, taking them up to an interactive model of the solar system.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>This is really somethin'! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>So pretty... It's just like the real thing! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Wow! It's just like the real thing! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Woa! Wooooah! Pretty good, surprisin' me! </sp>
+
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Hmm, yes pretty good. This is my laboratory.<boxstart/>All the workings of space are entered into this 3D Holographic System. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Whoa! Shootin' stars! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey! A shooting star! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Look, look! A shooting star! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Wh, what the? A shooting star? </sp>
+
+<stage>Cloud and the others watch the model for a while.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>This's really somethin'! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wow, how wonderful. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh! This is amazing!! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Whew!! </sp>
+
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. Yes, it is something, isn't it?<boxstart/>Well, let's get to the subject.<boxstart/>Eventually... all humans die. What happens to them after they die?<boxstart/>The body decomposes, and returns to the Planet. That much everyone knows. What about their consciousness, their hearts and their souls?<boxstart/>The soul too returns to the Planet.<boxstart/>And not only those of humans, but everything on this Planet. In fact, all living things in the universe, are the same.<boxstart/>The spirits that return to the Planet, merge with one another and roam the Planet.<boxstart/>They roam, converge, and divide, becoming a swell, called the 'Lifestream'.<boxstart/>Lifestream... In other words, a path of energy of the souls roaming the Planet.<boxstart/>'Spirit Energy' is a word that you should never forget.<boxstart/>A new life... children are blessed with Spirit energy and are brought into the world.<boxstart/>Then, the time comes when they die and once again return to the Planet...<boxstart/>Of course there are exceptions, but this is the way of the world.<boxstart/>I've digressed, but you'll understand better if you watch this. </sp>
+<stage>On the Planet model, a man is born, and dies. His spirit energy enters the Lifestream and forms a tree elsewhere. The tree dies and returns to the Lifestream. A new man is born, and dies, etc. Eventually the Lifestream covers the entire Planet.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Spirit energy makes all things possible, trees, birds, and humans.<boxstart/>Not just living things. But spirit energy makes it possible for Planets to be Planets.<boxstart/>What happens if that energy were to disappear? </sp>
+<stage>Bugenhagen takes all the Spirit energy away and the Planet crumbles and dies.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>......These are the basics of the Study of Planet Life. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>If the Spirit energy is lost, our Planet is destroyed... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. Spirit energy is efficient BECAUSE it exists within nature.<boxstart/>When Spirit energy is forcefully extracted, and manufactured, it can't accomplish its true purpose. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You're talking about Mako energy, right? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Everyday Mako reactors suck up Spirit energy, diminishing it.<boxstart/>Spirit energy gets compressed in the reactors and processed into Mako energy. All living things are being used up and thrown away.<boxstart/>In other words, Mako energy will only destroy the Planet... </sp>
+<stage>He turns off the machine.</stage>
+<sp> <boxstart/>The story of the planets... and those who lived with them...<boxstart/>You want to know more? Then you must listen to the words of the elders.<boxstart/>Nanaki? His father a coward?<boxstart/>So that's it... <referent name="Nanaki">Nanaki</referent>'s been thinking that all this time... </sp>
+<stage>Cloud and the others leave to explore the place further.</stage>
+<sp> <speaker name="Elder Hargo">Elder Hargo</speaker><boxstart/>Ahh, here it is.<boxstart/>My job is to gather all the legends and the knowledge of the planet and to make a book.<boxstart/>Then, even when I return to the planet, the children may still be taught about many things...<boxstart/>Mmm? Oh, we have guests. Good, good.<boxstart/>I know, I know.<boxstart/>You came to ask me something, right? Am I right? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- It's about the Promised Land<boxstart/>- Not really </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>It's about the Promised Land </sp>
+  <sp> <speaker name="Elder Hargo">Elder Hargo</speaker><boxstart/>...The Promised Land. So you want to know...?<boxstart/>There is no one place called the Promised Land. That's what I believe.<boxstart/>No no, it does exist. Hmmm...... you can say that too.<boxstart/>In other words, it doesn't exist for us, but it did for the Ancients.<boxstart/>The Promised Land is the resting place of the Ancients.<boxstart/>The life of the Ancients is one continuous journey. A journey to grow trees and plants, produce animals, and to raise Mako energy.<boxstart/>Their harsh journeys continued throughout their lives...<boxstart/>The place they returned to after their long journey... Their burial land is the Promised Land.<boxstart/>Huh? Supreme Happiness? I believe that, for the Ancients, it was the moment that they were able to return to their Planet,<boxstart/>At that moment they were released from their fate, and gained their supreme happiness...<boxstart/>At least that's what I believe. I really don't know whether or not it's the truth now. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Not really </sp>
+  <sp> <speaker name="Elder Hargo">Elder Hargo</speaker><boxstart/>Oh, that's not what you're here for?<boxstart/>I'd appreciate it if you don't talk to me about such foolish things as legends and old wives tales. </sp>
+
+<sp> <speaker name="Elder Hargo">Elder Hargo</speaker><boxstart/>By the way, those that came with you are all at the Cosmo Candle.<boxstart/>Are you leaving? </sp>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Leaving already? But it appears your friends still want to learn more about the planet... </sp>
+<stage>In the Pub...</stage>
+<sp> <speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>Mmm...<boxstart/>What is it? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The story of the Ancients...<boxstart/>- Nothing </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>The story of the Ancients... </sp>
+  <sp> <speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>You can't talk of the Ancients, without mentioning Professor Gast.<boxstart/>He used to come here sometimes.<boxstart/>He was a Shinra scholar who spent his life studying the Ancients.<boxstart/>He was a serious person, never would have figured he'd be with the Shinra.<boxstart/>Must've been about 30 years ago, when he found the corpse of an Ancient. He was elated!<boxstart/>If I recall... he named it 'Jenova' and was doing a lot of research...<boxstart/>One day, he showed up here, looking real distressed.<boxstart/>He was mumbling something about Jenova not being an Ancient and that he'd done a terrible thing...<boxstart/>He's been missing since then. I heard that he never went back to Shinra<boxstart/>So, if you ever see Professor Gast, I want you to tell him...<boxstart/>That the old man that likes to drink in Cosmo Canyon, wanted to hear about the Ancients.<boxstart/>Well, there's lots to talk about,<boxstart/>but most things about the Ancients are all legend and folk tales, and no one knows the truth. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Nothing </sp>
+  <sp> <speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>...hmm. That's no fun... I wanna tell a story. </sp>
+
+<sp> <speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>By the way, your friends are all in front of the 'Cosmo Candle'<boxstart/>Are you all leaving now? </sp>
+<stage>Cloud joins his friends by the Candle.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>...... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Cosmo Canyon... This's where AVALANCHE was born...<boxstart/>I promised my guys someday... when we saved the planet from the Shinra, that we'd all go to Cosmo Canyon and celebrate...<boxstart/>Biggs... Wedge... Jessie...<boxstart/>Now they're all gone... died for the planet.<boxstart/>...Really? To save the planet?<boxstart/>We all... we all hate the Shinra...<boxstart/>Do I even got a to go on?<boxstart/>Will they......... will they ever forgive me?<boxstart/>...Right now, I really don't know. But I know one thing.<boxstart/>If there's anything I can do, to save the planet... or the people livin' on it... Then I'm gonna do it!<boxstart/>I don't care if it's for justice or revenge, or whatever. I don't care...... let 'em decide for 'emselves. </sp>
+<stage>He gets to his feet.</stage>
+<sp> <boxstart/>Urrrrrgh! I'm gonna do it!!<boxstart/>Again... Again... AVALANCHE's born again! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I learned a lot. The elders taught me many things.<boxstart/>About the Cetra... And the Promised Land...<boxstart/>I'm...... alone... I'm all alone now... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>But I'm...... we're here for you, right? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I know. I know, but... I am the only...... Cetra. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Does that mean we can't help? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud...<boxstart/>Bonfires are funny, aren't they?<boxstart/>They make you remember all sorts of things.<boxstart/>You know, <referent name="Cloud">Cloud</referent>. 5 Years ago...<boxstart/>......It's nothing.<boxstart/>No, forget. I'm afraid to ask... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What is it...? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>It feels like... it feels like you're going far away...<boxstart/>You really, really are...... you... right? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What a boring place, just like I thought. I wanna go somewhere! Let's go find some Materia! </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I wonder how many years it's been... Gosh, it brings back memories...... </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>...Long ago.<boxstart/>...When I was still very small. We were all around this flame...<boxstart/>No, never mind... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What happened? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>It's about my parents.<boxstart/>When I talk about my mother, I am full of pride and joy...<boxstart/>And that's fine. ...But when I remember my father, my heart is full of anger... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>...You really can't forgive your father...? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Of course. He...... left mother for dead.<boxstart/>When the Gi tribe attacked, he ran off by himself, leaving mother and the people of the Canyon! </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>...Come, <referent name="Nanaki">Nanaki</referent>. There's something you should see. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>...? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>The place may be dangerous.<boxstart/><referent name="Cloud">Cloud</referent>. Will you and one other person come with us? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>...Where're they going? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I wonder what he wants to show <referent name="Nanaki">Nanaki</referent>...? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Can I go too? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Does he want to show him THAT? You know, maybe there's some Materia that's been passed on for generations in this Canyon!? </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Dangerous? Count me out...... </sp>
+<sp> <speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>Mmm. I'm starting to feel good now. That bartender's cocktails always hit the spot. </sp>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Hm? If you're looking for Bugenhagen, he went to the Sealed Door.<boxstart/>Remember, there's a steel door on the way to Bugenhagen's room.<boxstart/>What's that door there for anyhow? It's been closed forever... </sp>
+<stage>Cloud and the others join Bugenhagen by the sealed door.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo<boxstart/>Are we all set? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- Just a minute </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Not ready yet? Tell me when you are ready. </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. Shall we go? </sp>
+<stage>He hits a switch to open the door.</stage>
+<sp> <boxstart/>All right. Come in, come in. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Hey? Aren't you going with us, Grandpa? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>What are you crazy? It's dangerous in there. I told you that!<boxstart/>You want an old man like me should go first? I'll be right behind you. </sp>
+<stage>If you try to go back out...</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>What is it, you're going back? I'll be waiting here for you when you're ready.<boxstart/>I can't leave this door open forever.<boxstart/>Good. Then we shall proceed. </sp>
+<stage>They enter the cave and climb to the bottom. After passing through the first chamber, Bugenhagen stops in the doorway.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo.<boxstart/>Everyone here's a Ghost of the Gi tribe. Killed in a certain battle. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>A certain battle...? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>The vengeful spirits of the Gi didn't disappear, and couldn't return to the Lifestream...<boxstart/>We still have far to go. Ho Ho Hoooo. </sp>
+<stage>They continue on through the second chamber, and Bugenhagen stops again.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>As you can see, this cave leads to the back of Cosmo Canyon.<boxstart/>It was unfortunate that the Gi were larger than us. If they attacked through here, we wouldn't have stood a chance. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>...... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Let's move on. </sp>
+<stage>They move through the third chamber.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>This warrior went through the cave all alone.<boxstart/>Fighting attackers one after another... </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Grandpa...... That warrior... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo... We're almost there. </sp>
+<stage>They enter the final chamber, where an evil-looking face is blocking the far exit.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>What is this......? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Grandpa, is he...!? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>After death... The ghosts of the Gi... Like stagnant air......<boxstart/>This... can't be!! </sp>
+<stage>Cloud and the others fight the Gi Nattak.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>...Thank you, <referent name="Cloud">Cloud</referent>. Because of you, we survived.<boxstart/><referent name="Nanaki">Nanaki</referent>, you have grown strong, too. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>......Oh yeah? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Now I know that it wasn't a mistake bringing you here...<boxstart/>Come, I have something I want to show you. Right over here. </sp>
+<stage>They continue out of the cave.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>This is... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>...The warrior who fought against the Gi.<boxstart/>He kept them from taking even one step into Cosmo Canyon.<boxstart/>But he was never able to return to town...<boxstart/>Look, <referent name="Nanaki">Nanaki</referent>. Look at your father, at the warrior, Seto. </sp>
+<stage>Nanaki looks up to where Seto stands on the cliff above, turned to stone.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>...That... That's...... Seto...? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Seto continued to fight the Gi tribe here. ...To protect this Canyon.<boxstart/>Even after the Gi's poisonous arrows turned his body to stone......<boxstart/>Even after they all ran away... Seto, continued to protect us.<boxstart/>And he continues to protect us, even now. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Even now... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>You thought that he was a coward and ran away. But he, alone risked his life to protect Cosmo Canyon.<boxstart/>That is your father, Seto. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>That...... that is Seto? ...!? Did mother know? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo... She knew. The two of them made me promise to keep this cave shut.<boxstart/>They asked me to seal it myself and not to tell a soul.<boxstart/>They said we should forget about this cave. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>......... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/><referent name="Cloud">Cloud</referent>... Would you mind leaving the two of us alone? </sp>
+<stage>Cloud nods and leaves the cave.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/><referent name="Nanaki">Nanaki</referent>. I want you to continue your journey with <referent name="Cloud">Cloud</referent> and the others. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Grandpa!? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Listen, Nanaki.<boxstart/><referent name="Cloud">Cloud</referent> says they are trying to save the planet.<boxstart/>Honestly, I don't think it can be done.<boxstart/>For even if they stop every reactor on the planet, it's only going to postpone the inevitable.<boxstart/>Even if they stop <referent name="Sephiroth">Sephiroth</referent>, everything will perish.<boxstart/>But, Nanaki. I've been thinking lately.<boxstart/>I've been thinking if there was anything WE could do,<boxstart/>as a part of the planet, something to help a planet already in misery...<boxstart/>No matter what happens, isn't it important to try?<boxstart/>Am I just wishing against fate?<boxstart/>I am too old to do anything about it...<boxstart/>This year, I'll be 130. Ho Ho Hoooo.<boxstart/>That is why, <referent name="Nanaki">Nanaki</referent>, you must go with them! For my sake. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Grandpa... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>I wanted to show you your real father before you left...<boxstart/>I'm so glad that you came back while I was still alive to show you. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Grandpa... don't talk like that. I don't want to think of life... without you...... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. Well, I've had a long life. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Grandpa! You must live!<boxstart/>I'll see to it.<boxstart/>I'll see to what's happening to the planet. And I'll come back to tell you. </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/><referent name="Nanaki">Nanaki</referent>... </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I am <referent name="Nanaki">Nanaki</referent> of Cosmo Canyon! The son of the warrior, Seto!<boxstart/>I'll come back a warrior true to that noble name! So please, Grandpa... </sp>
+<stage>He turns and looks up to see that Seto is crying.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>That's... Seto's...... Seto...... </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Seto....... Fa... Father... </sp>
+<stage>He leaps up higher and lets out a keening howl.</stage>
+<stage>Back outside, the others are gathered around the Cosmo Canyon.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>They said they finished fixin' the buggy. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Shall we get going? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>So this is it, <referent name="Nanaki">Nanaki</referent>... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>That's just the way it goes. ...You came in handy at times... </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>The repair on your car is completed.<boxstart/>Now you should be able to go where ever you want. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- How much do I owe...?<boxstart/>- Much obliged </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>How much do I owe...? </sp>
+  <sp> <speaker name="Man">Man</speaker><boxstart/>No charge! You'd do the same for me, right? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Please, take 1000 gil<boxstart/>- I guess you're right </sp>
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>Please, take 1000 gil </sp>
+	  <sp> <speaker name="Man">Man</speaker><boxstart/>Are you sure...? Well, all right. Thank you.<boxstart/>Oh yeah. Did you stay at the inn already?<boxstart/>There was a bottle on the sofa there a couple of days ago... was it yours? </sp>
+	
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>I guess you're right </sp>
+	  <stage>Nothing happens.</stage>
+	
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Much obliged </sp>
+  <stage>Nothing happens.</stage>
+
+<sp> <speaker name="Man">Man</speaker><boxstart/>Mmm...... I think the teachings of the 'Study of Planet Life' are true.<boxstart/>But can people used to Mako energy ever go back...? </sp>
+<sp> <speaker name="Kid outside Sealed Door">Kid outside Sealed Door</speaker><boxstart/>Nope... It doesn't open... How'd he seal it? With a huge magnet? </sp>
+<stage>Cloud starts for the gate, and Nanaki comes running after him.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Wait for me! I'm coming too! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Mmm? </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/><referent name="Cloud">Cloud</referent>. Please look after <referent name="Nanaki">Nanaki</referent>. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What happened? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I think I grew up a little. That's what happened! </sp>
+<stage>He runs off down the steps.</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. Come back whenever you need my knowledge. </sp>
+<stage>Cloud and the others return to the buggy and continue north.</stage>
+
+</scene>

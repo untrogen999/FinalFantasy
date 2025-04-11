@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="TheWorldAfterMeteor">
+
+
+
+<h1>The World - After Meteor is Summoned</h1>
+
+<h4><a href="#kalm">Kalm</a></h4>
+<h4><a href="#chocobo">The Chocobo Farm</a></h4>
+<h4><a href="#junon">Junon</a></h4>
+<h4><a href="#costa">Costa del Sol</a></h4>
+<h4><a href="#gold">Gold Saucer</a></h4>
+<h4><a href="#gongaga">Gongaga</a></h4>
+<h4><a href="#cosmo">Cosmo Canyon</a></h4>
+<h4><a href="#nibelheim">Nibelheim</a></h4>
+<h4><a href="#rocket">Rocket Town</a></h4>
+<h4><a href="#wutai">Wutai</a></h4>
+<h4><a href="#bone">Bone Village</a></h4>
+<h4><a href="#icicle">Icicle Inn</a></h4>
+<h4><a href="#chocobosage">The Chocobo Sage</a></h4>
+<hr></hr>
+<p class="italic"><a name="kalm"></a>At Kalm...</p>
+<p class="indent"><b>Redhead</b><br/>Huh? You're looking for your friend? You want to know where the Lifestream is?<br/>Let's see, I can't help you with your friend, but I've heard about the Lifestream.<br/>When I traveled to the southern islands, a doctor was very kind to me. I seem to recall him telling me something about the Lifestream......</p>
+<p class="indent"><b>Old Man</b><br/>Ah, youth... You really believe that big meteor filling up the sky's going to fall here?<br/>If that's the case then all we can do is put our hope in Shinra, Inc.</p>
+<p class="italic">Inside the first house...</p>
+<p class="indent"><b>Woman</b><br/>They say the meteor is going to fall, but it's okay! I'm sure Shinra will come through for us in the end and do something!</p>
+<p class="indent"><b>Girl Upstairs</b><br/>I can't believe Meteor's really falling this way...... What's going to happen to us?</p>
+<p class="italic">Inside the third house...</p>
+<p class="indent"><b>Woman</b><br/>Oh man, oh man!<br/>A meteor's gonna fall on us, and now there's some big huge monster the likes of which I've never seen just wandering around out there!<br/>What's going to happen to all of us!!?</p>
+<p class="italic">Upstairs, a boy is running around while a little girl watches him.</p>
+<p class="indent"><b>Girl</b><br/>......My older brother's so stupid. He's so embarrassing I could just puke!</p>
+<p class="indent"><b>Boy</b><br/>I'm gonna hurry up and get strong so I can crush the meteor to bits! But I gotta train real hard to do it.<br/>Hyah, hayah, eagghh!</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Man in Blue</b><br/>The meteor's going to fall, isn't it? Unless Shinra does something about it, then we're all history!</p>
+<p class="indent"><b>Man</b><br/>I want you to stop that talk about a Meteor falling on us!</p>
+<p class="indent"><b>Woman</b><br/>Even if Meteor falls, If you're in Midgar, you ought to be safe.<br/>They say it's a "Mako Metropolis" so they should survive somehow......</p>
+<p class="italic">Inside the fourth house...</p>
+<p class="indent"><b>Woman</b><br/>The meteor's coming, right? Where am I going to stash my money...? Wait, maybe I'd better take it with me and get out of here!</p>
+<p class="indent"><b>Kalm Traveler</b><br/>The world's changed a lot in the past few days......<br/>That huge monster Meteor was covering up the sky and acting like he owned it or something...<br/>A lot of my friends have died......<br/>I'm goin' on a journey to pray for their souls.<br/>A map that was sunk along with the ship. ...... "Guidebook"<br/>A rose that blooms once every 1000 years in the desert. ...... "Desert Rose"<br/>A harp that soothes those who hear it. ...... "Earth Harp"<br/>I wonder if there's anyone who'll bring it to me?</p>
+<p class="indent"><b>Kid outside Bar</b><br/>My dad still just sits at the bar drinking, even though he knows that Meteor's coming!<br/>It's sad. Even though he's an adult, he just doesn't want to see the world as it really is. I dunno what to do.</p>
+<p class="italic">Inside the bar...</p>
+<p class="indent"><b>Person in Blue</b><br/>And all of Midgar's gonna be destroyed by a falling meteor? Oh, don't make me laugh!<br/>Lately, there's been a number of scary incidents. I hate it. Just hate it!</p>
+<p class="indent"><b>Man</b><br/>Listen, I've worked hard till now... and you say Meteor's gonna smash everything to bits?<br/>Well, I ain't standin' around listenin' to fool talk like this. Makes a person lose the will to work, that's what it does!<br/>What're ya, dense? Something like that'll never happen? It's ridiculous!</p>
+<p class="indent"><b>Bartender</b><br/>I heard Shinra's taking all its biggest artillery from Junon and its various other facilities and gathering it in Midgar to fight the meteor and Weapon.<br/>What's going to happen to the world...?</p>
+<p class="indent"><b>Man in Blue</b> (checking the Mako pressure)<br/>What're you doing checking the pressure of the Mako energy at a time like this? It's probably already too late......<br/>It's times like this when you shouldn't go into a tail spin. You've got to continue to live orderly just like before.<br/>At least that's what I think...</p>
+<hr></hr>
+<p class="italic"><a name="chocobo"></a>At the Chocobo Farm...</p>
+<p class="indent"><b>Choco Bill</b><br/>Oh, what is that? What has this world come to? Stars falling and everything.<br/>With things the way they are now, how 'bout raising a Chocobo?<br/>No, I'm not trying to persuade you for money. It's just because of the state of things in the world.<br/>I thought that it would be a good and healthy thing for you to raise some Chocobos...<br/>Hmm... You just happen to be in luck!<br/>It just so happens that we aren't taking care of any Chocobos for anyone else, so...<br/>I could take care of 6 Chocobos right now, for 10000 gil per Chocobo. How 'bout it?</p>
+<p class="indent"><b>Tifa</b><br/>- Could you take care of the chocobos?<br/>- I'd like to hear about something else<br/>- Tell me how you raise them<br/>- That's all</p>
+<div class="block"/>
+  <p><span class="highlight">Could you take care of the chocobos?</span></p>
+  <p class="indent-nopad"><b>Choco Bill</b><br/>To raise a Chocobo, you'll need a 'Chocobo Stable'.<br/>And they rent for 10000 gil. Currently, I can rent out up to 6 'Chocobo Stables'.<br/>If you rent a 'Chocobo Stable', we will keep up to 4 of the Chocobos you catch in the fenced area outside.<br/>At a later date, you can select the Chocobo that you would like to put in your 'Chocobo Stable'.<br/>'Chocobo Stables' cost 10000 gil...</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>- Rent it</p>
+  <p class="indent-nopad"><b>Choco Bill</b><br/>Thank you.<br/>My grandson takes care of the Chocobos. He's in the Chocobo Stable at the far right of the farm. Please tell him what you want.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I'd like to hear about something else</span></p>
+  <p class="indent-nopad"><b>Choco Bill</b><br/>Someone once told me there is a 'Chocobo Sage'... somewhere.<br/>He seems to know how to raise some great Chocobos.<br/>If he really does exist, I'd like to meet him someday.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Tell me how you raise them</span></p>
+  <p class="indent-nopad"><b>Choco Bill</b><br/>Chocobos aren't hard to take care of.<br/>The day to day care will all be done here.<br/>But, please buy the food for the Chocobo, and feed them yourselves.<br/>Chocobo's abilities will differ with what you feed it, so feel free to choose your own food.<br/>Also, if you're able to find a male and a female Chocobo that like each other, they'll produce an egg. But only if you feed them a 'Nut'.<br/>New Chocobos inherit the abilities of their parents.<br/>I've heard that sometimes new breeds of Chocobo are born with special abilities. I've never actually seen it before, though.</p>
+
+<div class="block"/>
+  <p><span class="highlight">That's all</span></p>
+  <p class="italic">Nothing happens.</p>
+
+<p class="italic">In the stable...</p>
+<p class="indent"><b>Chole</b><br/>Welcome! Hey, I've got something good to tell you.<br/>The white Chocobo likes it when you scratch behind its ears.<br/>But if you scratch it someplace that it doesn't like, it'll get mad, so be careful.</p>
+<p class="italic"><a name="chocobo"></a>If you return to the Chocobo Farm after visiting the <a href="#chocobosage">Chocobo Sage</a>...</p>
+<p class="indent"><b>Chole</b><br/>Hey, do you know what a Chocobo Sage is?<br/>What!? You've actually met him!?<br/>Wow! What did he tell you?</p>
+<p class="italic">Tifa tells her.</p>
+<p class="indent"><b>Chole</b><br/>Wow, that's amazing! ...let me take some notes.</p>
+<p class="italic">On any subsequent visit after seeing the Chocobo Sage...</p>
+<p class="indent"><b>Chole</b><br/>Hey, did you ever see the Chocobo Sage again? What did he tell you?</p>
+<p class="italic">Tifa tells her.</p>
+<p class="indent"><b>Chole</b><br/>Wow, that's amazing! ...let me take some notes.<br/>What...?</p>
+<p class="indent"><b>Tifa</b><br/>- Let me jot this down<br/>- Chole's Chocobo inspection<br/>- Nothing</p>
+<div class="block"/>
+  <p><span class="highlight">Let me jot this down</span></p>
+  <p class="indent-nopad"><b>Chole</b><br/>Other than regular Chocobo, there are "Mountain Chocobo" and "River-Chocobo".<br/>In order for the "Mountain Chocobo" and "River Chocobo" to be born,<br/>You feed the "Carob Nut" to a "Great Chocobo" or a "Good Chocobo" and have it produce an egg.<br/>But we don't sell any "Carob Nuts".<br/>A "Great Chocobo" and a "Good Chocobo" are found...<br/>On an island Southeast of the Chocobo Sage's dwelling at Corel. And in the area west of Corel.<br/>The "Carob Nut" can be found south of the Chocobo Sage's dwelling. Monsters carry them.<br/>Let's see, is Bone Village just south of there?<br/>One surprise If you get the "Mountain Chocobo" and the "River Chocobo" to produce an egg,<br/>You'll get a Chocobo that can cross mountains and rivers. I bet that the right nut for that is the "Carob Nut."<br/>Bigger surprise: There seems to be a Chocobo that can cross the ocean.<br/>If you could cross the ocean, mountains, and rivers, there'd be no place you couldn't go.<br/>In order to get an Ocean Chocobo you need to get a Mountain-and-river Chocobo to mate with something else.<br/>If you mate the Mountain-and-river Chocobo with a "Wonderful Chocobo",<br/>You'll get an Ocean Chocobo. But to do that you can't use an ordinary Nut.<br/>The "Nut" that produces Ocean Chocobos is the "Zeio Nut".<br/>This is the first I've heard of it. I wonder where you get them?</p>
+
+<div class="block"/>
+  <p><span class="highlight">Chole's Chocobo inspection</span></p>
+  <p class="indent-nopad"><b>Chole</b> (if you have only one chocobo)<br/>Hey, there's only one Chocobo.</p>
+  <p class="indent-nopad"><b>Chole</b> (otherwise)<br/>For telling me that story, I'll tell you about each Chocobo's abilities.<br/>From what I see, the fastest sprinter is...<br/>I think it's Choco.<br/>And, the fastest one is...<br/>That's Choco<br/>Also, from what I can tell, the one with the most stamina is...<br/>I think it's Choco.<br/>Finally, the most intelligent one is...<br/>That's Choco</p>
+
+<div class="block"/>
+  <p><span class="highlight">Nothing</span></p>
+  <p class="italic">Nothing happens.</p>
+
+<hr></hr>
+<p class="italic"><a name="junon"></a>At Lower Junon...</p>
+<p class="indent"><b>Woman</b><br/>I almost passed out when I saw Weapon.<br/>It seems Weapon was beaten, but a Shinra soldier told me there are 4 more.</p>
+<p class="indent"><b>Fisherman</b><br/>Once Meteor hits, not just the fish, but the whole ocean will be destroyed...</p>
+<p class="indent"><b>Older Man</b><br/>What? Cloud is missing?</p>
+<p class="indent"><b>Tifa</b><br/>Maybe... he dropped some from the North Caves into the Lifestream...<br/>Sir, do you know where the Lifestream runs through?<br/>Cloud might have drifted from there.</p>
+<p class="indent"><b>Older Man</b><br/>What? The Northern... what? Sorry, but I don't think I follow.<br/>But... I think I remember hearing Priscilla saying 'Life... something' before.</p>
+<p class="italic">Tifa goes to Priscilla's house.</p>
+<p class="indent"><b>Priscilla</b><br/>Who are you---?<br/>Lifestream?<br/>Yeah, I know! It's Mr. Dolphin's playground.<br/>There's a Three-taloned island south of the continent. I heard the Lifestream runs below that island.<br/>But why are you asking about the Lifestream?</p>
+<p class="indent"><b>Tifa</b><br/>Cloud fell into the Lifestream at the North Cave, and has been missing ever since.</p>
+<p class="indent"><b>Priscilla</b><br/>Huh, Cloud!?<br/>Hurry up and help him!! He's very important to me.</p>
+<p class="italic">In Upper Junon...</p>
+<p class="indent"><b>Soldier</b><br/>It's kinda lonely at the airport without the Highwind, isn't it?<br/>I miss that bikini girl on the side of the plane.</p>
+<p class="indent"><b>Soldiers at the Airport</b><br/>I sure was frightened when Weapon attacked. It gives me the chills knowing there's still two of them left.<br/>Oh yeah? Well, I'm ready to fight the worst enemy mankind's ever had like a real warrior. It's not everyday you get to fight in an inter-planetary war.</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>Come on in!<br/>Welcome!!<br/>I just can't believe it. I never thought a monster like Weapon really existed.</p>
+<p class="indent"><b>Weapon Shopkeeper</b><br/>This machine hasn't been working right ever since Weapon got to it!</p>
+<p class="italic">In the bar downstairs...</p>
+<p class="indent"><b>Man</b><br/>Weapon and Meteor scared everyone else off, but I'm sittin' here soused as usual.</p>
+<p class="indent"><b>Barkeeper</b><br/>I'd like to close down this shop, but we got the regulars to think about... I don't know what to do......</p>
+<p class="indent"><b>Item Shopkeeper</b><br/>They're not going to get me down! Not me!!<br/>Weapon, Meteor, even bad customers, aren't going to get me!</p>
+<p class="italic">Inside the barracks...</p>
+<p class="indent"><b>Soldier Guarding the Respectable Inn</b><br/>Hmmm? You have no right to enter!</p>
+<p class="indent"><b>Commander</b> (drilling a soldier)<br/>Hey!! Stay out of the way!</p>
+<p class="indent"><b>Soldier</b><br/>I'm starting to feel like I can't stop anymore.</p>
+<p class="indent"><b>Commander</b><br/>Hey! Stop yappin'!</p>
+<p class="indent"><b>Soldier</b><br/>I've been had!! I want to get in a real battle, too!</p>
+<p class="indent"><b>Soldier Studying</b><br/>I lost most of my rivals in the attack on Weapon.<br/>Oh, of course, I was here, studying.<br/>And the coveted green officer's uniform is almost in my reach.<br/>After that, I'll get on the newspapers as a plain clothed First Class officer in SOLDIER...<br/>A triumphant return to my homeland!! Tons of fan letters... My future's peachy!</p>
+<p class="italic">Shinra Member's Bar...</p>
+<p class="indent"><b>Barkeeper</b><br/>I'm sorry. I've decided to close this place down.<br/>All my regular customers were killed by Weapon.<br/>Everyone was pretty weird, but I got a lot of memories of them.</p>
+<p class="italic">2nd floor materia shop...</p>
+<p class="indent"><b>Girl</b><br/>Please! Come in...</p>
+<p class="indent"><b>Girls</b><br/>Welcome!</p>
+<p class="indent"><b>Honey Bee Girl</b><br/>Look, why not forget about Meteor and Weapon for now and do a little impulse shopping!?</p>
+<p class="indent"><b>Black-haired Girl</b><br/>Buy a lot, cutie!</p>
+<p class="indent"><b>Redhead</b><br/>I won't charge you for a smile...</p>
+<p class="indent"><b>Girl</b><br/>Please go to the counter.</p>
+<p class="indent"><b>Woman</b><br/>Why don't you surround yourself with young girls and have some fun... maybe for the last time.</p>
+<p class="indent"><b>Shopkeeper</b><br/>I hired more girls after hearing that the world's coming to an end, but I wonder if I made a mistake.<br/>I keep getting more and more in debt. I've got to get out from under it somehow. Maybe I'll have Weapon help me.</p>
+<p class="indent"><b>Girls</b><br/>Thank you very much!</p>
+<p class="italic">3rd floor accessory shop. The shopkeeper is dressed in a black cloak.</p>
+<p class="indent"><b>Shopkeeper</b><br/>I used to be in SOLDIER. Recently, I've felt like dressing up like this...<br/>I don't know why, it's out of season, but...</p>
+<p class="italic">In another barracks...</p>
+<p class="indent"><b>Soldier</b> (trying to cross his legs casually)<br/>I'm learning to be a delinquent soldier!!<br/>I just can't seem to get the hang of it! It just isn't going right!!</p>
+<p class="indent"><b>Delinquent Soldier</b><br/>All the real soldiers were killed fighting Weapon.<br/>It may seem ironic that losers like me are still alive. But that's the reality of it.</p>
+<p class="italic">Upstairs...</p>
+<p class="indent"><b>Shinra Manager</b><br/>I only came to help with the transporting of Junon's Huge Cannon, Sister Ray, but...<br/>Now the company tells me not to bother coming back...<br/>What's being a Shinra employee all about...?<br/>Yeeeeee......<br/>If Weapon killed all the upper management... then I'll be President...!!</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>Weapon was really something. Nothing can compare with his strength, but with a selection like this, our weapons'll win.</p>
+<p class="italic">The docks are empty.</p>
+<p class="indent"><b>Sailor</b><br/>Everyday there's no ship coming in, I always come here to watch the sun go down.<br/>The sun disappears almost like it's swallowed up in the big horizon.<br/>And somewhere out there is a big unknown continent with another port city.<br/>Twilight always gets me misty...<br/>I'm so glad I became a seaman.<br/>Well... I wouldn't have time for one now anyway because of that Weapon thing...<br/>I haven't had a girl friend in 18 years. And I'm a romantic! ......phew.</p>
+<hr></hr>
+<p class="italic"><a name="costa"></a>At Costa del Sol...</p>
+<p class="italic">At the harbor...</p>
+<p class="indent"><b>Man Near Sea Plane</b><br/>Well, I'm not worried. When it all comes down, I'm heading for the skies.<br/>The only problem is...... will there be anywhere left to land?</p>
+<p class="indent"><b>Woman Lounging on Sea Plane</b><br/>Not gonna be able to nap like this for much longer.<br/>When you put it that way, I feel kind of sad.</p>
+<p class="indent"><b>Sailor</b><br/>There's no ship to Junon. Recently, there's been a hoard on materials. Everything's topsy-turvy.</p>
+<p class="indent"><b>Sailor Running Around</b><br/>Everyone's in a rush to get one last vacation in before the Meteor strikes, That's why it's so busy here.</p>
+<p class="italic">Back to the town...</p>
+<p class="indent"><b>Woman at the Information Kiosk</b><br/>I don't feel like sightseeing around town. What I really want to do is... Looks like Gold Saucer is temporarily closed.</p>
+<p class="italic">In the bar...</p>
+<p class="indent"><b>Waitress</b><br/>I wan' learn how speak beddah. But don' wan' have stars fall down. You think... same?</p>
+<p class="indent"><b>White Surfer</b><br/>I don't care if it's the Meteor or not, I'm not giving up yet!<br/>I still haven't surfed the best waves of Costa del Sol!<br/>I hope the Meteor doesn't strike before I do.</p>
+<p class="indent"><b>Black Surfer</b><br/>It's weird seeing the reflection of the Meteor on the sea in the evening!<br/>It gives you the creeps.</p>
+<p class="indent"><b>Black Man</b><br/>...huff... wheeze...<br/>Heat and cold are just memories of the Planet......</p>
+<p class="indent"><b>Man</b><br/>I don't understand what my boss is thinking!<br/>I'm gonna yell at him! I'm gonna scream my head off till it gets ugly!<br/>Isn't that what life's all about? What do you think?</p>
+<p class="indent"><b>Mukki</b><br/>I'm just sitting here havin' a quiet drink.</p>
+<p class="indent"><b>Woman Behind Counter</b><br/>When you're in here, forget all those awful things going on outside, and... just enjoy yourself.</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Women</b><br/>They're burning. Someday they'll burn out.<br/>The stars are just like our youth.<br/>Ho! Ho! Ho!...... It's the end of the world.</p>
+<p class="indent"><b>Little Boy</b><br/>Oh wow!! Man, that's huge!!</p>
+<p class="indent"><b>Little Girl</b><br/>The stars!! They're in flames!!</p>
+<p class="italic">At Johnny's house...</p>
+<p class="indent"><b>Johnny</b><br/>I proposed to her in the middle of all that Meteor stuff!<br/>I don't care even if the world were to end right now!<br/>I can't think of anything else!</p>
+<p class="indent"><b>Butch</b><br/>Good or bad everything's gotta go! It's the end of the world sale!!</p>
+<p class="indent"><b>Item Shopkeeper</b><br/>Wanna buy a souvenir to remember participating in the Meteor tour?</p>
+<p class="indent"><b>Innkeeper</b> (lying in bed)<br/>I don't feel like doing anything. I just want to spend the rest of my life sleeping.<br/>Will you be staying together?</p>
+<p class="indent"><b>Tifa</b><br/>- Yes<br/>- No thanks</p>
+<p class="italic">At the beach...</p>
+<p class="indent"><b>Man</b><br/>Sitting around waiting for Meteor to come...... Why's it gotta fall on us?</p>
+<p class="indent"><b>Woman</b><br/>It's getting closer and closer. Someone will do something, don't you think?</p>
+<p class="indent"><b>Woman 2</b><br/>The sea breeze, sun and Meteor. Isn't nature strange?</p>
+<p class="indent"><b>Woman 3</b><br/>I don't care even if it is the end of the world, I just want to sit here and drink cocktails!<br/>Ooooh...... I think I drank too much.</p>
+<p class="indent"><b>Man Swimming</b><br/>Eaaggh!! Leave me alone!<br/>I'm trying to learn how to swim before the end of the world.</p>
+<hr></hr>
+<p class="italic"><a name="corel"></a>At North Corel...</p>
+<p class="indent"><b>Man</b><br/>Staring up at Meteor won't put food in my stomach.<br/>But if I look down, sometimes I find somethin' to eat.</p>
+<p class="italic">Inside a tent...</p>
+<p class="indent"><b>Old Man</b><br/>The next train's coming in soon.</p>
+<p class="indent"><b>Black Woman</b><br/>As long as we're here, Grandpa's not going to be able to forget about trains.<br/>Maybe we'll start anew, moving to Southern Isle of Mideel.</p>
+<p class="indent"><b>Big Man</b><br/>Look down... nuthin' but junk. Look up... Meteor.<br/>Am I gonna be stuck between these two for the rest of my life?</p>
+<p class="indent"><b>Man in Hardhat</b><br/>Hey, what's gonna happen to the world...?<br/>I guess no one wants to have fun anymore now that the Gold Saucer is closing...</p>
+<p class="italic">At the ropeway...</p>
+<p class="indent"><b>Station Man</b><br/>The Gold Saucer is currently closed. The Ropeway's up and runnin', but there's no point in goin' there.</p>
+<hr></hr>
+<p class="italic"><a name="gold"></a>At Gold Saucer...</p>
+<p class="indent"><b>Dio</b><br/>I'm sorry, I'm gonna close this for a while.<br/>I'm just debating if I should be in business at a time like this.</p>
+<hr></hr>
+<p class="italic"><a name="gongaga"></a>At Gongaga...</p>
+<p class="indent"><b>Old Man</b><br/>You lost? When that happens the only ones you can count on are your friends.<br/>The first thing you gotta do is find your best friend.</p>
+<p class="indent"><b>Redhead</b><br/>Life Stream? Never heard of it.<br/>The Planet's structure? ...Who cares about that?<br/>Why don't you go ask Bugenhagen of Cosmo Canyon hard questions like that?</p>
+<p class="indent"><b>Accessory Shopkeeper</b><br/>We voted to outlaw the use of Mako energy and live with nature, ever since the explosion.</p>
+<hr></hr>
+<p class="italic"><a name="cosmo"></a>At Cosmo Canyon...</p>
+<p class="indent"><b>Gatekeeper</b><br/>Oh, it's you. This is terrible. The color of that unlucky star...<br/>The children are all so scared that they won't even go outside.<br/>I'd rather not see it either...</p>
+<p class="indent"><b>Man</b><br/>Mmm...... I can't be standing here talking about the 'Study of Planet Life'.<br/>I think I'll be heading back to my homeland now...</p>
+<p class="indent"><b>General Storekeeper</b><br/>Hi. Of course, our stores open.<br/>No need to fear. I have the 'Study of Planet Life' right here.<br/>No, maybe I AM a bit afraid. But, whenever I'm reading 'Study of Planet Life,' I can forget all my fears.</p>
+<p class="indent"><b>Barkeeper</b><br/>How about our original cocktail, 'Lifestream'?<br/>You should forget your troubles with a drink. We humans sure are weak creatures...</p>
+<p class="indent"><b>Elder Bugah</b><br/>Live with the planet, die with the planet.<br/>Maybe this is the way it should be. Who knows? I'm full of booze...<br/>It's when I think about the children. I wonder if we could just save our own children.</p>
+<p class="indent"><b>Kid in Nanaki's Room</b><br/>It's not that I'm afraid of that big star.<br/>It's just that, uh, I have a stomach ache... That's why I'm not moving. That's the truth!</p>
+<p class="indent"><b>Innkeeper</b><br/>Welcome to 'Shindra Inn'. It's times like this a nice, soft bed will do you good.</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>Welcome. You still want more weapons? You sure are weird...<br/>Uh, I mean, it's weird. if there weren't people like you, I'll be out of business. Heh, heh, heh... sweat...!</p>
+<p class="indent"><b>Elder Hargo</b><br/>Mm... oh, this? This is the book of Stars. I'm just finishing it.<br/>Nothing is meaningless. If I do this then, someday, someone will run across it.<br/>The Ancients did the same. That is how we know about them, right? Maybe my book also......</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>Oh man... Everything is over, once the meteor hits...<br/>I've been selling Materia for 10 years now, ever since I was 16. What have I been doing with my life...?<br/>Welcome! Oh, it's nothing. Now, please make yourselves comfortable!</p>
+<p class="italic">In living quarters next door...</p>
+<p class="indent"><b>Woman</b><br/>Hmm... I wonder what's going to happen now...</p>
+<p class="indent"><b>Kid</b><br/>Don't worry, mom! All of us just need to go through that door!<br/>Mr. Bugenhagen sealed it so we wouldn't have to worry bout it!<br/>But what's a seal...?</p>
+<p class="italic">Up at the observatory...</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo.<br/>...no time to be humming now. The planet is nearing imminent death.<br/>Where is Cloud? Wasn't he with you?</p>
+<p class="indent"><b>Tifa</b><br/>That's why we're here... Cloud... Cloud has...</p>
+<p class="italic-inline">She explains.</p>
+<p class="indent"><b>Bugenhagen</b><br/>I see... Cloud has......<br/>It's true that there are several places on the planet where Lifestream is gathered.<br/>But most of those places are below the surface where humans cannot reach them.<br/>There's only one place. An island floating in the Southern Sea...<br/>What did you say? I haven't left here in years... No good. I can't remember.<br/>In the Southern Seas I think there was an island where Lifestream is.<br/>But even if you find Cloud there...<br/>Life's dream is a mass of spiritual energy,<br/>and one person alone probably couldn't stand against such an incredible spiritual current...</p>
+<hr></hr>
+<p class="italic"><a name="nibelheim"></a>At Nibelheim...</p>
+<p class="indent"><b>Woman in Shop</b><br/>How can you shop at a time like this?<br/>What? 'Me, in business'?<br/>Don't worry, it's all right. I get paid by the company.<br/>My real job is to protect the secret of Nibelheim.<br/>What? Secret?<br/>We don't have a clue. But it's all right.<br/>It's all over anyway!<br/>The end, the end, the end!! Yeah, even as we speak, Meteor...! The End...!</p>
+<p class="italic">In Cloud's house...</p>
+<p class="indent"><b>Woman</b><br/>What's going to happen to this planet!? What the hell's Shinra doing!?</p>
+<p class="italic">In Tifa's room, at the piano...</p>
+<p class="indent"><b>Tifa</b><br/>Cloud... Cloud was playing.<br/>I wonder what... this is...</p>
+<div class="highlight"/><p>Received "Elemental" Materia!</p>
+<hr></hr>
+<p class="italic"><a name="rocket"></a>At Rocket Town...</p>
+<p class="italic">In the Inn...</p>
+<p class="indent"><b>Man Looking at Paintings</b><br/>Mmmm... I'm starting to see it now...</p>
+<p class="indent"><b>Barkeeper</b><br/>You don't feel comfortable here? Then, every time you look in the sky you see Meteor.</p>
+<p class="indent"><b>Man</b><br/>Meteor's coming toward us!? And I can't even go to the bathroom...!?</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Redhead</b><br/>If things go on like this, then Meteor's just going to smash right into us and kill us all, right? ......I guess that's life?</p>
+<p class="indent"><b>Mechanic</b><br/>Look up at the sky. The bigger Meteor gets, the less time we have to live.</p>
+<p class="indent"><b>Old Man</b><br/>Shinra's trying to gather the Huge Materia from Corel and Fort Condor. There are four left, and they're transporting them here.<br/>I can't stand the thought of them using my rocket for something like this.<br/>Anyways.<br/>How 'bout it? Want to look at the rocket with me?</p>
+<p class="indent"><b>Tifa</b><br/>- Look up<br/>- No</p>
+<div class="block"/>
+  <p><span class="highlight">Look up</span></p>
+  <p class="indent-nopad"><b>Old Man</b><br/>It seems like there's a lot happenin' in the outside world, but as long as I got this rocket... I'm satisfied.</p>
+
+<div class="block"/>
+  <p><span class="highlight">No</span></p>
+  <p class="indent-nopad"><b>Old Man</b><br/>Oh, how boring...</p>
+
+<p class="italic">At Cid's house...</p>
+<p class="indent"><b>Shera</b><br/>...What's going to happen?</p>
+<hr></hr>
+<p class="italic"><a name="wutai"></a>At Wutai...</p>
+<p class="indent"><b>Woman Walking Near River</b><br/>Life is like the dew on the leaves of the trees. Whether that planet falls or not is no more than a fleeting glimmer.</p>
+<p class="italic">At the old man's house...</p>
+<p class="indent"><b>Old Man</b><br/>Oh, you know lately things have been like that. You can even see the moon in the afternoon. Everyone's celebrating.</p>
+<p class="indent"><b>Boy</b><br/>No, Gramps! That's a big red planet in the sky! Everyone's scared of it!!</p>
+<p class="italic">At the Weapons Shop...</p>
+<p class="indent"><b>Man</b><br/>This is a weapons store of the hard cores, by the hard cores, and for the hard cores! Come on and take a look, why doncha!?</p>
+<p class="indent"><b>Shopkeeper</b><br/>Hey yo! Welcome!<br/>You aren't tired of my babbling?<br/>Great! Then come on in and start buying!</p>
+<p class="italic">At Turtle's Paradise...</p>
+<p class="indent"><b>Barkeeper</b><br/>First the ground started shaking, then that large star......<br/>Yy, you think... It's all over?</p>
+<p class="indent"><b>Man</b><br/>Hey. Things look pretty sad around here.<br/>With things the way they are in the world I guess there's nothing I can do about it.<br/>Running around like a fool won't help matters any. So, we all might as well sit back and have a beer...</p>
+<p class="indent"><b>Little Kid</b><br/>When that big star bashes into us, both Wutai and Da-chao are going to be dust! Can't we do something?</p>
+<p class="italic">At the Item Shop...</p>
+<p class="indent"><b>Shopkeeper</b><br/>You're still gonna sit here and buy stuff at a time like this?<br/>You're an odd one...</p>
+<p class="indent"><b>Woman</b><br/>And now it's too late to be worrying about materia at this stage of the game...<br/>If you see anything you need, buy it.</p>
+<p class="indent"><b>Man on the Path to Godo's House</b><br/>The end is right in front of us...<br/>But what can you do about it? Just go on living your life day in and day out...</p>
+<p class="indent"><b>Man Outside Godo's House</b><br/>Have you ever heard the story of the scales of the Water God?<br/>They're not just regular scales. They have special hidden powers. And are impervious to the strongest flames.<br/>But of course I don't think they'd stand up to the fire that huge eerie-lookin' Planet's gonna make when it crashes into us...</p>
+<p class="italic">In the shrine...</p>
+<p class="indent"><b>People Praying</b><br/>num, num...... I hope the planet doesn't fall anywhere around here......<br/>He's in the pagoda next to Lord Godo. Lord Godo says we're stuck...<br/>Help me. Help me. Help me......</p>
+<p class="italic">Going in the Pagoda without Yuffie...</p>
+<p class="indent"><b>Gorky</b><br/>Oh, you there! How is Miss Yuffie doing?</p>
+<p class="indent"><b>Shake</b><br/>Did that kid mature at all?</p>
+<p class="indent"><b>Chekhov</b><br/>She's always like this. It'll be rougher on you.</p>
+<p class="indent"><b>Staniv</b><br/>Please take care of Miss Yuffie.</p>
+<p class="indent"><b>Godo</b><br/>Your Mat-...<br/>I mean, please look after Yuffie...!</p>
+<hr></hr>
+<p class="italic"><a name="bone"></a>At Bone Village...</p>
+<p class="indent"><b>Excavator</b><br/>Welcome to Bone Village, a town for nature lovers.<br/>You need something?</p>
+<p class="indent"><b>Tifa</b><br/>- Are you going to run away??<br/>- What are you doing?</p>
+<div class="block"/>
+  <p><span class="highlight">Are you going to run away??</span></p>
+  <p class="indent-nopad"><b>Excavator</b><br/>We've already learned about everything that has happened from the beginning of this Planet through fossils.<br/>Now, we want to see on through to the end of the Planet... It's such a mixed feeling...</p>
+
+<div class="block"/>
+  <p><span class="highlight">What are you doing?</span></p>
+  <p class="indent-nopad"><b>Excavator</b><br/>We're excavating. It's like the land's telling a history of the planet.</p>
+
+<hr></hr>
+<p class="italic"><a name="icicle"></a>At Icicle Inn...</p>
+<p class="italic">Inside the small house...</p>
+<p class="indent"><b>Woman</b><br/>I don't think I could live in this town. It gets so cold here!<br/>I have to move again... I don't know where to start.</p>
+<p class="indent"><b>Man</b><br/>The reason for the drop in temperature must be because of that dome of light at the Northern limits...<br/>You all should get away from here and go to a place like Mideel Island in the south.</p>
+<p class="indent"><b>Boy</b><br/>I wanted to get a lot better at snowboarding...</p>
+<p class="italic">Inside the large house...</p>
+<p class="indent"><b>Old Woman</b><br/>Cough... cough... I've been living in this town for 60 years. And STILL I caught a cold...<br/>I heard there's a doctor on a Southern island somewhere. I sure wish he'd come here... cough... cough...</p>
+<p class="indent"><b>Woman</b><br/>Grandma's been sick for a while and doesn't have much energy lately...</p>
+<p class="indent"><b>Man in Yard</b><br/>It's the first time that the temperature has dipped this low, this fast...<br/>There's also that mysterious light at the Northern limits too. Does it mean that we've reached the end of the world?</p>
+<p class="italic">At Icicle Inn...</p>
+<p class="indent"><b>Man</b><br/>With all the strange things happening in the world, I kinda understand why people want to leave...</p>
+<p class="indent"><b>Man 2</b><br/>Maybe we'd better leave town soon too.<br/>Let's go to that island in the South! What was it called...... hmm?<br/>Yeah, yeah, I heard that there's a town called Mideel on a southern island.</p>
+<p class="indent"><b>Person in Bathroom</b><br/>I'm still in here! All right!?</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Little Girls</b><br/>I heard that there's a barrier on top of the mountain.<br/>What's a barrier? You mean that light on the top of the mountain?</p>
+<p class="indent"><b>Man in Thicket</b><br/>There's a barrier at the North end of the crater! You shouldn't go any further. </p>
+<hr></hr>
+<p class="italic"><a name="chocobosage"></a>The Chocobo Sage's house becomes accessible after gaining the Highwind, but can be visited while Tifa, Cid, or Cloud is the party leader.</p>
+<p class="indent"><b>Chocobo Sage</b><br/>Ho ho. It's unusual for people to come to such an out of the way place...<br/>I can't remember how many years it's been since the last person came.</p>
+<p class="indent"><b>Cloud, Tifa, or Cid</b><br/>Who are you?</p>
+<p class="indent"><b>Chocobo Sage</b><br/>Me? I'm......<br/>I don't know.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>You don't know who you are?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Wha? You don't know who you are?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Huh? You're sayin' you don't even know who you are?</p>
+</blockquote>
+<p class="indent"><b>Chocobo Sage</b><br/>Been a while since I gave it any thought...<br/>Wonder what they used to call me?<br/>Oh yeah!! They used to call me the 'Chocobo Sage'. That's right!!<br/>Right, that was it, The Chocobo Sage!!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>(no one would forget that)</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>(Who would forget that?)</p>
+	<p class="indent-nopad"><b>Cid</b><br/>(the hell's up with this guy?)</p>
+</blockquote>
+<p class="indent"><b>Chocobo Sage</b><br/>Now what can I do for you?</p>
+<p class="indent"><b>Cloud, Tifa, or Cid</b><br/>- What about that Chocobo?</p>
+<p class="indent"><b>Chocobo Sage</b><br/>That chocobo? Well that one is...<br/>Let's see now, I don't quite remember...</p>
+<p class="italic">On a second visit...</p>
+<p class="indent"><b>Chocobo Sage</b><br/>Now what can I do for you?</p>
+<p class="indent"><b>Cloud, Tifa, or Cid</b><br/>- You remember something?</p>
+<p class="indent"><b>Chocobo Sage</b><br/>I remember now! That's the one they call...<br/>It's a Mountain Chocobo. And just like the name says, he can cross any mountain.<br/>There was another one that could cross rivers, too. They call him 'River Chocobo'.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>Where can we catch one?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Where can we find one?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Where can I get one of those Whatdyacallem chocobos?</p>
+</blockquote>
+<p class="indent"><b>Chocobo Sage</b><br/>There aren't any around now.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>...... That's one right there isn't it?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>What about that one right there?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>What're you flappin' about? There's one right there!</p>
+</blockquote>
+<p class="indent"><b>Chocobo Sage</b><br/>Wha? I wonder what he's doing there?<br/>Can't remember for the life of me...</p>
+<p class="italic">On a third visit...</p>
+<p class="indent"><b>Chocobo Sage</b><br/>Oh, oh yeah! That chocobo was...<br/>......was bred from a 'Great Chocobo' and a 'Good Chocobo'.<br/>When they're given "Carob Nuts" while breeding, there's a chance you'll get one of these Chocobos.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>So where's this chocobo?<br/>So where can I get some of these 'Carob Nuts'?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>So where can I find those Chocobos?<br/>...and what about those 'Carob Nuts'...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>So where is the chocobo?<br/>And what about those nut things?</p>
+</blockquote>
+<p class="indent"><b>Chocobo Sage</b><br/>Huh? Where? Where was that?<br/>And what was that nut?<br/>Can't remember for the life of me...</p>
+<p class="italic">On a fourth visit...</p>
+<p class="indent"><b>Chocobo Sage</b><br/>Oh, OK. I remember! That chocobo...<br/>...It's on an island southeast of here, In a place called Corel surrounded by greenery.<br/>You should be able to catch one just west of Corel. And some 'Carob Nuts', too......<br/>There used to be some monsters just south of here that had them. Or you might...<br/>............ Funny...... What was I saying just now?<br/>Can't remember for the life of me...</p>
+<p class="italic">On a fifth visit...</p>
+<p class="indent"><b>Chocobo Sage</b><br/>Oh right!<br/>It was about the Mountain Chocobo and the River Chocobo I told you about.<br/>When you mate these two together...<br/>...you get one that can cross rivers AND mountains.<br/>And... And also... uh, what was I saying?<br/>Can't remember for the life of me...</p>
+<p class="italic">On a sixth visit...</p>
+<p class="indent"><b>Chocobo Sage</b><br/>Oh, yeah! And also...<br/>There's one that can cross oceans, too!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>You probably don't remember but...<br/>How can I get one of those Chocobos?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>You probably are going to say you forgot, but...<br/>How can I get one of those chocobos?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Great! I know you probably already forgot but,<br/>Where can I get one of those chocobos?</p>
+</blockquote>
+<p class="indent"><b>Chocobo Sage</b><br/>Hey, don't tease me like that! To get an Ocean-crossing Chocobo, you just...<br/>Let's see now... ...Nope. Don't remember a thing.<br/>Can't remember for the life of me...</p>
+<p class="italic">On a seventh visit...</p>
+<p class="indent"><b>Chocobo Sage</b><br/>Oh, I remember! The Ocean-crossing Chocobo is...<br/>The Mountain-and-River-crossing Chocobo is...... is... Oh, what was I saying?<br/>Let's see now... ...Nope. Don't remember a thing.</p>
+<p class="italic">On an eighth visit...</p>
+<p class="indent"><b>Chocobo Sage</b><br/>Right, right! I remember! You take the Mountain-and-River-crossing Chocobo...<br/>Mate it with a 'Wonderful Chocobo' you can catch right around here... And you'll get...<br/>Can't remember for the life of me...</p>
+<p class="italic">On a ninth visit...</p>
+<p class="indent"><b>Chocobo Sage</b><br/>Oh, right! You'll need a...<br/>'Zeio Nut'. Now let me see, as I remember, the Zeio nut...<br/>Where was it you could find those things?<br/>Can't remember for the life of me...</p>
+<p class="italic">On a tenth visit...</p>
+<p class="indent"><b>Chocobo Sage</b><br/>Oh yeah! Zeio nuts were...<br/>The favorite of goblins. There's a small island east of here where the goblins have a bunch of them.</p>
+<p class="italic">And finally...</p>
+<p class="indent"><b>Chocobo Sage</b><br/>I think...<br/>...that's all I'm gonna remember.<br/>Oh!<br/>That's it...</p>
+
+</scene>

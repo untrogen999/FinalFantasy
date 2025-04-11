@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="World">
+
+
+
+<sp> The World - Before the Temple of the Ancients </sp>
+
+<sp> The Chocobo Farm </sp>
+<sp> The Sleeping Man </sp>
+<sp> Fort Condor </sp>
+<sp> Junon </sp>
+<sp> Costa del Sol </sp>
+<sp> The Weapon Seller </sp>
+<sp> Cosmo Canyon </sp>
+<sp> Rocket Town </sp>
+<sp> Bone Village </sp>
+
+<stage>At the Chocobo Farm...</stage>
+<sp> <speaker name="Choco Bill">Choco Bill</speaker><boxstart/>Welcome.<boxstart/>How 'bout a Chocobo Lure materia?<boxstart/>Each level it increases, makes it easier for you to find a Chocobo. </sp>
+
+<stage>In the Sleeping man's cave, across the river north of Junon...</stage>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>You've already fought x times... ......zzzzz....... zzzzzzzz......<boxstart/>Come on. You already escaped x times. ......zzz...... zzzzzzzzz......<boxstart/>Large materia needs high level materia............ zzzzzz...... zzzzzzzz...... </sp>
+<stage>If Cloud tries to search his belongings...</stage>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>What're you groping around for!<boxstart/>............<boxstart/>......zzzzz......... zzz....... </sp>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Who're you?<boxstart/>Hmph. I guess it was fate that I woke up and met you. Here! </sp>
+<stage>If the number of battles fought ends in two even numbers...</stage>
+<sp> <speaker name="unspecified"/><boxstart/>Received "Bolt Ring"!! </sp>
+<stage>If the number of battles fought ends in two odd numbers...</stage>
+<sp> <speaker name="unspecified"/><boxstart/>Received "Mythril"!! </sp>
+
+<stage>At Fort Condor...</stage>
+<sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Oh, it's you guys? How are things going? </sp>
+<stage>Up at the shed...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>How goes it? The Shinra troops have attacked 1 times since you were here.<boxstart/>So we're getting a litttle short on funds.<boxstart/>We have 12000 gil right now.<boxstart/>Perfect timing! They're just around the corner. Get ready. </sp>
+<stage>Once Cloud decides to enter the battle...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>The Barbarians are mixed during this attack.<boxstart/>There are more than 20. Set up for a balanced-attack or we'll be in trouble.  </sp>
+
+<stage>At Junon...</stage>
+<stage>In Lower Junon...</stage>
+<sp> <speaker name="Fisherman">Fisherman</speaker><boxstart/>There's a dolphin in the bay. If you get close enough and blow the whistle, it might come to you.<boxstart/>If you want to get on the ship, why not have the dolphin take you? </sp>
+<stage>In Priscilla's House, Priscilla is asleep in her bed.</stage>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>No... that tickles...<boxstart/>No... Stop......<boxstart/>Mr. Dolphin...... </sp>
+<sp> <speaker name="Elevator Guard">Elevator Guard</speaker><boxstart/>If you want to get on the elevator that badly, give me 10 gil! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Okay, I guess<boxstart/>- No way! </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Okay, I guess </sp>
+  <stage>The elevator door opens.</stage>
+  <sp> <speaker name="Elevator Guard">Elevator Guard</speaker><boxstart/>Hurry up and get in! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>No way! </sp>
+  <sp> <speaker name="Elevator Guard">Elevator Guard</speaker><boxstart/>You're such a cheapskate. </sp>
+
+<stage>On the Junon Airport Path...</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>All I wanted was to become a pilot! It used to leave me speechless watching the Highwind in the sunset! </sp>
+<sp> <speaker name="Soldiers Practicing Victory Poses">Soldiers Practicing Victory Poses</speaker><boxstart/>Someday I'll get to use my special pose in a real battle!<boxstart/>Same here!! I'll keep practicing until then! </sp>
+<stage>In the bar, Rude is gone but the rest of the bald club remains...</stage>
+<sp> <speaker name="Bald Black Man">Bald Black Man</speaker><boxstart/>It just isn't a party without <referent name="Rude">Rude</referent>! </sp>
+<stage>In the barracks, a commander stands reprimanding a soldier.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Hey!! Stay out of the way! </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Ever since I was late to that parade, they've been on my back everyday with basic training.<boxstart/>I can't handle it anymore! </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Hey! Stop yappin'! </sp>
+<sp> <speaker name="Soldier Studying">Soldier Studying</speaker><boxstart/>Ugh... My eyes are tired... No, this is the time for me to really buckle down!<boxstart/>Until I become SOLDIER First Class. </sp>
+<sp> <speaker name="Soldiers Sleeping">Soldiers Sleeping</speaker><boxstart/>ZZZZZ......<boxstart/>Grrrrgh--- ---Grrrgh </sp>
+<stage>On the path to the Underwater Reactor, a group of soldiers is drilling.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Hey!! Civilian!! Stay out of our training!!<boxstart/>Go around them! And stay out of their way!! </sp>
+<stage>Cloud can get on the elevator to the Underwater Reactor.</stage>
+<sp> <speaker name="Elevator Attendant">Elevator Attendant</speaker><boxstart/>...gulp... Going do---wn.<boxstart/>This floor is the Submarine Dock...<boxstart/>Those of you visiting the Underwater Reactor, please proceed through the connecting tunnel.<boxstart/>...gulp... We're here... </sp>
+<stage>Cloud gets off the elevator. The two doors leading farther are guarded by soldiers.</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Only authorized personnel are allowed past this point!<boxstart/>You know too, right? About Junon Navy's important classified information.<boxstart/>A new submarine has almost been completed using Shinra's top technology.<boxstart/>A new version of submarine. I'll be sailing on it. Man, I can't wait! </sp>
+<sp> <speaker name="Soldier 2">Soldier 2</speaker><boxstart/>Man...... It's so boring keeping watch at the Underwater Reactor. </sp>
+<stage>Taking the elevator back up...</stage>
+<sp> <speaker name="Elevator Attendant">Elevator Attendant</speaker><boxstart/>...gulp... Going u---p.<boxstart/>Returning to Junon.<boxstart/>...gulp... We're here... </sp>
+<stage>At the Shinra Member's bar...</stage>
+<sp> <speaker name="Bartender">Bartender</speaker><boxstart/>I'm sorry. The bar is only for Shinra employees. </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>I'm a good lookin' man once I take my uniform off. </sp>
+<sp> <speaker name="Soldier 2">Soldier 2</speaker><boxstart/>Mommy... My mommy... </sp>
+<sp> <speaker name="Soldier 3">Soldier 3</speaker><boxstart/>Booze, booze! Ain't nothing like booze during working hours. </sp>
+<stage>Inside Junon Inn...</stage>
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Welcome to the 'Inn'd of the line' in Junon. Wait, I shouldn't be sayin' stuff like that.<boxstart/>Wanna spend the night?<boxstart/>- 30 gil<boxstart/>- Forget it </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>30 gil </sp>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Enjoy your stay. </sp>
+  <stage>Cloud and the others rest.</stage>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Good morning! You still seem a little sleepy.<boxstart/>Looking forward to seeing you again. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Forget it </sp>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Come again. </sp>
+
+<stage>In another barracks...</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>These barracks are for soldiers. This is no place for civilians. </sp>
+<stage>In the streets just outside the docks...</stage>
+<sp> <speaker name="Sailor">Sailor</speaker><boxstart/>How 'bout a ship taxi? Only in Junon!<boxstart/>Free to Air Force personnel! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Sure, call 'em<boxstart/>- Nope </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Sure, call 'em </sp>
+  <sp> <speaker name="Sailor">Sailor</speaker><boxstart/>Roger!! Hey! Taxi!! </sp>
+  <stage>A helicopter comes.</stage>
+  <sp> <speaker name="Pilot">Pilot</speaker><boxstart/>Where to? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The next town<boxstart/>- Outside Junon </sp>
+  
+	<sp> <speaker name="Cloud"/><boxstart/>The next town </sp>
+	  <sp> <speaker name="Pilot">Pilot</speaker><boxstart/>Right! The next town it is!! </sp>
+	  He flies Cloud to the streets outside the airfield.
+	  Thanks!!
+  
+  
+	<sp> <speaker name="Cloud"/><boxstart/>Outside Junon </sp>
+	  <sp> <speaker name="Pilot">Pilot</speaker><boxstart/>Then outside Junon it is! Take care!!! </sp>
+  
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Nope </sp>
+  <sp> <speaker name="Sailor">Sailor</speaker><boxstart/>Just holler whenever you want a ride!<boxstart/>If you get sick easily, maybe you'd better not go. </sp>
+
+<sp> <speaker name="Soldier outside Cargo Ship">Soldier outside Cargo Ship</speaker><boxstart/>Lately it seems like the economy's been better. Must be the '<referent name="Rufus">Rufus</referent>' effect.<boxstart/>Cargo ships are always coming and going from Costa del Sol.<boxstart/>Now I'll overlook the fact that you're a stowaway, but you better at least help with the cargo. </sp>
+
+<stage>At Costa del Sol...</stage>
+<sp> <speaker name="Man Near Sea Plane">Man Near Sea Plane</speaker><boxstart/>Hey, who're you? You look like you've been around the world twice.<boxstart/>I don't know what your story is, but hang in there. </sp>
+<sp> <speaker name="Woman Lounging on Sea Plane">Woman Lounging on Sea Plane</speaker><boxstart/>Today's a great day for a nap in the sun. It always puts me in a good mood! </sp>
+<sp> <speaker name="Sailor">Sailor</speaker><boxstart/>Thinking of being stowaways?<boxstart/>It's 100 gil to Junon. Give it to me, and I'll put in a good word with the captain.<boxstart/>What'll we do? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Pay up<boxstart/>- Don't do it </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Pay up </sp>
+  <sp> <speaker name="Sailor">Sailor</speaker><boxstart/>Okay. Come on. This way.<boxstart/>It's not the most pleasant ride but make the best of it. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Don't do it </sp>
+  <sp> <speaker name="Sailor">Sailor</speaker><boxstart/>Thank you. Come back any time you want to stowaway on our ship. </sp>
+
+<sp> <speaker name="Sailor Running Around">Sailor Running Around</speaker><boxstart/>Ever since <referent name="Rufus">Rufus</referent> complimented him, he ran around for a while, And we haven't heard a peep from him since... </sp>
+<stage>Along the streets...</stage>
+<sp> <speaker name="Women Walking Around">Women Walking Around</speaker><boxstart/>Why's that!?<boxstart/>Not yet!!<boxstart/>Eaghhh!<boxstart/>It's your fault!<boxstart/>What's wrong with you!?<boxstart/>You wanna go!?<boxstart/>Whew!!!  </sp>
+<sp> <speaker name="Little Girl">Little Girl</speaker><boxstart/>It hurts when you kick me with your bare feet! </sp>
+<stage>At Johnny's house, after getting the buggy...</stage>
+<sp> <speaker name="Johnny">Johnny</speaker><boxstart/>Heh, heh, heh!...... My woman and me are getting along pretty good.<boxstart/>But I'm such a pitiful waste...... </sp>
+<stage>Later...</stage>
+<sp> <speaker name="Johnny">Johnny</speaker><boxstart/>...sigh...... I'm not good enough for her. What I should do? </sp>
+<stage>At the beach...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Always the same story... Women never pay any attention to me... </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>If this is your idea of flirting... forget it. I do fine as it is. </sp>
+<sp> <speaker name="Woman 2">Woman 2</speaker><boxstart/>The sea, the wind and the sun. Don't you just love the outdoors? It always puts me back on track. </sp>
+<sp> <speaker name="Woman 3">Woman 3</speaker><boxstart/>Hey, good timing. Would you mind putting lotion on me? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- With pleasure<boxstart/>- Sorry </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>With pleasure </sp>
+  <stage>Cloud laughs and puts lotion on her.</stage>
+  <sp> <speaker name="Woman 3">Woman 3</speaker><boxstart/>Uhhhnn...<boxstart/>Than--kyu! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Sorry </sp>
+  <sp> <speaker name="Woman 3">Woman 3</speaker><boxstart/>Hey, loosen up a bit. </sp>
+
+
+<stage>Cloud enters the Weapon seller's house.</stage>
+<stage>If he comes before obtaining the Tiny Bronco, the house is empty...</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...No one's here. We'll come back later. </sp>
+<stage>After obtaining the Tiny Bronco...</stage>
+<sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Huh? Oh another customer. You sure picked an out of the way place but...<boxstart/>But if it's the "Keystone" you're looking for, you're too late. Don't have it. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Keystone? </sp>
+<sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>What? You didn't come here for that?<boxstart/>The "Keystone" is the key that unlocks the gate to a very old temple somewhere.<boxstart/>You're not going to believe your ears,<boxstart/>But I heard it was the Temple of the Ancients!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The Temple of the Ancients... </sp>
+<sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Kya, hah hah hah...<boxstart/>Don't take it seriously. It's just a legend!<boxstart/>Huh? What? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Where is this "Keystone"?<boxstart/>- Where is the Temple?<boxstart/>- Let's change the subject<boxstart/>- Never mind </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Where is this "Keystone"? </sp>
+  <sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>I sold it already. Yeah well, to tell the truth, I didn't really want to sell it but...<boxstart/>That guy had a way about him that made you feel like it may not be a good idea NOT to sell it to him... </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Who did you sell it to? </sp>
+  <sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>The manager of the Gold Saucer... think his name was "Dio". Said he was going to put it in his museum, then he took off out of here. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Where is the Temple? </sp>
+  <sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Come on... it's only a legend. But if it were true, that sure would be something, huh?<boxstart/>Now that you mention it, I have heard of something called Ultimate Destruction Magic<boxstart/>was supposed to be hidden somewhere in the Temple of the Ancients. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Ultimate Destruction Magic...? </sp>
+  <sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Come on! I told you not to take it seriously! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Let's change the subject </sp>
+  <sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>All the weapons you see here I made myself. But lately I haven't been able to get materials...<boxstart/>Hey you wouldn't happen to have any Mythril on you, would you? I'll trade you something good if you could spare some. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Give him some<boxstart/>- Forget it </sp>
+  <sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Hey thanks! All right you can help yourself to either a big or small box. </sp>
+  <stage>When checking the wooden chest downstairs:</stage>
+  Received "Gold Armlet"!
+  <stage>When checking the wall safe upstairs:</stage>
+  Received "Great Gospel"!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Never mind </sp>
+  <stage>Nothing happens.</stage>
+
+<stage>If Cloud tries to open something without giving him Mythril...</stage>
+<sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Hey, don't just come bargin' in here! </sp>
+<stage>If Cloud walks to the bed...</stage>
+<sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>What? You want to rest? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yep<boxstart/>- Nope </sp>
+<sp> <speaker name="Weapon Seller">Weapon Seller</speaker><boxstart/>Oh all right. You can use that bed. </sp>
+
+<stage>At Cosmo Canyon...</stage>
+<sp> <speaker name="Kid near the Cosmo Candle">Kid near the Cosmo Candle</speaker><boxstart/><referent name="Nanaki">Nanaki</referent>, are you leaving again? We want you to stay here forever... </sp>
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Welcome to 'Shildra Inn' As long as there are guests, our lights will always be on.<boxstart/>It is 100 Gil a night. Would you like to stay? </sp>
+<stage> If Nanaki is not in the party...</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. You people.<boxstart/>Where is <referent name="Nanaki">Nanaki</referent>? I hope he's not bothering you. </sp>
+<stage>If Nanaki is in the party...</stage>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hoooo. I'm glad you're back, Nanaki.<boxstart/>I hate to ask you but, please look after <referent name="Nanaki">Nanaki</referent> from now on. </sp>
+
+<stage>On returning to Rocket Town...</stage>
+<stage>At the Shanghai Inn...</stage>
+<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Would you like something to drink? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Let me hear your story </sp>
+<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Y'know, I heard <referent name="Rufus">Rufus</referent> rushed back to headquarters in Midgar... </sp>
+<sp> <speaker name="Man at Table">Man at Table</speaker><boxstart/>How long's that guy gonna be in the bathroom? I need to go too... </sp>
+<stage>Back outside...</stage>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Oh, it's you? I heard you and the Captain really made a BANG!<boxstart/>I also heard that <referent name="Rufus">Rufus</referent> was so pissed off he went on a rampage and that no one's been able to get near him! </sp>
+<sp> <speaker name="Mechanic">Mechanic</speaker><boxstart/>I heard Tiny Bronco broke...<boxstart/>That sucks. I was secretly eyeing that thing. Broke, huh? What a drag. </sp>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Because those Shinra creeps locked us up in our houses, we couldn't even watch the rocket lift off.<boxstart/>I never thought that my only hobby would be destroyed by that arrogant young <referent name="Rufus">Rufus</referent>...! </sp>
+<stage>Inside the house on the right...</stage>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Hmm, let's see... do I know any good jokes...? </sp>
+<stage>At Cid's house, Shera is working on the car inside.</stage>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>I'll take care of everything at home. But please take care of the Captain. </sp>
+
+<stage>At Bone Village...</stage>
+<sp> <speaker name="Excavator">Excavator</speaker><boxstart/>Welcome to Bone Village, a town for nature lovers.<boxstart/>What do you want? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Have you seen <referent name="Sephiroth">Sephiroth</referent>?<boxstart/>- What are you doing? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Have you seen <referent name="Sephiroth">Sephiroth</referent>? </sp>
+  <sp> <speaker name="Excavator">Excavator</speaker><boxstart/>Oh, the man in a Black Cape. He was looking for the Temple of the Ancients. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The Temple of the Ancients? </sp>
+  <sp> <speaker name="Excavator">Excavator</speaker><boxstart/>It's way down south. It's right on the other side between this town and the inland sea.<boxstart/>It's the pyramid that rises within the forest. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- How do you get in? </sp>
+  <sp> <speaker name="Excavator">Excavator</speaker><boxstart/>You'll need a Keystone. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- What's a Keystone? </sp>
+  <sp> <speaker name="Excavator">Excavator</speaker><boxstart/>Just like it sounds. A rock that's a key. I heard that some rich guy has it. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>What are you doing? </sp>
+  <sp> <speaker name="Excavator">Excavator</speaker><boxstart/>We're excavating. It's like the land's telling a history of the planet. </sp>
+
+
+
+</scene>

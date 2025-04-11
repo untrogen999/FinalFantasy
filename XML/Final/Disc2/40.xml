@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="LucreciasCave">
+
+
+
+<sp>Lucrecia's Cave - Vincent's Past </sp>
+
+<stage>While roaming the ocean in the submarine, Cloud and the others come across Lucrecia's cave.</stage>
+<stage>If Vincent is not in the party...</stage>
+<sp><speaker name="Lucrecia">Lucrecia</speaker><boxstart/><referent name="Vincent">Vincent</referent>... </sp>
+<stage>The altar is vacant, and Cloud turns to go.</stage>
+<sp><speaker name="Lucrecia">Lucrecia</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>... </sp>
+<stage>Returning with Vincent in the party, Lucrecia will randomly say one name or the other...</stage>
+<sp><speaker name="Lucrecia">Lucrecia</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>... | <referent name="Vincent">Vincent</referent>... </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>That voice? It can't be... </sp>
+<stage>He steps forward.</stage>
+<sp><boxstart/>Lucrecia...? </sp>
+<stage>Lucrecia is standing at the altar, and she turns around upon hearing his voice.</stage>
+<sp><speaker name="Lucrecia">Lucrecia</speaker><boxstart/><referent name="Vincent">Vincent</referent>......? </sp>
+<sp><speaker name="Vincent">Vincent</speaker> (running towards her)<boxstart/>Lucrecia!! </sp>
+<sp><speaker name="Lucrecia">Lucrecia</speaker><boxstart/>Stay back! </sp>
+<stage>There follows a sequence of flashbacks. Scene one: Vincent, as a Turk, and three scientists (Gast, Hojo, and Lucrecia) walk into the Shinra mansion. <referent name="Vincent">Vincent</referent> pauses near the gate to look up at the sky. </stage>
+<sp>Scene two: Vincent and Lucrecia are talking to each other as they walk through Nibelheim.<boxstart/><boxstart/> </sp>
+<sp>Scene three: At Nibelheim's gate, Vincent is holding both of Lucrecia's hands in his. She breaks away and runs off.<boxstart/><boxstart/> </sp>
+<sp>Scene four: Lucrecia is in Hojo's arms, and Vincent is watching. He turns away, sighs, then runs off.</sp>
+<sp>If she is happy then... I don't mind. </sp>
+<stage>Scene five: Lucrecia is sitting in a chair, stroking her belly.</stage>
+<stage>Scene six: Hojo, Lucrecia, and Vincent are in the basement. Lucrecia looks ashamed, while the other two are angry.</stage>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>I'm against it!! Why experiments on humans!? </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>She and I are both scientists!! </sp>
+<sp>After that, a child was born to Lucrecia...<boxstart/>That child's name is...<boxstart/><referent name="Sephiroth">Sephiroth</referent>...... </sp>
+<stage>Scene seven: Lucrecia collapses on the floor in the inn.</stage>
+<sp>Scene eight: Vincent runs down to the basement, making angry gestures at Hojo. Hojo runs his hands through his hair, then shoots Vincent, who crumples to the floor.<boxstart/><boxstart/> </sp>
+<sp>Scene nine: Hojo stands over Vincent at the basement's operating table.<boxstart/><boxstart/> </sp>
+<sp>Scene ten: Vincent gets up from Hojo's operating table and looks at his hands.</sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Urrrrrrrrrrgh! </sp>
+<sp>This body is... the punishment that's been given to me.<boxstart/>I was unable...to stop Professor Gast and Hojo...<boxstart/>And Lucrecia...I was unable to stop them.<boxstart/>All that I was able to do was watch... That is my punishment... </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Lucrecia... You're alive... </sp>
+<sp><speaker name="Lucrecia">Lucrecia</speaker><boxstart/>I wanted to disappear... I couldn't be with anyone... I wanted to die...<boxstart/>But the Jenova inside me wouldn't let me die...<boxstart/>Lately, I dream a lot of <referent name="Sephiroth">Sephiroth</referent>... My dear, dear child.<boxstart/>Ever since he was born I never got to hold him, even once...<boxstart/>Not even once. You can't call me his mother... That... is my sin... </sp>
+<stage>Vincent starts forward.</stage>
+<sp><speaker name="Lucrecia">Lucrecia</speaker><boxstart/>Back!! Stay back!<boxstart/><referent name="Vincent">Vincent</referent>... Won't you please tell me? </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>......What? </sp>
+<sp><speaker name="Lucrecia">Lucrecia</speaker><boxstart/>If <referent name="Sephiroth">Sephiroth</referent> is still alive?<boxstart/>I heard that he died five years ago. But I see him in my dreams so often...<boxstart/>And I know that physically, like myself, he can't die so easily.<boxstart/>Please, <referent name="Vincent">Vincent</referent> tell me...... </sp>
+<stage>Cloud starts forward, but Vincent holds out an arm to silence him.</stage>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Lucrecia... <referent name="Sephiroth">Sephiroth</referent> is dead... </sp>
+<stage>They leave the cave.</stage>
+
+</scene>

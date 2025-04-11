@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="Nibelheim">
+
+
+
+<sp> Nibelheim - Reconstructed </sp>
+
+<sp> Arrival at Nibelheim </sp>
+<sp> Exploring Nibelheim </sp>
+<sp> Vincent Valentine </sp>
+<sp> The Basement Library </sp>
+
+<stage>Cloud and the others arrive at Nibelheim, only to find the town almost exactly as it looked before the incident five years ago.</stage>
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Tifa">Tifa</referent> is in the party...</sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What---!! </sp>
+	She turns to Cloud.
+	This was all supposed to be burnt down, right?
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...I thought so. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Then why...? My house is still there too... </sp>
+	
+		<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell's goin' on!? This a dream or somethin'? </sp>
+		<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...somthing's strange? </sp>
+		<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I wonder what's going on... </sp>
+		<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What the...!? </sp>
+		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, maybe you were just dreaming...? </sp>
+	
+
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Tifa">Tifa</referent> is not in the party...</sp>
+	
+		<sp> <speaker name="Barret">Barret</speaker><boxstart/>You said the whole town burnt down, right? </sp>
+		<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>This is Nibelheim, right? But the town's all here. </sp>
+		<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>This is Nibelheim? I heard it burnt down. </sp>
+		<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I heard from someone that this town was gone! </sp>
+		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>The whole town was destroyed by <referent name="Sephiroth">Sephiroth</referent>. At least that's what I heard... </sp>
+	
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Yeah. </sp>
+	
+		<sp> <speaker name="Barret">Barret</speaker><boxstart/>You trin' to fool us!? </sp>
+		<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey, what's going on? </sp>
+		<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cloud">Cloud</referent>... Did you lie to us? </sp>
+		<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What happened? </sp>
+		<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, did you make up your story just to get our support? </sp>
+
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'm not lying!<boxstart/>I remember... the intense heat of the flames... </sp>
+<stage>At the inn...</stage>
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Hi, welcome. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Give me a room<boxstart/>- What's your story? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Give me a room </sp>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>It'll be 100 gil a night. Is that all right with you? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yes<boxstart/>- Never mind. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>What's your story? </sp>
+  This town was supposed to have been burnt down five years ago.<boxstart/>What the hell is going on?
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Sir, don't say such awful things.<boxstart/>I was born and raised in this town. What you say never happened. </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're lying... </sp>
+  <sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>EXUSE ME...... That's so rude...<boxstart/>If you're going to talk like that to me, I'm going to have to ask you to leave.<boxstart/>Oh, I'm so sorry. I've got lots to do... </sp>
+
+<stage>In the kitchen is a hunched figure in a black cape.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Man in a Black Cape?<boxstart/>He has a tattoo number '6'. Hmm? He has something... </sp>
+<sp> <speaker name="unspecified"/><boxstart/>Received "Luck Source!" </sp>
+<sp> <speaker name="Clone #6">Clone #6</speaker><boxstart/>Urrr...... rrrrr...... rrrgh... must... go... to... Re... uni... on... </sp>
+<stage>In the neighboring store...</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Nice town, huh?<boxstart/>We've been in business here for a long time... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...You're lying. </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Do you have anything to do with this town? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- How about bein' born and raised here?<boxstart/>- Nope, guess not </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>How about bein' born and raised here? </sp>
+  I was here until I was 14 and I don't remember you.
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>It's not nice to lie!! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Nope, guess not </sp>
+  ...nothing.
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>Oh yeah...? </sp>
+
+<stage>By the furnace is another clone.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>He has a tattoo of the number '12'. Mmm? He has something. </sp>
+<sp> <speaker name="unspecified"/><boxstart/>Received "Elixir"! </sp>
+<sp> <speaker name="Clone #12">Clone #12</speaker><boxstart/>Can...... you...... hear? The... voice... of... Se... phi... ro... th...... </sp>
+<stage>At Cloud's house...</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>What is it? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Nothing<boxstart/>- I want to hear your story </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Nothing </sp>
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>Oh, really. Then, it'll help me too. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>I want to hear your story </sp>
+  I lived in this house until I was 14...<boxstart/>No, but this town was burned down.
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>Are you sick... saying those things?<boxstart/>Get out of here! </sp>
+
+<stage>At Tifa's house...</stage>
+<sp> <speaker name="Clone #5">Clone #5</speaker><boxstart/>...must...... get...... it... and bring... to... Se... phi... roth...<boxstart/>Then... become... one... with... Se... phi... roth... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This guy's number '5'... </sp>
+<stage>In the kitchen...</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>He has a tattoo of the number '11'... </sp>
+<sp> <speaker name="Clone #11">Clone #11</speaker><boxstart/>...must...... go......... Reun... ion... </sp>
+<stage>In Tifa's parents' bedroom...</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Tattoo number '4' </sp>
+<sp> <speaker name="unspecified"/><boxstart/>Received "Platinum Fist!" </sp>
+<sp> <speaker name="Clone #4">Clone #4</speaker><boxstart/>...Where... are... you...? Great... Se... phi... roth... </sp>
+<stage>In Tifa's room... Cloud walks to the piano.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>But... I definitely remember playing the piano then. But why didn't it get burnt down?<boxstart/>Play the piano......? </sp>
+<stage>On Tifa's desk is a report.</stage>
+<sp> <speaker name="unspecified"/><boxstart/>"Periodic Report to Professor Hojo"<boxstart/><boxstart/>1 Clone Activity Report<boxstart/><boxstart/>Unfortunately, no 'CLONES' have left this town this quarter.<boxstart/>As previously reported, the 'CLONES' seem to be sensing something.<boxstart/>But all they say is, 'reunion' or '<referent name="Sephiroth">Sephiroth</referent>' and show no other signs of activity.<boxstart/><boxstart/>2 Confidentiality Report<boxstart/><boxstart/>A total of eight people have visited this town this quarter.<boxstart/>Fortunately, none knew about the incident five years ago.<boxstart/>Therefore, no one knows the town was restored exactly as it was five years ago.<boxstart/>Our staff, disguised as townspeople have improved their acting skills, and we do not report any problems at this time.<boxstart/>That is all. </sp>
+<stage>In the neighboring house's attic...</stage>
+<sp> <speaker name="Small Clone">Small Clone</speaker><boxstart/>...Re...... union. </sp>
+<sp> <speaker name="Smaller Clone">Smaller Clone</speaker><boxstart/>............ion </sp>
+<stage>Cloud looks back and forth between them and sighs.</stage>
+<sp> <speaker name="Smaller Clone">Smaller Clone</speaker><boxstart/>.................. </sp>
+<stage>Outside the Shinra mansion are another two clones.</stage>
+<sp> <speaker name="Clone">Clone</speaker><boxstart/>Wooooo-----ooow...... He's... calling...... <referent name="Sephiroth">Sephiroth</referent>...... is...... calling...... </sp>
+<sp> <speaker name="Clone 2">Clone 2</speaker><boxstart/>The... Great... Se... phi...... roth...... is... near......<boxstart/>In... side...... inside... the Mansion...... Urrrrrrrgh...... the great...... Sephi...... roth </sp>
+<stage>Inside the mansion...</stage>
+<sp> <speaker name="Letter">Letter</speaker><boxstart/>I must get rid of all those that stand in the way of my research. Even that one from the Turks.<boxstart/>I scientifically altered him, and put him to sleep in the basement. If you want to find him, then search the area.<boxstart/>But... this is merely a game I thought of. It is not necessary for you to participate if you don't want to. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>There seems to be another letter.<boxstart/>- Read it<boxstart/>- Ignore it </sp>
+<sp> <speaker name="Letter">Letter</speaker><boxstart/>Move the dial on the safe carefully, but quickly. You have 20 seconds. You can not go past the numbers while turning. The 4 hints for the numbers are... </sp>
+
+  dial (1)<boxstart/>The lid of the box with the most oxygen.
+  dial (2)<boxstart/>Behind the Ivory's short of tea and ray.
+  dial (3)<boxstart/>The creek in the floor near the chair on the second floor... then to the left five steps, up nine steps, left two steps, and up six steps.
+  <boxstart/>The fourth row has been written in invisible ink... Dial (4) is (Right 97)
+
+<stage>At the safe on the second floor...</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I have a bad feeling about this...<boxstart/>- Still open the safe<boxstart/>- Don't open </sp>
+<stage>Cloud opens the safe and fights the Lost Number.</stage>
+<sp> <speaker name="unspecified"/><boxstart/>Received Key Item "Key to the Basement"! </sp>
+<stage>The party heads down to the basement. Using the key, they enter the room with the coffins and approach the closed one in the center.</stage>
+<sp> <speaker name="* Note:">* Note:</speaker> Because it's possible to get Vincent after Cid joins the party, I've included his responses here as well.</sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>...To wake me from the nightmare </sp>
+<stage>He throws off the lid.</stage>
+<sp> <boxstart/>Who is it!? </sp>
+<stage>He sits up.</stage>
+<sp> <boxstart/>...Never seen you before. You must leave. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You were having a nightmare. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>I woke ya up. Ya outta be thankin' me. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You'll dream about bad things if you sleep in a place like THIS. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>How bad was your dream? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>...You don't look good. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Man, you really WERE having a bad dream! Even I feel bad! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Aren't you glad you woke up? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>The air's pretty heavy here. How can you sleep in a place like this? </sp>
+
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Hmph... a nightmare...? My long sleep has given me time to atone. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What are you saying? </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>I have nothing to say to strangers. Get out.<boxstart/>This mansion is the beginning of your nightmare. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...you can say that again. </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Hmm? What do you know? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Don't say a thing<boxstart/>- Talk about <referent name="Sephiroth">Sephiroth</referent> </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Don't say a thing </sp>
+  <sp> <speaker name="Vincent">Vincent</speaker><boxstart/>I see. Then, I'll return to my nightmare...<boxstart/>...What? More? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- No, good night<boxstart/>- Tell him about <referent name="Sephiroth">Sephiroth</referent> </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Talk about <referent name="Sephiroth">Sephiroth</referent> </sp>
+  <stage>Cloud talks about Sephiroth.</stage>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Like you said, this mansion is the beginning of a nightmare.<boxstart/>No, it's not a dream, it's for real.<boxstart/><referent name="Sephiroth">Sephiroth</referent> has lost his mind. He found the secrets hidden in this mansion... </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>!? </sp>
+<sp> <speaker name="Cloud + Vincent">Cloud + Vincent</speaker><boxstart/>You know <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<stage>Vincent leaps from the coffin and lands on its edge.</stage>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>You start first. </sp>
+<stage>Cloud gestures as he tells his story.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...That's how it was. </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>So <referent name="Sephiroth">Sephiroth</referent> knows he was created five years ago? And about the Jenova Project?<boxstart/>...He was missing, but has just recently reappeared.<boxstart/>He has taken many lives and is seeking the Promised Land. </sp>
+<stage>* <sp> <speaker name="Note">Note</speaker>: Vincent's comment here is likely a translation error and should have been something like "So five years ago, Sephiroth learned that he had been created?"</sp></stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Now it's your turn. </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Sorry... I cannot speak. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey! You lyin' white-faced! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That's dirty! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hmm... I'm disappointed. </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>What... you're serious? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Oh, that's okay. It was probably depressing anyway. </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hey, that's not right--- </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Good! I'm not in the mood to hear long stories. Let's get the hell outta here! </sp>
+
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Hearing your stories, has added upon me yet another sin.<boxstart/>More nightmares shall come to me now, more than I previously had. </sp>
+<stage>He gets back into the coffin.</stage>
+<sp> <boxstart/>Now... please leave.<boxstart/>...You're still here. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Good night<boxstart/>- Who are you? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Good night </sp>
+  <stage>Nothing happens.</stage>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Who are you? </sp>
+  At least tell us your name.
+
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>I was with... the Shinra Manufacturing Department in Administrative Research, otherwise known as--the Turks...<boxstart/><referent name="Vincent">Vincent</referent>. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The Turks!? </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Formerly of the Turks.<boxstart/>I have no affiliation with Shinra now.<boxstart/>...And you? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Cloud">Cloud</referent>, formerly of SOLDIER. </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>You were also with Shinra...? Then do you know Lucrecia? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Who? </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>......Lucrecia. </sp>
+<stage>Cloud shakes his head.</stage>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>The woman who gave birth to <referent name="Sephiroth">Sephiroth</referent>. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...gave birth...?<boxstart/>Wasn't Jenova <referent name="Sephiroth">Sephiroth</referent>'s mother? </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>That isn't completely wrong, but just a theory.<boxstart/>He was born from a beautiful lady.<boxstart/>That lady was Lucrecia.<boxstart/>She was an assistant to Professor Gast of the Jenova Project. Beautiful... Lucrecia. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...A human experiment? </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>There was no way to cancel the experiment.<boxstart/>I couldn't stop her.<boxstart/>That was my sin.<boxstart/>I let the one I loved, the one I respected most, face the worst. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>That why you started sleepin' in a box? Gimme a break! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>So your punishment was to sleep? That's... kinda weird. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>So the punishment was sleep? That's weird. </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>So you slept as punishment? Isn't that strange? That thinking... </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>OK. Boring story no. 1. </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You think that's punishing yourself? You're just sleeping. </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>You shouldn't sleep just because of that. Sleep? </sp>
+
+<stage>Vincent lies back down.</stage>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Let me sleep... </sp>
+<stage>Cloud and the others start back down the hallway.</stage>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Wait!<boxstart/>If I go with you will I meet Hojo? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Dunno. But we're after him and <referent name="Sephiroth">Sephiroth</referent>. So, I guess sooner or later... </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Lucrecia...<boxstart/>All right. I've decided to go with you. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>W, what? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Sure is a quick change of heart. Huh? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What? You're coming with us? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>What? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Huh? Oh great just what I needed... </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Hey, hold on sleepy. You're pretty damn pushy! </sp>
+
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Being a former Turks, I may be of help to you... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>All right, then. </sp>
+<stage>Moving onward to the library, they find Sephiroth standing in the hallway leading to the study.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>! </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Being here brings back memories.<boxstart/>Are you going to participate in the Reunion? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I don't even know what a Reunion is! </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Jenova will be at the Reunion. Jenova will join the Reunion becoming a calamity from the skies. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Jenova, a calamity from the skies? You mean she wasn't an Ancient!? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...I see. I don't think you have the right to participate.<boxstart/>I will go North past Mt. Nibel. If you wish to find out... then follow... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Reunion? Calamity from the skies? </sp>
+<stage>Sephiroth throws a materia orb at Cloud and then flies past him out of the library.</stage>
+<sp> <speaker name="Glass Tank">Glass Tank</speaker><boxstart/>C project specimen (B) codeC<boxstart/>A scratch left by a fingernail inside the beaker... 'Let's get out of here...'. </sp>
+<sp> <speaker name="Second Tank">Second Tank</speaker><boxstart/>C project specimen (A) codeZ<boxstart/>A scratch left by a fingernail inside the beaker... 'Feeding Time'... that's our chance...! </sp>
+<sp> <speaker name="Escapee Report no. 1">Escapee Report no. 1</speaker><boxstart/>X Month X Day<boxstart/>The two escapees were located near Midgar. </sp>
+<sp> <speaker name="Escapee Report no. 2">Escapee Report no. 2</speaker><boxstart/>Description of the time of capture.<boxstart/>A Former member of SOLDIER/Number ( )<boxstart/>No effect could be detected from either Mako Radiation Therapy or Jenova on him.<boxstart/>B Regular/Number ( )<boxstart/>Reaction to Jenova detected. </sp>
+<sp> <speaker name="Escapee Report no. 3">Escapee Report no. 3</speaker><boxstart/>Concerning their disposal.<boxstart/>A Shot for resisting.<boxstart/>B Escaped during A's resistance. </sp>
+<sp> <speaker name="Escapee Report no. 4">Escapee Report no. 4</speaker><boxstart/>Other<boxstart/>B's whereabouts is currently unknown. But, we submit there is no need to pursue him, due to his diminishing consciousness. Awaiting further instructions. </sp>
+<stage>Back outside the mansion...</stage>
+<sp> <speaker name="Clone 2">Clone 2</speaker><boxstart/>Great...... Sephi...... roth......... left us......<boxstart/>Over... mountains...... gone...... </sp>
+<stage>Cloud and the others leave Nibelheim to cross the mountains after Sephiroth.</stage>
+
+</scene>

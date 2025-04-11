@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="IcicleInn">
+
+
+
+<h1>Icicle Inn - Aerith's Birthplace</h1>
+
+<h4><a href="#explore">Exploring Icicle Inn</a></h4>
+<h4><a href="#gast">Gast's House</a></h4>
+<h4><a href="#elena">A Run-in with Elena</a></h4>
+<hr></hr>
+<p class="italic"><a name="explore"></a>After crossing the snow fields, Cloud and the others reach Icicle Inn.</p>
+<p class="indent"><b>Girls Building a Snowman</b><br/>It's almost finished!<br/>Next time, I'm gonna make an even bigger one.</p>
+<p class="italic">In the Weapons Shop...</p>
+<p class="indent"><b>Little Girl</b><br/>Grandpa, wake up! We have a customer!!</p>
+<p class="indent"><b>Old Man</b><br/>...smack... mff... Oh... welcome, glad you came.</p>
+<p class="italic">Inside the large house...</p>
+<p class="indent"><b>Old Woman in Rocking Chair</b><br/>My husband left 20 years ago and still hasn't come back.<br/>He should at least be at the foot of the Gaea Cliffs. It's marked with a check on the map...</p>
+<p class="indent"><b>Young Woman</b><br/>Grandma, don't sleep so close to the fire!</p>
+<p class="indent"><b>Old Woman</b><br/>I just get s-o comfortable.</p>
+<p class="indent"><b>Young Woman</b><br/>The master is an experienced climber, you know.<br/>I've heard that he knows every corner of that Great Glacier!</p>
+<p class="indent"><b>Man in Yard</b><br/>It's nearly impossible to reach the Northern limits without a map.<br/>If you're thinkin' 'bout going to the Northern limits, you'd better take that map on the wall.</p>
+<p class="italic-inline">If Cloud has already taken the map...</p>
+<p class="block-inline">What nerve! You already tore down the map.</p>
+<p class="italic">Cloud takes the map on the wall and leaves the house. Inside Icicle Inn...</p>
+<p class="indent"><b>Black Surfer</b><br/>You heard about the gnarly hill in this town? They tell me it's off limits!</p>
+<p class="indent"><b>White Surfer</b><br/>What luck! We came all this way... crap!</p>
+<p class="indent"><b>Woman</b><br/>We came from Costa del Sol to snowboard, but we're just about to leave!</p>
+<p class="indent"><b>Man by Furnace</b><br/>Phew, what is it? Don't get too close, or it'll burn ya.</p>
+<p class="indent"><b>Innkeeper</b><br/>It's colder than usual today...<br/>It's 200 gil, you wanna spend the night?</p>
+<p class="italic">Inside the inn's bar...</p>
+<p class="indent"><b>Woman</b><br/>Welcome! You look like a STRONG one...<br/>If you want, I could lend you an ear...?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah<br/>- Not interested</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah</span></p>
+  <p class="italic">The woman gets up and sits elsewhere.</p>
+  <p class="indent-nopad"><b>Woman</b><br/>I got bored listening to his stories.</p>
+  <p class="indent-nopad"><b>Man in Overalls</b><br/>Am I boring you?</p>
+
+<div class="block"/>
+  <p><span class="highlight">Not interested</span></p>
+  <p class="indent-nopad"><b>Woman</b><br/>What's with you!? You make me sick!</p>
+  <p class="indent-nopad"><b>Man in Overalls</b><br/>If you go further North, I heard there's a Huge Crater.<br/>Something huge must've fallen from the sky a long time ago!</p>
+
+<p class="indent"><b>Barkeeper</b><br/>I've heard there's a snow woman, at the Great Glacier, that hates hot springs...<br/>But I think it's just a myth to scare off visitors.</p>
+<p class="indent"><b>Redhead</b><br/>I heard some guy went to the Great Glacier in the North.<br/>What an idiot. Is he thinkin' 'bout going to that hot spring?</p>
+<p class="indent"><b>Blond Man</b><br/>He's probably gonna get lost in the glacier and freeze to death.<br/>No matter how well equipped he is, out there in that cold on the glacier, I give him two days at the most.</p>
+<p class="indent"><b>Redhead 2</b><br/>You thinkin' of going North?</p>
+<p class="indent"><b>Cloud</b><br/>- That's my plan<br/>- No</p>
+<div class="block"/>
+  <p><span class="highlight">That's my plan</span></p>
+  <p class="indent-nopad"><b>Redhead 2</b><br/>Well... if you're going past this town you'll need a map.<br/>Maybe there's one left at Mr. Holzoff's house. He used to be a mountain climber.</p>
+
+<div class="block"/>
+  <p><span class="highlight">No</span></p>
+  <p class="indent-nopad"><b>Redhead 2</b><br/>Yeah, we really don't have anything here, but make yourself at home.</p>
+
+<p class="indent"><b>Man</b><br/>Do you know what a Cetra is?</p>
+<p class="indent"><b>Man 2</b><br/>What was the Cetra......? Oh yeah, it's the same as the Ancients, right?</p>
+<p class="indent"><b>Man</b><br/>Yeah, a Cetra lived in this town a long time ago.<br/>Her name was Ifalna, and she knew about a lot of things...</p>
+<p class="indent"><b>Man 2</b><br/>Whadaya mean?</p>
+<p class="indent"><b>Man</b><br/>I heard she was abducted by the Shinra and was taken somewhere.</p>
+<p class="indent"><b>Man 2</b><br/>Shinra and the Ancients... I smell somethin' fishy...</p>
+<p class="indent"><b>Man in Bathroom</b><br/>WHAT'RE YOU LOOKING AT?<br/>You're a real freakazoid, aren't you?</p>
+<p class="indent"><b>Woman in Bathroom</b> (later)<br/>Eyaaaaaaaaaah!!!</p>
+<p class="italic-inline">She punches Cloud.</p>
+<p class="italic"><a name="gast"></a>In exploring the village, Cloud finds a vacant house that once belonged to Professor Gast. There are several videos that Cloud can watch.</p><br/>
+<ul>
+  <li><p>[The Original Crisis]</p>
+  <div class="highlight-nopad"/>
+    <p class="italic">The camera turns on and Gast adjusts the angle to center on Ifalna.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Camera's ready!<br/>Then, Ifalna, please tell us about the Cetra.</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>2000 years ago, our ancestors, the Cetra, heard the cries of the Planet.<br/>The first ones to discover the Planet's wound were the Cetra at the Knowlespole.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Tell us Ifalna... Where is the land called 'Knowlespole'?</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>Knowlespole refers to this area. The Cetra then began a Planet-reading.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Ifalna, what exactly does Planet-reading entail?</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>...I can't explain it very well, but it's like having a conversation with the Planet...<br/>It said something fell from the sky making a large wound.</p>
+    <p class="italic-inline-nopad">She shakes her head.</p>
+    <p class="block-inline-nopad">Thousands of Cetra pulled together, trying to heal the Planet...<br/>But, due to the severity of the wound, it was only able to heal itself, over many years.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Do the Ancients, rather, the Cetra, have special powers to heal the Planet?</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>No, it's not that kind of power. The life force of all living things on this Planet becomes the energy.<br/>The Cetra tried desperately to cultivate the land so as not to diminish the needed energy...</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Hmm, even here so close to the North Cave, the snow never melts.<br/>Is that because the planet's energy is gathered here to heal its injury?</p>
+    <p class="italic">Ifalna lowers her head.</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>Yes, the energy that was needed to heal the Planet withered away the land... then the Planet...<br/>The Planet tried to persuade the Cetra to leave the Knowlespole, but...</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Ifalna... Let's take a break.</p>
+    <p class="italic">She turns to him and shakes her head.</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>I'm all right... When the Cetra... were preparing to part with the land they loved...<br/>That's when it appeared!<br/>It looked like... our... our dead mothers... and our dead brothers. Showing us spectres of their past.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Who is the person that appeared at the North Cave? I haven't any idea.</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>That's when the one who injured the Planet... or the 'crisis from the sky', as we call him, came.</p>
+    <p class="italic-inline-nopad">She buries her face in her hands.</p>
+    <p class="block-inline-nopad">He first approached as a friend, deceived them, and finally...... gave them the virus.<br/>The Cetra were attacked by the virus and went mad... transforming into monsters.</p>
+    <p class="italic-inline-nopad">She drops to her knees.</p>
+    <p class="block-inline-nopad">Then, just as he had at the Knowlespole.<br/>He approached other Cetra clans...... infecting them with... the virus...</p>
+    <p class="indent-nopad"><b>Gast</b><br/>You don't look well... Let's call it a day.</p>
+  <br/>
+  </li>
+  <li><p>[What is "Weapon?"]</p>
+  <div class="highlight-nopad"/>
+    <p class="indent-nopad"><b>Gast</b><br/>Ifalna, can you comment on the thing called 'Weapon'?</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>Yes, Professor.<br/>The one the Professor mistook for a Cetra... was named Jenova. That is the 'crisis from the sky'.<br/>The Planet knew it had to destroy the 'crisis from the sky'...<br/>You see, as long as Jenova exists, the Planet will never be able to fully heal itself.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Back then, Weapon was a weapon the Planet produced of it's own will?</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>Yes, but... There is no record of Weapon ever being used.<br/>A small number of the surviving Cetra defeated Jenova, and confined it.<br/>The Planet produced Weapon... But it was no longer necessary to use it.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>So, Weapon no longer exists on this Planet?</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>Weapon cannot vanish. ...it remains asleep somewhere on the Planet.<br/>Even though Jenova is confined, it could come back to life at some time...<br/>The Planet has not fully healed itself yet. It is still, watching Jenova.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Where is Weapon?</p>
+    <p class="italic">Ifalna shakes her head.</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>I don't know...... I can't hear the voice of the Planet well...<br/>Times... have changed. The Planet... is probably watching this situation closely.</p>
+    <p class="italic">She buries her face in her hands. Gast turns away and shakes his head.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>...Thank you, Ifalna, that will be all for today...</p>
+  <br/>
+  </li>
+  <li><p>[Confidential -- Daughter's Record: 10th Day after birth]</p>
+  <div class="highlight-nopad"/>
+    <p class="indent-nopad"><b>Ifalna</b><br/>What are you doing, Profes...... I mean, honey?</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Oh, I'm thinking of taping it on video. But, the video's not working right...</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>What are you going to tape? Is there still something I haven't mentioned?</p>
+    <p class="indent-nopad"><b>Gast</b><br/>No, that's not it. I'm going to record my beautiful daughter.<br/>And when she's sleeping, her face... looks like an angel.</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>First, we have to figure out her name. We can take the video later!</p>
+    <p class="indent-nopad"><b>Gast</b><br/>I've already decided! If it's a girl, then it'll be Aerith. That's that!</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>You are SO selfish! But Aerith is a good name!<br/>Hee hee... it's a good name, considering it came out of that forgetful head of yours!</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Right!? Oh, the video tape......</p>
+  <br/>
+  </li>
+  <li><p>[Confidential -- Daughter's Record: 20th Day after birth]</p>
+  <div class="highlight-nopad"/>
+    <p class="indent-nopad"><b>Ifalna</b><br/>Video again? You just got through taping!</p>
+    <p class="indent-nopad"><b>Gast</b><br/>.........Please don't say it that way.<br/>It's our lovely daughter, both yours... and mine!<br/>Don't you want to capture her childhood on videotape?</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>If you keep doting on her like that, she won't grow up to be strong...<br/>Aerith is different from the other children. I wonder what dangers await her...?</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Never say that! I will protect you and Aerith no matter what!!<br/>You and Aerith are my only treasures. I'll never let you go!!</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>I feel so much better now, darling.<br/>If I hadn't met you, I......</p>
+    <p class="italic">They start to embrace, but there is a knock on the door.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Who could that--I was just about to...<br/>Damn!!<br/>How dare they intrude on our 'private time' together!</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>I'll send them away.<br/>Yes, at once!!<br/>Who the devil?</p>
+    <p class="italic-inline-nopad">She goes to the door and opens it.</p>
+    <p class="block-inline-nopad">It, it's them!!</p>
+    <p class="italic">She runs back down the stairs and hides behind Gast. They both back up as two Shinra soldiers enter, followed by Hojo.</p>
+    <p class="indent-nopad"><b>Hojo</b><br/>Heh, heh, heh...... I've been searching for you, Ifalna... or should I say, Cetra!<br/>Long time no see, Professor Gast!</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Hojo... How did you know?</p>
+    <p class="indent-nopad"><b>Hojo</b><br/>Believe me, I had to turn over a stone or two to find you.<br/>Two years I waited... That's how much I wanted this new sample...... Ha, ha, ha.</p>
+    <p class="italic">Ifalna buries her face in her hands and Gast shakes his head.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>...New sample? You don't mean Aerith!?</p>
+    <p class="indent-nopad"><b>Hojo</b><br/>Hmm, Aerith? What a nice name...... Ha, ha, ha.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>That's it! I'm severing all ties with the Shinra.<br/>Hojo, please leave.</p>
+    <p class="italic">Ifalna moves to kneel at Hojo's feet.</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>Please, Aerith has nothing to do with it! All you want is me, right?</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Ifalna!</p>
+    <p class="indent-nopad"><b>Hojo</b><br/>I'll need all of you for my experiment.<br/>You understand don't you, Professor Gast? We can change the future of the Planet!</p>
+    <p class="italic">Gast kneels down beside Ifalna.</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Don't worry, Ifalna. I'll take care of this!</p>
+    <p class="indent-nopad"><b>Hojo</b><br/>Please don't put up a fight. I don't want any harm to come to my precious sample.<br/>Mmm? What a funny looking camera. Guard! Destroy it!</p>
+    <p class="italic">One of the soldiers turns to shoot out the camera. The video feed fails.</p>
+    <p class="indent-nopad"><b>Hojo</b><br/>Be careful with her!! Ha, ha, ha......</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>Wh... what are you doing, Professor!?</p>
+    <p class="indent-nopad"><b>Gast</b><br/>Ifalna! Take Aerith and run!!</p>
+    <p class="italic">There is a gunshot and a thud.</p>
+    <p class="indent-nopad"><b>Ifalna</b><br/>Eyaaaaaah... Darling......!!</p>
+    <p class="indent-nopad"><b>Hojo</b><br/>Oh, and uh... don't forget the child!<br/>Hmm, a video? The Ancients... Weapon!?<br/>Heh, heh, heh... a mountain of treasure! Thank you Professor... Ha, ha, ha</p>
+  </li>
+</ul>
+<p class="italic">Having seen everything, Cloud leaves Gast's house and heads for the slopes.</p>
+<p class="indent"><b>Man in Thicket</b><br/>No, don't!! It's a steep downgrade, past here.<br/>It's dangerous, please don't go!</p>
+<p class="indent"><b>Cloud</b><br/>- I'm still going<br/>- Thanks for your kindness</p>
+<div class="block"/>
+  <p><span class="highlight">I'm still going</span></p>
+  <p class="indent-nopad"><b>Man in Thicket</b><br/>Damn, I was just being nice...<br/>What the? Who are those people over there? Looks like trouble!</p>
+  <p class="italic-inline-nopad">He runs off.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Thanks for your kindness</span></p>
+  <p class="indent-nopad"><b>Man in Thicket</b><br/>No, no. I just did what came natural.<br/>All right, I'm not too busy now. Do you want me to teach you how to ride a snowboard?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Maybe you should<br/>- Not interested</p>
+  <div class="block"/>
+    <p><span class="highlight">Maybe you should</span></p>
+    <p class="italic">A controls explanation ensues.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">Not interested</span></p>
+    <p class="indent-nopad"><b>Man in Thicket</b><br/>You're so boring!</p>
+  
+
+<p class="italic"><a name="elena"></a>When Cloud says he's still going, Elena enters the village, accompanied by Shinra soldiers.</p>
+<p class="indent"><b>Elena</b><br/>There they are, hurry!!</p>
+<p class="indent"><b>Soldiers</b><br/>Yes ma'am!!</p>
+<p class="italic">Elena and two soldiers run up to Cloud.</p>
+<p class="indent"><b>Elena</b><br/>Cloud... huff... wheeze.<br/>I won't let you go any further!</p>
+<p class="indent"><b>Cloud</b><br/>What's down there?</p>
+<p class="indent"><b>Elena</b><br/>It's a SE-CR-ET.<br/>It really doesn't matter! But you really got guts doin' my boss in like that!</p>
+<p class="indent"><b>Cloud</b><br/>You mean Boss...... Tseng? That wasn't us. Sephiroth did it.</p>
+<p class="indent"><b>Elena</b><br/>No! Don't think you can fool me, liar!</p>
+<p class="indent"><b>Cloud</b><br/>I'm not lying... it was Sephiroth.</p>
+<p class="indent"><b>Elena</b><br/>Don't try to act innocent. I'll never forget it!!</p>
+<p class="indent"><b>Cloud</b><br/>Oh, man...</p>
+<p class="indent"><b>Elena</b><br/>Looks like talking alone won't cut it. You're going to have to feel some pain!</p>
+<p class="indent"><b>Soldier</b><br/>Just you... and me!!</p>
+<p class="indent"><b>Elena</b><br/>No, I can handle him! There's no way he can avoid my punch.</p>
+<p class="indent"><b>Soldier</b><br/>What? Yeah......</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud dodges Elena's punch...</span></p>
+  <p class="italic">Elena goes rolling past him on down the hill, and the soldiers chase after her.</p>
+  <p class="indent-nopad"><b>Soldier</b><br/>Ele... Elena!?</p>
+  <p class="indent-nopad"><b>Man in Thicket</b><br/>What the...? They sure were weak for Shinras.</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud doesn't dodge...</span></p>
+  <p class="italic">Elena punches him, knocking him out cold.</p>
+  <p class="indent-nopad"><b>Elena</b><br/>Why? Why didn't you try to avoid it...<br/>There's no way they can climb the Great Glacier anyway.<br/>Put them in some house in the village.</p>
+  <p class="italic">Cloud wakes in Gast's house.</p>
+
+<p class="italic">Now, Shinra soldiers stand guarding the town's entrance.</p>
+<p class="indent"><b>Soldiers</b><br/>This village is now under martial law!</p>
+<p class="indent"><b>Cloud</b><br/>- (Do what you're told)<br/>- (Kick his butt)</p>
+<div class="block"/>
+  <p><span class="highlight">(Do what you're told)</span></p>
+  <p class="indent-nopad"><b>Soldier</b><br/>Don't be angry. I'm just doing my job.</p>
+
+<div class="block"/>
+  <p><span class="highlight">(Kick his butt)</span></p>
+  <p class="indent-nopad"><b>Soldier</b><br/>Stop it, there're kids around!<br/>Listen, I probably shouldn't tell you, but I hear something big's going down up North.<br/>The President's gonna be there. So, would you please just lay low for a while?</p>
+
+<p class="indent"><b>Girl Sledding</b><br/>Who is that man?</p>
+<p class="indent"><b>Man on Roof of Small House</b><br/>When I first moved here, I saw a man with a Black Cape heading North.<br/>It seemed strange seeing a Black Cape against the snowy white.</p>
+<p class="italic">Inside the small house...</p>
+<p class="indent"><b>Woman</b><br/>My boy got hurt right about the time we moved here...<br/>I never should've bought him a snowboard.</p>
+<p class="indent"><b>Boy</b><br/>......whimper...... weep...<br/>I got hurt on my snowboard, and now I can't go out for a while...<br/>Hey, I'll give you my snowboard.</p>
+<div class="highlight"/><p>Received Key Item "Snowboard"!</p>
+<p class="indent"><b>Boy</b><br/>Tell me when you get good at it.</p>
+<p class="indent"><b>Man in Thicket</b><br/>Sorry I just took off a while ago... It looked like there was going to be trouble.<br/>Anyhow, you'll need a snowboard to get down that hill. Want me to teach you how to ride one?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah, maybe you should<br/>- No, not interested</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah, maybe you should</span></p>
+  <p class="italic">A controls explanation ensues.</p>
+
+<div class="block"/>
+  <p><span class="highlight">No, not interested</span></p>
+  <p class="indent-nopad"><b>Man in Thicket</b><br/>All right, big-head... But don't blame me if you get hurt.</p>
+
+<p class="italic">Cloud heads off down the slope.</p>
+<p class="indent"><b>Man in Thicket</b><br/>Be careful!</p>
+<p class="italic">Cloud and the others snowboard down the slopes, finally flying off an edge and falling down into the Great Glacier.</p>
+
+
+</scene>

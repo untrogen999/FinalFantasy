@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="ff.css">
+        <title>Our Code: Example</title>
+        <script src="java.js"></script>       
+    </head>
+    <body>
+
+        <hr/>
+        <!--#include virtual="mainmenu.html" -->
+        <audio autoplay loop>
+            <source src="Music/flowoflife.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <h1>Final Fantasy Project Code</h1>
+        <img src="Pictures/cloud.gif" alt="Cloud saying 'hoo boy'" style="width:220px;height:230px;"/>
+        <p>The following is an example of our marked-up code from the project which we used to answer our research questions. The original script is from <a href="https://www.yinza.com/Fandom/Script.html">here</a> so an enormous thank you to the original creators of this script!</p>
+        <p><a onclick="return playSound();" href="https://github.com/Bennediction/FinalFantasy/blob/30e8336ba4875438053ccd2887773a0c88399a28/XML/Final/Disc1/01.xml">Check out the first XML file here!</a></p>
+        <p>The link above sends you to the first marked-up XML of the project, featuring the first scene from the game which features main characters Cloud Strife and Barret Wallace on their bombing mission to blow up one of the Mako Reactors in Midgar. You will notice that each of the speech lines, as well as general title information, are wrapped with "sp" tags. All characters when speaking have been wrapped with "speaker name" tags followed by their name which proved useful when using xquery to look for more specific details. The "reference name" tags have only been used on key characters in which the tags could be useful for analysis purposes.</p>
+        <p>The script used contained descriptions of particular events that took place. Because these are not in the actual game itself, we wrapped the text in "stage" tags in order to set them apart from other marked-up text. Lastly, the "boxstart" tags are simply to indicate the various boxes of dialogue in the game itself and were not used for any analysis.</p>
+
+        <p> The following is the code we used to convert the original script into XML. It works by matching on the various different elements the script author used to organize their script and then tag it based on whether the element denotes a stage direction or speech.</p>
+        <a onclick="return playSound();" href="https://github.com/Bennediction/FinalFantasy/blob/30e8336ba4875438053ccd2887773a0c88399a28/XSL/FinalFantasy.xsl">Click here to see the XSL!</a>
+        <p>The following is the code we used to make our bar graphs. The first code works by counting how many times each character speaks throughout the entire work, and then creating a graph that shows how many times each character speaks throughout the entire game.
+        The second piece of code creates a graph that measures each character's dialogue in each individual scene, and then makes a graph based off of how many times they speak per scene in a percentage compared to everyone else.</p>
+        <a onclick="return playSound();" href="https://github.com/Bennediction/FinalFantasy/blob/main/XQuery/smallgraph.xquery">Click here to see the xquery for the first graph!</a>
+        <a onclick="return playSound();" href="https://github.com/Bennediction/FinalFantasy/blob/main/XQuery/bargraph.xquery">Click here to see the xquery for the second graph!</a>
+    </body>
+</html>

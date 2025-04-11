@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scene name="TheWorldFinal">
+
+
+
+<h1>The World - Before the End</h1>
+
+<h4><a href="#sector5">Midgar: Sector 5</a></h4>
+<h4><a href="#sector6">Midgar: Sector 6</a></h4>
+<h4><a href="#kalm">Kalm</a></h4>
+<h4><a href="#junon">Junon</a></h4>
+<hr></hr>
+<p class="italic"><a name="sector5"></a>At Midgar...</p>
+<p class="italic">In Aerith's church...</p>
+<p class="indent"><b>Boy</b><br/>They're purty!</p>
+<p class="indent"><b>Girl</b><br/>Hey! Where's the flower lady?</p>
+<p class="italic">Elsewhere in Sector 5...</p>
+<p class="indent"><b>Person Outside the Pipe</b><br/>These folks went wobbling off somewhere...<br/>They said something about the 'Reunion starting'... sounded almost like a chant. Wonder what the heck that meant.</p>
+<p class="indent"><b>Woman Walking Around</b><br/>I'm not going to look up or down! From now on I'm just going to look straight ahead.<br/>Maybe not. I'm just flapping my gums. I really wonder how things will turn out.</p>
+<p class="indent"><b>Person in Blue</b><br/>What's going on with the world? When it's all said and done, we're all gonna wind up dead.</p>
+<p class="indent"><b>Man in Straw Hat</b><br/>Yeah, that's right! But, even so, where could we move to now...?</p>
+<p class="indent"><b>Person in Blue</b><br/>...You've been talking like that for sometime now.</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>And I just got together enough money to get out of this place...<br/>Now it doesn't matter where I go! Ho, ho, ho...</p>
+<p class="italic">Inside a house...</p>
+<p class="indent"><b>TV</b><br/>......ga...... g, ga ga..............</p>
+<p class="indent"><b>Kid</b><br/>SOLDIER? What about them!?<br/>Damn! If they really were from SOLDIER, they would be doing something about all this!!</p>
+<p class="indent"><b>Man Upstairs</b><br/>The trick to bein' a real man, is not to fart around, but to let everyone know where you stand, right off!</p>
+<p class="italic"><a name="sector6"></a>Sector 6, the Honey Bee Inn...</p>
+<p class="indent"><b>Soldier</b><br/>Heee, ...... The Shinra have occupied this shop!</p>
+<p class="italic">Elsewhere...</p>
+<p class="indent"><b>Cat Kid</b><br/>I wish I could live with a real cat.</p>
+<p class="indent"><b>Punk</b><br/>We're not leavin' this city no matter what happens.</p>
+<p class="indent"><b>Man Outside Restaurant</b><br/>It's a weird world we live in, so eat up and work hard.</p>
+<p class="indent"><b>Man Cooking Outside</b><br/>I don't know what's gonna happen next, But first, you gatta fill your stomach.</p>
+<p class="indent"><b>Man Outside Dress Shop</b><br/>Seems like everything has frills on it.</p>
+<p class="indent"><b>Weapons Owner</b><br/>Oh, so you're back? I got something good for you. Why don't you buy it?</p>
+<p class="indent"><b>Cloud</b><br/>You probably just found it lying around somewhere, right?</p>
+<p class="indent"><b>Weapons Owner</b><br/>I'll admit that I found it, but you may never be able to get another one like it again.<br/>How 'bout 129,000 Gil for it?</p>
+<p class="indent"><b>Cloud</b><br/>...What kind of price is that?<br/>- Oh, all right... I'll buy it<br/>- No, I don't want it</p>
+<div class="block"/>
+  <p><span class="highlight">Oh, all right... I'll buy it</span></p>
+  <p class="indent-nopad"><b>Weapons Owner</b><br/>Hey, much obliged. You'll never regret it!</p>
+  <div class="highlight-nopad"/><p>Received "Sneak Glove"!</p>
+
+<div class="block"/>
+  <p><span class="highlight">No, I don't want it</span></p>
+  <p class="indent-nopad"><b>Weapons Owner</b><br/>Hmm, that's too bad. This's really something.</p>
+
+<hr></hr>
+<p class="italic"><a name="kalm"></a>At Kalm...</p>
+<p class="indent"><b>Redhead</b><br/>Hey, listen to me! I heard the barrier protecting Sephiroth is gone!<br/>But with Rufus dead, the Shinra troops don't know what to do. Heidegger and Scarlet don't have what it takes to lead the troops......<br/>I really thought something was finally going to get done, but everything's the same... not a damn thing's changed!</p>
+<p class="indent"><b>Old Man</b><br/>Ah, youth... You really believe that big meteor filling up the sky's going to fall here?<br/>If Shinra, Inc was our last hope, and they've been beaten by terrorists...... Are we all going to die?</p>
+<p class="italic">Inside the first house...</p>
+<p class="indent"><b>Woman</b><br/>Dear, can you believe it!? They say that Shinra's gone under!!<br/>This world is coming to an end all because those terrorists called AVALANCHE stuck their noses in the wrong place!</p>
+<p class="italic">Inside the second house...</p>
+<p class="indent"><b>Old Man</b><br/>If something ever happened to President Rufus, That'd be the end of Shinra, Inc...... and the rest of the world, too.</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Man</b><br/>The North Crater barrier's been demolished?<br/>So now's the time to defeat Sephiroth.</p>
+<p class="italic">In the bar...</p>
+<p class="indent"><b>Barkeeper</b><br/>They say the remaining members of AVALANCHE broke Shinra's resistance and destroyed the Mako cannon at Midgar.<br/>What's going to happen to the world...?</p>
+<p class="indent"><b>Person in Blue</b><br/>I heard the remaining members of AVALANCHE smashed the Shinra troops at Midgar.<br/>Lately, there's been a number of scary incidents. I hate it. Just hate it!</p>
+<p class="italic">Inside the fourth house...</p>
+<p class="indent"><b>Old Man Upstairs</b><br/>OH! It's "Guidebook"! Wanna trade it for this Underwater Materia?<br/>How about it?</p>
+<p class="indent"><b>Cloud</b><br/>- Trade<br/>- Don't trade</p>
+<div class="block"/>
+  <p><span class="highlight">Trade</span></p>
+  <p class="indent-nopad"><b>Old Man Upstairs</b><br/>Ok then, it's a done deal!</p>
+  <p class="italic-inline-nopad">He goes over to retrieve the materia.</p>
+  <p class="block-inline-nopad">It's Underwater Materia. Go on, it's yours!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Don't trade</span></p>
+  <p>I dunno......</p>
+
+<p class="indent"><b>Old Man Upstairs</b><br/>OH! It's "Desert Rose"! Wanna trade it for that Chocobo over there?<br/>How about it?</p>
+<p class="indent"><b>Cloud</b><br/>- Trade</p>
+<p class="indent"><b>Old Man Upstairs</b><br/>Ok then, it's a done deal!</p>
+<p class="italic-inline">He snaps his fingers and a gold chocobo appears.</p>
+<p class="block-inline">It's a Chocobo. Take it, it's yours!</p>
+<p class="indent"><b>Old Man Upstairs</b><br/>OH! It's the Earth Harp! Wanna trade it for some Master Materia?<br/>I'm not bein' stingy either! I'll give you all three of 'em!<br/>How about it?</p>
+<p class="indent"><b>Cloud</b><br/>- Trade</p>
+<p class="indent"><b>Old Man Upstairs</b><br/>Ok then, it's a done deal!<br/>It's a 3-piece Master Materia set... and it's all yours!<br/>I guess it's time to go on a journey for the souls of my departed friends......</p><p class="italic">He walks out of the room.</p>
+<hr></hr>
+<p class="italic"><a name="junon"></a>In Upper Junon...</p>
+<p class="indent"><b>Soldier on the Path to the Airport</b><br/>I finally got orders to join the Great Sephiroth Plan. I even get to go on the Gelnika too...<br/>But, I'm just gonna ignore them. I wanna live to see the end of the world.<br/>If I'm lucky... There'll be a good place for me in the New World.</p>
+
+</scene>

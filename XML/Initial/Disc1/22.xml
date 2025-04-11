@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="Wutai">
+
+
+
+<h1>Wutai - Stolen Materia</h1>
+
+<h4><a href="#stolen">Stolen Materia</a></h4>
+<h4><a href="#arrival">Arrival at Wutai</a></h4>
+<h4><a href="#turks">The Turks On Vacation</a></h4>
+<h4><a href="#godo">Lord Godo of Wutai</a></h4>
+<h4><a href="#tricked">Yuffie Tricks Cloud Again</a></h4>
+<h4><a href="#corneo">Corneo's New Hobby</a></h4>
+<h4><a href="#return">Yuffie Returns the Materia</a></h4><br/>
+<h4><a href="#pagoda">Climbing the Pagoda</a></h4>
+<hr></hr>
+<p class="italic"><a name="stolen"></a>Cloud and the others land the Tiny Bronco on the shores of Wutai and start making their way north. On a hilltop, Yuffie runs ahead and stands in their way.</p>
+<p class="italic">* <b>Note</b>: Because this is an optional sidequest, it is also possible to do it when either Tifa or Cid are the party leader, so their responses are included along with Cloud's.</p>
+<p class="indent"><b>Yuffie</b><br/>Wait, wait, wait, wai----t!!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>What!? The hell happened, all of a sudden!?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>What!? What happened, all of a sudden?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>What the--? Did something happen?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>What happened all of a sudden!? Don't scare me like that!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Wh, wh, what is it, all of a sudden!? Don't scare me like that!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>What happened all of a sudden? Did something happen?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>What the HELL is it! Shoutin' out and jumpin' in front of me all of a sudden!</p>
+</blockquote>
+<p class="indent"><b>Yuffie</b><br/>I know this area pretty well.<br/>It gets pretty tough past here. Better get ready...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>...You serious? And you sayin' that just now means you're up to somethin'! Right!?<br/>That means, I don't trust you.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>......Hmmm... Something's fishy...<br/>You're not planning something sneaky again, are you?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>...Really? Something's telling me I still shouldn't trust you.<br/>Are you thinking of tricking us again...?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Hmm, ... Smells fishy.<br/>My nose never lies!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>You serious? I can't trust a person like you.<br/>But, I guess I'm not one to talk.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Further down? I don't see any signs of danger...<br/>Also, there's something unnatural in the way Yuffie's acting...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hey! You, serious?<br/>If you're trying to con us, you won't get away with it!</p>
+</blockquote>
+<p class="indent"><b>Yuffie</b><br/>No! It's REALLY tough...</p>
+<p class="indent"><b>Soldiers</b><br/>There they are, catch 'em!!</p>
+<p class="italic">Shinra soldiers run in.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>The Shinra!!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Hey, the Shinra......!?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>It's Shinra!!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>That's Sh... Shinra's......</p>
+	<p class="indent-nopad"><b>Cid</b><br/>What, the Shinra!?</p>
+</blockquote>
+<p class="indent"><b>Shinra Soldier</b><br/>Hey, that's not them! These are the other guys from before!!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Yuffie, so you're...!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Yuffie, did you by any chance...</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Yuffie, you're not......!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>So you were, Yuffie...!!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Not bad, Yuffie, not bad at all.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>So what does this mean... You will explain this later...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Yuffie! You sure got some nerve, kid!</p>
+</blockquote>
+<p class="indent"><b>Yuffie</b><br/>I didn't know! I have nothing to do with this one!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Whaddya mean 'this one'!? 'This one'!<br/>So you WERE plannin' somethin'!!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>This one? What do you mean 'THIS one'?<br/>So you WERE up to something bad!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>This one? Did you just say 'THIS one'?<br/>So you WERE trying to pull something off!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>What do you mean 'this one' 'THIS one'!<br/>So you were concocting some evil scheme!!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>This one? What do you mean 'THIS one'?<br/>So you had something else that you're planning to trick us with!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>What do you mean, 'This one'?<br/>You had something else in mind?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Whaddya mean 'THIS one'! 'THIS one'!<br/>So you WERE planning some crooked $%*&amp;!!</p>
+</blockquote>
+<p class="indent"><b>Yuffie</b><br/>No, umm, uh......</p>
+<p class="indent"><b>Shinra Soldiers</b><br/>What should we do!?<br/>Uh...... Get them! Grab them and ask questions later!!</p>
+<p class="italic">The soldiers run to attack Cloud and the others, and Yuffie runs off in the confusion.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>The hell's goin' on!?<br/>I knew somethin' was missing. All my materia's gone!!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>What's going on!?<br/>I thought something was missing... my materia's all gone!!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>What's going on!?<br/>I thought something was fishy... My, my materia is missing!!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>What's going on?<br/>I thought something was funny, my materia, disappeared!!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>What's going on!?<br/>Something's missing, and it's my materia-it's all gone!!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>I thought something was wrong, So that's it.<br/>Look, my materia's been stolen...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>What the hell's goin' on!<br/>I knew I was missing something... My materia's gone!!</p>
+</blockquote>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Yo... where's that $#@^% Yuffie...?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Hey... where's Yuffie...?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Hey... where's Yuffie...?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Now... where's Yuffie...?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Ey... where the hell's that damn kid...?</p>
+</blockquote>
+<p class="italic">They all look around.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>That &amp;*&amp;$ kid!!!<br/>Grrrrrgh!! Arrrrrgh Uhhhhhhhhhhhh!!<br/>She was after our materia from the start!!<br/>She went North! When I get my hand on her, I'll get our materia back!<br/>C'mon! We're goin' after her!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>I'm so------ mad!!<br/>She was probably eyeing our materia from the beginning.<br/>Seems like she headed North. Let's hurry after her and get our materia back!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>She's done it to us again!!<br/>I'm never gonna forgive her!<br/>She was after our materia from the beginning.<br/>I won't let her get away with it! I'm pretty sure she ran off North. Let's go after her!!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>ZOUNDS!!<br/>Grrrrrrrrrgh...... Grrrgh! Grrrrrrgh!!<br/>Her objective was stealing our materia from the beginning.<br/>...sniff... North! She ran off to the North!<br/>I'm not going to let her get away with this! Hurry, hurry! We have to get our materia back!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>She's done it again!<br/>She sure took us for fools!<br/>She must've been after our materia from the beginning.<br/>We can't just let her get away, right? Then, let's hurry after her! Which way? It's North, the North! It's a message from the stars!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Inexcusable...<br/>Seems as though all that she was after was our materia.<br/>We can't just let her get away. She ran off...... to the North...<br/>We must go after her and retrieve our materia back.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>That little ^%#^$@!!<br/>Takin' me for a fool!!<br/>No doubt about it! That kid was after my materia from the start!!<br/>Hmm... Seems like she went North.<br/>Don't be draggin' your asses! We're going right NOW! That $#@^ is history!!</p>
+</blockquote>
+<p class="italic">If Cloud tries to get back in the Tiny Bronco to leave...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>...First, I gotta do something about her.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>I can't just leave it there...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Damn kid! I'll get her no matter what!</p>
+</blockquote>
+<p class="italic"><a name="arrival"></a>They go north and arrive in Wutai, where they immediately spot Yuffie.</p>
+<p class="indent"><b>Yuffie</b><br/>Hey!!</p>
+<p class="italic-inline">She runs off.</p>
+<p class="italic">Outside Yuffie's house..</p>
+<p class="indent"><b>Yuffie</b><br/>This is MY house! Nobody gets in!</p>
+<p class="indent"><b>Man on the Path to Godo's House</b><br/>Lord Godo is in this house.<br/>He used to be quite strong, but now, all he does is sleep......<br/>What, Yuffie... It's best to ask Lord Godo about that.<br/>But today he's not in the best of... Well, I should say... But really he's not so......</p>
+<p class="italic">In the Weapons shop...</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>Sorry, listen I... No, nothing... never mind.</p>
+<p class="indent"><b>Man</b><br/>Sorry, but we're entirely sold out now.<br/>What's this here? Ah, no... that's uh...<br/>...a sample! Yeah, that's it... a sample. Sorry, but why don't you all come back later?</p>
+<p class="italic"><a name="turks"></a>The local pub, Turtle's Paradise... Outside is a flyer.</p>
+<p class="indent"><b>Pub [Turtle's Paradise] Publicity Flyers! Notice</b><br/>[Turtle's Paradise] is now having a Publicity flyer campaign.<br/>They will be posted all over the world. So make sure you look for our flyers that say "Turtle's Paradise"<br/>There's six in all. If you find them all, make sure to let the owner of Turtle's Paradise know. You can win a prize!<br/>Just reading them's good enough, so please don't take them down or rip them up!!<br/>--Owner, Turtle's Paradise</p>
+<p class="indent"><b>Barkeeper</b><br/>Hey, hey, welcome! You on a trip? Well, just relax and make yourself at home.<br/>Nowadays, thanks to tourism, Wutai's able to get by.</p>
+<p class="indent"><b>Man</b><br/>Hey. Did you hear? There used to be a Water God here in Wutai.<br/>They say the Water God was a huge snake!<br/>Now we live in a world filled with Mako. Not many people would believe in something like that now.<br/>But some in the world, and here in Wutai, still believe.<br/>Believe in the scales of the Water God and in materia that has its power in it.</p>
+<p class="italic">Cloud walks up to the Turks - Reno, Rude, and Elena - who are drinking at a table.</p>
+<p class="indent"><b>Elena</b><br/>Yy, you!? How did you get here...?</p>
+<p class="italic-inline">She jumps up.</p>
+<p class="block-inline">Never mind that. I guess it's fate that brought us together.<br/>Get ready to die!!</p>
+<p class="italic">Cloud and the others ready their weapons. Reno and Rude don't move.</p>
+<p class="indent"><b>Reno</b><br/>...Elena, you talk too much.</p>
+<p class="indent"><b>Elena</b><br/>Ww, what?</p>
+<p class="indent"><b>Reno</b><br/>What are we doing way out here in the middle of nowhere?</p>
+<p class="indent"><b>Elena</b><br/>We're taking our vacation and resting up from our work.</p>
+<p class="indent"><b>Reno</b><br/>Now our vacation is ruined.</p>
+<p class="indent"><b>Elena</b><br/>B, but...</p>
+<p class="indent"><b>Rude</b><br/>...even the booze tastes bad now.</p>
+<p class="indent"><b>Elena</b><br/>...sorry...</p>
+<p class="italic">She sits back down, and Cloud relaxes.</p>
+<p class="indent"><b>Elena</b><br/>Hmm, you're lucky all right. Now get out of my sight!<br/>The next time we meet I won't be so nice.</p>
+<p class="indent"><b>Reno</b><br/>Drink, Rude! How long have we been a team...?<br/>There have been hard times being a Turk, but all in all, I'm glad I did it.<br/>I even got to meet a bunch of wing nuts like you.</p>
+<p class="indent"><b>Rude</b><br/>To the Turks... To Reno... cheers!</p>
+<p class="italic">Outside the Item Shop, a little kid is running around.</p>
+<p class="indent"><b>Little Kid</b><br/>Alright, alright, alright! I know!<br/>On the side of the mountain, right there in your face is Da-chao!<br/>I hear you can climb to the top, but since it's dangerous I'd be mighty careful if I were you!<br/>A girl with materia? No, there hasn't been anyone climbing Da-chao for some time now.<br/>You know I've noticed that there's  pounding noise from time to time in this store.</p>
+<p class="indent"><b>Man on the Path to Godo's House</b><br/>Lord Godo is in this house.<br/>He used to be quite strong, but now, all he does is sleep......<br/>Anyhow, for some reason Yuffie's had a fondness for materia ever since I can remember.<br/>She's always hung around places she thought might have it.</p>
+<p class="italic">In the Item Shop...</p>
+<p class="indent"><b>Item Shopkeeper</b><br/>We got a lot of different stuff here. Take what you want.</p>
+<p class="indent"><b>Woman</b><br/>I'm sorry. The sign outside says "Materia", but there's almost no materia left anywhere in Wutai.<br/>Listen, this is just a backwoods town. We don't have much to do with Shinra, and besides...<br/>If we had a lot of materia, Wutai would be a much more exciting town, but we don't...</p>
+<p class="italic">Cloud opens the nearby treasure chest.</p>
+<div class="highlight"/><p>Received "MP Absorb" Materia!</p>
+<p class="italic">Yuffie jumps down from above.</p>
+<div class="highlight"/><p>Stole "MP Absorb" Materia!</p>
+<p class="indent"><b>Woman</b><br/>Huh? What? You DID?</p>
+<p class="italic">Cloud continues up the path towards Godo's house.</p>
+<p class="indent"><b>Man outside Godo's House</b><br/>That five-storied pagoda over there is called the Pagoda of the Five Mighty Gods...<br/>The Five Gods are Power, Speed, Magic, War and Omni, who has the best characteristics of everything.<br/>Since ancient times, we in Wutai, have worshipped Da-chao and the Water God.<br/>Legend has it that the village has been protected by Da-chao, the Water God, and the Five Mighty Gods.<br/>But in the last battle, we didn't fare so well... I guess our beliefs were based on nothing more than legends.</p>
+<p class="italic">Inside the pagoda...</p>
+<p class="indent"><b>Gorky</b><br/>...</p>
+<p class="italic">If Cloud tries to run upstairs...</p>
+<p class="indent"><b>Gorky</b><br/>Freeze!<br/>You aren't from Wutai, are you?</p>
+<p class="indent"><b>Cloud</b><br/>- No<br/>- Yes</p>
+<div class="block"/>
+  <p><span class="highlight">No</span></p>
+  <p class="indent-nopad"><b>Gorky</b><br/>Only those from Wutai are allowed in the tower!<br/>I'll have to ask for you to leave!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Yes</span></p>
+  <p class="indent-nopad"><b>Gorky</b><br/>Hey! I hate people who lie about their identities! Leave this tower at once!</p>
+
+<p class="italic"><a name="godo"></a>Inside Godo's house, they find Godo lying on a futon.</p>
+<p class="indent"><b>Godo</b><br/>GOOGAH... what do you want?<br/>Don't have... GAH... anything much but, you should be able to... GOO... rest yourselves here. GOGAH... make yourselves at home.<br/>......Yuffie? ......nope, never heard of her. ...GOOGO...<br/>...you again? I told you once, and I'm telling you again, I don't know her.</p>
+<p class="italic-inline">He sits up.</p>
+<p class="block-inline">Listen, I said I didn't know her! There isn't anyone named Yuffie here in Wutai!</p>
+<p class="italic-inline">He gets to his feet and turns to face Cloud.</p>
+<p class="block-inline">...never seen you around here before...<br/>Lately I've been seeing a lot of Shinra soldiers around here... You wouldn't have anything to do with that would you?<br/>I don't care about who you are.<br/>But if you're in trouble with the Shinra, I'm going to have to ask you to leave.<br/>I don't want the Shinra hanging around here looking over my shoulder.</p>
+<p class="indent"><b>Yuffie</b><br/>What's with you, you coward!</p>
+<p class="italic-inline">She jumps down from the ceiling to stand in his doorway.</p>
+<p class="indent"><b>Godo</b><br/>Yuffie......!</p>
+<p class="indent"><b>Yuffie</b><br/>You scared of the Shinra?<br/>Then why don't you fall into line and obey them, just like all of the other towns!</p>
+<p class="italic-inline">She runs into the room.</p>
+<p class="block-inline">Those guys are the ones who are really fighting the Shinra!</p>
+<p class="indent"><b>Godo</b><br/>Shut up! What would you know about this?</p>
+<p class="indent"><b>Yuffie</b><br/>You get beaten once, and then that's it?<br/>What happened to the mighty Wutai I used to know?</p>
+<p class="indent"><b>Godo</b><br/>No kid like you's going to talk to me like that!<br/>You keep acting like that! You ought to be ashamed of yourself!</p>
+<p class="indent"><b>Yuffie</b><br/>That's my style! And it's my own business, not yours! Don't you try and dictate what I should do!</p>
+<p class="indent"><b>Godo</b><br/>Style...? Dictate...?<br/>Throwin' around all those fancy words... You're a miserable daughter!</p>
+<p class="indent"><b>Yuffie</b><br/>Hmph! You're a sad excuse for a father!!</p>
+<p class="italic">She runs out and into the shrine down the hall. Godo starts to chase after her, but gives up and returns to his room.</p>
+<p class="indent"><b>Godo</b><br/>......take your things and get out of here now.<br/>To protect Wutai, we cannot afford to stand up to Shinra.</p>
+<p class="indent"><b>Man on the Path to Godo's House</b><br/>She's always getting into fights. But in that, she takes after Godo to a tee.<br/>Like father like daughter...<br/>Yuffie's like that, you know. Sometimes she'll just bust into people's houses.<br/>Then she hides in the shadows... Just like a little kid.</p>
+<p class="indent"><b>Woman Walking near River</b><br/>Life is just like the flowing of a river. It flows from the large ocean of life, and eventually it returns back to it.<br/>Wutai is a historical place. There are some very unusual things here you should see.<br/>Yuffie? I saw her a while ago. She must be in one of the houses around here.</p>
+<p class="italic">At the old man's house...</p>
+<p class="indent"><b>Boy</b><br/>Oh no! More weirdos<br/>No, these aren't like the one from a while ago, but these ones look weird too!</p>
+<p class="indent"><b>Old Man</b><br/>Well, well. Long time no see. What have you been up to? Let's see... what was your name?</p>
+<p class="indent"><b>Boy</b><br/>No, Gramps! This isn't anyone you know! This is just some stranger who barged into our house!<br/>What are we going to do, Gramps? Some strange-looking girl came in here a minute ago and I...</p>
+<p class="italic">Cloud pushes aside a screen to reveal Yuffie hiding behind it.</p>
+<p class="indent"><b>Yuffie</b><br/>......</p>
+<p class="italic-inline">She dashes out of the house.</p>
+<p class="indent"><b>Old Man</b><br/>Oh, how exciting. You a friend of my grandson's?</p>
+<p class="indent"><b>Boy</b><br/>No, Gramps! These guy's are creepy! They're runnin' all over the place!</p>
+<p class="indent"><b>Man on the Path to Godo's House</b><br/>She's always getting into fights. But in that, she takes after Godo to a tee.<br/>Like father like daughter...<br/>That reminds me, Lately I've been seeing a kid around here that reminds me of Yuffie.<br/>Always sneakin' around corners And into somethin' she shouldn't be.</p>
+<p class="italic">If Cloud tries to leave Wutai...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Wait, that damn Yuffie's still gotta be somewhere in this cheap town! Or you all jes' gonna go on?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>I don't think she came out from here... Is that ok?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Knowing Yuffie, she's still hidden somewhere in town. You sure?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>I know she hasn't left town! You still want to leave?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>She couldn't have left town... I think she is must still be here... Or do you want to go on?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>You lettin' that damn kid off the hook? I know she's gotta be in this town somewhere!</p>
+</blockquote>
+<p class="italic">Outside the Turtle's Paradise, there is a barrel that's jiggling. Cloud and the others position themselves near the escape routes and then open it. Yuffie jumps out and tries to get away, but finds herself surrounded.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>You can't get away, Yuffie.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Give it up, Yuffie!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>You lost, Yuffie.</p>
+</blockquote>
+<p class="indent"><b>Yuffie</b><br/>O... ok, I know... I was wrong......<br/>You win. I'll give you back your materia...</p>
+<p class="italic">She leads them to her house, just as two soldiers run into Turtle's Paradise.</p>
+<hr></hr>
+<p class="indent"><b>Shinra Soldier</b><br/>So our reports were right! He IS here on vacation!<br/>We've finally found him! Get the Turks here for back-up!</p>
+<p class="indent"><b>Reno</b><br/>...what a drag.</p>
+<p class="indent"><b>Shinra Soldier</b><br/>Wh, what was that...?</p>
+<p class="indent"><b>Reno</b><br/>Right now we're off duty and can't run off to save your butts.</p>
+<p class="indent"><b>Shinra Soldier</b><br/>We know you're off duty, but...</p>
+<p class="indent"><b>Reno</b><br/>If you knew that, then don't bother us! Lookin' at you is makin' me sober.</p>
+<p class="indent"><b>Shinra Soldier</b><br/>But you all have orders from headquarters to look for him too!</p>
+<p class="italic">There is a pause. Reno says nothing.</p>
+<p class="indent"><b>Shinra Soldier</b><br/>All right, that's it! We'll get him without any help from the Turks, just you see!</p>
+<p class="italic">The two soldiers run out. One comes back momentarily.</p>
+<p class="indent"><b>Shinra Soldier</b><br/>And don't think that headquarters isn't going to hear about this!!</p>
+<p class="italic-inline">He leaves again.</p>
+<p class="indent"><b>Elena</b><br/>Reno, do you think that was really such a good idea!?<br/>I mean is that the way a professional, a Turk would act!?</p>
+<p class="indent"><b>Reno</b><br/>Elena. Don't misunderstand.<br/>A pro isn't someone who sacrifices himself for his job. That's just a fool.</p>
+<p class="indent"><b>Elena</b><br/>Rude...?</p>
+<p class="indent"><b>Rude</b><br/>.........</p>
+<p class="indent"><b>Elena</b><br/>Well, I don't buy that! Goodbye!!</p>
+<p class="italic-inline">She runs out.</p>
+<p class="indent"><b>Rude</b><br/>.........</p>
+<p class="indent"><b>Reno</b><br/>Relax. She's not a child. Let her have her way now...</p>
+<hr></hr>
+<p class="italic"><a name="tricked"></a>At Yuffie's house...</p>
+<p class="indent"><b>Yuffie</b><br/>I know, the materia, right? I have it stored in a safe place. ...Follow me.</p>
+<p class="italic-inline">She leads them down to the basement, a training room.</p>
+<p class="indent"><b>Flyer on Wall</b><br/>[Turtle's Paradise] No. 6<br/>Drink at the "Turtle's Paradise" And talk about Wutai!<br/>You'll know "Turtle's Paradise" by the big pot outside!!</p>
+<p class="indent"><b>Yuffie</b>...I've been hearing that ever since I was little. Before I was born, Wutai was a lot more crowded and more important...<br/>You saw what it looks like now, right? ...JUST a resort town...<br/>After we lost the war, we got peace, but with that, we lost something else. Now look at Wutai...<br/>That's why... if I had lots of materia I could...</p>
+<p class="italic-inline">She starts crying.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>Listen, Yuffie. I don't care about the history of Wutai or your feelings.<br/>You've got our materia and I want it back... now.<br/>If you give it back now, we'll drop the whole thing.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>I'm sorry, Yuffie. I know how you feel, but we need materia too.<br/>...We just can't let you have it. Please understand.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>......Dammit, Yuffie. We ain't got time to be listening to your life story.<br/>If you want materia, get it yourself. That's how you should do it.</p>
+</blockquote>
+<p class="indent"><b>Yuffie</b><br/>I know. I know that...<br/>That... sniff... switch... the lever on the left...... materia's... sniff, hic... in there.</p>
+<p class="indent"><b>Barret</b><br/>Ain't nuthin' we can do about it...</p>
+<p class="indent"><b>Aerith</b><br/>I feel bad, but......</p>
+<p class="indent"><b>Tifa</b><br/>Now, the Materia...</p>
+<p class="indent"><b>Nanaki</b><br/>Were we a little too harsh on her?</p>
+<p class="indent"><b>Cait Sith</b><br/>Well, let's get our materia back.</p>
+<p class="indent"><b>Vincent</b><br/>There was nothing else to do.</p>
+<p class="indent"><b>Cid</b><br/>Hmmph... I dunno......</p>
+<p class="indent"><b>Cloud</b><br/>- Flip the Left Lever<br/>- Flip the Right Lever</p>
+<p class="italic">Regardless of which lever he pulls, a cage comes down atop the party members.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Wh...what the hell is this!?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Eyaaaaah</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Eyaaaaah</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Wh, what are you doing!?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Wh, what is this!?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>!?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Whoa!?</p>
+</blockquote>
+<p class="indent"><b>Yuffie</b><br/>Ha ha ha------! Never trust anyone that easily!! / Ha ha------! You should've listened!!<br/>The Materia's mine! Tough!<br/>You want your materia? Then go find it yourself!<br/>Yeah that's right. And when you're looking for the materia, remember you gotta steel it.<br/>He heh... steel... steel! Get it?<br/>C ya!!</p>
+<p class="italic">She runs off. If Cloud tries to run after her without helping the others...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Y, yo, wait up!!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Wait, don't leave us!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>W...wait don't leave us here!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Help us first!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Hey help us...please!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Wait, don't go by yourself!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hey! Help me first!</p>
+</blockquote>
+
+<p class="italic">Cloud frees the others from the cage and they go looking for her.<br/><br/>At the Turtle's Paradise...</p>
+<p class="indent"><b>Barkeeper</b><br/>Seems like the town got really boisterous since you arrived. Did anything happen?</p>
+<p class="indent"><b>Reno</b><br/>......It's just that we're off duty!<br/>I don't feel like drinking with you. And don't talk to me.</p>
+<p class="indent"><b>Rude</b><br/>.........</p>
+<p class="italic"><a name="corneo"></a>Cloud goes to the bell near Godo's house to find the gate open. When he rings the bell, a hidden door opens. Going inside, he finds Yuffie being abducted by a man in black.</p>
+<p class="indent"><b>Yuffie</b><br/>Let go! I SAID let GO!<br/>Hey! Who do you think I...... OW! What're you doin'...? Jerk!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>You......!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Oh! You're......!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Ww, who are you!?</p>
+</blockquote>
+<p class="indent"><b>Corneo</b><br/>......ho..... ...............ho.........<br/>Hohi, hohi! Hohihi!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>Corneo!?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Don Corneo!?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>The hell are you doing!</p>
+</blockquote>
+<p class="indent"><b>Corneo</b><br/>Hohi!<br/>I've finally got a new chicky!<br/>Two for one, in fact! Hohi, hohi!</p>
+<p class="indent"><b>Cloud, Tifa, or Cid</b><br/>Two!?</p>
+<p class="indent"><b>Elena</b><br/>H......hey! Let go of me! You're gonna regret this!!</p>
+<p class="indent"><b>Corneo</b><br/>Hohi, hohi! Hohihi!</p>
+<p class="italic">Corneo and his lackeys run off, and Cloud follows them into the shrine. Three Shinra soldiers cut Corneo off.</p>
+<p class="indent"><b>Shinra Soldier</b><br/>There he is! It's Corneo! Don't let him get away!<br/>Attaaaack!</p>
+<p class="italic">Corneo runs to the side, and the soldiers attack Cloud and the others instead. Back outside Godo's house, they find Reno and Rude.</p>
+<p class="indent"><b>Reno</b><br/>Hmm... that Corneo is good at escaping...</p>
+<p class="indent"><b>Rude</b><br/>......Elena.</p>
+<p class="indent"><b>Reno</b><br/>Let's go, Rude. We'll give them a taste of what the Turks can do.</p>
+<p class="italic">Rude nods and runs off.</p>
+<p class="indent"><b>Reno</b><br/>......Sounded pretty good.</p>
+<p class="italic-inline">He turns to Cloud.</p>
+<p class="block-inline">If Elena is in his hands, that's going to make things a little difficult.<br/>And uh...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>......Ok. Corneo took Yuffie from us.<br/>And without Yuffie, there's no way we'll get our materia back.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>......all right. Corneo stole Yuffie from us, as well.<br/>And without her, there's no way we'll get our materia back.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>......that's just beautiful! And now that *#$^@'s walked off with Yuffie, too!<br/>And without that brat, we can't get our hands on our materia!</p>
+</blockquote>
+<p class="indent"><b>Reno</b><br/>Don't misunderstand.<br/>We have no intention of joining you. But for now, we'll agree not to bother each other. That's all.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>That's fine. We have absolutely no intention of cooperating with the Turks either.<br/>Now, uh, just what direction did Corneo run off to?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>The same goes for us. We don't want to be friendly with the Turks.<br/>Now which direction did Corneo run off in?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Of course! There ain't no way we'd wanna join up with the Turks anyway!<br/>Anyhow, which direction did that %^$*&amp; run off in?</p>
+</blockquote>
+<p class="indent"><b>Reno</b><br/>Hmm, nice attitude. Here's a clue, it's the place that stands out the most.</p>
+<p class="italic-inline">Reno runs off.</p>
+<p class="indent"><b>Man on the Path to Godo's House</b><br/>Two girls just went off towards Da-chao. I wonder if that place is starting to become popular with the kids?<br/>One had herself all tangled up in a rope. And the other one kind of looked like Yuffie.</p>
+<p class="indent"><b>Little Kid</b><br/>Alright, alright, alright! I saw an old man in flashy clothes running towards Da-chao!<br/>He was babblin' somethin' and looked like he could float! It almost bowled me over!</p>
+<p class="italic">Cloud arrives at Da-chao.</p>
+<p class="indent"><b>Reno</b><br/>You're finally here. We're gonna split into two.<br/>You do whatever you want. But don't endanger Elena.<br/>Don't worry. We won't do anything to that girl, Yuffie.<br/>For now...</p>
+<p class="italic">Following Reno up the mountain...</p>
+<p class="indent"><b>Reno</b><br/>Don't fool around. You know the enemy's not gonna wait for us, right?</p>
+<p class="italic">Following Rude...</p>
+<p class="indent"><b>Rude</b><br/>......</p>
+<p class="italic">In the end they find Corneo holding Yuffie and Elena tied to the face of a statue, observing them from the palm of the statue's hand.</p>
+<p class="indent"><b>Yuffie</b><br/>LET... ME...... GO!!!!</p>
+<p class="indent"><b>Corneo</b><br/>Hmm! Delicious... scrumptious! I think I've just found a new HOBBY!<br/>Which shall it be? Hmm... Hmm...<br/>Should I go... with HER?</p>
+<p class="indent"><b>Elena</b><br/>He... hey, I'm one of the 'Turks'! Don't think you can get away with this!?</p>
+<p class="indent"><b>Corneo</b><br/>Or... maybe... HER?</p>
+<p class="indent"><b>Yuffie</b><br/>Oh GAWD! If I knew this was gonna happen, I would've taken rope escape lessons more seriously!!</p>
+<p class="indent"><b>Corneo</b><br/>Hmm!!! I've made my choice! My companion for the night will be......<br/>...the cheerful one!</p>
+<p class="indent"><b>Yuffie</b><br/>GROSS-NESS!<br/>Don't mess with me old man! You don't even have any Materia!</p>
+<p class="indent"><b>Corneo</b><br/>Oooooh! And she's saucy, too! Wheee! Wheee!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>All right, that's it!!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Hold it right there!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hey, hey, hey! That's as far as you go!</p>
+</blockquote>
+<p class="indent"><b>Corneo</b><br/>Hee-haw. What... what's goin' on!? Who's there?</p>
+<p class="italic">Cloud and the others run in.</p>
+<p class="indent"><b>Yuffie</b><br/>Oh man! Cloud......!</p>
+<p class="italic-inline">Or, if Tifa:</p>
+<p class="block-inline">Oh man! Tifa......!</p>
+<p class="italic-inline">Or, if Cid:</p>
+<p class="block-inline">Oh man! That old fart, Cid......!</p>
+<p class="indent"><b>Corneo</b><br/>Wheeel... long time no see.</p>
+<p class="indent"><b>Cloud</b><br/>Don't tell me you forgot...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>You damn Midgar hyena...!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>You just don't get it, do you...!?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>That fall into the trap really hurt!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Hurry and let the two go!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Listen you stupid, slimy, sleazy old scab bag! If you want to get women, there's such a thing as the RIGHT way!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>I don't care what you're doing, so much as the idiotic way you're doing it...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Maybe God'd forgive an ugly ^#@# like you, but I won't!</p>
+</blockquote>
+<p class="indent"><b>Corneo</b><br/>Be quiet! None of you know how much I've suffered since then...<br/>It's a long story, but......</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>I don't really care! Let Yuffie and Elena go!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>We don't want to hear it! Just let the two go!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>I don't really give a damn! You're gonna let the two girls go, or else I'm gonna break your arm!</p>
+</blockquote>
+<p class="indent"><b>Corneo</b><br/>Hmm... You guys are... serious. ......Good, good.<br/>...this ain't no time for me to be fooling around either...<br/>Why did you kill my little Aps?<br/>I'm gonna make you PLAY with my new pet, so you won't get in the way of my search for a bride!<br/>RAPPS---come here!!</p>
+<p class="italic">Cloud and the others fight and defeat Rapps.</p>
+<p class="indent"><b>Corneo</b><br/>Wait...<br/>Just wait a second!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>SHUT UP!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>You better say your prayers!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Don't be such a poor loser, old man!</p>
+</blockquote>
+<p class="indent"><b>Corneo</b><br/>Just listen to me - it won't take long.<br/>Why do you think a bad guy like me would swallow his pride and plead for his life?</p>
+<p class="indent"><b>Cloud, Tifa, or Cid</b><br/>- 1 Because he's ready to die<br/>- 2 Because he's sure to win<br/>- 3 Because he's clueless</p>
+<div class="block"/>
+  <p><span class="highlight">1 Because he's ready to die</span></p>
+  <p class="indent-nopad"><b>Corneo</b><br/>Hmm...! WRONG...!</p>
+
+<div class="block"/>
+  <p><span class="highlight">2 Because he's sure to win</span></p>
+  <p class="indent-nopad"><b>Corneo</b><br/>Hmm...! RIGHT!</p>
+
+<div class="block"/>
+  <p><span class="highlight">3 Because he's clueless</span></p>
+  <p class="indent-nopad"><b>Corneo</b><br/>Hmm...! Close, but no cigar...!</p>
+
+<p class="italic">Corneo pushes a button and Elena and Yuffie flip upside down.</p>
+<p class="indent"><b>Elena</b><br/>Eyaaaah...!</p>
+<p class="indent"><b>Yuffie</b><br/>Makes me so MAD...!</p>
+<p class="indent"><b>Corneo</b><br/>If I push this button, they'll fall upside down, and we'll have a SQUASHED TOMATOES!</p>
+<p class="indent"><b>Cloud</b><br/>Damn...!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Damn dirty-playin' $#%@&amp;T$*^%$!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>All right...</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Coward!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Grrrrrgh...!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>You sure are vulgar!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>......!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>So this is how a loser lives...!</p>
+</blockquote>
+<p class="indent"><b>Corneo</b><br/>Now, give me your women too!<br/>Ha, ha, ha, ha! I guess I'm the one laughing last!</p>
+<p class="indent"><b>Reno</b><br/>No, that would be us.</p>
+<p class="indent"><b>Corneo</b><br/>Hee-haw. What... what's goin' on!? Who's there?</p>
+<p class="italic">Enter Reno.</p>
+<p class="indent"><b>Corneo</b><br/>...The Turks!</p>
+<p class="indent"><b>Reno</b><br/>You knew this was gonna happen ever since you leaked that secret.<br/>We're going to take care of you... personally.</p>
+<p class="indent"><b>Corneo</b><br/>DAMMIT! Then they're all goin' with me!</p>
+<p class="italic">Rude runs in from behind and throws something at Corneo, who falls to the edge of the hand.</p>
+<p class="indent"><b>Corneo</b><br/>Ugh...!</p>
+<p class="indent"><b>Reno</b><br/>Good timing, Rude.</p>
+<p class="indent"><b>Rude</b><br/>...Let's get to work.</p>
+<p class="italic">Reno walks over to Corneo and steps on his fingers.</p>
+<p class="indent"><b>Reno</b><br/>All right, Corneo. This'll be over quick, so listen up.<br/>Why do you think we went to all the trouble of teaming up with those guys to get you...?<br/>1. Because we were ready to die<br/>2. Because we were sure of victory<br/>3. Because we were clueless</p>
+<p class="indent"><b>Corneo</b><br/>Two... Number two?</p>
+<p class="indent"><b>Reno</b><br/>All wrong.</p>
+<p class="italic-inline">He grinds his foot into Corneo's hand.</p>
+<p class="indent"><b>Corneo</b><br/>No...! Wait, sto......!</p>
+<p class="italic-inline">He loses his grip and falls.</p>
+<p class="block-inline">Aaaaaaaaaa......p</p>
+<p class="indent"><b>Reno</b><br/>The correct answer was...</p>
+<p class="indent"><b>Rude</b><br/>...because it's our job.</p>
+<p class="indent"><b>Elena</b><br/>Oh, thank you very much...!<br/>I never expected you'd to come help......</p>
+<p class="indent"><b>Reno</b><br/>Elena, don't act so weak.<br/>You're a Turks!</p>
+<p class="indent"><b>Elena</b><br/>Y... Yes, sir!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Never thought you'd come an' help us...</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Thanks for your help.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Th... Thanks.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>I'll just say you... helped.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>You guys have some good in you.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>It would appear thanks are in order...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>I guess, thanks for today.</p>
+</blockquote>
+<p class="indent"><b>Rude</b><br/>......</p>
+<p class="italic">Reno's cell phone rings, and he answers it.</p>
+<p class="indent"><b>Reno</b><br/>Yes... this is Reno.<br/>Yes... Yes... I'll get on it right away.</p>
+<p class="indent"><b>Elena</b><br/>Was that the company?</p>
+<p class="indent"><b>Reno</b><br/>Yeah, they want us to find Cloud...</p>
+<p class="italic">Cloud and the others ready their weapons.</p>
+<p class="indent"><b>Rude</b><br/>Are we on...?</p>
+<p class="indent"><b>Reno</b><br/>No, today we're off duty.</p>
+<p class="indent"><b>Yuffie</b><br/>Hey---who cares about that!? Get----me-----down----!</p>
+<p class="italic"><a name="return"></a>Back at Yuffie's house. She darts around putting the materia back in its slots.</p>
+<p class="indent"><b>Yuffie</b><br/>Phew, perfect. Now the materia is back in its rightful place.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>Hey... the placement of it is all messed up.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Hey, what is this...? The placement of it's all messed up!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>What the hell's goin' on!? The placement of the materia's all messed up!</p>
+</blockquote>
+<p class="indent"><b>Yuffie</b><br/>Huh? Oh, it'll be all right...<br/>Don't be so picky!<br/>Anyways, that sure was close......<br/>No, normally I would kick their butts, Boom, Bang!!</p>
+<p class="italic-inline">She shakes her fist and turns away.</p>
+<p class="block-inline">That Corneo guy's a real pain.</p>
+<p class="italic">Behind her back, Cloud and the others exchange looks.</p>
+<p class="indent"><b>Yuffie</b><br/>I'd rather deal with my dad than deal with that guy.</p>
+<p class="italic">Cloud and the others walk out.</p>
+<p class="indent"><b>Yuffie</b><br/>Oh, by the way, some of those guys from the Turks are good, huh?<br/>At least, after all that, we got the materia back.<br/>Now come on everybody, let's continue our journey...</p>
+<p class="italic-inline">She turns around to notice they've gone.</p>
+<p class="block-inline">......Hey!! W...... Wait!<br/>Oh, all right. Here, I'll give this to you guys.</p>
+<p class="italic-inline">She runs into her room to grab something and comes back out.</p>
+<p class="block-inline">Here, look, look!</p>
+<div class="highlight"/><p>Received "MP Absorb" Materia!</p>
+<p class="indent"><b>Yuffie</b><br/>.........<br/>Come on, wait---!</p>
+<p class="italic-inline">She runs out after them.</p>
+<p class="block-inline">No matter what anyone says, I'm going with you!<br/>...next time......</p>
+<hr></hr>
+<p class="italic"><a name="pagoda"></a>After everything has died down, they can go back to Wutai so Yuffie can climb the pagoda.</p>
+<p class="indent"><b>Woman Walking near River</b><br/>Materia is like Life. They both come from the large ocean of life, and both must return to it.</p>
+<p class="italic">In the Weapons Shop...</p>
+<p class="indent"><b>Man</b><br/>Listen, I'm sorry about last time. Yuffie told me not to sell anything to you.</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>Hey yo! Welcome!<br/>Strike while the iron's hot, I say! We got some of the best blades right out of the furnace!</p>
+<p class="indent"><b>Little Kid</b><br/>Alright, alright, alright! I know!<br/>On the side of the mountain, right there in your face is Da-chao!<br/>I hear you can climb to the top, but since it's dangerous I'd be mighty careful if I were you!<br/>Why Da-chao? Alright, alright, alright! I don't know!</p>
+<p class="italic">Cloud and the others enter the pagoda.</p>
+<p class="italic">If Yuffie is in the party and they try to proceed to the second floor without fighting...</p>
+<p class="indent"><b>Gorky</b><br/>Freeze!<br/>Miss Yuffie! You cannot go on to the second floor until you defeat me!</p>
+<p class="indent"><b>Gorky</b><br/>Oh, Miss Yuffie! Will you be climbing the pagoda today?</p>
+<p class="indent"><b>Yuffie</b><br/>- Yeah, that's it<br/>- No way!</p>
+<p class="indent"><b>Gorky</b><br/>Then I, Sacred Gorky, will be your opponent on the first floor!</p>
+<p class="italic">A boy runs down from upstairs.</p>
+<p class="indent"><b>Shake</b><br/>Yo! They call me Shake! I'll be watchin' your fight with Gorky!</p>
+<p class="indent"><b>Gorky</b><br/>Then, begin!<br/>Power Change!</p>
+<p class="italic">Yuffie fights Gorky.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If she loses...</span></p>
+  <p class="indent-nopad"><b>Gorky</b><br/>It's just my opinion, but you need more training! Gorky is disappointed!</p>
+  <p class="indent-nopad"><b>Shake</b><br/>No good! You have to do Gorky! Are you mocking this Pagoda?</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>Shut up! Shut up! SHADDUP!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If she wins...</span></p>
+  <p class="indent-nopad"><b>Gorky</b><br/>Here I am, Miss Yuffie!</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>Of course!</p>
+  <p class="indent-nopad"><b>Shake</b><br/>Hmm, I thought you were just a wild girl, but you handled that pretty well!<br/>Well, we'll see how you do on next one...</p>
+
+<p class="italic">Shake goes upstairs, and Yuffie follows.</p>
+<p class="indent"><b>Yuffie</b><br/>Who's next?</p>
+<p class="indent"><b>Shake</b><br/>Are you blind? I'm right here!</p>
+<p class="indent"><b>Yuffie</b><br/>What? I gotta fight a punk?</p>
+<p class="indent"><b>Shake</b><br/>Heh! Punk. I'm more of an adult than some bimbo girl!</p>
+<p class="indent"><b>Yuffie</b><br/>Wh, what did you say!?</p>
+<p class="indent"><b>Shake</b><br/>See what I mean? That kind of anger's what makes you so immature!<br/>Don't pat yourself on the back until you beat me!</p>
+<p class="indent"><b>Yuffie</b><br/>Now watch...!</p>
+<p class="indent"><b>Shake</b><br/>'bout the only thing you do really good is breathe! Sure you're brave enough to fight!</p>
+<p class="indent"><b>Yuffie</b><br/>- Stop yappin'!<br/>- I'll forgive you</p>
+<div class="block"/>
+  <p><span class="highlight">Stop yappin'!</span></p>
+  <p class="indent-nopad"><b>Shake</b><br/>Hm, so someone finally got past Gorky.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I'll forgive you</span></p>
+  <p class="indent-nopad"><b>Shake</b><br/>So when it comes down to it, you're just all talk. Brat!</p>
+
+<p class="italic">A woman comes down from upstairs.</p>
+<p class="indent"><b>Chekhov</b><br/>So, I guess it's time for Chekhov to stand in...</p>
+<p class="indent"><b>Shake</b><br/>Here I go, brat! Speed Change!</p>
+<p class="italic">If Yuffie tries to go to the next floor prematurely...</p>
+<p class="indent"><b>Shake</b><br/>Hey, you there! Don't ignore me!</p>
+<p class="italic">Yuffie fights Shake.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If she loses...</span></p>
+  <p class="indent-nopad"><b>Shake</b><br/>HYAAAAAAH! BRATBRATBRATBRAT!!</p>
+  <p class="indent-nopad"><b>Chekhov</b><br/>You can't go to the next floor unless you beat Shake.</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>Shut up! Shut up! SHADDUP!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If she wins...</span></p>
+  <p class="indent-nopad"><b>Shake</b><br/>URRGRAAAAGH! So you CAN fight a bit!</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>Of course!</p>
+  <p class="indent-nopad"><b>Chekhov</b><br/>Ho, ho, ho... It's been a while since I felt pain...</p>
+
+<p class="italic">Chekhov goes upstairs, and Yuffie follows. A man comes down from the fourth floor.</p>
+<p class="indent"><b>Staniv</b><br/>So even Shake's been defeated. It's been a while since you had to fight, Chekhov.</p>
+<p class="indent"><b>Chekhov</b><br/>Unfortunately, this is as far as it goes. Staniv, you watch over there.</p>
+<p class="indent"><b>Yuffie</b><br/>That ain't going to happen! I'll teach you about the strength of youth!</p>
+<p class="indent"><b>Chekhov</b><br/>Keep mouthing off like that, little girl, and you're going to get burned.</p>
+<p class="indent"><b>Yuffie</b><br/>- I got insurance<br/>- Let's get this over with, old bag</p>
+<div class="block"/>
+  <p><span class="highlight">I got insurance</span></p>
+  <p class="indent-nopad"><b>Chekhov</b><br/>Ho, ho, ho. We'll see if you still talk like that after you taste some of my Sacred Magic...<br/>Magic Change!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Let's get this over with, old bag</span></p>
+  <p class="indent-nopad"><b>Chekhov</b><br/>Ho, ho, ho. What do you expect from a child barely out of diapers!?</p>
+
+<p class="indent"><b>Staniv</b><br/>First, Chekhov will keep you company...</p>
+<p class="italic">If Yuffie tries to go to the next floor prematurely...</p>
+<p class="indent"><b>Chekhov</b><br/>How dare they mock us like that, thinking they could sneak past us.</p>
+<p class="italic">Yuffie fights Chekhov.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If she loses...</span></p>
+  <p class="indent-nopad"><b>Chekhov</b><br/>Ho, ho, ho! What does a immature young child know...?</p>
+  <p class="indent-nopad"><b>Staniv</b><br/>So this IS the average person's limit...</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>Shut up! Shut up! SHADDUP!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If she wins...</span></p>
+  <p class="indent-nopad"><b>Chekhov</b><br/>I can't believe you beat me...</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>Of course!</p>
+  <p class="indent-nopad"><b>Staniv</b><br/>This should be interesting...! It's been a long time since I've had a chance to use my powers to their fullest...</p>
+
+<p class="italic">Staniv goes upstairs, and Yuffie follows.</p>
+<p class="indent"><b>Staniv</b><br/>The rule is the best fighter on each floor will be your opponent... Although it's a five-storied pagoda, the fourth floor is the highest...<br/>In other words, no one has ever defeated me--Master of Weaponry!<br/>You still want to try...?</p>
+<p class="indent"><b>Yuffie</b><br/>- Just come on!!<br/>- I'll pass!</p>
+<div class="block"/>
+  <p><span class="highlight">Just come on!!</span></p>
+  <p class="indent-nopad"><b>Staniv</b><br/>I like you! Now watch...<br/>Weapon Change!</p>
+
+<div class="block"/>
+  <p><span class="highlight">I'll pass!</span></p>
+  <p class="indent-nopad"><b>Staniv</b><br/>You don't seem like the kind of person who can make it to the fourth floor without a problem...</p>
+
+<p class="italic">If Yuffie tries to go to the next floor prematurely...</p>
+<p class="indent"><b>Staniv</b><br/>HAAAAH!</p>
+<p class="italic">The door closes.<br/><br/>Yuffie fights Staniv.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If she loses...</span></p>
+  <p class="indent-nopad"><b>Staniv</b><br/>How unfortunate! It was over before I could even put all of my strength into it...</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>Shut up! Shut up! SHADDUP!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If she wins...</span></p>
+  <p class="indent-nopad"><b>Staniv</b><br/>Wh, what...!?</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>Of course!</p>
+
+<p class="italic">The others start coming up from the lower floors.</p>
+<p class="indent"><b>Gorky</b><br/>Splendid! Your level and skills have improved...</p>
+<p class="indent"><b>Shake</b><br/>Oh, ho! You might not be as much of a child as we thought you were!</p>
+<p class="indent"><b>Chekhov</b><br/>Of course. If WE lost to her...</p>
+<p class="indent"><b>Staniv</b><br/>You have defeated four of our best, but now you will have to face HIM......!</p>
+<p class="italic">He goes upstairs, and the others follow. Yuffie finds the four of them assembled on the fifth floor, along with Godo.</p>
+<p class="indent"><b>Gorky</b><br/>......</p>
+<p class="indent"><b>Shake</b><br/>Sh......!</p>
+<p class="indent"><b>Chekhov</b><br/>...</p>
+<p class="indent"><b>Staniv</b><br/>......</p>
+<p class="indent"><b>Yuffie</b><br/>D, ...Dad!?</p>
+<p class="indent"><b>Godo</b><br/>I'm glad you made it this far, Yuffie!</p>
+<p class="indent"><b>Yuffie</b><br/>Why, why are you......</p>
+<p class="indent"><b>Godo</b><br/>I'll answer you by having you try your skills against me!<br/>Hold nothing back. Come as if you're trying to kill me! If you don't... then I'll have to kill you!</p>
+<p class="indent"><b>Yuffie</b><br/>H... hey!</p>
+<p class="indent"><b>Godo</b><br/>What are you doing! OMNI-Change! ......!!</p>
+<p class="italic">Yuffie fights Godo.<br/><br/>If she loses...</p>
+<p class="indent"><b>Yuffie</b><br/>Dammit......</p>
+<p class="indent"><b>Godo</b><br/>Ohhh! And what was that!? Come back when you get more training!</p>
+<p class="italic">When Yuffie tries again...</p>
+<p class="indent"><b>Yuffie</b><br/>I'll show you this time, you old Fart-meister!</p>
+<p class="indent"><b>Godo</b><br/>Hmm? A slight improvement.<br/>Come at me with all you have! OMNI-Change! ......!!</p>
+<p class="italic">After winning the battle, both lie sprawled on the floor panting.</p>
+<p class="indent"><b>Yuffie</b><br/>...heave...... heave...</p>
+<p class="indent"><b>Godo</b><br/>...huff...... puff......</p>
+<p class="indent"><b>Yuffie</b><br/>O... old coot... n...... ot... bad...</p>
+<p class="indent"><b>Godo</b><br/>You've...... also...... improved...</p>
+<p class="indent"><b>Yuffie</b><br/>Hah... Ha, ha......</p>
+<p class="indent"><b>Godo</b><br/>...Heh, heh......</p>
+<p class="indent"><b>Yuffie</b><br/>Ha ha haaaaaa......!</p>
+<p class="indent"><b>Godo</b><br/>Waha haaaaa......!</p>
+<p class="italic">They eventually get up off the floor and compose themselves.</p>
+<p class="indent"><b>Godo</b><br/>It's time I gave this to you, Yuffie...<br/>This is Leviathan Materia. Take it.</p>
+<div class="highlight"/><p>Received "Leviathan" Materia!</p>
+<p class="indent"><b>Staniv</b><br/>But, Lord Godo. The Leviathan Materia should only be given to the person who conquers and takes over this Pagoda. That is our custom...</p>
+<p class="indent"><b>Yuffie</b><br/>CUSTOM, CUSTOM, CUSTOM... I'm so sick of hearing that!<br/>It's so stupid!</p>
+<p class="indent"><b>Gorky</b><br/>Silence, Miss Yuffie!</p>
+<p class="indent"><b>Yuffie</b><br/>Then what 'bout the rest of you? You have all that power...<br/>Are you satisfied being cooped up in this tower?</p>
+<p class="indent"><b>Godo</b><br/>Yuffie...!</p>
+<p class="indent"><b>Yuffie</b><br/>You too, dad...! Just because you lost the war!<br/>And turning Wutai into a place like this!</p>
+<p class="indent"><b>Chekhov</b><br/>...What do you want to say?</p>
+<p class="indent"><b>Yuffie</b><br/>You turned Wutai into a cheesy resort town peddling to tourists...<br/>How dare you!? Da-chao Statue and Leviathan are ashamed!!</p>
+<p class="indent"><b>Godo</b><br/>...</p>
+<p class="indent"><b>Shake</b><br/>She IS a kid.</p>
+<p class="indent"><b>Yuffie</b><br/>Wh, what did you say...!?</p>
+<p class="indent"><b>Godo</b><br/>Yuffie!!<br/>Forgive me... It's all my fault...</p>
+<p class="indent"><b>Gorky</b><br/>What are you saying, Lord Godo!</p>
+<p class="indent"><b>Godo</b><br/>Losing the war... turning Wutai into this. It was all my fault...</p>
+<p class="indent"><b>Chekhov</b><br/>Lord Godo!</p>
+<p class="indent"><b>Godo</b><br/>Silence!!<br/>Yuffie......<br/>I am the same now as I was before when I wanted the war.<br/>But, after I lost the war, I began to think...<br/>Is strength, only for defeating the enemy?<br/>...or just something to show-off to others...?<br/>Might begets might.<br/>That's the same way as the Shinra...</p>
+<p class="indent"><b>Yuffie</b><br/>......</p>
+<p class="indent"><b>Godo</b><br/>I knew you were looking for Materia for the good of Wutai.<br/>But, the reason I hide my strength now, is also for the good of Wutai...<br/>And now, I realize both are necessary...<br/>Strength without determination means nothing. And determination without strength is equally useless...!</p>
+<p class="indent"><b>Staniv</b><br/>Lord Godo...</p>
+<p class="indent"><b>Godo</b><br/>You there, please take Yuffie with you!<br/>I perceive that you all have both determination and strength!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Jes' don't do nothin' funny to our Materia...!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>All right. We'll take your daughter with us.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>...after that, how can we refuse?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>As long as she doesn't get in our way...!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>If you put it that way, we can't refuse...</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Hmm... You may come if you want to...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Well, just tell yourself you're on a big ship, and leave the rest to ol' Cid!</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>All right, I don't mind.</p>
+<p class="indent"><b>Godo</b><br/>Go, Yuffie!<br/>For the sake of strengthening Wutai!</p>
+<p class="indent"><b>Yuffie</b><br/>Dad...</p>
+<p class="indent"><b>Godo</b><br/>I'll take care of the Five Sacred Gods until you return!<br/>Go! And come back alive!</p>
+<p class="indent"><b>Yuffie</b><br/>......<br/>Of course!</p>
+<p class="italic">Everyone else files out, and Yuffie starts to follow them.</p>
+<p class="indent"><b>Godo</b><br/>Yuffie, wait a minute.<br/>The Materia they all have...<br/>After their battle is over, you think they'll still want it?</p>
+<p class="indent"><b>Yuffie</b><br/>Dad...!</p>
+<p class="indent"><b>Godo</b><br/>Go! Survive till the end! And return!<br/>With the Materia!</p>
+<p class="indent"><b>Yuffie</b><br/>Heh, heh... you bet!</p>
+<p class="italic-inline">She runs off.</p>
+<p class="indent"><b>Godo</b><br/>Go! Survive to the end! And return to us!<br/>Mat-...<br/>Take care of the Materia!!</p>
+<p class="indent"><b>Staniv</b><br/>Miss Yuffie. Your feelings for Wutai are the same as Lord Godo's. Always remember that...</p>
+<p class="indent"><b>Chekhov</b><br/>Fight so that you never bring shame on Wutai.</p>
+<p class="indent"><b>Shake</b><br/>You say there's some unusual materia where the underground pipe is!?<br/>But, first you gotta get if from a monster and unless you use your head. You won't be able to do it.</p>
+<p class="indent"><b>Gorky</b><br/>Miss Yuffie. We pray for your success!</p>
+<p class="italic">Cloud and the others leave Wutai and return to their quest.</p>
+
+</scene>

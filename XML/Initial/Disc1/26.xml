@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="Gongaga2">
+
+
+
+<h1>Gongaga - Afraid to Go On</h1>
+<hr></hr>
+<p class="italic">Cloud wakes in the Gongaga inn. Barret and Tifa are at his bedside.</p>
+<p class="indent"><b>Barret</b><br/>You look like you was havin' a nightmare.<br/>How are you feeling?</p>
+<p class="indent"><b>Cloud</b><br/>- I seem to be OK<br/>- Not good<br/>- Don't really know</p>
+<div class="block"/>
+  <p><span class="highlight">I seem to be OK</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>That's good. Man, I didn't know what was gonna happen.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Not good</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>Oh... Better keep it to yourself.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Don't really know</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>I guess that's right. Well, don't worry too much about it.</p>
+
+<p class="indent"><b>Tifa</b><br/>You know, Cloud. Aerith is gone.</p>
+<p class="indent"><b>Barret</b><br/>Everyone's out looking for Aerith.</p>
+<p class="italic">Cloud sits up.</p>
+<p class="indent"><b>Cloud</b><br/>......City of the Ancients. Aerith is headed there.</p>
+<p class="indent"><b>Barret</b><br/>By herself!? Why did she go by herself!?<br/>Hey, we're goin' too.</p>
+<p class="indent"><b>Cloud</b><br/>Only the Ancients, only Aerith can save us from Meteor...</p>
+<p class="indent"><b>Tifa</b><br/>Then we must go. What'll we do if something happens to Aerith? If Sephiroth finds her, she's in trouble.</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth... already knows.</p>
+<p class="indent"><b>Barret</b><br/>Hey! Why are you still sittin' around?</p>
+<p class="indent"><b>Tifa</b><br/>Let's go, Cloud.</p>
+<p class="indent"><b>Cloud</b><br/>No.</p>
+<p class="italic-inline">He clutches his head.</p>
+<p class="block-inline">I might lose it again.<br/>If Sephiroth comes near me<br/>I might......</p>
+<p class="indent"><b>Barret</b><br/>Yeah, godammit! It's 'cuz of you that Sephiroth got the Black Materia in the first place. It's your damn fault!</p>
+<p class="indent"><b>Cloud</b><br/>My fault?</p>
+<p class="indent"><b>Barret</b><br/>I know you got problems... hell, we all do. But you don't even understand yourself.<br/>But you gotta understand that there ain't no gettin' offa this train we're on, till we get to the end of the line.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud, we came this far... Aren't you going to settle up with Sephiroth?</p>
+<p class="indent"><b>Cloud</b> (shaking his head)<br/>No...<br/>I'm afraid.<br/>If this keeps up, I may go crazy!<br/>I'm afraid...</p>
+<p class="indent"><b>Barret</b><br/>Just a damn jackass, that's what you are...<br/>Yo, jes' think about it... How many people in this world do ya think really understand themselves?<br/>People get depressed in life because they don't know what's up.<br/>But, they go on living. They don't run away... Isn't that how it is?</p>
+<p class="italic-inline">He walks out of the room.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud... you'll come with us, right? I believe in you.</p>
+<p class="italic-inline">She walks out after Barret.</p>
+<p class="indent"><b>Cloud</b><br/>What... am I supposed to do?<br/>Pull out of here?<br/>Pull out? ...To where?</p>
+<p class="indent"><b>Tifa</b> (from the next room)<br/>Cloud...</p>
+<p class="indent"><b>Barret</b><br/>Wait a minute, Tifa. Give him a little time.<br/>He has to decide this on his own.<br/>You believe in Cloud... right?</p>
+<p class="italic">He leaves the inn, and Tifa follows reluctantly.</p>
+<p class="indent"><b>Cloud</b><br/>......I'm afraid to find out the truth...? But...... why?</p>
+<p class="italic-inline">He gets to his feet.</p>
+<p class="indent"><b>Innkeeper</b><br/>You awake?<br/>Those people were so worried that they stayed by your side until you woke up.<br/>You sure do have good friends.</p>
+<p class="italic">Cloud walks outside.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud...</p>
+<p class="indent"><b>Barret</b><br/>Hey, how are you?<br/>I just wanna know, which is it gonna be?<br/>You wanna find out about yourself? Or are you afraid to find out?<br/>Either way, you stay around here and about all you can do is worry about it.<br/>Even if you do go nuts again when you see Sephiroth... If it happens, it happens.<br/>I'll go upside your spikey white head and bring you back to normal!</p>
+<p class="indent"><b>Tifa</b><br/>Cloud, it'll be all right. We're all with you.</p>
+<p class="indent"><b>Cloud</b><br/>But...</p>
+<p class="indent"><b>Barret</b><br/>If it happens, it happens. Don't worry 'bout it.</p>
+<p class="indent"><b>Cloud</b><br/>...You're... right. ......He's right, isn't he?</p>
+<p class="indent"><b>Tifa</b><br/>Come on, let's go and find Aerith...?</p>
+<p class="italic">Together, they leave Gongaga to search for Aerith.</p>
+
+</scene>

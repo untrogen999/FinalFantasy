@@ -1,0 +1,173 @@
+<scene name="CityOfTheAncients">
+
+
+
+<h1>The City of the Ancients - Aerith's Sacrifice</h1>
+
+<h4><a href="#search">Searching for Aerith</a></h4>
+<h4><a href="#death">Aerith's Death</a></h4>
+<h4><a href="#resolution">Cloud's Resolution</a></h4>
+<hr></hr>
+<p class="italic"><a name="search"></a>Cloud and the others reach the City of the Ancients, a forebodingly deserted place. Going too far north along the path causes Cloud's companions to stop him.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Hey yo! Wait up.<br/>That way goes to the Mountains up north. Let's hurry and find Aerith.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Hey, hey Cloud.<br/>If we continue this way, we'll end up in the Northern Mountains. Aerith isn't over there, right?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Wait!<br/>That road leads to the Northern Mountains. We have to go the other way to find Aerith.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Ahhh--- I can't go another step!!<br/>We're looking for Aerith, right! Then why are you heading for the mountains!? What a dork!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Wa------it!<br/>Cloud, uh that's the road to the Northern Mountains.<br/>Aerith is waiting, let's go find her.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Wait, Cloud.<br/>This is the road to the Northern Mountains. Don't you want to find Aerith?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>H...ey, Cloud.<br/>You thinkin' of going skiing? If we wanna find Aerith, we go THAT way!</p>
+</blockquote>
+<p class="italic">After exploring the city and finding it empty, Cloud and the others enter the one shell house that's still in tact. Cloud touches one of the glowing orbs.</p>
+<p class="indent"><b>Cloud</b><br/>...Ugh.<br/>...Words of the Ancients?<br/>...no good. I can't understand.<br/>...Ugh, again?<br/>This stream of consciousness... Could this be the words of the Ancients...?</p>
+<p class="italic">Upstairs, there are several beds.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>heh, there's a bed.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Do you think the people who used to live here used it?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Look, there's a bed here.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>How COOL! I can't believe we found such a soft bed in a dive like this.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>We're in luck. There's a bed in here.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>I wonder if the owners used this?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Yeah, and it looks pretty comfortable.</p>
+</blockquote>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Yo, Cloud. Let's take a break here.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Shall we take a break here?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Hey, let's rest a bit. I'm tired...</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Come on--, let's rest for a while--- I don't want to walk anymore...</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Cloud, why don't we catch 40?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Maybe we should take a short nap?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>I'm beat. Why don't we get some rest?</p>
+</blockquote>
+<p class="italic">They go to sleep, but Cloud wakes in the middle of the night.</p>
+<p class="indent"><b>Cloud</b><br/>I feel it...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Cloud, what is it?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Cloud... what's wrong?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>What's wrong? Are you sick?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Hey---, Cloud. What's your problem?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>What's wrong? What time is it...?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...What's wrong?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Do you know what TIME it is!?</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>Aerith is here.<br/>...and so is Sephiroth.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Wh, what! Sephiroth!?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>You're saying it's not just Aerith, but Sephiroth, too?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>What! Sephiroth's here too!?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>No way---! Sephiroth wasn't invited!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Are you serious, Cloud!?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...If that's true, then we're in for it.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Wa, wa, wait a minute. You serious!?</p>
+</blockquote>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>How do you know that?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>But how can you tell?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>How did you find out?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Wh...why? How can you tell that kind of stuff?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>But how can you tell that?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...How did you find that out?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hey, how do you know!?</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>...it's not an excuse. I feel it in my soul.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Then, we better get up offa our lazy asses!!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>If that's true, then we've got to hurry! We've got to get to Aerith!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Wh, ...what should we do? We must hurry to her!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>That means it's pretty bad... doesn't it?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>If that's true, then we're in for it! We have to find Aerith fast!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>If that's true, we should hurry. Something terrible could happen at any moment.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Shit, Cloud. We can't be sittin' around on our asses.</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>...right. Let's hurry and find Aerith.</p>
+<p class="italic">They go down the path from the house a ways and Cloud stops.</p>
+<p class="indent"><b>Cloud</b><br/>Aerith's voice...... Coming from there?</p>
+<p class="italic"><a name="death"></a>They go to the shell house near the lake and find a hidden stairway down to the altar where Aerith is praying. Cloud and the others stop on the platform below the stepping-stone pillars.</p>
+<p class="indent"><b>Cloud</b><br/>Aerith?</p>
+<p class="italic">He starts up on his own, gesturing for the others to stay back. Upon reaching Aerith, he draws his sword and moves to attack her.</p>
+<p class="indent"><b>All</b><br/>Cloud!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Stop it!!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Stop!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>What are you doing!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Sto----p!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>What are you doing!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Stop it!</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Dumb #^%@!</p>
+</blockquote>
+<p class="italic">Their voices stop him and he shakes his head, lowering his sword and stepping back.</p>
+<p class="indent"><b>Cloud</b><br/>Ugh... what are you making me do.</p>
+<p class="italic">Aerith looks up from her prayer with a smile, and Sephiroth leaps down from above to impale her. As he pulls the Masamune back out of her, the White Materia comes loose from her hair and bounces down the steps. Cloud moves to take Aerith in his arms as she falls.</p>
+<p class="indent"><b>Cloud</b><br/>...Aerith.</p>
+<p class="italic-inline">He shakes her.</p>
+<p class="block-inline">This can't be real!</p>
+<p class="indent"><b>Sephiroth</b> (arms raised)<br/>Do not worry. Soon the girl will become part of the Planet's energy.<br/>All that is left is to go North. The 'Promised Land' waits for me over the snowy fields.<br/>There, I will become a new being by uniting with the planet. As will this girl......</p>
+<p class="indent"><b>Cloud</b><br/>...Shut up.<br/>The cycle of nature and your stupid plan don't mean a thing.<br/>Aerith is gone.<br/>Aerith will no longer talk, no longer laugh, cry...... or get angry......<br/>What about us...... what are WE supposed to do?<br/>What about my pain?<br/>My fingers are tingling.<br/>My mouth is dry.<br/>My eyes are burning!</p>
+<p class="italic">Sephiroth lowers his arms.</p>
+<p class="indent"><b>Sephiroth</b><br/>What are you saying? Are you trying to tell me you have feelings too?</p>
+<p class="italic">Cloud stands and turns to face Sephiroth.</p>
+<p class="indent"><b>Cloud</b><br/>Of course! Who do you think I am!?</p>
+<p class="indent"><b>Sephiroth</b><br/>Ha, ha, ha...... Stop acting as if you were sad.<br/>There's no need to act as though you're angry either.</p>
+<p class="italic-inline">He pushes off the floor to hover several feet above Cloud.</p>
+<p class="block-inline">Because, Cloud. You are...</p>
+<p class="italic">Sephiroth flies off, and Cloud and the others are left to fight Jenova∙LIFE.</p>
+<p class="indent-grey"><b>Jenova</b><br/>Beacause, you are...... a puppet.</p>
+<p class="indent-grey"><b>Cloud</b><br/>I'm....... a puppet?</p>
+<p class="italic">Barret looks at Aerith, shakes his head, touches Cloud's shoulder, and walks off.<br/>
+Tifa kneels to trace Aerith's face with her hand and then runs off crying.<br/>
+Nanaki looks at Aerith, shakes his head, howls, and pads down the stairs.<br/>
+Yuffie clasps her hands and bows her head. She walks to Cloud, and he holds her while she cries. Eventually she calms and runs off.<br/>
+Cait Sith looks at Aerith, then at Cloud. He does a half-hearted dance, then leaves with his head lowered.<br/>
+Vincent looks at Aerith, then at Cloud, and walks away.<br/>
+Cid looks at Aerith, sighs, and leaves.<br/>
+Once everyone has said goodbye, Cloud lifts Aerith and carries her to the lake, where he lets her body sink into the water.</p>
+<hr></hr>
+<p class="italic"><a name="resolution"></a>Cloud and the others stand in the shell house where they slept earlier.</p>
+<p class="indent"><b>Cloud</b><br/>Everyone, listen to me.<br/>I'm Cloud, ex-SOLDIER, born in Nibelheim.<br/>I came to settle up with Sephiroth.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>What're ya tryin' to say?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>...What's going on?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>...Hmm?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Why now?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Why're you being so formal? Is something wrong?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...You're right.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>I heard that before.</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>I came here by my own free will... Or so I thought.<br/>However...<br/>...To tell the truth, I'm afraid of myself.<br/>...There is a part of me that I don't understand.<br/>That part that made me give the Black Materia to Sephiroth.<br/>If you hadn't stopped me, Aerith might have been...<br/>...There's something inside of me. A person who is not really me.<br/>That's why I should quit this journey.<br/>Before I do something terrible.</p>
+<p class="italic-inline">He makes a fist and shakes his head slowly.</p>
+<p class="block-inline">But I am going.<br/>He destroyed my hometown five years ago, killed Aerith, and is now trying to destroy the Planet. I'll never forgive... Sephiroth.<br/>I... I must go on.<br/>...I have a favor to ask of you.<br/>Will you all come with me?<br/>...to save me from doing something terrible.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>...I dunno, man...</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>...But, Cloud.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>...All right, Cloud.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Leave it to me!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Watch you?...... We're all in this together!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...I guess so.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Well, we'll face it when it happens.</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>I don't know how Aerith tried to save the planet from the Meteor.<br/>And I guess now, we'll never know.<br/>But!<br/>We still have a chance. We must get that Black Materia back before Sephiroth uses it.<br/>Let's go.</p>
+<p class="italic">Cloud leads the way from the shell house and they walk down the path a ways.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Which way'd that damn foo' Sephiroth go?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Sephiroth... I wonder which way he went?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Sephiroth... Which way did he go?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Ummm... Which way did that Sephiroth guy go?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>I wonder which way Sephiroth went?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Which way did Sephiroth head?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>...Which way did that creep Sephiroth go!?</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>...ugh.</p>
+<p class="italic-inline">He sees a flickering image of Sephiroth walking the path to the north.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Hey, you awright?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Cloud! Get a hold of yourself!!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>You all right?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Wait! Get a hold of yourself!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Cloud! Are you all right?</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>...you all right?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Ey, hey! You alright?</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>Hmmm...<br/>Sephiroth said to me... Head North............ past the Snow Fields......</p>
+<p class="italic">They follow the path northward through Corral Valley Cave and out into the snow fields, after Sephiroth.</p>
+
+</scene>

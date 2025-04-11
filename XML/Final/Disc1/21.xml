@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="RocketTown">
+
+
+
+<sp> Rocket Town - Meeting Cid </sp>
+
+<sp> Exploring the Town </sp>
+<sp> The Tiny Bronco </sp>
+<sp> Captain Cid </sp>
+<sp> Shera's Story </sp>
+<sp> The Shinra's Arrival </sp>
+
+<stage>After passing through the Nibel Mountains, Cloud and the others reach Rocket Town.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's that...!? </sp>
+<stage>He looks up to see the rocket.</stage>
+<sp> <boxstart/>A rusty old rocket... Wonder what they'd make something that huge for? </sp>
+<stage>In the Weapons Shop...</stage>
+<sp> <speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>A gun is a MAN'S weapon! Ain't nuthin' else'll do!<boxstart/>Let me handle all your weapon and accessory needs! </sp>
+<stage>At the Shanghai Inn...</stage>
+<sp> <speaker name="Man Looking at Painting">Man Looking at Painting</speaker><boxstart/>Hmm. Is it real or fake? </sp>
+<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Would you like something to drink? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Let me hear your story<boxstart/>- Not interested </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Let me hear your story </sp>
+  <sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Did you meet the Captain already? He's really the town's representative, so you should really talk with him. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Not interested </sp>
+  <sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>......that's too bad. Please come again. </sp>
+
+<sp> <speaker name="Man at Table">Man at Table</speaker><boxstart/>Better ask the Captain about this town. He's the one in charge of it. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Captain?<boxstart/>- Did you see a man in a Black Cape? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Captain? </sp>
+  Who's the 'Captain'?
+  <sp> <speaker name="Man at Table">Man at Table</speaker><boxstart/>The Captain was a pilot when Shinra was still interested in their Space Program.<boxstart/>He was going to be the world's first astronaut, but there was an accident...<boxstart/>Ever since then, he's been wasting his life away here dreaming about going into outer space. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Did you see a man in a Black Cape? </sp>
+  <sp> <speaker name="Man at Table">Man at Table</speaker><boxstart/>A man in a Black Cape? Nope... don't know a thing about it. </sp>
+
+<sp> <speaker name="Man at Table">Man at Table</speaker><boxstart/>A drink will ease your heart... </sp>
+<sp> <speaker name="Man in Bathroom">Man in Bathroom</speaker><boxstart/>...I'm in here.<boxstart/>P...... Urrrrgh... aaaaaghh...<boxstart/>Urrrrgh, urrrgh </sp>
+<stage>Back outside...</stage>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>That rusted out rocket is all that remains of the Shinra's Space Program. </sp>
+<sp> <speaker name="Mechanic">Mechanic</speaker><boxstart/>Everyone in this town was a mechanic back when they were planning to launch the rocket. </sp>
+<stage>Inside the house on the left...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Mmm, I'm so bored. Isn't there anything that can get me excited? </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Geeeeez, it's boring! Isn't anything exciting going to happen here? </sp>
+<sp> <speaker name="Old Man outside Item Shop">Old Man outside Item Shop</speaker><boxstart/>This used to be a Shinra base where they used to launch rockets.<boxstart/>You saw the leaning rocket, right? That's Shinra No. 26. It never got off the ground though.<boxstart/>It just looms there. That's how the town got its name... 'Shinra No. 26'.<boxstart/>Want to look at the rocket with me? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, let's take a look<boxstart/>- No, not interested </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yeah, let's take a look </sp>
+  <sp> <speaker name="Old Man">Old Man</speaker><boxstart/>I get so impressed every time I look at it.<boxstart/>Sorry to get you into this. For me, it's a kinda hobby.<boxstart/>But, out of appreciation, let me give you this. </sp>
+  Received "Yoshiyuki"!
+  <sp> <speaker name="Old Man">Old Man</speaker><boxstart/>I wish you'd take care of it and use it... </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>No, not interested </sp>
+  <sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Oh, how boring... </sp>
+
+<stage>Inside the Item Shop...</stage>
+<sp> <speaker name="Old Woman">Old Woman</speaker><boxstart/>All gramps does is gaze at that rocket all day long.<boxstart/>Well he's a man that really loves machinery... </sp>
+<stage>Inside the house on the right...</stage>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>My job's to make everyone laugh all over the world... </sp>
+<stage>At Cid's house... Cloud and the others go out to the back yard to find a plane.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>There's a Shinra logo on it. Tiny Bronco...... This is cool. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>The Shinra always keep the most useful things to themselves. Let's steal it! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Let's take it? OK, <referent name="Cloud">Cloud</referent>! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I wonder if we can borrow it... </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Will it fly? Is it all right to just take it? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent>, let's steal it! I love stealing from the Shinra! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Cloud">Cloud</referent>! If we steal it, we'll get in deep trouble! </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>...Want me to keep watch? </sp>
+
+<stage>Shera comes out of the house behind them.</stage>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>Um... may I help you? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No... We're just looking at it. </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>...If you would like to use it, please ask the Captain. The Captain should be in the Rocket.<boxstart/>I'm Shera. And what are your names? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'm <referent name="Cloud">Cloud</referent>. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>I'm <referent name="Barret">Barret</referent>, of AVALANCHE. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm <referent name="Aerith">Aerith</referent>. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Tifa">Tifa</referent>. Nice to meet you. </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Nanaki">Nanaki</referent>, otherwise known as <referent name="Red XIII">Red XIII</referent>. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I'm <referent name="Yuffie">Yuffie</referent>! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Fortune telling machine <referent name="Cait Sith">Cait Sith</referent>, here. </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/><referent name="Vincent">Vincent</referent>. My occupation is...... forget it. </sp>
+
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>Hmm... So you're not with the Shinra.<boxstart/>I thought the approval for the reopening of the Space Program came. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......!? </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>President <referent name="Rufus">Rufus</referent> is scheduled to come here. The Captain's been so restless all morning. </sp>
+<stage>She goes back inside.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Rufus">Rufus</referent>!!? </sp>
+<stage>Cloud goes to the rocket, and finds Cid inside.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>What're you guys doin' here? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We heard the Captain was here. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Captain? I'm the Captain!<boxstart/>The name's <referent name="Cid">Cid</referent>. Everyone calls me 'Captain', though.<boxstart/>What d'ya want? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Tell me about this rocket<boxstart/>- Is <referent name="Rufus">Rufus</referent> coming?<boxstart/>- Can we borrow the "Tiny Bronco"? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Tell me about this rocket </sp>
+  <sp> <speaker name="Cid">Cid</speaker><boxstart/>Wow! Not bad for a kid.<boxstart/>Alright then, I'll explain it to you.<boxstart/>You know Shinra developed a lot of technological gadgets during the meaningless war, right?<boxstart/>Now it's a Mako company, but in the old days it was a weapons manufacturer.<boxstart/>Well, they came up with a Rocket Engine.<boxstart/>There was so much excitement about the thought of going into outer space. Our dreams got bigger and bigger.<boxstart/>They put a major budget into it and made prototype after prototype! Finally, they completed the Shinra No. 26.<boxstart/>They chose the best pilot in Shinra--no, in the world--me. I mean, come on.<boxstart/>And finally we get to the day of the launch. Everything was goin' well... </sp>
+  He kicks the wall.
+  But, because of that dumb-ass Shera, the launch got messed up. That's why they became so anal!<boxstart/>And so, Shinra nixed their outer space exploration plans.<boxstart/>After they told me how the future was Space Exploration and got my damn hopes up... DAMN THEM!<boxstart/>Then, it was all over once they found out Mako energy was profitable. They didn't even so much as look at space exploration.<boxstart/>Money, moola, dinero! My dream was just a financial number for them!<boxstart/>Look at this rusted Rocket. I was supposed to be the first man in space with this.<boxstart/>Everyday, it tilts a little bit more.<boxstart/>At this rate, I don't know which will come first, this thing falling down or me gettin' outta here.<boxstart/>My last hope is to talk to the President......
+  <stage>If Cloud leaves the rocket and comes back to ask him a second time...</stage>
+  <sp> <speaker name="Cid">Cid</speaker><boxstart/>Ummm... Just look around... </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Is <referent name="Rufus">Rufus</referent> coming? </sp>
+  <sp> <speaker name="Cid">Cid</speaker><boxstart/>Yeah! It must be news about restarting the Space Program.<boxstart/>A young President, that's what we needed! He still has dreams, too! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Can we borrow the "Tiny Bronco"? </sp>
+  <sp> <speaker name="Cid">Cid</speaker><boxstart/>You out of your *&amp;$^$# mind!? That's my most cherished possession. I can't let you take it. </sp>
+
+<stage>Back at the inn...</stage>
+<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Would you like something to drink? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Let me hear your story </sp>
+<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/><referent name="Cid">Cid</referent>'s had some bad breaks. It's really no one's fault he couldn't go into space.<boxstart/>Just bad luck, I guess... </sp>
+<stage>Cloud and the others return to Cid's house.</stage>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>Excuse me... <referent name="Cloud">Cloud</referent>?<boxstart/>Did the Captain say anything? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Nope... </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>Oh...? </sp>
+<stage>Cid enters.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>^%$#! Shera. What are you, blind!?<boxstart/>We got guests!! GET SOME TEA! ^%$#! </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>I... I'm sorry. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Really, don't mind us. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Shut up! Sit your ass down in that chair and drink your goddamn TEA!<boxstart/>Argggggggh! DAMN, I'm pissed!<boxstart/>Shera! I'll be in the backyard tunin' up Tiny Bronco!<boxstart/>An' make sure to serve them some tea! All right!? </sp>
+<stage>He goes out back.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>...damn, man. Wassup with that guy's attitude? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Sheesh...!! What bad manners! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Poor Shera. </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Who does he think he is......? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Man, this sucks...! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Man, he sure seems wound up tight. </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>............ </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Sorry. It's our fault. </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>No, no. He's always like this. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>He always like this? That's pretty bad! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Is it like this all the time? You keep quiet even when he's like that to you? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Is it always like this...? Why is <referent name="Cid">Cid</referent> so hard on you? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I think it's a bit too harsh. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What's his prob!? I'm gonna go clean that guy's clock!! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Is he like this all the time...? Bitin' your head off like that? I could never stand it... </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>...It's amazing that you can live with it. </sp>
+
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>No... It's because of my stupid mistake.<boxstart/>I was the one who destroyed his dream... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What happened? </sp>
+<stage>In flashback, <referent name="Cid">Cid</referent> is watching Shera as she inspects the rocket's oxygen tanks.</stage>
+<sp> <speaker name="Cid">Cid</speaker> (laughing)<boxstart/>Hey! Get your ass in gear! You work like a snail!<boxstart/>Even the moon'd get tired waitin' around for your ass! </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>I'm... I'm sorry. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Don't take so much time checkin' that *%$^# oxygen tank!<boxstart/>Shera, bein' careful's good, but it won't do any good, no matter how many times you check that oxygen tank.<boxstart/>That thing wouldn't break even if hell froze over. </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>But... </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>No buts!!<boxstart/>You're not stupid, so be more efficient! </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>I'm sorry...... </sp>
+<stage>Cid joins his crew outside the cockpit.</stage>
+<sp> <speaker name="Men">Men</speaker><boxstart/>Captain! Our dreams are finally coming true!<boxstart/>We are so proud to be a part of the launch of Shinra No. 26.<boxstart/>Captain, preparations are complete! All that's left is lift off! </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Yeah! Leave it all to me! I'll be back in a few! </sp>
+<sp> <speaker name="Men">Men</speaker><boxstart/>All right, Captain! Fly our dreams into outer space! </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Thanks, guys! </sp>
+<sp> He enters the cockpit. </sp>
+<sp> <speaker name="Men">Men</speaker><boxstart/>We're praying for your safety! </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Instrument panel... all clear. Shinra No. 26, ready for launch. </sp>
+<sp> Engine pressure rising. Shinra No. 26, 3 minutes to launch. Beginning countdown. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>......finally. </sp>
+<stage>A red light starts flashing.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>What the? What happened!? </sp>
+<sp> Cid! We have an emergency situation!<boxstart/>A mechanic is still in the engine section of the rocket! </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>What!? Who is the little ^%$@!? </sp>
+<sp> I don't know. Activating the intercom in the engine section. </sp>
+<stage>In the engine section, Shera is still checking the oxygen tanks.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Hey goddammit!! Who the &amp;%$#'s still in there? </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>It's Shera, Captain. Don't mind me, go ahead with the launch. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Shera!? What are you still doin' in there!? </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>I was still concerned. The results of the oxygen tank test weren't satisfactory. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>You stupid little ^$#^%!<boxstart/>It's gonna get so hot in there that there ain't gonna be SHIT left when we blast off!<boxstart/>You're gonna be burnt to a crisp! You're gonna die! You know that, doncha!? </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>I don't mind.<boxstart/>If I can just fix this, the launch will be a success. I'm almost done. </sp>
+<stage>Back in the cockpit...</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Almost done!? You're gonna die! </sp>
+<sp> Cid, we must start the countdown. We won't make it if we don't!<boxstart/>Starting engine! </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Hey, wait a minute! Shera's still in here! </sp>
+<sp> What are you going to do, Cid? If we cancel now, it'll be another six months until the next launch! </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>GODDAMNIT, Shera... you wanna make me a murderer? </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>Captain! </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Shera!? </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>Tank Number 7 check is complete. Once I complete Tank Number 8, it's all clear. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Come on, Shera... hurry up... You're gonna die... </sp>
+30 seconds until ignition. Beginning countdown.<boxstart/><referent name="Cid">Cid</referent>! Forget about her. We won't make it in time.
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>What... what am I....... What am I supposed to do...? </sp>
+15 seconds until ignition. Internal temperature rising.
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Oh man, the moon... outer space... my dreams... </sp>
+<sp> Ignite Engine! </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>SH---------------IT!! </sp>
+<stage>The rocket starts to take off, but the engine stalls immediately and the rocket falls back onto the launch pad. It tilts, creaking, and comes to a stop.</stage>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>He pushed the Emergency Engine Shut Down switch, aborting the mission, to save my life.<boxstart/>After that, the Space Program was cut back and the launch was canceled.<boxstart/>It's my fault his dream was destroyed...<boxstart/>That's why... it's all right. I don't care what the Captain says, I'll live my life for him. </sp>
+<stage>Cid returns.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Shera! You still haven't served 'em tea! </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>I... I'm sorry. </sp>
+<stage>Cid sits down and props one foot up on the table.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Hurry up and sit down! Or ain't my hospitality good enough for you!?<boxstart/>They're late... Where is <referent name="Rufus">Rufus</referent>...? </sp>
+<stage>Palmer comes in.</stage>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Hey-HEY! Long time no see! So <referent name="Cid">Cid</referent>, how ya been? </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Well, if it ain't fat man, Palmer. How long were you figurin' on keepin' me waitin'!? </sp>
+<stage>He runs over.</stage>
+<sp> <boxstart/>So? When's the Space Program gonna start up again? </sp>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Hey-hey! I don't know. The President's outside, so why don't you ask him? </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>^$#&amp;! Good for nothing, fat &amp;$#$^@! </sp>
+<stage>He goes outside.</stage>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Don't say 'fat'!<boxstart/>Hey-hey! Tea!<boxstart/>Can I have some too? With lotsa sugar and honey and... oh yeah, don't forget the lard! </sp>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>Is President <referent name="Rufus">Rufus</referent> here to announce that he's going to restart the Space Program? </sp>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Hey-hey? Have we met before?<boxstart/>Hey-hey! Is the tea ready yet?<boxstart/>With plenty of sugar and honey. Oh yeah, and don't forget the lard too. </sp>
+<stage>Cloud steps outside.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>What the......! You got me all excited for nothing!?<boxstart/>Then, what'd you come here for? </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>I want to borrow the Tiny Bronco.<boxstart/>We're going after <referent name="Sephiroth">Sephiroth</referent>. But seems like we've been going in the wrong direction.<boxstart/>But now, we think we know where he's headed. But, we have to cross the ocean. That's why we want your plane... </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>&amp;^#^%! First the Airship, then the Rocket, and now, the Tiny Bronco.<boxstart/>Shinra took outer space away from me and now you want to take the sky away from me too!? </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Oh my...<boxstart/>You seem to forget it was because of Shinra, Inc. that you were able to fly in the first place. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>What!? </sp>
+<sp> <speaker name="Shera">Shera</speaker> (from behind Cloud)<boxstart/>Uh, excuse me...<boxstart/>This way... </sp>
+<stage>Cloud follows her back inside and she shuts the door behind them.</stage>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>You wanted to use the Tiny Bronco, right? </sp>
+<stage>Cloud nods.</stage>
+<sp> <speaker name="Shera">Shera</speaker><boxstart/>I believe Palmer's going to take it. Why don't you talk to him? </sp>
+<stage>Cloud and the others go out back to find Palmer on the wing of the Tiny Bronco.</stage>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Hmm... Why do I have to do this...? I'm the head of the Space Program... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We'll be takin' that Tiny Bronco. </sp>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>I've seen you somewhere before...<boxstart/>I know! The Shinra building! When the President was killed! Ulp!<boxstart/>Se... se... security!! </sp>
+<stage>Cloud and the others fight Palmer.</stage>
+<sp> <speaker name="Palmer">Palmer</speaker><boxstart/>Heh-hic-heh-hic!<boxstart/>Heh heh hic! </sp>
+<stage>He runs away, but gets hit by a Shinra truck pulling up.</stage>
+<sp> <boxstart/>Ugh! </sp>
+<stage>Meanwhile the Tiny Bronco is still revving up.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>It won't stop! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>It won't stop! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>It won't stop! </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>It's going to take off. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>No!! It's gonna take off! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>No! It's going to take off! </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>It's not going to stop... </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Forget it! Get in!! </sp>
+<stage>They climb aboard the Tiny Bronco as it takes off with an empty cockpit. As it swoops by Cid and Rufus, Shinra soldiers start firing at it, and Cid jumps on.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Shit!! The tail's been hit! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Emergency landing... </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>This's gonna be a big splash. Hold on to your drawers and don't piss in 'em! </sp>
+<stage>The plane crashes into the ocean and drifts to a stop.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>She won't fly anymore... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Can't we use it as a boat? </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>$#&amp;%! Do whatever you want! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Cid">Cid</referent>, what are you going to do now? </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Dunno. I'm history with the Shinra and I've given up on the town. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>How 'bout your wife? How 'bout Shera? </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Wife? Don't make me laugh! Just thinkin' 'bout marryin' her gives me the chills.<boxstart/>What're you guys gonna do? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We're going after a man named <referent name="Sephiroth">Sephiroth</referent>. We'll have to get <referent name="Rufus">Rufus</referent> of the Shinra someday too. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>I don't know about any of that, but...<boxstart/>What the hell!? Sign me up! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>How 'bout it, everyone? </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>I don't care. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm all for it. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Of course, no problem! </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I don't really care. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Whatever! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I don't mind. </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>...Do whatever you like. </sp>
+
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Glad to be aboard, numbskulls! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Numskulls...? </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Yeah. Anyone stupid enough to go up against Shinra nowadays, has GOTTA be a numskull! I like it!<boxstart/>So, where we headed?<boxstart/><referent name="Rufus">Rufus</referent> was goin' after <referent name="Sephiroth">Sephiroth</referent> towards the Temple of the Ancients. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Really!? ...Where is it? That Temple of the Ancients? </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Dunno. That numskull kid was tellin' me he was headin 'The wrong direction'... so maybe it's off this way? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Let's just head for land and get some information. Temple of the Ancients... that name bothers me. </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>.........Hm. How 'bout goin' west?<boxstart/>No, no reason. NO reason at all! </sp>
+<stage>Cloud and the others head for land, the closest just happening to be the Wutai continent to the west.</stage>
+
+</scene>

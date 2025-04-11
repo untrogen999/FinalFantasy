@@ -1,0 +1,206 @@
+<scene name="RocketTownMateria">
+
+
+
+<h1>Rocket Town - Huge Materia</h1>
+
+<h4><a href="#arrival">Arrival at the Rocket</a></h4>
+<h4><a href="#launch">The Launch</a></h4>
+<h4><a href="#materia">The Huge Materia</a></h4>
+<h4><a href="#escape">The Escape Pod</a></h4>
+<h4><a href="#highwind">Back on the Highwind</a></h4>
+<h4><a href="#aftermath">The Aftermath in Rocket Town</a></h4>
+<hr></hr>
+<p class="italic">Cloud and the others arrive at Rocket Town.</p>
+<p class="italic">Inside the inn...</p>
+<p class="indent"><b>Barkeeper</b><br/>Seems like Palmer of Shinra, Inc. ordered soldiers to restore the rocket...</p>
+<p class="indent"><b>Man</b><br/>Even with all this goin' on outside, that guy still won't come out of the bathroom? He must be a damn water tank!?</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Mechanic</b><br/>What's young president Rufus doing by getting all those mechanics together?</p>
+<p class="indent"><b>Redhead</b><br/>The Shinra serious 'bout launching that piece of crap rocket? But why now...?</p>
+<p class="indent"><b>Old Man</b><br/>There's a bunch of Shinra people here messin' with the rocket...<br/>Is my rocket... all right?</p>
+<p class="italic"><a name="arrival"></a>Cloud heads for the rocket. Below, a couple stands watching.</p>
+<p class="indent"><b>Man</b><br/>Mmmmm, a SPECTACLE.</p>
+<p class="indent"><b>Woman</b><br/>Is something about to happen? Oh, I'm getting excited.</p>
+<p class="indent"><b>Soldiers</b><br/>Those terrorists are here!</p>
+<p class="italic">Cloud fights off the first two soldiers and runs up the stairs.</p>
+<p class="indent"><b>Soldiers</b><br/>Don't let them get any further! Everyone, ATTACK---!<br/>Urrrgh, you're not going anywhere! Uh un, nowhere!</p>
+<p class="italic">Cloud fights off those soldiers.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cid is not in the party...</span></p>
+  <p class="italic">Cid runs up the steps to join Cloud.</p>
+  <p class="indent-nopad"><b>Cid</b><br/>Wait, Cloud!<br/>If you're gonna kick those *#$% Shinra out of my rocket, then take me with you!<br/>ALL RIGHT! Let's show those &amp;$!@&amp; Shinra!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cid is in the party...</span></p>
+  <p class="indent-nopad"><b>Cid</b><br/>Goddammit, what the hell do they think they're gonna do to my rocket!?<br/>I'm outta here, Cloud! I'm gonna kick those $^%$# Shinra right out of my rocket!</p>
+
+<p class="italic">They go on up the ladder and run into Rude of the Turks.</p>
+<p class="indent"><b>Rude</b><br/>...you again?<br/>...We will eliminate everyone who gets in Shinra's way.</p>
+<p class="italic">They fight Rude.</p>
+<p class="indent"><b>Rude</b><br/>Ugh......... gh.........<br/>......they got us.<br/>...hmm.</p>
+<p class="italic">Cloud and the others enter the rocket.</p>
+<p class="indent"><b>Commander</b><br/>You... you! Why are you here? Rude of the Turks should've been here!!</p>
+<p class="indent"><b>Cloud</b><br/>Too bad. Those guys are over there.</p>
+<p class="indent"><b>Commander</b><br/>Oh man... the Turks, being done in like that... But, I won't let you through!</p>
+<p class="italic">They fight off the commander.</p>
+<p class="indent"><b>Commander</b><br/>urrrrgh...</p>
+<p class="italic">They continue into the cockpit, where Cid's old crew is preparing for the launch.</p>
+<p class="indent"><b>Cid</b><br/>Hey! What the hell're you guys doin'!?</p>
+<p class="indent"><b>Mechanic 1</b><br/>Hey! Just when I thought somethin' was goin' on, you come back!</p>
+<p class="indent"><b>Mechanic 3</b><br/>Listen to me, Captain. We're gonna launch this rocket!</p>
+<p class="indent"><b>Cid</b><br/>Huh? What are you talkin' 'bout?</p>
+<p class="indent"><b>Mechanic 2</b><br/>We're gonna load a Materia bomb in this and blow up Meteor.</p>
+<p class="indent"><b>Mechanic 1</b><br/>Our rocket's gonna save the planet!</p>
+<p class="indent"><b>Mechanic 2</b><br/>Urrrrgh. Man this is so COOL!!</p>
+<p class="indent"><b>Cloud</b><br/>Wait a minute!</p>
+<p class="indent"><b>Cid</b><br/>Shut up!! Just shut the hell up!</p>
+<p class="italic-inline">He turns back to his crew.</p>
+<p class="block-inline">How's the rocket?</p>
+<p class="italic">Cloud turns to the other party member and shrugs.</p>
+<p class="indent"><b>Mechanic 1</b><br/>It's pretty much OK.</p>
+<p class="indent"><b>Mechanic 2</b><br/>But...</p>
+<p class="indent"><b>Mechanic 3</b><br/>We planned to run it into Meteor on Auto-Pilot, but the most important device is broken.</p>
+<p class="indent"><b>Cid</b><br/>Broken? How's the repair goin'?</p>
+<p class="indent"><b>Mechanic 3</b><br/>Shera's doin' it...</p>
+<p class="indent"><b>Cid</b><br/>Oh great! What a buncha wizards you guys are! She's gonna take a 100 years!<br/>I'll take over, so don't worry about the Auto-Pilot!<br/>Hey, go ahead! Go tell everyone!</p>
+<p class="indent"><a name="launch"></a><b>Mechanics</b><br/>All right, Captain. Good luck.</p>
+<p class="italic-inline">They all run out.</p>
+<p class="indent"><b>Cloud</b><br/>Hey, Cid! What're you doing!?<br/>There are generations of knowledge and wisdom inside the Materia.<br/>We're gonna borrow their powers and save the planet from Sephiroth.<br/>There's no way that we can lose the Huge Materia. You understand that, right?</p>
+<p class="indent"><b>Cid</b><br/>Yeah, I understand. I understand that Materia is precious, and I also understand what you're thinking.<br/>But listen.<br/>I don't give a rat's ass whether it's science or magical power.<br/>No, I guess if I had to choose, I'd rather put my money on the power of science.<br/>Humans who used to only roam around on the ground are able to fly now!<br/>And finally, we're about to go into outer space.<br/>Science is a "Power" created and developed by humans. And science just might be what saves this planet.<br/>I was able to earn my living thanks to science. So to me, there's nothing greater!<br/>Now quit your worrying 'bout what Shinra's gonna do!<br/>I don't want to regret not having done something later.</p>
+<p class="indent"><b>Cloud</b><br/>But, Cid......</p>
+<p class="indent"><b>Cid</b><br/>Shut the hell up!! I don't wanna hear it!!<br/>Alright, time to get to work! Anyone who ain't involved, get the hell outta here!</p>
+<p class="italic">The rocket starts shaking.</p>
+<p class="indent"><b>Cid</b><br/>What the hell......? What the hell happened!?</p>
+<div class="highlight"/><p class="indent-nopad"><b>Palmer</b> (over the intercom)<br/>Hey-hey!</p>
+<p class="indent"><b>Cid</b><br/>Palmer! What the hell did'ya do!?</p>
+<div class="highlight"/><p class="indent-nopad"><b>Palmer</b><br/>They said they finished repairing the Auto-Pilot. So, I laun---ched it!</p>
+<p class="indent"><b>Cid</b><br/>Goddamn Shera! Why'd she pick today to get fast!</p>
+<p class="italic-inline">He runs to the control panel.</p>
+<p class="block-inline">DAMN! Won't even budge! It's completely locked up!</p>
+<div class="highlight"/><p class="indent-nopad"><b>Palmer</b><br/>Hey-hey-hey! Almost lift off!</p>
+<p class="indent"><b>Cid</b><br/>What the!? No countdown!? It just don't seem the same without it!</p>
+<div class="highlight"/><p class="indent-nopad"><b>Palmer</b><br/>Hey!!!! Hey-hey!!! Blast-----off!</p>
+<p class="italic">The rocket launches into space.</p>
+<p class="indent"><b>Cid</b><br/>I finally made it... outer space...<br/>Let's see, how's the course set...?<br/>Yup, it's headed for a collision with Meteor.</p>
+<p class="indent"><b>Barret</b><br/>Can't we do somethin'? We can't jus' leave it.</p>
+<p class="indent"><b>Tifa</b><br/>Can't we do something? If it goes on, we're......</p>
+<p class="indent"><b>Nanaki</b><br/>What should we do? Are we all going to die?</p>
+<p class="indent"><b>Yuffie</b><br/>Hey old man! Do something!</p>
+<p class="indent"><b>Cait Sith</b><br/>What shall we do? What shall we do?<br/>I'm a toy, so I don't care, but for all of you it's a different story...</p>
+<p class="indent"><b>Vincent</b><br/>We're in space now. A long rest...</p>
+<p class="indent"><b>Cid</b><br/>That damn Palmer went outta his way to lock the Auto-Pilot device. We might not be able to change the course.</p>
+<p class="indent"><b>Cloud</b><br/>...this is the end?</p>
+<p class="indent"><b>Cid</b><br/>Huh? What the hell're you sayin'? You're still young, and you give up that easily?<br/>I'm not gonna crash into Meteor.<br/>Just watch.<br/>I keep an Escape Pod on the rocket just for emergencies like this.<br/>I deciphered the lock code on the Escape Pod. We'll bail right before we crash into Meteor.</p>
+<p class="indent"><b>Barret</b><br/>Hey wait a second!<br/>What's gonna happen to the Huge Materia?</p>
+<p class="indent"><b>Tifa</b><br/>Hey, what about the Huge Materia?</p>
+<p class="indent"><b>Nanaki</b><br/>But, what are we going to do with the Huge Materia? Are we just going to give it up?</p>
+<p class="indent"><b>Yuffie</b><br/>Hmm? What are we gonna do with the Huge Materia?<br/>If you don't want it, maybe... you could... give it to ME!</p>
+<p class="indent"><b>Cait Sith</b><br/>By the way, what are we goin' to do with the Huge Materia?</p>
+<p class="indent"><b>Vincent</b><br/>Then the remaining question is what to do with the Huge Materia.</p>
+<p class="indent"><b>Cid</b><br/>......<br/>If you want the Materia, do whatever you want!<br/>The Materia should be there after you climb that ladder.</p>
+<p class="indent"><b>Cloud</b><br/>...You sure?</p>
+<p class="indent"><b>Cid</b><br/>I dunno...<br/>I know what I said a minute ago.<br/>But maybe all that I really wanted was just to go into outer space.<br/>So, why don't you all do whatever you think is right?</p>
+<p class="italic"><a name="materia"></a>Cloud climbs the ladder to where the Huge Materia is kept.</p>
+<p class="indent"><b>Cloud</b><br/>I finally found the Huge Materia...</p>
+<p class="indent"><b>Cid</b><br/>It's structured so that the lock can be opened if we enter the passcode from this control panel.<br/>Hey Cloud, you know how to use it, right?<br/>Everytime it says, 'Enter Passcode,' push one of those buttons.<br/>If you punch in the right code, it'll unlock and you can get the Huge Materia!</p>
+<p class="indent"><b>Cloud</b><br/>So, what order am I supposed to enter the passcode in?</p>
+<p class="indent"><b>Cid</b><br/>I dunno. Just try and punch in the code randomly.</p>
+<div class="highlight"/><p>Passcode input error<br/>Unauthorized User identified<br/>Protection System will activate in 3 minutes</p>
+<p class="indent"><b>Cid</b><br/>Seems like you missed the code!<br/>If we don't enter the correct passcode before the Protection System activates, we won't be able to get the Materia back!<br/>I heard there's a passcode only the top people in Shinra know.<br/>We probably have to enter that. Try and enter some codes while I try and remember that passcode!</p>
+<p class="italic">Cid tries to give Cloud instructions.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If they succeed...</span></p>
+  <div class="highlight-nopad"/><p>Passcode Confirmed<br/>Identified as an Authorized User<br/>Unlocked</p>
+  <p class="indent-nopad"><b>Cid</b><br/>Alright, Cloud!! It's unlocked!<br/>Yup, my great advice saved the day.</p>
+  <div class="highlight-nopad"/><p>Received Key Item "Huge Materia"!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If they fail...</span></p>
+  <div class="highlight-nopad"/><p>Protection System Activated</p>
+  <p class="indent-nopad"><b>Cid</b><br/>Ahhh &amp;$#$#! The Protection System just activated!<br/>...Cloud, too bad, but we gotta let it go.</p>
+
+<p class="italic"><a name="escape"></a>Cloud and the others make for the escape pod. As they pass through the engine room, one of the oxygen tanks explodes.</p>
+<p class="indent"><b>Cid</b><br/>Grrrgh!<br/>Damn! My leg's stuck in the debris......</p>
+<p class="indent"><b>Cloud</b><br/>Cid!!</p>
+<p class="italic">The others move to lift the debris.</p>
+<p class="indent"><b>Barret</b><br/>...damn! ...can't lift it!</p>
+<p class="indent"><b>Tifa</b><br/>...I can't! It's so heavy, I can't lift it...</p>
+<p class="indent"><b>Nanaki</b><br/>I can't do anything with my strength alone......!</p>
+<p class="indent"><b>Yuffie</b><br/>I can't budge it by myself!!</p>
+<p class="indent"><b>Cait Sith</b><br/>What shall we do--- It won't budge!</p>
+<p class="indent"><b>Vincent</b><br/>...no. I can't lift it.</p>
+<p class="indent"><b>Cid</b><br/>Don't worry 'bout me. Hurry up and go! If you don't hurry, the rocket's gonna crash into Meteor!</p>
+<p class="indent"><b>Cloud</b><br/>...I can't go without my friends.</p>
+<p class="indent"><b>Cid</b><br/>You ^%#@&amp;%......! No time to worry 'bout other people!</p>
+<p class="indent"><b>Cloud</b><br/>I'm gonna do whatever I can.</p>
+<p class="indent"><b>Cid</b><br/>You're stupid. You're really $#&amp;^%$* stupid.<br/>Tank Number 8 blew up...... So Tank Number 8... really was malfunctioning......<br/>Shera... You were right.<br/>But, ......this is the end for me.</p>
+<p class="italic">The door opens.</p>
+<p class="indent"><b>Shera</b><br/>Don't say that, Cid.</p>
+<p class="indent"><b>Cid</b><br/>Huh!? Shera!?</p>
+<p class="indent"><b>Shera</b><br/>I tagged along. I'm coming to help you.</p>
+<p class="italic-inline">She moves to help Cloud pull.</p>
+<p class="indent"><b>Cid</b><br/>You stupid &amp;$#&amp;%*%&amp;%#!!<br/>......Sorry.</p>
+<p class="italic">With Shera's help, they manage to free Cid, and she leads them towards the escape pod.</p>
+<p class="indent"><b>Shera</b><br/>The Escape Pod is this way. Please hurry.</p>
+<p class="italic">They follow Shera to the pod.</p>
+<p class="indent"><b>Shera</b><br/>Hurry. I'm going to detach the Escape Pod.</p>
+<p class="indent"><b>Cid</b><br/>Hey, Shera! Does this Pod really fly?</p>
+<p class="indent"><b>Shera</b><br/>It'll be OK. I've been checking it till now.</p>
+<p class="indent"><b>Cid</b><br/>.........Then I'm relieved.</p>
+<p class="indent"><b>Shera</b><br/>......Thanks.</p>
+<p class="italic">They detach in the escape pod.</p>
+<p class="indent"><b>Cid</b> (plastered to the window)<br/>So this is...... outer space...<br/>Man... it's the real thing... I'm really here in outer space...<br/>So long, Shinra No. 26...</p>
+<p class="italic">The rocket goes on to crash into Meteor. The explosion is blinding, but afterwards, Meteor remains, barely harmed at all.</p>
+<p class="italic"><a name="highwind"></a>Back on the Highwind...</p>
+<p class="indent"><b>Cloud</b><br/>Rufus and the others plan was a failure...</p>
+<p class="indent"><b>Barret</b><br/>What a bust... But I kinda hoped it'd work.</p>
+<p class="indent"><b>Cait Sith</b><br/>We been botherin' them as much as we can...<br/>But there ain't no other way... Wonder if we've been wrong all this time?</p>
+<p class="indent"><b>Nanaki</b><br/>Makes you worry, doesn't it?</p>
+<p class="indent"><b>Tifa</b><br/>Don't worry! Think!</p>
+<p class="indent"><b>Cid</b><br/>Hey! The girl's right.<br/>You start worryin' and there's no stoppin' it! Things just start fallin' apart and get worse and worse.</p>
+<p class="indent"><b>Barret</b><br/>You're pretty damn optimistic! You up to somethin'?</p>
+<p class="indent"><b>Cid</b><br/>Yeah, I been thinkin' about this and that.<br/>All the time we been up here lookin' at the planet.<br/>I been thinkin' even when we were floatin' in the ocean in that escape pod.</p>
+<p class="indent"><b>Cloud</b><br/>I've... been thinking too. About the universe... planet... ocean.<br/>How wide and big... No matter where I go and what I do it won't change a thing.</p>
+<p class="indent"><b>Cid</b><br/>Maybe you're right.<br/>But I came up with something different.<br/>I always thought this planet was so huge.<br/>But lookin' at it from space, I realized it's so small.<br/>We're just floatin' in the dark. ......kind of makes you feel powerless.<br/>On top of that it's got Sephiroth festerin' inside it like a sickness.<br/>That's why I say this planet's still a kid.<br/>A little kid sick and trembling in the middle of this huge universe.<br/>Someone's gotta protect it.<br/>Ya follow me? That someone is us.</p>
+<p class="indent"><b>Tifa</b><br/>Cid... that's beautiful.</p>
+<p class="indent"><b>Barret</b><br/>Yo! Cid! You even got to me!<br/>Do, now what? How're we gonna protect the planet from Meteor?</p>
+<p class="italic">Cid scratches his head and sits down.</p>
+<p class="indent"><b>Cid</b><br/>...............I'm still thinkin' about that.</p>
+<p class="italic">The others shake their heads and disperse.</p>
+<p class="indent"><b>Nanaki</b><br/>Huh!?<br/>Did you...... hear something?</p>
+<p class="italic">They hear the Planet's screaming.</p>
+<p class="indent"><b>Tifa</b><br/>The planet's scream...... or Meteor...? Is it this planet?</p>
+<p class="indent"><b>Cloud</b><br/>Hey, how do we know that this is really the planet's scream?</p>
+<p class="indent"><b>Tifa</b><br/>Did you forget?<br/>Bugenhagen told us.</p>
+<p class="indent"><b>Cloud</b><br/>Bugenhagen...</p>
+<p class="indent"><b>Nanaki</b><br/>Let's go see Grandfather! To Cosmo Canyon!<br/>I'm sure he'll be able to tell us something that will be helpful!</p>
+<p class="indent"><b>Barret</b><br/>That Bugenhagen guy... He was a weird old dude.<br/>I thought he was some kinda naturalist, but he was all into them machines.</p>
+<p class="indent"><b>Tifa</b><br/>Did Bugenhagen...... tell you anything?</p>
+<p class="indent"><b>Nanaki</b><br/>Hurry, hurry! We must go meet Grandfather!</p>
+<p class="indent"><b>Cait Sith</b><br/>This's just between you 'n' me but...<br/>That there Bugenhagen feller, used to be a pretty handy Shinra worker.<br/>Yep, he ain't never bought no weapons or Mako though......</p>
+<p class="indent"><b>Vincent</b><br/>The machines in Cosmo Canyon were presents of Dr. Gast.<br/>Wrapped up in the planet's strange notions surrounded by Shinra-made machines...<br/>Science and the planet lived side by side in that old man's heart.</p>
+<p class="indent"><b>Cid</b><br/>Maybe it's just me, but has this ship been remodeled without me knowin' it?<br/>All these switches and levers. They're kinda gettin' to me.</p>
+<p class="indent"><b>Yuffie</b><br/>What? Are we there?<br/>I know it's all for Wutai, But I can't take much more of this.</p>
+<p class="indent"><b>Learner Pilot (L10)</b><br/>Shall we go?</p>
+<p class="indent"><b>Cloud</b><br/>- Let's<br/>- No, let's not</p>
+<p class="italic"><a name="aftermath"></a>Afterwards, in Rocket Town...</p>
+<p class="italic">Inside the inn...</p>
+<p class="indent"><b>Barkeeper</b><br/>Even though they failed to blow up Meteor with the rocket, the Shinra haven't given up yet...<br/>Looks like they're gathering all the weapons from all their bases and are preparing for a final showdown.</p>
+<p class="indent"><b>Man</b><br/>OK, which is it gonna be? Meteor hits us first, or that guy comes out of the bathroom?<br/>I'm not movin' from this spot till I see it with my own eyes.</p>
+<p class="italic">Inside a house...</p>
+<p class="indent"><b>Man</b><br/>Even the rocket launch wasn't all THAT great.</p>
+<p class="indent"><b>Woman</b><br/>Now that one of Shinra's greatest events is over, I guess it's back to the same old boring everyday life again...</p>
+<p class="italic">In the Item Shop...</p>
+<p class="indent"><b>Woman</b><br/>Is Gramps gonna stay like that even though rocket's gone?</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Old Man</b><br/>My, my precious rocket... It's gone.<br/>Hmph, I know. No matter how much I look, the rocket's still gone.<br/>But I just can't stop it. Just call it an old man's folly if you will.<br/>Sorry to get you into this. For me, it's a kinda hobby.<br/>But, out of appreciation, let me give you this.</p>
+<div class="highlight"/><p>Received "Venus Gospel"!</p>
+<p class="indent"><b>Old Man</b><br/>I wish you'd take care of it and use it...<br/>Maybe it's time for me to get a new hobby...<br/>Mmm. You know that Shinra sports car at Cid's house? It might be fun to try and restore that thing...</p>
+<p class="indent"><b>Redhead</b><br/>I get so restless now that the rocket's gone. And now that we can see Meteor clearly, ...I can't stand it.</p>
+<p class="indent"><b>Mechanic</b><br/>I still can't believe that piece of crap rocket actually made it into space... I guess the mechanic was a genius.</p>
+<p class="italic">Cid's house...</p>
+<p class="indent"><b>Shera</b><br/>Now all we have to take care of is Meteor, right? You should be able...<br/>Excuse me...... Please take care of the Captain.</p>
+<p class="italic">Cloud and the others leave for Cosmo Canyon.</p>
+
+</scene>

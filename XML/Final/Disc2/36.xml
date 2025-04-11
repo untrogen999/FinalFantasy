@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="Mideel2">
+
+
+
+<sp>Mideel - Inside Cloud's Mind </sp>
+
+<sp>At the Clinic </sp>
+<sp>Inside Cloud's Mind :: Nibelheim - Beyond the Mountain - The Truth </sp>
+<sp>Out of the Lifestream </sp>
+<sp>The Aftermath in Mideel </sp>
+
+<sp><speaker name="Old Man at Entrance">Old Man at Entrance</speaker><boxstart/>Ahoy! This here's Mideel. A quiet Hot Springs town... At least it used to be...<boxstart/>Lately the sea's been in a tizzy. Lifestream has been mixin' things up at the bottom of the ocean.<boxstart/>I think the planet's pretty angry too. We've pretty much done whatever we've wanted to the planet up till now. </sp>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>It's bad enough with earthquakes and Meteor, but on top of all that now the Lifestream has become active again, too.<boxstart/>I hope it doesn't blow and cause a panic like it did before. That was really bad, I tell ya. </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>If you obtained and used the Beat-up Useless Old Key as <referent name="Tifa">Tifa</referent>...</sp>
+  <stage>In the Weapons Shop, Cid inspects the door.</stage>
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>Damn, why the hell did they make something tricky like this? </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>If you did not obtain the Beat-up Useless Old Key...</sp>
+  <stage>Walking over the key, there is a clinking noise.</stage>
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>Huh...? The hell's this?<boxstart/>Looks like a key but it's stuck way down inside, and I can't get it out.<boxstart/>Well, what the hell? That's life... </sp>
+  <stage>In the Weapons Shop, Cid kicks the door.</stage>
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>No good... Someone must've locked it. </sp>
+  <stage>He returns to the key.</stage>
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>Okay, there's gotta be a way to get it out.<boxstart/>Maybe if I move this a bit...... and push that over...... HAH! Gotcha! </sp>
+  Or, if he didn't notice the key earlier:
+  Hey......what's that? Looks like a key but it's stuck way down inside and
+  Received a "Beat-up Useless Old Key"!
+	<stage>Back to the Weapons Shop, Cid again inspects the door...</stage>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, I know what'll do it... Let's try that beat up old key!<boxstart/>- Use the beat up old key!<boxstart/>- Forget it </sp>
+	
+	  <sp><speaker name="Cloud"/><boxstart/>Use the beat up old key! </sp>
+	  Yeah, this is it.<boxstart/>Huh? Wha...? Won't turn...<boxstart/>Wha......!?<boxstart/>Hoo, *&amp;%$^% Busted it... Can't get the damn thing out...
+	  <sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Is something wrong......? </sp>
+	  <sp><speaker name="Cid">Cid</speaker><boxstart/>Ulp!!<boxstart/>Oh, uh, no, uh I......<boxstart/>Damn, this's bad...<boxstart/>- What the hell... lie!<boxstart/>- Just apologize and get it over with! </sp>
+	  
+		<sp><speaker name="Cloud"/><boxstart/>What the hell... lie! </sp>
+		Er, nothin'. Hah, hah. That's one nice door you got there, y'know.
+		<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Oh... why, thank you very much. </sp>
+		<sp><speaker name="Cid">Cid</speaker><boxstart/>Phew... that was a close one. But I kinda feel a little bad about that one...... </sp>
+		Cid looks at the door.
+		............ The key's broken off inside, and I can't get to it......<boxstart/>............ I don't know a thing about it...
+	  
+	  
+		<sp><speaker name="Cloud"/><boxstart/>Just apologize and get it over with! </sp>
+		Mmm..., sorry! I twisted the ^%$#^ and broke it.
+		<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Huh? Key? You mean the one to that door? </sp>
+		<stage>Cid nods.</stage>
+		<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Hah, hah, hah! That's a good one! </sp>
+		<sp><speaker name="Cid">Cid</speaker><boxstart/>??? </sp>
+		<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Of course there's no key. It's a wall. We just painted a door on it. </sp>
+		<sp><speaker name="Cid">Cid</speaker><boxstart/>Say what? You drew that door on the wall? </sp>
+		<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>That's right. We drew it on there to make it feel like you could pass through it to another world.<boxstart/>Sorry to have surprised you. It's not much of an apology, but please take this. </sp>
+		<sp><speaker name="Cid">Cid</speaker><boxstart/>Oh, uh... well Thanks. </sp>
+		Cid and the others received "Cursed Ring"!
+		<sp><speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>If possible, we're hoping to pass through a dream door like that one into another world<boxstart/>I got the feeling that you all might be able to make my dreams come true in my place. Weird, isn't it? </sp>
+	  
+	
+	
+	  <sp><speaker name="Cloud"/><boxstart/>Forget it </sp>
+	  Naw, forget it... It doesn't even look like it fits.
+	
+
+<stage>Inside a house...</stage>
+<sp><speaker name="Old Man Playing with Dog">Old Man Playing with Dog</speaker><boxstart/>I gotta feelin' something bad's gonna happen. Is it gonna be okay?<boxstart/>I'm all right. I've lived a long, full life.<boxstart/>But I'm worried about my son and his family living in that far-off town...<boxstart/>I hope they're safe... </sp>
+<stage>Cid takes the elixir on his bed and starts for the door.</stage>
+<sp><speaker name="Old Man Playing with Dog">Old Man Playing with Dog</speaker><boxstart/>Wait a minute.<boxstart/>Did you take something just now? </sp>
+<stage>Cid jumps.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Uh, oh. I'm......<boxstart/>- Yeah, I took it old man!<boxstart/>- Don't know nothin' 'bout it! </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>Yeah, I took it old man! </sp>
+  Hey, it's mine now! An' I'll make good use of it, believe-you-me!
+  <sp><speaker name="Old Man Playing with Dog">Old Man Playing with Dog</speaker><boxstart/>Heh, heh. What an oddball. We'll let him use it. </sp>
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>Hey thanks. It'll help, pops! </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>Don't know nothin' 'bout it! </sp>
+  Wh, wh-huh...? I don't know nuthin' about that.
+  <sp><speaker name="Old Man Playing with Dog">Old Man Playing with Dog</speaker><boxstart/>What the hell happened to the rotten old elixir I was gonna throw out?<boxstart/>If someone took that by mistake it'll do more than make them sick...<boxstart/>Well, if you don't know then I guess you don't know. </sp>
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>............... </sp>
+
+<stage>Back outside...</stage>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>So how is the boy? Poor kid. He sure got the worst of whatever it was......<boxstart/>Sure hope he gets better soon. Right now is when he really needs to hold on and not give up. </sp>
+<sp><speaker name="Bald Man">Bald Man</speaker><boxstart/>It's amazing he recovered. When they carried him here after they first discovered him, I thought for sure he was a goner.<boxstart/>That boy must have one powerful guardian angel watchin' over him. </sp>
+<stage>At the clinic...</stage>
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>I'm sorry...... But your friend's condition remains unchanged......<boxstart/>You'll have to be patient and wait this out. These things take time. Just like fine wine, time is of the essence. </sp>
+<sp><speaker name="Nurse">Nurse</speaker> (after the North Corel mission)<boxstart/>Oh, hello. She always stays right by his side. She must really love him.<boxstart/>Remember, even at a time like this you can never give up hope. You've got to be strong like her. </sp>
+<sp><speaker name="Nurse">Nurse</speaker> (after the Fort Condor mission)<boxstart/>She's finally beginning to look a little tired... I hope she's all right.<boxstart/>No change in his condition, and still she stays there doing her best. It must be tough on her.<boxstart/>If she keeps this up she'll probably get sick...... </sp>
+<sp><speaker name="Nurse">Nurse</speaker><boxstart/>Well anyhow...... Hey, you all look terrible. Why don't you rest up for a while? </sp>
+<stage>Cid and the others rest whether they want to or not.</stage>
+<sp><boxstart/>OK! Perfect! Well then, take care. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>uh...... a...... aah......<boxstart/>.........What...... What number...... am I?<boxstart/>Uh...... aaa......?<boxstart/>A billion mirror fragments...... small...... light......<boxstart/>taken...... angel's...... singing voices............ zeno...... gias......<boxstart/>Uh...... aaa......? </sp>
+<sp><speaker name="Tifa">Tifa</speaker> (after the North Corel mission)<boxstart/><referent name="Cloud">Cloud</referent>...... I don't understand a word he's saying......<boxstart/>I'm such a fool...... I thought there was something that I could do for him...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker> (after the Fort Condor mission)<boxstart/>......it's no use...... I don't understand a thing, <referent name="Cloud">Cloud</referent>.<boxstart/>What should I do......? What if you never recover for the rest of your life? </sp>
+<stage>The ground starts shaking and Tifa falls down.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Eyaaah!? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>......They're...... They're...... coming......!! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>What did you say, <referent name="Cloud">Cloud</referent>!? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Uh...... aaa......? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Damn. What the hell's goin' on!? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>No way...... Is this......!? </sp>
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>This isn't good!! It's big! </sp>
+<sp><speaker name="Nurse">Nurse</speaker><boxstart/>Eyaaah! I hate earthquakes!! </sp>
+<stage>Cid goes outside.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>What's this...!?<boxstart/>The Lifestream is gushing up from below the surface of the earth!<boxstart/>Damn, that's......!? This is bad......!! </sp>
+<sp><speaker name="Tifa">Tifa</speaker> (at the door)<boxstart/><referent name="Cid">Cid</referent>......!? What's wrong? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>N, nothin'!! You and <referent name="Cloud">Cloud</referent> get inside quick!! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>But I......!? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, don't worry about a thing. I ain't about to die that easily. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Be careful...! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Okay, here I go! Watch this!! </sp>
+<stage>Cid and the others get ready to fight.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Damn!! That &amp;%$^%$ Weapon!!<boxstart/>Of all the times to show up......!<boxstart/>OK then, come on!! You &amp;$^%$! </sp>
+<stage>Ultima Weapon flies down to meet them. After a short battle, it flies off again.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>You &amp;^$#&amp;$#! You tryin' to escape? </sp>
+<stage>The quaking abates, and they all relax.</stage>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Damn, man. Just a little bit more an' I woulda smashed him...... </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Just a little more and I would have beaten him. </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>I swear, next time, that guy's dead meat! </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>No matter how many lives I get, it ain't enough! </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Hmm...... Looks like escape is their best skill. </sp>
+
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Looks like the Lifestream's settled down now too. </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>It looks like the Lifestream has settled as well. </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Well at least the Lifestream's back to normal. </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Looks like the Lifestream's back under control too. </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>And the Lifestream also appears to be normal. </sp>
+
+<stage>The quaking starts up again.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Damn, you gotta be kiddin'......!!<boxstart/>Th, this's bad......! The main stream is kickin' up!!<boxstart/>Somethin' way bigger than that last one is on its way!!<boxstart/>No good!! Get outta here......!! </sp>
+
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>But what about <referent name="Tifa">Tifa</referent> and <referent name="Cloud">Cloud</referent>!? </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>But what about <referent name="Tifa">Tifa</referent> and <referent name="Cloud">Cloud</referent>......!? </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>But what about <referent name="Cloud">Cloud</referent> and the others......!? </sp>
+
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Goddammit!!<boxstart/>You don't have time to worry about anyone other than yourself! You don't know when that stream'll blow......<boxstart/>Whoa!!<boxstart/>There's no time, hurry!! </sp>
+<stage>They run off. Cid turns back momentarily.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/><referent name="Tifa">Tifa</referent>!! <referent name="Cloud">Cloud</referent>!! Get outta here!! </sp>
+<stage>Back to Tifa in the clinic...</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>This is bad...... The tremors are getting worse.<boxstart/>Wait a minute, <referent name="Cloud">Cloud</referent>.<boxstart/>Doctor! Shouldn't we move him somewhere rather than stay here...? </sp>
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>Hmm...... It might be safer to take refuge in a wide open space. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Don't you worry about a thing, <referent name="Cloud">Cloud</referent>......<boxstart/>I'll see to it that you get somewhere safe! </sp>
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>No! The structure can't take it!! Hurry! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Yes!<boxstart/>Ready <referent name="Cloud">Cloud</referent>? We're leaving now!! </sp>
+<stage>She pushes Cloud out of the clinic on the wheelchair as the ground lifts up and falls into the Lifestream behind them. She isn't fast enough, and she and Cloud both fall into the Lifestream. Tifa wakes, sitting alone in the middle of a black nothing.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Wh, where am I......? what's happening? I......? </sp>
+<stage>She gets to her feet and looks around.</stage>
+<sp><boxstart/>Where's Cloud......!? <referent name="Cloud">Cloud</referent>, where are you!? </sp>
+<stage>Faint noises start up in the background, like static on a radio.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Huh...... what......? Who......?<boxstart/>Who is it......? I can't hear...... </sp>
+<stage>Suddenly she turns around.</stage>
+<sp><boxstart/>Wait a minute......! I don't know anything about that!<boxstart/>No! It's not me......! I'd never do anything like that!! </sp>
+<stage>She puts her hands to her head.</stage>
+<sp><boxstart/>No! Stop it......!! Stay back! </sp>
+<stage>She starts running.</stage>
+<sp><boxstart/>Somebody...... help! Please!! </sp>
+<stage>The sounds grow louder and she falls to her knees.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, help me!!<boxstart/>Eyaaaaghh......!! </sp>
+<stage>Tifa comes to in a sort of nexus with three branches. An image of Cloud sits at the entrance to each of them.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>............ Where am I......? </sp>
+<stage>She looks up to where there is another Cloud clutching his head and writhing in pain.</stage>
+<sp><boxstart/>Cloud!?<boxstart/>What is it, Cloud? What is this......!?<boxstart/>Is this the inside of your dreams? Or is it...... your...... subconscious......?<boxstart/>You're searching, aren't you <referent name="Cloud">Cloud</referent>?<boxstart/>Searching...... for yourself......<boxstart/>I can help too. We'll work together to try and get the real you back!<boxstart/>But...... Where do we start......? </sp>
+<stage>Tifa walks up to the Cloud near the gates to Nibelheim.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>The gates of Nibelheim... Five years ago, <referent name="Sephiroth">Sephiroth</referent> passed through these gates......<boxstart/>And...... That's how it all started...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>It connects...... to Nibelheim......?<boxstart/>That's right... It's probably best to start from there......<boxstart/>Let's go have a look, <referent name="Cloud">Cloud</referent>. I know it's not easy...... But I'll be right with you...... </sp>
+<stage>Tifa walks up to Nibelheim.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... look.<boxstart/>Here's the well...<boxstart/>And that's Gramps' Inn, too.<boxstart/>The only truck in town. It's been here since we were little kids, right?<boxstart/>This is the Nibelheim you remember, right?<boxstart/>It's the same as my Nibelheim. That's why this place is...... our Nibelheim. </sp>
+<stage>Cloud appears sitting near the truck.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Five Years ago... two men from SOLDIER came...<boxstart/><referent name="Sephiroth">Sephiroth</referent> and...... a young and vibrant soldier.<boxstart/>Can you tell me again what happened? </sp>
+<stage><referent name="Sephiroth">Sephiroth</referent> appears and turns to talk to someone behind him.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>How does it feel? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Five Years ago... I saw the real <referent name="Sephiroth">Sephiroth</referent> for the very first time. </sp>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>It's your first time back to your hometown in a long time, right?<boxstart/>So how does it feel?<boxstart/>I wouldn't know because I don't have a hometown... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Ummm... how 'bout your parents? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>So this is... the Great <referent name="Sephiroth">Sephiroth</referent>. </sp>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>My mother is Jenova. She died right after she gave birth to me. My father... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>But to tell you the truth, I thought he was very cold. </sp>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>What does it matter...?<boxstart/>All right, let's go. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I remember, I felt a foreboding about him. </sp>
+<stage>She watches as Cloud and the two soldiers enter the village. The Cloud-image moves to stand with his flashback self. Tifa shakes her head.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>No, <referent name="Cloud">Cloud</referent>.<boxstart/>I've been hiding it for some time, afraid that if I told you... something terrible might happen.<boxstart/>But, I'm not going to hide anything anymore. </sp>
+<stage>Sephiroth and the soldiers disappear.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>You weren't here. <referent name="Cloud">Cloud</referent> did not come to Nibelheim five years ago. </sp>
+<stage>A flash. A 15-year-old Tifa sits waiting just past the gate.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I... waited. But, <referent name="Cloud">Cloud</referent>... never came.<boxstart/>The two that were ordered here were <referent name="Sephiroth">Sephiroth</referent> and another person... </sp>
+<stage>The young Tifa gets up to see who's coming. She shakes her head and runs off.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>All right, let's go. </sp>
+<stage>The two soldiers enter, along with Zack. Fade to white.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>You mean that member of SOLDIER who came with <referent name="Sephiroth">Sephiroth</referent> wasn't...... <referent name="Cloud">Cloud</referent>......? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>There's nothing...... I can say......<boxstart/>You must find the answer yourself......<boxstart/>If you can't...... Then you......<boxstart/>Take your time, <referent name="Cloud">Cloud</referent>. Slowly...... little by little, okay? </sp>
+<stage>The Cloud-image sits down. Tifa walks to the second Cloud, who sits in front of the well.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>That starry night at the well...... And our promise that night... What if the memory was just a lie? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Don't hurry, <referent name="Cloud">Cloud</referent>...... Don't answer too quickly.<boxstart/>Just keep checking all those small emotions and it'll come back...... Slowly...... little by little.......<boxstart/>Right... like the sky that night...... the heavens were filled with stars...... </sp>
+<stage>Fade to black.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>From the beginning... OK? </sp>
+<stage>A starlit Nibelheim fades into view. Cloud and Tifa stand on the well.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Try and remember, <referent name="Cloud">Cloud</referent>. </sp>
+<stage>A young Cloud and Tifa appear sitting at the well.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Right, I was wearing these clothes.<boxstart/>That's you, too. You were so small then...... </sp>
+<stage>She sits down beside her younger self and looks over at Cloud.</stage>
+<sp><boxstart/>...and cute.<boxstart/><referent name="Sephiroth">Sephiroth</referent> once said...<boxstart/>Cloud made up his memories by listening to my stories...<boxstart/>Did you imagine this sky? No, you remembered it.<boxstart/>That night the stars were gorgeous. It was just Cloud and I. We talked at the well...<boxstart/>That's why I continued to believe that you were the real Cloud.<boxstart/>I still believe you're the <referent name="Cloud">Cloud</referent> from Nibelheim...<boxstart/>But you don't believe in yourself...<boxstart/>These memories aren't enough. </sp>
+<stage>Fade to white. They return to the nexus.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, what about your other memories?<boxstart/>No, not memories.<boxstart/>A memory is something that has to be consciously recalled, right?<boxstart/>That's why sometimes it can be mistaken and a different thing......<boxstart/>But it's different from a memory locked deep within your heart......<boxstart/>That's why it must be a fake. If he could recall up that memory......<boxstart/>That's it! What about some memory that has to do with me?<boxstart/>I say something and you don't remember it......<boxstart/>But you say something, and I remember it, too... Then we'll know that's our memory......<boxstart/>Talk to me. About anything, some important memory to you...<boxstart/>Now that you mention it, why did you want to join SOLDIER in the first place?<boxstart/>I always thought it was a sudden decision you made...... </sp>
+......I was devastated. ......I wanted to be noticed.
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>......I was devastated. ......I wanted to be noticed.<boxstart/>I thought if I got stronger I could get someone to notice...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Someone to notice you...? ......who? </sp>
+<sp>Who......? ......You know who! ......You, that's who. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>You...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>......Me? Why!? </sp>
+<sp><speaker name="Little Cloud">Little Cloud</speaker><boxstart/><referent name="Tifa">Tifa</referent>...... did you forget...... about those days? </sp>
+<stage>Tifa turns to look as a much younger Cloud appears.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Look...... I......<boxstart/>I'm sorry...... But what are you talking about? </sp>
+<sp><speaker name="Little Cloud">Little Cloud</speaker><boxstart/>No...... it's all right. You were having a hard time back then.<boxstart/>You were so busy with your own things, it's only natural you don't remember me back then. </sp>
+<stage>Tifa walks over to join him.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>'Back then'? </sp>
+<sp><speaker name="Little Cloud">Little Cloud</speaker><boxstart/>It's important to me...... I hate to say it but... It's a very important memory......<boxstart/>Do you want to see it?<boxstart/>Come on, hurry. </sp>
+<stage>Tifa goes over to talk to the third and final Cloud.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>......a sealed up secret...... wish......<boxstart/>Tender memories...... no one can ever know...... </sp>
+<stage>He steps aside to let Tifa and little Cloud pass.</stage>
+<sp><speaker name="Little Cloud">Little Cloud</speaker><boxstart/>Do you know where this window goes to, <referent name="Tifa">Tifa</referent>?<boxstart/>Fine...... I'll go. </sp>
+<stage>They look through the window into Tifa's room.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>My room? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>It was my first time there. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Was... it? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I only used to look up at it from outside. </sp>
+<stage>A flash, and a young <referent name="Tifa">Tifa</referent> is sitting in the corner with a trio of boys around her.</stage>
+<sp><speaker name="Boy">Boy</speaker><boxstart/>Hey, look!<boxstart/><referent name="Cloud">Cloud</referent>'s coming! </sp>
+<stage>Out the window, they see Cloud approach the house.</stage>
+<sp><speaker name="Boy">Boy</speaker><boxstart/>You think he wants to come in? </sp>
+<stage>Tifa looks up and shakes her head.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Was that the first day you came into my room?<boxstart/>...that's right.<boxstart/>We lived next to each other.<boxstart/>But I really didn't know you that well.<boxstart/>I've known you since we were children and always thought we were close...<boxstart/>Now that you mention it... I don't recall you ever being in my room... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Tifa">Tifa</referent> always used to be with this three-some. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>...That's right. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I used to think... they were all stupid. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>What!? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>You were all childish, laughing at every little stupid thing. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>But we were children, back then. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...I know. I'm the one that was stupid.<boxstart/>I really wanted to play with everyone, but I was never allowed into the group.<boxstart/>Then later... I began to think I was different...<boxstart/>That I was different from those immature kids.<boxstart/>That then... maybe... </sp>
+<sp>Just maybe, they would invite me in.<boxstart/>I thought that might happen, so I hung around... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I was so prejudiced. And... weak. </sp>
+<sp>That night I called Tifa out to the well...<boxstart/>I thought to myself <referent name="Tifa">Tifa</referent> would never come... that she hated me. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Yeah... it was so sudden. I was... a bit surprised.<boxstart/>But...<boxstart/>It's true that we weren't THAT close, but...<boxstart/>After you left town, I really thought about you a lot.<boxstart/>I used to wonder how Cloud was doing.<boxstart/>I wonder if <referent name="Cloud">Cloud</referent> was able to get into SOLDIER?<boxstart/>I started reading the newspapers, thinking that there might be an article about you. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Thanks, <referent name="Tifa">Tifa</referent>.<boxstart/>Tell him what you told me, later. He'll probably be so happy. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>OK!<boxstart/>Huh?<boxstart/>What happened on this day? Was it a special day? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>This was the day... </sp>
+<sp>Tifa's mother... </sp>
+<stage>Fade to white.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>The day Mom died... </sp>
+<stage>Back to the young Tifa in the corner.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I want... to see... mom... </sp>
+<sp>She gets to her feet, leaves her house, and runs to the base of Mt. Nibel. </sp>
+...I wonder if there's anything beyond that mountain?
+<sp><speaker name="Boys">Boys</speaker><boxstart/>Mt. Nibel is scary. Many people have died there.<boxstart/>No one crosses that mountain alive... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>How 'bout those that died?<boxstart/>Did mama pass through the mountains? </sp>
+<sp>She starts down the path. </sp>
+<sp>I'm going! </sp>
+<stage>The three boys watch her. Two start after her, but the third runs back down the path. Cloud runs up in time to watch him go, then starts after Tifa. When the kids reach the bridge, the other two run back. Cloud steps aside to let them past, then follows Tifa across the bridge. Later... Young Tifa and Cloud lie on the ground, having fallen from the mountain.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I don't remember the path I walked.<boxstart/><referent name="Tifa">Tifa</referent> missed her step. I ran to her... but didn't make it in time.<boxstart/>Both of us fell off the cliff.<boxstart/>Back then, I only scarred my knees but...... </sp>
+<stage>Tifa's father and another man run up to the pair. The other man gathers Tifa while Tifa's father stands over Cloud shaking a finger.</stage>
+<sp><speaker name="Tifa's Father">Tifa's Father</speaker><boxstart/><referent name="Cloud">Cloud</referent>! Why'd you bring <referent name="Tifa">Tifa</referent> to a place like this!<boxstart/>What the hell's the matter with you!?<boxstart/>What if she dies!? </sp>
+<stage>Everyone walks off, leaving Cloud behind.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Tifa was in a coma for seven days.<boxstart/>We all thought she wouldn't make it.<boxstart/>If only I could've saved her...<boxstart/>I was so angry... Angry at myself for my weakness.<boxstart/>Ever since then, I felt <referent name="Tifa">Tifa</referent> blamed me...<boxstart/>I got out of control... I'd get into fights not even caring who it was. </sp>
+<stage>Fade to black.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>That was the first time I heard about Sephiroth.<boxstart/>If I got strong like <referent name="Sephiroth">Sephiroth</referent>, then everyone might... </sp>
+<stage>They return to the nexus.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>If I could just get stronger...... Then even <referent name="Tifa">Tifa</referent> would have to notice me...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>So that was it......<boxstart/>Sorry, <referent name="Cloud">Cloud</referent>.<boxstart/>If I had only remembered more clearly what happened, I could have done something sooner...... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>It's not your fault, <referent name="Tifa">Tifa</referent>. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>But, I remember back when we were eight!<boxstart/>That's it! Now I know!<boxstart/>You weren't created five years ago.<boxstart/>My childhood memories weren't all made up!<boxstart/>Hang in there <referent name="Cloud">Cloud</referent>! Just a little longer! You've almost found the real you!<boxstart/>Let's go back to Nibelheim again......! </sp>
+<stage>Cloud runs off to the gates of Nibelheim and Tifa follows.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>The truth is right there. We almost have the answer right in the palm of our hands. </sp>
+<stage>They run through Nibelheim. Tifa stops as they pass Cloud's house.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, wait.<boxstart/>Where are you going? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>......The reactor......?<boxstart/>To the reactor! The Mako reactor of five years ago! </sp>
+<stage>In the reactor, <referent name="Tifa">Tifa</referent> attacks <referent name="Sephiroth">Sephiroth</referent>. He cuts her and she flies back down the stairs just as Zack runs in.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Hey! It's <referent name="Cloud">Cloud</referent>! </sp>
+<stage>Sephiroth turns into the Jenova chamber.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Za...... ck...... Zac......k. Zack... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>You remembered!! </sp>
+<stage>Zack runs after Sephiroth.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>That's right! It was Zack who came to Nibelheim with <referent name="Sephiroth">Sephiroth</referent>!<boxstart/>Then, where were you, <referent name="Cloud">Cloud</referent>? </sp>
+<stage>Zack flies back out of Jenova's chamber, slamming into one of the pods and not moving.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... Did you... see it all? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I saw... everything... </sp>
+<stage>A masked soldier runs in and takes Zack's sword. He runs up the steps to the Jenova chamber, goes up to Sephiroth and stabs him from behind.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Aaarrrgh...... who... who are you? </sp>
+<sp><speaker name="Soldier">Soldier</speaker><boxstart/>Mom... <referent name="Tifa">Tifa</referent>...... my town... give it back...<boxstart/>I had so much respect for you... I admired you... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!? </sp>
+<stage>After backing down from Jenova, the soldier pulls off his mask to reveal spiky blond hair.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>That's what happened...<boxstart/>...You were there.<boxstart/>You were watching me.<boxstart/>Yeah, I remember.<boxstart/>Hmm... so it was you. </sp>
+<stage>The scene cuts to the truck heading for Nibelheim. Rain pounds outside.</stage>
+<sp><speaker name="Zack">Zack</speaker><boxstart/>Hey <referent name="Cloud">Cloud</referent>, if you're feeling sick, why don't you take that mask off? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Yeah...... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Yeah. This is... me.<boxstart/>I... never made it as a member of SOLDIER.<boxstart/>I even left my hometown telling everyone I was going to join, but...<boxstart/>I was so embarrassed. I didn't want to see anyone. </sp>
+<stage>Entering Nibelheim, Cloud sees Tifa, and turns away to put his mask back on. Zack looks at him sympathetically. Tifa stands up, not seeing Cloud, shakes her head, and runs away.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>How does it feel?<boxstart/>It's your first time back to your hometown in a long time, right? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I'm... </sp>
+<stage>While Nibelheim is burning, the soldier lying on the ground twitches and struggles to get up. At the reactor, Cloud runs from Jenova's chamber to help Tifa.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>You came. You kept your promise.<boxstart/>So you really did come when I was in trouble! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Sorry... I didn't get there... fast enough... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>It's all right... <referent name="Cloud">Cloud</referent>. </sp>
+<stage>Sephiroth comes out of Jenova's chamber, sword in one hand, Jenova's head in the other.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Just like you. </sp>
+<stage>He limps down the stairs, pauses to look at Jenova's head, and continues out of the reactor's main chamber. Cloud gets up and starts after him.</stage>
+<sp><speaker name="Zack">Zack</speaker><boxstart/><referent name="Cloud">Cloud</referent>... Kill <referent name="Sephiroth">Sephiroth</referent>... </sp>
+<stage>Cloud runs off, confronting Sephiroth on the bridge over the Mako pit.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>!! </sp>
+<stage>Sephiroth turns smoothly and impales him on the Masamune.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Don't... push... your luck. </sp>
+<stage>He lifts Cloud on the sword. Cloud looks down and grabs the end of the blade.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...It can't be! </sp>
+<stage>Cloud manages to get his feet back on the platform, lifts up Sephiroth, and flings him aside into the Mako pit.</stage>
+<stage>Cloud and Tifa return to the nexus.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Then... this is goodbye, <referent name="Tifa">Tifa</referent>. Until we meet again...... </sp>
+<stage>All the Clouds get to their feet.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>............!? </sp>
+<stage>The Clouds meet in the center of the nexus and join one by one. The writhing Cloud comes down from above to join them. Cloud falls to the ground, and Tifa crouches next to him.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Uh...... Ah, Uh......! </sp>
+<stage>He solidifies and sits up.</stage>
+<sp><boxstart/>Uh...... <referent name="Tifa">Tifa</referent>...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Oh, <referent name="Cloud">Cloud</referent>......! It's really you, isn't it? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Yeah...... <referent name="Tifa">Tifa</referent>...... We finally...... meet again...... </sp>
+<stage>They both get to their feet.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>You stupid jerk!! You had us all worried sick!! </sp>
+<stage>Cloud collapses again, clutching his head.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Krgh......! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!? Are you all right!? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>V, voice...... Their...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I see. We're... in the Lifestream aren't we?<boxstart/>Everyone's waiting.<boxstart/>Let's go back, <referent name="Cloud">Cloud</referent>. Back to everyone...... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Yeah, I guess so... Come on, <referent name="Tifa">Tifa</referent>. Let's go home...... </sp>
+<stage>Together they swim upward out of the Lifestream.</stage>
+<stage>Tifa comes to just outside what used to be Mideel. Everyone is gathered around her and Cloud.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Yo! You awright!? <referent name="Tifa">Tifa</referent>!? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>u... unn......? </sp>
+<stage>She props herself up on an arm.</stage>
+<sp><boxstart/><referent name="Barret">Barret</referent>... You came back. I......<boxstart/><referent name="Cloud">Cloud</referent>... Where is he? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Don't worry about him. He's a tough one. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Barret">Barret</referent>...... I...... When I was in the Lifestream I saw the real Cloud.<boxstart/>I mean, I didn't really find him. <referent name="Cloud">Cloud</referent> found himself on his own... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Awright, I know... I shouldn't have doubted him.<boxstart/>But I can't win against you. You're some kinda lady. </sp>
+<stage>Tifa lies back.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>People have so many things pent up inside of themselves...<boxstart/>And they can forget so many things......<boxstart/>Strange...... isn't it............ </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Yo, Tifa! Snap outta it!!<boxstart/><referent name="Tifa">Tifa</referent>......!? </sp>
+<stage>Back on the Highwind, everyone is gathered in the Operations Room.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Everyone...... I'm sorry. I don't know what to say...... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Don't say anything, <referent name="Cloud">Cloud</referent>. All you've been doing is apologizing. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I never was in SOLDIER.<boxstart/>I made up the stories about what happened to me five years ago, about being in SOLDIER.<boxstart/>I left my village looking for glory, but never made it in to SOLDIER......<boxstart/>I was so ashamed of being so weak; then I heard this story from my friend Zack...<boxstart/>And I created an illusion of myself made up of what I had seen in my life......<boxstart/>And I continued to play the charade as if it were true. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Illusion, huh...? Pretty damn strong for a 'lusion, I'd say. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I'm physically built like someone in SOLDIER.<boxstart/>Hojo's plan to clone Sephiroth wasn't that difficult.<boxstart/>It was just the same procedure they use when creating members of SOLDIER.<boxstart/>You see, someone in SOLDIER isn't simply exposed to Mako energy.<boxstart/>Their bodies are actually injected with Jenova cells......<boxstart/>For better or worse, only the strong can enter SOLDIER.<boxstart/>It has nothing to do with the Jenova Reunion.<boxstart/>But weak people...... like me, get lost in the whole thing.<boxstart/>The combination of Jenova cells, <referent name="Sephiroth">Sephiroth</referent>'s strong will, and my own weakness are what created me.<boxstart/>Everyone knew that. I'm...... <referent name="Cloud">Cloud</referent>.<boxstart/>......the master of my own illusionary world.<boxstart/>But I can't remain trapped in an illusion any more......<boxstart/>I'm going to live my life without pretending. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>You're sure messed up, <referent name="Cloud">Cloud</referent>! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>That means there ain't no difference from before! </sp>
+<stage>Cloud scratches his head.</stage>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>By the way, <referent name="Cloud">Cloud</referent>. What are you going to do now?<boxstart/>Don't tell me you're going to leave the ship? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>......I'm the reason why Meteor is falling towards us.<boxstart/>That's why I have to do everything in my power to fight this thing. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Good!! Then you're gonna keep fightin' to save the planet!? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>It's like you always told me, <referent name="Barret">Barret</referent>. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Oh, uh, you mean that! </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>What? I don't understand! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>There ain't no gettin' offa this train we on! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>There ain't no gettin' offa this train we on! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>The train we on don't make no stops! </sp>
+<stage>Everyone laughs and runs out, Barret chasing after them, leaving Cloud behind.</stage>
+<sp><speaker name="Crew Member">Crew Member</speaker><boxstart/>Oh...... oh...... <referent name="Cloud">Cloud</referent>...... </sp>
+<stage>Cloud turns for the door.</stage>
+<sp><speaker name="Crew Member">Crew Member</speaker><boxstart/>Cloud, I was deeply moved by your story!<boxstart/>I'm really a weak person and so I could really understand how you feel, <referent name="Cloud">Cloud</referent>!<boxstart/>No one knows when fighting will begin. But let's get ready! </sp>
+<stage>On the bridge...</stage>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Listen, <referent name="Cloud">Cloud</referent>.<boxstart/>We're right in the middle of the mission for the Huge Materia, right?<boxstart/>I know this's kinda outta the blue, but there's a underwater reactor at Junon.<boxstart/>As far as I can see, that's the only one left.<boxstart/>That's that. Let's go! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>C'mon, <referent name="Cloud">Cloud</referent>! Don't #&amp;$* around!<boxstart/>We're goin' to Junon, boyeee!! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Let's do our best, <referent name="Cloud">Cloud</referent>! </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I'm glad you're back with us! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>This's kinda on the spur o' the moment, but shouldn't we oughta get to Junon!? </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Escape from a world of illusions... Hmph... I wonder which is better...? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>I know how tough it is bein' a leader, because I've been one.<boxstart/>I always forget who has what materia. </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Huh?<boxstart/>How would you even know? You don't know how tough it is... getting sick on boats and rides......<boxstart/>So, please...... just leave me alone. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>......I really do understand, <referent name="Yuffie">Yuffie</referent>. When I get sick on a flight, it's a real killer.<boxstart/>When I was in SOLDIER, I completely forgot about my motion sickness. </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Oh......<boxstart/>Isn't there any way to prevent this? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Well, according to my research......<boxstart/>First off, if you're nervous a lot, you won't get sick.<boxstart/>But you can't always be nervous.<boxstart/>With this much space, your best bet is to move around while you're riding.<boxstart/>It also might be a good idea to stretch sometimes, too.<boxstart/>But in SOLDIER, we spent a lot of time in trucks.<boxstart/>That sucked!......<boxstart/>And there's one thing you mustn't do when riding.<boxstart/>And that is......<boxstart/>Read!<boxstart/>Once you get sick, there's nothing anyone can do.<boxstart/>I know it's tough...... </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>......so you're a little better off than me.<boxstart/>But I don't feel...... well.<boxstart/>Where's the next stop? Can't you get there any quicker?<boxstart/><referent name="Cloud">Cloud</referent>, put me in your party, so I can get off this ship. </sp>
+<sp><speaker name="Learner Pilot (L8)">Learner Pilot (L8)</speaker><boxstart/>Wanna Go? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Yes<boxstart/>- No </sp>
+<stage>Going back to Mideel in ruins...</stage>
+<sp><speaker name="Old Man at Entrance">Old Man at Entrance</speaker><boxstart/>Ahoy! This here's Mideel. As you can see, this used to be a quiet hot springs town.<boxstart/>Everything's gone now but in a way, I'm kinda glad everything's cleaned out. Feels better this way, ho, ho. </sp>
+<sp><speaker name="Bald Man">Bald Man</speaker><boxstart/>Hey, you feelin' all better now? That's good, real good.<boxstart/>Now don't overdo yourself like that again, hear? </sp>
+<stage>He turns to survey what's left of the town.</stage>
+<sp><boxstart/>But isn't the Lifestream a strange thing?<boxstart/>When I die, I wonder if I'll flow along in the middle of a warm gentle stream like this......? </sp>
+<sp><speaker name="Shopper">Shopper</speaker><boxstart/>Hee, hee. Welcome. It's here. The day's finally come! Your day to shop!!<boxstart/>Do we have items and weapons!? Well, I should say so. And here's a bargain! What would you say to 50% off everything?<boxstart/>Just kidding. Even I wouldn't do something like that. Now what can I do for you today?<boxstart/>Thank you. Come again! </sp>
+<sp><speaker name="Doctor">Doctor</speaker><boxstart/>Hmphf? You...!? How did you recover from your Mako poisoning?<boxstart/>This is absolutely amazing...... I am so glad for you! Looks like your friends' wishes came true.<boxstart/>You can see for yourself what things look like, but at least no one was seriously hurt. We're just very unhappy now. </sp>
+<sp><speaker name="Nurse">Nurse</speaker><boxstart/>You probably don't remember, but you know that girl that watched over you for so long when you were sick?<boxstart/>You'd better take care of her. If you don't, you'll be sorry. Believe you me!<boxstart/>Well anyhow...... Hey, you all look terrible. Why don't you rest up for a while? </sp>
+<stage>Cloud and the others rest.</stage>
+<sp><boxstart/>OK! Perfect! Well then, take care. </sp>
+<sp><speaker name="Item Shopkeeper">Item Shopkeeper</speaker><boxstart/>Welcome! We always welcome cash! What can I do for you today?<boxstart/>I'm sorry. Our stock isn't so great now... But that's just the way it is here.<boxstart/>If you're looking for other items, why don't you check out the other stores? </sp>
+<sp><speaker name="Girl in Blue">Girl in Blue</speaker><boxstart/>Have you seen my husband? He disappeared during the big earthquake and I haven't seen him since.<boxstart/>I thought he'd be in the store......<boxstart/>You don't think he got through that door and went to another country on the other side, do you?<boxstart/>That's all just a dream...... Nothing like that could ever really happen. Heh... </sp>
+<sp><speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Welcome. Just what you need at time like this--a shop of rest and relaxation. What you want?<boxstart/>Thank you! We don't have many goods but you coming again, please. </sp>
+<sp><speaker name="Girl">Girl</speaker><boxstart/>Oh great. Now I've got to find another job......<boxstart/>I guess I might as well make my side job as an accessory seller into my regular job.<boxstart/>Well, since you're already here, why don't you buy something to take back with you?<boxstart/>Thank you. Stop by again. </sp>
+
+</scene>

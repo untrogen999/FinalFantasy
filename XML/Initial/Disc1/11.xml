@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="FortCondor">
+
+
+
+<h1>Fort Condor - Fighting the Shinra</h1>
+
+<h4><a href="#situation">The Situation</a></h4>
+<h4><a href="#fighting">Fighting the Shinra</a></h4>
+<hr></hr>
+<p class="italic">On the way to Junon, Cloud and the others may happen across the entrance to Fort Condor.</p>
+<p class="italic"><b>* Note</b>: Because they can bypass Fort Condor, it's possible to come for the first time at later points in the game, including while Tifa is the party leader, in which case the dialogue is slightly different. Red XIII also has slightly different dialogue after completing the events at Cosmo Canyon.</p>
+<p class="indent"><b>Man</b><br/>We've been fighting the Shinra for a long time at this battlefield.<br/>Even now, we're still settled in for a long war with them.<br/>If you aren't in a hurry, would you help us fight them?<br/>Listen, we don't want to push you but, if you're in the middle of something, why don't you finish that first?</p>
+<div class="block"/>
+<p class="italic"><span class="highlight">On the way to Junon...</span></p>
+	<p class="indent"><b>Cloud</b><br/>- Where is Junon?<br/>- We'll help you</p>
+	<div class="block"/>
+	  <p><span class="highlight">Where is Junon?</span></p>
+	  <p class="indent-nopad"><b>Man</b><br/>Let's see...... Head north along the coast, and keep going for a ways and you'll run into Junon.<br/>You gotta be careful 'cause it sits in the shadows of a small hill.</p>
+	
+	<div class="block"/>
+	  <p><span class="highlight">We'll help you</span></p>
+	  <p class="indent-nopad"><b>Man</b><br/>Really!? Then go on up and they'll fill you in on the details.</p>
+	
+
+<div class="block"/>
+<p class="italic"><span class="highlight">If the party has already been to Junon...</span></p>
+	<table><tr><td><p class="indent"><b>Cloud</b><br/>- Like to help but...<br/>- I guess we'll help you</p></td><td><p class="indent"><b>Tifa</b><br/>- I'm sorry... really<br/>- All right, we'll help</p></td></tr></table>
+	<div class="block"/>
+	  <p><span class="highlight">Like to help but...</span></p>
+	  <p class="indent-nopad"><b>Man</b><br/>All right then...... Take care of yourselves...</p>
+	
+	<div class="block"/>
+	  <p><span class="highlight">I guess we'll help you</span></p>
+	  <p class="indent-nopad"><b>Man</b><br/>Really!? Then go on up and they'll fill you in on the details.</p>
+	
+
+<p class="italic">Cloud and the others go inside. They find the man by himself in the shed at the top of the fort, looking out the window.</p>
+<p class="indent"><b>Man</b><br/>Do you guys want to see it, too?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>See what?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>What?</p>
+</blockquote>
+<p class="indent"><b>Man</b><br/>The condors. They're huge. Come on, have a look.</p>
+<p class="italic">Cloud has a look out the window. A huge condor is nesting close to the Mako reactor that sits atop Fort Condor's hill.</p>
+<p class="indent"><b>Man</b><br/>What do ya think? Awesome, huh?</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>Hello. I'm sorry but we're not selling anything now.<br/>We're using everything we have for ourselves.</p>
+<p class="indent"><b>Item Shopkeeper</b><br/>Sorry, but I can't sell you anything now.</p>
+<p class="indent"><a name="situation"></a><b>Man with Hat</b><br/>Hmmn, now this is something, I never thought anyone would ever climb up here.<br/>......Your eyes are different. Well, anyhow. Any minute now, this will be a battlefield against Shinra.</p>
+<p class="italic-inline">(If you talk to him as Tifa, he does not remark on her eyes.)</p>
+<p class="block-inline">You'd better get down before you get involved.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Shinra? The hell those jackasses doing here?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>What do you mean, "a battlefield"?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>You mean Shinra?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>The Shinra......</p>
+	<p class="italic-inline-nopad">Or, after Cosmo Canyon:</p>
+	<p class="block-inline-nopad">Shinra again.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>The Shinra? Here too?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>......</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>What do you mean by that?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>A battlefield, we can't overlook that.</p>
+</blockquote>
+<p class="indent"><b>Man with Hat</b><br/>It appears you have a problem with Shinra, too. After all, you climbed up here.<br/>Why not listen to what I have to say for a moment?</p>
+<div class="block"/>
+<p class="italic"><span class="highlight">With Cloud as the party leader...</span></p>
+	<p class="indent"><b>Cloud</b><br/>......<br/>- I guess so<br/>- Not interested</p>
+	<div class="block"/>
+	  <p><span class="highlight">I guess so</span></p>
+	  <p class="italic">Cloud's companions don't say anything.</p>
+	
+	<div class="block"/>
+	  <p><span class="highlight">Not interested</span></p>
+	  <blockquote class="party-nopad">
+		  <p class="indent-nopad"><b>Barret</b><br/>The hell you talkin' about!? They're all fightin' the Shinra too! You gonna ignore that!?</p>
+		  <p class="indent-nopad"><b>Aerith</b><br/>After all, we came all this way, Cloud.</p>
+		  <p class="indent-nopad"><b>Tifa</b><br/>Cloud, let's listen to what they have to say.</p>
+		  <p class="indent-nopad"><b>Yuffie</b><br/>Is this about the jewels?</p>
+		  <p class="indent-nopad"><b>Cait Sith</b><br/>I know, I know, Cloud. But let's listen for a bit.</p>
+		  <p class="indent-nopad"><b>Vincent</b><br/>There's no harm in listening to them.</p>
+		  <p class="indent-nopad"><b>Cid</b><br/>Man, she sure's cold.</p>
+	  </blockquote>
+	
+
+<div class="block"/>
+<p class="italic"><span class="highlight">With Tifa as the party leader...</span></p>
+	<p class="indent"><b>Tifa</b><br/>Oh, by all means.</p>
+
+<p class="indent"><b>Man with Hat</b><br/>Do you know what's at the top of this mountain?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Huh? Something's up there?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Come on, let's get it together.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Look close, old man.</p>
+</blockquote>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>A huge bird.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>That's the reactor. And the condor.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Yeah, come to think of it there was something.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Come to think of it, there was a reactor. But I've never seen anything shaped like it......</p>
+</blockquote>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Cloud</b><br/>The reactor and the condor.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>That's the reactor and the condor.</p>
+</blockquote>
+<p class="indent"><b>Man with Hat</b><br/>I can see you're very perceptive. Yes, it's a reactor and a condor.<br/>It seems the Shinra doesn't like the idea of having a condor on top of the reactor.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Damn, that's one big bird! But why are they trying to get rid of it with weapons?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Why?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>What's so wrong with having a condor on top of the reactor?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>It's not very logical.</p>
+	<p class="italic-inline-nopad">Or, after Cosmo Canyon:</p>
+	<p class="block-inline-nopad">The logic eludes me.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>I'm certain there must be state-of-the-art materia inside the reactor. Am I right?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Huh?......</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>......That's too much.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Huh? I don't get it.</p>
+</blockquote>
+<p class="indent"><b>Man with Hat</b><br/>It seems there's some type of special materia in the reactor above us.<br/>And because the condors came, the Shinra rushed troops here.<br/>The military wants to get the condor and all the villagers off this mountain.<br/>The condors are now warming their eggs, which hatch only once every few years.<br/>We would like to protect the condors from being harmed.</p>
+<p class="indent"><b>Cloud</b><br/>New lives......</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>I'll do it! I'll protect them from Shinra!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>We must protect the condor eggs, right?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Condors' eggs. A real work of nature.<br/>We've got to protect the life of the planet.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>So, to protect the eggs, are you gonna protect the reactor?......</p>
+	<p class="italic-inline-nopad">Or, after Cosmo Canyon:</p>
+	<p class="block-inline-nopad">We're going to protect the reactor in order to save the eggs.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Special materia, huh? Well, well, things are getting interesting.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>I'm gonna leave it up to you all.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>......and come out in one piece?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>You guys, what are ya gonna do?</p>
+</blockquote>
+<p class="indent"><b>Man with Hat</b><br/>Unfortunately, we don't have the ability to fight Shinra ourselves.<br/>That's why we have hired soldiers to help us.<br/>As our sponsor you can help us with a contribution or by fighting along side of us...<br/>What do you think? You want to join us in our fight?</p>
+<div class="block"/>
+	<p class="italic"><span class="highlight">With Cloud as the party leader...</span></p>
+	<p class="indent"><b>Cloud</b><br/>......</p>
+	<blockquote class="party">
+		<p class="indent-nopad"><b>Barret</b><br/>What's there to think about? We gotta do it!</p>
+		<p class="indent-nopad"><b>Aerith</b><br/>Cloud, why are you still worrying about it?</p>
+		<p class="indent-nopad"><b>Tifa</b><br/>Cloud......</p>
+		<p class="indent-nopad"><b>Red XIII</b><br/>You decide what we're going to do.</p>
+		<p class="italic-inline-nopad">Or, after Cosmo Canyon:</p>
+		<p class="block-inline-nopad">What are we going to do?</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>If things go right, we might even be able to pray to that special materia.</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>I'll leave it up to you so please do as you see fit.</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>It's difficult to get back what you've lost......</p>
+		<p class="indent-nopad"><b>Cid</b><br/>Don't be so wishy-washy. Hurry and make up your mind.</p>
+	</blockquote>
+	<p class="indent"><b>Cloud</b><br/>......<br/>- All right<br/>- Not interested</p>
+	<div class="block"/>
+	  <p><span class="highlight">All right</span></p>
+	  <blockquote class="party-nopad">
+		  <p class="indent-nopad"><b>Barret</b><br/>Hey! We'll come to the rescue.</p>
+		  <p class="indent-nopad"><b>Aerith</b><br/>Yes, yes. Let's do our best.</p>
+		  <p class="indent-nopad"><b>Tifa</b><br/>Cloud, thanks.</p>
+		  <p class="indent-nopad"><b>Red XIII</b><br/>I got it. Let me lend a hand, too.</p>
+		  <p class="italic-inline-nopad">Or, after Cosmo Canyon:</p>
+		  <p class="block-inline-nopad">Got it. I'm gonna lend a hand, too.</p>
+		  <p class="indent-nopad"><b>Yuffie</b><br/>Okay, it's settled. We're gonna get the materia, right?</p>
+		  <p class="indent-nopad"><b>Cait Sith</b><br/> Well then, let's do our best.</p>
+		  <p class="indent-nopad"><b>Vincent</b><br/>That's the right decision.</p>
+		  <p class="indent-nopad"><b>Cid</b><br/>If you've made up your mind, let's just do it.</p>
+	  </blockquote>
+	  <p class="indent-nopad"><b>Man with Hat</b><br/>Whew, we'll be saved.<br/>Ask my son, who's standing guard at the shed, about the details of our military tactics. We're depending on you.<br/>Yes, yes, I've also told the store owners about you, so they should sell you various items.<br/>And feel free to use our beds.</p>
+	
+	<div class="block"/>
+	  <p><span class="highlight">Not interested</span></p>
+	  <blockquote class="party-nopad">
+		  <p class="indent-nopad"><b>Barret</b><br/>What are you thinking!? And you call yourself a human!?</p>
+		  <p class="indent-nopad"><b>Aerith</b><br/>What a jerk. I'm disappointed in you.</p>
+		  <p class="indent-nopad"><b>Tifa</b><br/>Well......</p>
+		  <p class="indent-nopad"><b>Yuffie</b><br/>We may have lost the materia.</p>
+		  <p class="indent-nopad"><b>Vincent</b><br/>Now don't regret what's already past.</p>
+		  <p class="indent-nopad"><b>Cid</b><br/>If you've made up your mind, let's just do it.</p>
+	  </blockquote>
+	  <p class="indent-nopad"><b>Man with Hat</b><br/>I see...... Come back if you should change your mind.</p>
+	  <p class="italic">If you talk to him again...</p>
+	  <p class="indent-nopad"><b>Man with Hat</b><br/>Have you by chance changed your mind?</p>
+	  <p class="indent-nopad"><b>Cloud</b><br/>......<br/>- Well, let's do it<br/>- My position hasn't changed</p>
+	  <p class="italic">His response if Cloud agrees is the same as if he agrees the first time around. Otherwise he says nothing.</p>
+	
+
+<div class="block"/>
+	<p class="italic"><span class="highlight">With Tifa as the party leader...</span></p>
+	<p class="indent"><b>Tifa</b><br/>Everyone, listen to what I have to say.<br/>I can't possibly leave these people like this.<br/>Let's do whatever we can to help them. All right?</p>
+	<blockquote class="party">
+		<p class="indent-nopad"><b>Barret</b><br/>Hey! We'll come to the rescue.</p>
+		<p class="indent-nopad"><b>Red XIII</b><br/>Got it. I'm gonna lend a hand, too.</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>Okay, it's settled. We're gonna get the materia, right?</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Well then, let's do our best.</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>That's the right decision.</p>
+		<p class="indent-nopad"><b>Cid</b><br/>If you go that far, what can I say. Well, we'll be able to do something if you leave it up to us.</p>
+	</blockquote>
+
+<p class="italic">After agreeing to help, the shopkeepers will sell their goods and their dialogue is different.</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>Hello. Do your best. We will, too.</p>
+<p class="indent"><b>Item Shopkeeper</b><br/>You hang in there!</p>
+<p class="italic">Cloud goes back up to the shed.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If he didn't agree to help...</span></p>
+  <p class="indent-nopad"><b>Man</b><br/>So, will you help us? I don't want them to get killed.<br/>They're gigantic birds and so striking. We simply can't let them be killed by man's selfishness?<br/>Of course not. There's no way, especially at the hands of Shinra.<br/>If you're going to go look at them, get on top of that chair over there.</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight"><a name="fighting"></a>If he did agree to help...</span></p>
+  <p class="indent-nopad"><b>Man</b><br/>Thanks for accepting.<br/>Let me explain our strategy.<br/>The enemy will climb the mountain looking for the reactor. We will leave a trap for them and hire soldiers to protect the area.<br/>Well, that's all, but...... This village doesn't have any money. Even if we wanted to fight, our hands are tied 'cause we're broke.<br/>If we hired one soldier, we would need 400 gil. So, if we hire 20 soldiers, we must have 8000 gil.<br/>So if you folks have the time, we would like you to use your own money to hire these soldiers, buy the trap, set it up and command the troops.<br/>If you're pressed for time we'd like you to help us with the money.<br/>If you can give us the money, we can then hire soldiers with the funds and block Shinra's attack.<br/>We know that what we're asking is selfish.<br/>We have sent our wives and children to another village. We are resigned to our fate.<br/>Let's get back to square one. If the enemy penetrates our shed, you'll have to fight them immediately.<br/>Well, just because you lost once, it's not the end of the world, but if you lose repeatedly, it could be dangerous.<br/>Now then, is there anything you wish to ask?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Conditions for victory<br/>- The enemy<br/>- Soldiers, which can be hired<br/>- About funding<br/>- Other issues<br/>- Enough</p>
+  <div class="block"/>
+    <p><span class="highlight">Conditions for victory</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>You can win by wiping out the enemy or killing the enemy commander in charge.<br/>If the enemy reaches the shed, they'll attack, and you'll have no choice but to go into battle immediately.<br/>In the event that you lose during direct contact, even if the enemy gets to the reactor, there's still a chance to save things.<br/>But it's only a slight chance, and we have no idea how much the reactor can endure in an attack.<br/>When we can't stand up to the attack any longer, the Shinra will take both the condors and our lives, as well as all the materia within the reactor.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">The enemy</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>There are four types of enemies.</p>
+    <p class="italic">He explains about wyverns, beasts, barbarians, and commanders.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">Soldiers, which can be hired</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>Your mobile allies are: Fighters, Attackers, Defenders, Shooters, Repairers and Workers.<br/>Your immobile allies are: Stoner, Tristoner, Catapult, and Fire Catapult.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">About funding</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>We have 15000 gil right now.<br/>We need 3000 gil for each battle.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">Other issues</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>First off, we must prepare the troops.<br/>Move the cursor wherever the x mark does not appear, then press the O button to set-up.<br/>After all positions are in place, select by pressing the X button. This starts the battle.<br/>Soldiers can only be arranged near the shed, in the beginning.<br/>That's because if the soldiers are too far away, they won't be able to follow instructions.<br/>You can only put soldiers on the horizontal line at the very bottom.<br/>Soldiers can be instructed by pushing the select button. So if any commands are unclear, push it.<br/>Soldiers can report by pushing the O button......<br/>The cursor will move to the soldier who made the report.<br/>Press the X button and you'll hear the report without moving.<br/>And you can bet Shinra will send platoons at you on a regular basis.<br/>It would be great if you could spare the time to help us...<br/>But if you really don't have time, would you contribute some financial assistance.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">Enough</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>Hey, this one climbing up here looks like they'd be just right. Please, any help is appreciated...<br/>Preparations ready?</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- Wait<br/>- Okay, ready<br/>- Contribute gil<br/>- Let them handle it<br/>- Hear more</p>
+  
+
+<p class="italic">If at length Cloud decides to enter the battle...</p>
+<p class="indent"><b>Man</b><br/>You have 10 enemies. There appear to be many Beasts, so you may want to deploy more Attackers.</p>
+<p class="italic">The battle begins, with Shinra troops climbing the hill towards the reactor, Fort Condor's defenders in the way.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If they defeat the enemy...</span></p>
+  <p class="indent-nopad"><b>Man</b><br/>Whew, that was good. But Shinra's troops will be back.<br/>Be sure and scout the area well... we don't know when they'll attack again.<br/>We have 6 allies left, so here's 1200 gil.<br/>Oh, yeah. I found this just now on the battlefield. Maybe it'll come in handy for you guys.</p>
+  <div class="highlight-nopad"/><p>Received "Magic Comb"!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If the enemy reaches the shed...</span></p>
+  <p class="indent-nopad"><b>Man</b><br/>My God! They're attacking! We're counting on you.</p>
+  <p class="italic">Cloud runs outside to fight the commander.</p>
+  <div class="block"/>
+    <p class="italic"><span class="highlight">If they win the battle...</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>We made it through that one somehow. But Shinra'll be back.<br/>Be sure and scout the area well... we don't know when they'll attack again.</p>
+  
+  <div class="block"/>
+    <p class="italic"><span class="highlight">If they lose the battle...</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>Are you all right? Looks like a few got through.</p>
+  
+
+<p class="indent"><b>Man</b><br/>How are things going? Seems like there's no activity at Shinra.</p>
+<p class="italic">Cloud and the others leave Fort Condor and head for Junon.</p>
+
+</scene>

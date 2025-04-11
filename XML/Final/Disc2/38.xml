@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="RocketTownMateria">
+
+
+
+<sp>Rocket Town - Huge Materia </sp>
+
+<sp>Arrival at the Rocket </sp>
+<sp>The Launch </sp>
+<sp>The Huge Materia </sp>
+<sp>The Escape Pod </sp>
+<sp>Back on the Highwind </sp>
+<sp>The Aftermath in Rocket Town </sp>
+
+<stage>Cloud and the others arrive at Rocket Town.</stage>
+<stage>Inside the inn...</stage>
+<sp><speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Seems like Palmer of Shinra, Inc. ordered soldiers to restore the rocket... </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>Even with all this goin' on outside, that guy still won't come out of the bathroom? He must be a damn water tank!? </sp>
+<stage>Back outside...</stage>
+<sp><speaker name="Mechanic">Mechanic</speaker><boxstart/>What's young president <referent name="Rufus">Rufus</referent> doing by getting all those mechanics together? </sp>
+<sp><speaker name="Redhead">Redhead</speaker><boxstart/>The Shinra serious 'bout launching that piece of crap rocket? But why now...? </sp>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>There's a bunch of Shinra people here messin' with the rocket...<boxstart/>Is my rocket... all right? </sp>
+<stage>Cloud heads for the rocket. Below, a couple stands watching.</stage>
+<sp><speaker name="Man">Man</speaker><boxstart/>Mmmmm, a SPECTACLE. </sp>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>Is something about to happen? Oh, I'm getting excited. </sp>
+<sp><speaker name="Soldiers">Soldiers</speaker><boxstart/>Those terrorists are here! </sp>
+<stage>Cloud fights off the first two soldiers and runs up the stairs.</stage>
+<sp><speaker name="Soldiers">Soldiers</speaker><boxstart/>Don't let them get any further! Everyone, ATTACK---!<boxstart/>Urrrgh, you're not going anywhere! Uh un, nowhere! </sp>
+<stage>Cloud fights off those soldiers.</stage>
+
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cid">Cid</referent> is not in the party...</sp>
+  <stage>Cid runs up the steps to join Cloud.</stage>
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>Wait, <referent name="Cloud">Cloud</referent>!<boxstart/>If you're gonna kick those *#$% Shinra out of my rocket, then take me with you!<boxstart/>ALL RIGHT! Let's show those &amp;$!@&amp; Shinra! </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cid">Cid</referent> is in the party...</sp>
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>Goddammit, what the hell do they think they're gonna do to my rocket!?<boxstart/>I'm outta here, <referent name="Cloud">Cloud</referent>! I'm gonna kick those $^%$# Shinra right out of my rocket! </sp>
+
+<stage>They go on up the ladder and run into Rude of the Turks.</stage>
+<sp><speaker name="Rude">Rude</speaker><boxstart/>...you again?<boxstart/>...We will eliminate everyone who gets in Shinra's way. </sp>
+<stage>They fight Rude.</stage>
+<sp><speaker name="Rude">Rude</speaker><boxstart/>Ugh......... gh.........<boxstart/>......they got us.<boxstart/>...hmm. </sp>
+<stage>Cloud and the others enter the rocket.</stage>
+<sp><speaker name="Commander">Commander</speaker><boxstart/>You... you! Why are you here? <referent name="Rude">Rude</referent> of the Turks should've been here!! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Too bad. Those guys are over there. </sp>
+<sp><speaker name="Commander">Commander</speaker><boxstart/>Oh man... the Turks, being done in like that... But, I won't let you through! </sp>
+<stage>They fight off the commander.</stage>
+<sp><speaker name="Commander">Commander</speaker><boxstart/>urrrrgh... </sp>
+<stage>They continue into the cockpit, where Cid's old crew is preparing for the launch.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey! What the hell're you guys doin'!? </sp>
+<sp><speaker name="Mechanic 1">Mechanic 1</speaker><boxstart/>Hey! Just when I thought somethin' was goin' on, you come back! </sp>
+<sp><speaker name="Mechanic 3">Mechanic 3</speaker><boxstart/>Listen to me, Captain. We're gonna launch this rocket! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Huh? What are you talkin' 'bout? </sp>
+<sp><speaker name="Mechanic 2">Mechanic 2</speaker><boxstart/>We're gonna load a Materia bomb in this and blow up Meteor. </sp>
+<sp><speaker name="Mechanic 1">Mechanic 1</speaker><boxstart/>Our rocket's gonna save the planet! </sp>
+<sp><speaker name="Mechanic 2">Mechanic 2</speaker><boxstart/>Urrrrgh. Man this is so COOL!! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Wait a minute! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Shut up!! Just shut the hell up! </sp>
+<stage>He turns back to his crew.</stage>
+<sp><boxstart/>How's the rocket? </sp>
+<stage>Cloud turns to the other party member and shrugs.</stage>
+<sp><speaker name="Mechanic 1">Mechanic 1</speaker><boxstart/>It's pretty much OK. </sp>
+<sp><speaker name="Mechanic 2">Mechanic 2</speaker><boxstart/>But... </sp>
+<sp><speaker name="Mechanic 3">Mechanic 3</speaker><boxstart/>We planned to run it into Meteor on Auto-Pilot, but the most important device is broken. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Broken? How's the repair goin'? </sp>
+<sp><speaker name="Mechanic 3">Mechanic 3</speaker><boxstart/>Shera's doin' it... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Oh great! What a buncha wizards you guys are! She's gonna take a 100 years!<boxstart/>I'll take over, so don't worry about the Auto-Pilot!<boxstart/>Hey, go ahead! Go tell everyone! </sp>
+<sp><speaker name="Mechanics">Mechanics</speaker><boxstart/>All right, Captain. Good luck. </sp>
+<stage>They all run out.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Hey, <referent name="Cid">Cid</referent>! What're you doing!?<boxstart/>There are generations of knowledge and wisdom inside the Materia.<boxstart/>We're gonna borrow their powers and save the planet from <referent name="Sephiroth">Sephiroth</referent>.<boxstart/>There's no way that we can lose the Huge Materia. You understand that, right? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Yeah, I understand. I understand that Materia is precious, and I also understand what you're thinking.<boxstart/>But listen.<boxstart/>I don't give a rat's ass whether it's science or magical power.<boxstart/>No, I guess if I had to choose, I'd rather put my money on the power of science.<boxstart/>Humans who used to only roam around on the ground are able to fly now!<boxstart/>And finally, we're about to go into outer space.<boxstart/>Science is a "Power" created and developed by humans. And science just might be what saves this planet.<boxstart/>I was able to earn my living thanks to science. So to me, there's nothing greater!<boxstart/>Now quit your worrying 'bout what Shinra's gonna do!<boxstart/>I don't want to regret not having done something later. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>But, <referent name="Cid">Cid</referent>...... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Shut the hell up!! I don't wanna hear it!!<boxstart/>Alright, time to get to work! Anyone who ain't involved, get the hell outta here! </sp>
+<stage>The rocket starts shaking.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>What the hell......? What the hell happened!? </sp>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Palmer">Palmer</speaker> (over the intercom)<boxstart/>Hey-hey! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Palmer! What the hell did'ya do!? </sp>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Palmer">Palmer</speaker><boxstart/>They said they finished repairing the Auto-Pilot. So, I laun---ched it! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Goddamn Shera! Why'd she pick today to get fast! </sp>
+<stage>He runs to the control panel.</stage>
+<sp><boxstart/>DAMN! Won't even budge! It's completely locked up! </sp>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Palmer">Palmer</speaker><boxstart/>Hey-hey-hey! Almost lift off! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>What the!? No countdown!? It just don't seem the same without it! </sp>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Palmer">Palmer</speaker><boxstart/>Hey!!!! Hey-hey!!! Blast-----off! </sp>
+<stage>The rocket launches into space.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>I finally made it... outer space...<boxstart/>Let's see, how's the course set...?<boxstart/>Yup, it's headed for a collision with Meteor. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Can't we do somethin'? We can't jus' leave it. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Can't we do something? If it goes on, we're...... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>What should we do? Are we all going to die? </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey old man! Do something! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What shall we do? What shall we do?<boxstart/>I'm a toy, so I don't care, but for all of you it's a different story... </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>We're in space now. A long rest... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>That damn Palmer went outta his way to lock the Auto-Pilot device. We might not be able to change the course. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...this is the end? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Huh? What the hell're you sayin'? You're still young, and you give up that easily?<boxstart/>I'm not gonna crash into Meteor.<boxstart/>Just watch.<boxstart/>I keep an Escape Pod on the rocket just for emergencies like this.<boxstart/>I deciphered the lock code on the Escape Pod. We'll bail right before we crash into Meteor. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Hey wait a second!<boxstart/>What's gonna happen to the Huge Materia? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Hey, what about the Huge Materia? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>But, what are we going to do with the Huge Materia? Are we just going to give it up? </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Hmm? What are we gonna do with the Huge Materia?<boxstart/>If you don't want it, maybe... you could... give it to ME! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>By the way, what are we goin' to do with the Huge Materia? </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Then the remaining question is what to do with the Huge Materia. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>......<boxstart/>If you want the Materia, do whatever you want!<boxstart/>The Materia should be there after you climb that ladder. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...You sure? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>I dunno...<boxstart/>I know what I said a minute ago.<boxstart/>But maybe all that I really wanted was just to go into outer space.<boxstart/>So, why don't you all do whatever you think is right? </sp>
+<stage>Cloud climbs the ladder to where the Huge Materia is kept.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I finally found the Huge Materia... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>It's structured so that the lock can be opened if we enter the passcode from this control panel.<boxstart/>Hey <referent name="Cloud">Cloud</referent>, you know how to use it, right?<boxstart/>Everytime it says, 'Enter Passcode,' push one of those buttons.<boxstart/>If you punch in the right code, it'll unlock and you can get the Huge Materia! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>So, what order am I supposed to enter the passcode in? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>I dunno. Just try and punch in the code randomly. </sp>
+<sp><speaker name="unspecified"/><boxstart/>Passcode input error<boxstart/>Unauthorized User identified<boxstart/>Protection System will activate in 3 minutes </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Seems like you missed the code!<boxstart/>If we don't enter the correct passcode before the Protection System activates, we won't be able to get the Materia back!<boxstart/>I heard there's a passcode only the top people in Shinra know.<boxstart/>We probably have to enter that. Try and enter some codes while I try and remember that passcode! </sp>
+<stage>Cid tries to give Cloud instructions.</stage>
+
+  <sp><speaker name="Cloud"/><boxstart/>If they succeed...</sp>
+  Passcode Confirmed<boxstart/>Identified as an Authorized User<boxstart/>Unlocked
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>Alright, <referent name="Cloud">Cloud</referent>!! It's unlocked!<boxstart/>Yup, my great advice saved the day. </sp>
+  Received Key Item "Huge Materia"!
+
+
+  <sp><speaker name="Cloud"/><boxstart/>If they fail...</sp>
+  Protection System Activated
+  <sp><speaker name="Cid">Cid</speaker><boxstart/>Ahhh &amp;$#$#! The Protection System just activated!<boxstart/>...<referent name="Cloud">Cloud</referent>, too bad, but we gotta let it go. </sp>
+
+<stage>Cloud and the others make for the escape pod. As they pass through the engine room, one of the oxygen tanks explodes.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Grrrgh!<boxstart/>Damn! My leg's stuck in the debris...... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Cid">Cid</referent>!! </sp>
+<stage>The others move to lift the debris.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>...damn! ...can't lift it! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>...I can't! It's so heavy, I can't lift it... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I can't do anything with my strength alone......! </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>I can't budge it by myself!! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What shall we do--- It won't budge! </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>...no. I can't lift it. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Don't worry 'bout me. Hurry up and go! If you don't hurry, the rocket's gonna crash into Meteor! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...I can't go without my friends. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>You ^%#@&amp;%......! No time to worry 'bout other people! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I'm gonna do whatever I can. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>You're stupid. You're really $#&amp;^%$* stupid.<boxstart/>Tank Number 8 blew up...... So Tank Number 8... really was malfunctioning......<boxstart/>Shera... You were right.<boxstart/>But, ......this is the end for me. </sp>
+<stage>The door opens.</stage>
+<sp><speaker name="Shera">Shera</speaker><boxstart/>Don't say that, <referent name="Cid">Cid</referent>. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Huh!? Shera!? </sp>
+<sp><speaker name="Shera">Shera</speaker><boxstart/>I tagged along. I'm coming to help you. </sp>
+<stage>She moves to help Cloud pull.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>You stupid &amp;$#&amp;%*%&amp;%#!!<boxstart/>......Sorry. </sp>
+<stage>With Shera's help, they manage to free Cid, and she leads them towards the escape pod.</stage>
+<sp><speaker name="Shera">Shera</speaker><boxstart/>The Escape Pod is this way. Please hurry. </sp>
+<stage>They follow Shera to the pod.</stage>
+<sp><speaker name="Shera">Shera</speaker><boxstart/>Hurry. I'm going to detach the Escape Pod. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, Shera! Does this Pod really fly? </sp>
+<sp><speaker name="Shera">Shera</speaker><boxstart/>It'll be OK. I've been checking it till now. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>.........Then I'm relieved. </sp>
+<sp><speaker name="Shera">Shera</speaker><boxstart/>......Thanks. </sp>
+<stage>They detach in the escape pod.</stage>
+<sp><speaker name="Cid">Cid</speaker> (plastered to the window)<boxstart/>So this is...... outer space...<boxstart/>Man... it's the real thing... I'm really here in outer space...<boxstart/>So long, Shinra No. 26... </sp>
+<stage>The rocket goes on to crash into Meteor. The explosion is blinding, but afterwards, Meteor remains, barely harmed at all.</stage>
+<stage>Back on the Highwind...</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Rufus">Rufus</referent> and the others plan was a failure... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>What a bust... But I kinda hoped it'd work. </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>We been botherin' them as much as we can...<boxstart/>But there ain't no other way... Wonder if we've been wrong all this time? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Makes you worry, doesn't it? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Don't worry! Think! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey! The girl's right.<boxstart/>You start worryin' and there's no stoppin' it! Things just start fallin' apart and get worse and worse. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>You're pretty damn optimistic! You up to somethin'? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Yeah, I been thinkin' about this and that.<boxstart/>All the time we been up here lookin' at the planet.<boxstart/>I been thinkin' even when we were floatin' in the ocean in that escape pod. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I've... been thinking too. About the universe... planet... ocean.<boxstart/>How wide and big... No matter where I go and what I do it won't change a thing. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Maybe you're right.<boxstart/>But I came up with something different.<boxstart/>I always thought this planet was so huge.<boxstart/>But lookin' at it from space, I realized it's so small.<boxstart/>We're just floatin' in the dark. ......kind of makes you feel powerless.<boxstart/>On top of that it's got <referent name="Sephiroth">Sephiroth</referent> festerin' inside it like a sickness.<boxstart/>That's why I say this planet's still a kid.<boxstart/>A little kid sick and trembling in the middle of this huge universe.<boxstart/>Someone's gotta protect it.<boxstart/>Ya follow me? That someone is us. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cid">Cid</referent>... that's beautiful. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Yo! <referent name="Cid">Cid</referent>! You even got to me!<boxstart/>Do, now what? How're we gonna protect the planet from Meteor? </sp>
+<stage>Cid scratches his head and sits down.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>...............I'm still thinkin' about that. </sp>
+<stage>The others shake their heads and disperse.</stage>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Huh!?<boxstart/>Did you...... hear something? </sp>
+<stage>They hear the Planet's screaming.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>The planet's scream...... or Meteor...? Is it this planet? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Hey, how do we know that this is really the planet's scream? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Did you forget?<boxstart/>Bugenhagen told us. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Bugenhagen... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Let's go see Grandfather! To Cosmo Canyon!<boxstart/>I'm sure he'll be able to tell us something that will be helpful! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>That Bugenhagen guy... He was a weird old dude.<boxstart/>I thought he was some kinda naturalist, but he was all into them machines. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Did Bugenhagen...... tell you anything? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Hurry, hurry! We must go meet Grandfather! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>This's just between you 'n' me but...<boxstart/>That there Bugenhagen feller, used to be a pretty handy Shinra worker.<boxstart/>Yep, he ain't never bought no weapons or Mako though...... </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>The machines in Cosmo Canyon were presents of Dr. Gast.<boxstart/>Wrapped up in the planet's strange notions surrounded by Shinra-made machines...<boxstart/>Science and the planet lived side by side in that old man's heart. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Maybe it's just me, but has this ship been remodeled without me knowin' it?<boxstart/>All these switches and levers. They're kinda gettin' to me. </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>What? Are we there?<boxstart/>I know it's all for Wutai, But I can't take much more of this. </sp>
+<sp><speaker name="Learner Pilot (L10)">Learner Pilot (L10)</speaker><boxstart/>Shall we go? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Let's<boxstart/>- No, let's not </sp>
+<stage>Afterwards, in Rocket Town...</stage>
+<stage>Inside the inn...</stage>
+<sp><speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Even though they failed to blow up Meteor with the rocket, the Shinra haven't given up yet...<boxstart/>Looks like they're gathering all the weapons from all their bases and are preparing for a final showdown. </sp>
+<sp><speaker name="Man">Man</speaker><boxstart/>OK, which is it gonna be? Meteor hits us first, or that guy comes out of the bathroom?<boxstart/>I'm not movin' from this spot till I see it with my own eyes. </sp>
+<stage>Inside a house...</stage>
+<sp><speaker name="Man">Man</speaker><boxstart/>Even the rocket launch wasn't all THAT great. </sp>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>Now that one of Shinra's greatest events is over, I guess it's back to the same old boring everyday life again... </sp>
+<stage>In the Item Shop...</stage>
+<sp><speaker name="Woman">Woman</speaker><boxstart/>Is Gramps gonna stay like that even though rocket's gone? </sp>
+<stage>Back outside...</stage>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>My, my precious rocket... It's gone.<boxstart/>Hmph, I know. No matter how much I look, the rocket's still gone.<boxstart/>But I just can't stop it. Just call it an old man's folly if you will.<boxstart/>Sorry to get you into this. For me, it's a kinda hobby.<boxstart/>But, out of appreciation, let me give you this. </sp>
+<sp><speaker name="unspecified"/><boxstart/>Received "Venus Gospel"! </sp>
+<sp><speaker name="Old Man">Old Man</speaker><boxstart/>I wish you'd take care of it and use it...<boxstart/>Maybe it's time for me to get a new hobby...<boxstart/>Mmm. You know that Shinra sports car at <referent name="Cid">Cid</referent>'s house? It might be fun to try and restore that thing... </sp>
+<sp><speaker name="Redhead">Redhead</speaker><boxstart/>I get so restless now that the rocket's gone. And now that we can see Meteor clearly, ...I can't stand it. </sp>
+<sp><speaker name="Mechanic">Mechanic</speaker><boxstart/>I still can't believe that piece of crap rocket actually made it into space... I guess the mechanic was a genius. </sp>
+<stage>Cid's house...</stage>
+<sp><speaker name="Shera">Shera</speaker><boxstart/>Now all we have to take care of is Meteor, right? You should be able...<boxstart/>Excuse me...... Please take care of the Captain. </sp>
+<stage>Cloud and the others leave for Cosmo Canyon.</stage>
+
+</scene>

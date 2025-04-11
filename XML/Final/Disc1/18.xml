@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="Gongaga">
+
+
+
+<sp> Gongaga - A Ruined Reactor </sp>
+
+<sp> The Turks </sp>
+<sp> A Ruined Reactor </sp>
+<sp> Gongaga Village </sp>
+<sp> Zack's House </sp>
+
+<stage>Cloud enters the forest surrounding Gongaga.</stage>
+<sp> <speaker name="* Note">* Note</speaker>: Because the party can trigger these events by visiting Gongaga any time before getting the Keystone, Vincent and Cid's responses are included here as well. Red XIII also has slightly different dialogue after completing the events at Cosmo Canyon.</sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Is someone there? </sp>
+<stage>Farther along the path, Reno and Rude stand talking.</stage>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Hey, <referent name="Rude">Rude</referent>. Who do you like? </sp>
+<stage>Rude turns away.</stage>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>What are you getting so embarrassed about? Come on? Who do you like? </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>.........<referent name="Tifa">Tifa</referent>. </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Hmmmm...<boxstart/>That's a tough one.<boxstart/>But, poor <referent name="Elena">Elena</referent>. She...... you...... </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>No, she likes <referent name="Tseng">Tseng</referent>. </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>I never knew that! But <referent name="Tseng">Tseng</referent> likes that Ancient... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What are they talking about? </sp>
+<stage>Elena comes up from behind him, and he turns around in surprise.</stage>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/>It's so stupid!<boxstart/>They always talk about who they like or don't like. But <referent name="Tseng">Tseng</referent> is different.<boxstart/>Ah! Oh no! </sp>
+<stage>She runs past Cloud to join Reno and Rude.</stage>
+<sp> <boxstart/>They're here! They're really here! </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Hmm... Then it's time...<boxstart/><referent name="Rude">Rude</referent>... Don't go easy on them even though they're girls. </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>...Don't worry, I'll do my job. </sp>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/>Then, we're counting on you. I'll report to <referent name="Tseng">Tseng</referent>! </sp>
+<stage>She runs off down the right fork of the path.</stage>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>It's been a while. </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If coming any time before the Wutai sidequest...</sp>
+	<sp> <speaker name="Reno">Reno</speaker><boxstart/>Payback time for what you did in Sector 7. </sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Sector 7?<boxstart/>- Out of our way </sp>
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>Sector 7? </sp>
+	  <sp> <speaker name="Reno">Reno</speaker><boxstart/>That's sad. </sp>
+	
+	
+	  <sp> <speaker name="Cloud"/><boxstart/>Out of out way </sp>
+	  <sp> <speaker name="Reno">Reno</speaker><boxstart/>I don't like being taken for a fool. </sp>
+	
+
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>That's as far as you go. </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If coming after encountering the Turks in Wutai...</sp>
+	<sp> <speaker name="Reno">Reno</speaker><boxstart/>This is just part of the job. Don't take it personally. </sp>
+
+<stage>Cloud and the others fight and defeat Reno and Rude.</stage>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>We may be retreating, but...<boxstart/>we're still victorious! </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>............... </sp>
+<stage>Rude and Reno each check their watches and run off.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>I don't like it. How'd they find out where we were? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...How could they know we were coming here. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hey, something seems wrong, Like they knew we were coming. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Interesting... They were definitely waiting for us. </sp>
+	Or, after Cosmo Canyon:
+	Hey, Cloud. How did the Turks know to wait and ambush us here?
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I don't like this! It's like the whole world knows where we're going. </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>How'd they know that we were here? </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>How did they know that we were here... </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Man, looks like they've taken a short cut. </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>They followed us...... But there weren't any signs of it. Then, that means...... </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>A spy, maybe? No, no way. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That there's a Shinra spy... </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>A spy!?...No way. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>......someone's been informing them. </sp>
+	Or, after Cosmo Canyon:
+	...You think someone told the Shinra about us?
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Maybe it's someone in this group? </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You don't think there's a spy, do you <referent name="Cloud">Cloud</referent>?<boxstart/>I hate this. Now everyone's gonna blame me because I'm new. </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Means there's a Shinra spy...? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>And a couple of Shinra dogs are here too! </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I don't even want to think that there's a spy...<boxstart/>I trust everyone. </sp>
+<stage>The right fork of the path leads to the ruins of a Mako reactor.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>A ruined reactor. </sp>
+<stage>A helicopter lands outside the reactor, and Scarlet and Tseng get off.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It's Scarlet, Head of Shinra Weapon Development. </sp>
+<stage>He runs and hides in the rubble. Scarlet enters the reactor, Tseng following.</stage>
+<sp> <speaker name="Scarlet">Scarlet</speaker><boxstart/>......Hmph! This isn't any good either.<boxstart/>You only get junky materia from junky reactors.<boxstart/>This reactor's a failure.<boxstart/>What I'm looking for is big, large, huge materia. You seen any? </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...No I haven't seen it. I'll get on it right away. </sp>
+<sp> <speaker name="Scarlet">Scarlet</speaker><boxstart/>Please. We could make the ultimate weapon if we only had some. </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>I just can't wait. </sp>
+<sp> <speaker name="Scarlet">Scarlet</speaker><boxstart/>With Hojo gone, the Weapon Development's been betting a bigger budget. </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>I envy them. </sp>
+<sp> <speaker name="Scarlet">Scarlet</speaker><boxstart/>But, even if we make the perfect weapon, could that stupid Heidegger even use it? </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...... </sp>
+<sp> <speaker name="Scarlet">Scarlet</speaker><boxstart/>Oh... sorry! I forgot Heidegger was your boss! Ha ha ha! </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>...... </sp>
+<sp> <speaker name="Scarlet">Scarlet</speaker><boxstart/>Let's go! </sp>
+<stage>She walks back towards the helicopter, and Tseng follows.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Big, large, huge materia?<boxstart/>An ultimate weapon? The perfect weapon?<boxstart/>Just what are the Shinra up to...? </sp>
+<stage>He waits for the helicopter to leave before getting out of his hiding place. He inspects the rubble.</stage>
+<sp> <boxstart/>There's something shiny back there...<boxstart/>- Don't do anything<boxstart/>- Reach for it </sp>
+<sp> <speaker name="unspecified"/><boxstart/>Received "Titan" Materia! </sp>
+<stage>Cloud goes back and takes the left fork, which leads to the village. Along the path there, there is a cemetery.</stage>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>............<boxstart/>No matter how much I pray, it won't bring our grandson back... </sp>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Three years ago when the reactor exploded, my husband...<boxstart/>Do people really need reactors to live?<boxstart/>Aren't there more important things in life...? </sp>
+<stage>Cloud enters the village and looks beyond to the reactor in the distance.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>A ruined reactor. </sp>
+<stage>Inside the weapons shop...</stage>
+<sp> <speaker name="Accessory Shopkeeper">Accessory Shopkeeper</speaker><boxstart/>Huh...... did you want something? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Buy accessories?<boxstart/>- Hear a story?<boxstart/>- Nothing in particular </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Buy accessories? </sp>
+  <stage>The shop menu opens.</stage>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Hear a story? </sp>
+  <sp> <speaker name="Accessory Shopkeeper">Accessory Shopkeeper</speaker><boxstart/>People can live without the Shinra's Mako Reactors. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Nothing in particular </sp>
+  <sp> <speaker name="Accessory Shopkeeper">Accessory Shopkeeper</speaker><boxstart/>They sell the weapons on the second floor. Climb up the pole to get there. </sp>
+
+<stage>Up the pole...</stage>
+<sp> <speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>...You want something? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Hear a story? </sp>
+<sp> <speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>It's been a while since the explosion, but you can still find pieces of it left all over town. </sp>
+<stage>At the inn...</stage>
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Uh... need somethin'? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Hear a story? </sp>
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>One day, there was a huge explosion. Many townspeople died in it... </sp>
+<stage>At the Mayor's house...</stage>
+<sp> <speaker name="Mayor">Mayor</speaker><boxstart/>This is Gongaga Village. Many people died here in a Mako reactor explosion.<boxstart/>The Shinra people told us that everyone would be happy once the Reactor was built. But, all it brought us was sadness...... </sp>
+<stage>In the Item Shop...</stage>
+<sp> <speaker name="Item Shopkeeper">Item Shopkeeper</speaker><boxstart/>Oh... you here to shop? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Hear a story? </sp>
+<sp> <speaker name="Item Shopkeeper">Item Shopkeeper</speaker><boxstart/>Shinra built the reactor without even thinking about the town's safety. And, this is the result. </sp>
+<stage>The party enters the house of an older couple, Zack's parents.</stage>
+<sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>You a traveller? Hey wait, that glare in your eye... you in SOLDIER? </sp>
+<sp> <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>Oh you're right! Don't you know anything about our son? </sp>
+<sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>His name is Zack. </sp>
+<sp> <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>It's been close to 10 years since he left for the city, saying that he didn't want to live in the country... </sp>
+<sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>He left saying he's going to join SOLDIER. You ever hear of a Zack in SOLDIER? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If neither <referent name="Aerith">Aerith</referent> nor <referent name="Tifa">Tifa</referent> are in the party...</sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know. </sp>
+  He turns for the door.
+  ...Zack.<boxstart/>Zack. I don't know anything about that man.<boxstart/>......But That name sounds familiar...<boxstart/>Why...!?
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If both <referent name="Aerith">Aerith</referent> and <referent name="Tifa">Tifa</referent> are in the party...</sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know. </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Zack... </sp>
+  <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him? </sp>
+  <sp> <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you? </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That can't... </sp>
+  She leaves the house.
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Zack... </sp>
+  She follows.
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What happened to you two? </sp>
+  He goes outside.
+  [Cloud talks to Aerith.]<boxstart/>[<referent name="Cloud">Cloud</referent> talks to <referent name="Tifa">Tifa</referent>.]
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If only <referent name="Aerith">Aerith</referent> is in the party...</sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmm.. I don't know. </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Zack... </sp>
+  <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him? </sp>
+  <sp> <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you? </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That can't... </sp>
+  She leaves.
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>... </sp>
+  He follows her outside.
+  [Cloud talks to Aerith.]
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If only <referent name="Tifa">Tifa</referent> is in the party...</sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm... I don't know. </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Zack... </sp>
+  <sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Young lady, you know him? </sp>
+  <sp> <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>I remember he wrote us 6 or 7 years ago saying that he had a girlfriend. Could that have been you? </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...No, it wasn't. </sp>
+  She walks outside.
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Tifa">Tifa</referent>... What happened? </sp>
+  He follows her outside.
+  [Cloud talks to Tifa.]
+
+<stage>Cloud talks to Aerith.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What a shock... I didn't know Zack was from this town. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You know him? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Didn't I tell you? He was my first love. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>............ </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Zack... SOLDIER First Class. Same as <referent name="Cloud">Cloud</referent>. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Strange, there aren't that many who make First Class, but I've never heard of him. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That's all right. It's all in the past now. I was just worried because I heard he's been missing. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Missing? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I think it was 5 years ago. He went out on a job, and never came back.<boxstart/>He loved women, a real lady's man. He probably found someone else...<boxstart/>Hey? What's wrong? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Poor guy<boxstart/>- (...jealous... envious...) </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Poor guy </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I don't really mind that I haven't heard from him. But I feel for his parents. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>(...jealous... envious...) </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Are you... jealous? Hmm? Hmmm? Are you, <referent name="Cloud">Cloud</referent>? </sp>
+  <stage>He turns away.</stage>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm kidding. I'm sorry. </sp>
+
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Let's go, <referent name="Cloud">Cloud</referent>. </sp>
+<stage>Cloud talks to Tifa.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Zack...... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Do you know him? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>N, no, I don't know him! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Your face tells me differently. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I told you, I don't! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>A, all right. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>............<boxstart/>That sounds just like you, leaving town, and saying 'I'm joining SOLDIER!'. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>There were a lot of guys like that back then. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You must really be something making it in SOLDIER out of a group like that.<boxstart/>I really respect you... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I just got lucky<boxstart/>- I worked hard for it </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>I just got lucky </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Don't be so humble! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>I worked hard for it </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hard work pays off, huh. </sp>
+
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, thanks for caring. </sp>
+<stage>Back at Zack's house.</stage>
+<sp> <speaker name="Zack's Father">Zack's Father</speaker><boxstart/>Have you ever met someone in SOLDIER named Zack? </sp>
+<sp> <speaker name="Zack's Mother">Zack's Mother</speaker><boxstart/>I can't believe he hasn't contacted us in 10 years...! ...After all, we're his parents. </sp>
+<stage>Cloud and the others leave Gongaga and continue westward.</stage>
+
+</scene>

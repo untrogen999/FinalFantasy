@@ -1,0 +1,252 @@
+Barret	Speaker	64	Cloud	Referent
+ Barret	Speaker	25	Tifa	Referent
+ Barret	Speaker	12	Aerith	Referent
+ Barret	Speaker	5	Rufus	Referent
+ Barret	Speaker	2	Barret	Referent
+ Barret	Speaker	17	Sephiroth	Referent
+ Barret	Speaker	5	Yuffie	Referent
+ Barret	Speaker	7	Cait Sith	Referent
+ Barret	Speaker	2	Cid	Referent
+ Barret	Speaker	1	Reno	Referent
+ Biggs	Speaker	8	Cloud	Referent
+ Biggs	Speaker	3	Barret	Referent
+ Jessie	Speaker	6	Cloud	Referent
+ Cloud	Speaker	65	Cloud	Referent
+ Cloud	Speaker	29	Barret	Referent
+ Cloud	Speaker	69	Tifa	Referent
+ Cloud	Speaker	109	Sephiroth	Referent
+ Cloud	Speaker	64	Aerith	Referent
+ Cloud	Speaker	2	Red XIII	Referent
+ Cloud	Speaker	8	Yuffie	Referent
+ Cloud	Speaker	13	Cid	Referent
+ Cloud	Speaker	6	Nanaki	Referent
+ Cloud	Speaker	5	Rufus	Referent
+ Cloud	Speaker	2	Elena	Referent
+ Cloud	Speaker	3	Cait Sith	Referent
+ Cloud	Speaker	2	Tseng	Referent
+ Cloud	Speaker	1	Vincent	Referent
+ Wedge	Speaker	12	Cloud	Referent
+ Wedge	Speaker	2	Barret	Referent
+ Wedge	Speaker	2	Tifa	Referent
+ unspecified	Speaker	1	Barret	Referent
+ unspecified	Speaker	2	Cloud	Referent
+ unspecified	Speaker	0	Aerith	Referent
+ unspecified	Speaker	3	Sephiroth	Referent
+ unspecified	Speaker	2	Tifa	Referent
+ unspecified	Speaker	0	Cait Sith	Referent
+ unspecified	Speaker	2	Rufus	Referent
+ Flower Girl	Speaker	1	Aerith	Referent
+ Redhead	Speaker	4	Rufus	Referent
+ Redhead	Speaker	2	Sephiroth	Referent
+ Soldier	Speaker	1	Reno	Referent
+ Soldier	Speaker	3	Sephiroth	Referent
+ Soldier	Speaker	3	Rufus	Referent
+ Soldier	Speaker	1	Elena	Referent
+ Soldier	Speaker	1	Tifa	Referent
+ Soldiers	Speaker	1	Reno	Referent
+ Soldiers	Speaker	1	Rufus	Referent
+ Soldiers	Speaker	1	Sephiroth	Referent
+ Shinra Manager	Speaker	1	Rufus	Referent
+ Gossip	Speaker	2	Tifa	Referent
+ Gossip	Speaker	1	Barret	Referent
+ Johnny's Cousin	Speaker	1	Barret	Referent
+ Johnny's Cousin	Speaker	1	Tifa	Referent
+ Johnny	Speaker	3	Tifa	Referent
+ Johnny	Speaker	1	Aerith	Referent
+ Marlene	Speaker	4	Cloud	Referent
+ Marlene	Speaker	1	Aerith	Referent
+ Marlene	Speaker	3	Tifa	Referent
+ Tifa	Speaker	179	Cloud	Referent
+ Tifa	Speaker	28	Barret	Referent
+ Tifa	Speaker	35	Sephiroth	Referent
+ Tifa	Speaker	29	Aerith	Referent
+ Tifa	Speaker	2	Red XIII	Referent
+ Tifa	Speaker	1	Rufus	Referent
+ Tifa	Speaker	3	Tifa	Referent
+ Tifa	Speaker	3	Cid	Referent
+ Tifa	Speaker	2	Nanaki	Referent
+ Tifa	Speaker	5	Yuffie	Referent
+ Tifa	Speaker	8	Cait Sith	Referent
+ President Shinra	Speaker	1	Sephiroth	Referent
+ Boy	Speaker	1	Cloud	Referent
+ Aerith	Speaker	87	Cloud	Referent
+ Aerith	Speaker	12	Tifa	Referent
+ Aerith	Speaker	5	Aerith	Referent
+ Aerith	Speaker	10	Barret	Referent
+ Aerith	Speaker	13	Sephiroth	Referent
+ Aerith	Speaker	1	Rufus	Referent
+ Aerith	Speaker	2	Nanaki	Referent
+ Aerith	Speaker	2	Yuffie	Referent
+ Aerith	Speaker	9	Cait Sith	Referent
+ Aerith	Speaker	2	Tseng	Referent
+ Reno	Speaker	2	Reno	Referent
+ Reno	Speaker	5	Rude	Referent
+ Reno	Speaker	8	Elena	Referent
+ Reno	Speaker	1	Tseng	Referent
+ Reno	Speaker	1	Yuffie	Referent
+ Reno	Speaker	1	Cloud	Referent
+ Reno	Speaker	2	Sephiroth	Referent
+ Man	Speaker	2	Rufus	Referent
+ Man	Speaker	1	Yuffie	Referent
+ Man	Speaker	2	Sephiroth	Referent
+ Elmyra	Speaker	2	Cloud	Referent
+ Elmyra	Speaker	7	Aerith	Referent
+ Elmyra	Speaker	1	Tseng	Referent
+ Cloud's Mom	Speaker	3	Cloud	Referent
+ Punk	Speaker	1	Aerith	Referent
+ Older Man	Speaker	1	Tifa	Referent
+ Older Man	Speaker	3	Cloud	Referent
+ Redhead in Suit	Speaker	1	Aerith	Referent
+ Barkeeper	Speaker	1	Cid	Referent
+ Barkeeper	Speaker	1	Rufus	Referent
+ Old Man	Speaker	2	Rufus	Referent
+ Old Man	Speaker	1	Cid	Referent
+ Woman 2	Speaker	1	Rufus	Referent
+ Woman 3	Speaker	1	Cloud	Referent
+ Men	Speaker	1	Barret	Referent
+ Corneo	Speaker	1	Barret	Referent
+ Heidegger	Speaker	1	Sephiroth	Referent
+ Reeve	Speaker	2	Cloud	Referent
+ Tseng	Speaker	6	Aerith	Referent
+ Tseng	Speaker	3	Elena	Referent
+ Tseng	Speaker	4	Sephiroth	Referent
+ Man 3	Speaker	1	Aerith	Referent
+ Palmer	Speaker	1	Sephiroth	Referent
+ Palmer	Speaker	1	Cid	Referent
+ Hojo	Speaker	2	Aerith	Referent
+ Hojo	Speaker	2	Cloud	Referent
+ Hojo	Speaker	9	Sephiroth	Referent
+ Red	Speaker	1	Red XIII	Referent
+ Red XIII	Speaker	12	Cloud	Referent
+ Red XIII	Speaker	3	Barret	Referent
+ Red XIII	Speaker	1	Rufus	Referent
+ Red XIII	Speaker	1	Red XIII	Referent
+ Red XIII	Speaker	1	Sephiroth	Referent
+ Red XIII	Speaker	1	Nanaki	Referent
+ Rude	Speaker	3	Elena	Referent
+ Rude	Speaker	2	Reno	Referent
+ Rude	Speaker	1	Tifa	Referent
+ Rude	Speaker	1	Tseng	Referent
+ Rufus	Speaker	7	Sephiroth	Referent
+ Rufus	Speaker	1	Rufus	Referent
+ Rufus	Speaker	3	Cloud	Referent
+ Innkeeper	Speaker	1	Cloud	Referent
+ Sephiroth	Speaker	5	Cloud	Referent
+ Sephiroth	Speaker	1	Sephiroth	Referent
+ Sephiroth	Speaker	2	Tifa	Referent
+ Man with Camera	Speaker	3	Sephiroth	Referent
+ Man with Camera	Speaker	1	Cloud	Referent
+ Man with Camera	Speaker	1	Tifa	Referent
+ Man with camera	Speaker	1	Cloud	Referent
+ Man with camera	Speaker	1	Sephiroth	Referent
+ Tifa's Father	Speaker	2	Cloud	Referent
+ Tifa's Father	Speaker	3	Tifa	Referent
+ Tifa's Father	Speaker	1	Sephiroth	Referent
+ Letter	Speaker	2	Tifa	Referent
+ Letter	Speaker	1	Cloud	Referent
+ Black-haired Woman	Speaker	2	Cloud	Referent
+ Gramps	Speaker	1	Cloud	Referent
+ Zangan	Speaker	2	Tifa	Referent
+ Elena	Speaker	4	Rude	Referent
+ Elena	Speaker	1	Elena	Referent
+ Elena	Speaker	3	Reno	Referent
+ Elena	Speaker	2	Sephiroth	Referent
+ Elena	Speaker	6	Tseng	Referent
+ Elena	Speaker	1	Cloud	Referent
+ Cait Sith	Speaker	38	Cloud	Referent
+ Cait Sith	Speaker	4	Cait Sith	Referent
+ Cait Sith	Speaker	6	Sephiroth	Referent
+ Cait Sith	Speaker	2	Yuffie	Referent
+ Cait Sith	Speaker	1	Tseng	Referent
+ Cait Sith	Speaker	5	Aerith	Referent
+ Cait Sith	Speaker	3	Rufus	Referent
+ Cait Sith	Speaker	4	Tifa	Referent
+ Cait Sith	Speaker	2	Barret	Referent
+ Vincent	Speaker	12	Sephiroth	Referent
+ Vincent	Speaker	2	Vincent	Referent
+ Vincent	Speaker	1	Yuffie	Referent
+ Vincent	Speaker	2	Cid	Referent
+ Vincent	Speaker	7	Cloud	Referent
+ Vincent	Speaker	1	Aerith	Referent
+ Vincent	Speaker	1	Tifa	Referent
+ Vincent	Speaker	1	Reno	Referent
+ Cid	Speaker	8	Tifa	Referent
+ Cid	Speaker	3	Cid	Referent
+ Cid	Speaker	2	Rufus	Referent
+ Cid	Speaker	5	Sephiroth	Referent
+ Cid	Speaker	4	Yuffie	Referent
+ Cid	Speaker	19	Cloud	Referent
+ Cid	Speaker	2	Aerith	Referent
+ Cid	Speaker	1	Nanaki	Referent
+ Cid	Speaker	1	Barret	Referent
+ Yuffie	Speaker	5	Yuffie	Referent
+ Yuffie	Speaker	41	Cloud	Referent
+ Yuffie	Speaker	6	Sephiroth	Referent
+ Yuffie	Speaker	2	Barret	Referent
+ Yuffie	Speaker	7	Cait Sith	Referent
+ Yuffie	Speaker	2	Aerith	Referent
+ Yuffie	Speaker	3	Tifa	Referent
+ Yuffie	Speaker	1	Cid	Referent
+ Yuffie	Speaker	1	Nanaki	Referent
+ Priscilla	Speaker	3	Cloud	Referent
+ Commander	Speaker	3	Rufus	Referent
+ Commander	Speaker	1	Rude	Referent
+ Sailor 3	Speaker	1	Rufus	Referent
+ Someone	Speaker	1	Sephiroth	Referent
+ Sailor Running Around	Speaker	3	Rufus	Referent
+ Woman Lounging on Sea Plane	Speaker	1	Rufus	Referent
+ Village Headman	Speaker	2	Barret	Referent
+ Dyne	Speaker	6	Barret	Referent
+ Mr. Coates	Speaker	1	Cloud	Referent
+ Ester	Speaker	3	Cloud	Referent
+ Joe	Speaker	2	Cloud	Referent
+ Gatekeeper	Speaker	4	Nanaki	Referent
+ Nanaki	Speaker	31	Cloud	Referent
+ Nanaki	Speaker	3	Nanaki	Referent
+ Nanaki	Speaker	1	Red XIII	Referent
+ Nanaki	Speaker	4	Yuffie	Referent
+ Nanaki	Speaker	7	Sephiroth	Referent
+ Nanaki	Speaker	5	Aerith	Referent
+ Nanaki	Speaker	8	Tifa	Referent
+ Nanaki	Speaker	4	Cid	Referent
+ Bugenhagen	Speaker	15	Nanaki	Referent
+ Bugenhagen	Speaker	9	Cloud	Referent
+ Bugenhagen	Speaker	1	Sephiroth	Referent
+ Bugenhagen	Speaker	1	Aerith	Referent
+ Elder Bugah	Speaker	2	Nanaki	Referent
+ Kid near the Cosmo Candle	Speaker	2	Nanaki	Referent
+ Elder Hargo	Speaker	2	Nanaki	Referent
+ Clone	Speaker	1	Sephiroth	Referent
+ Cloud + Vincent	Speaker	1	Sephiroth	Referent
+ Mechanic	Speaker	1	Rufus	Referent
+ Shera	Speaker	2	Rufus	Referent
+ Shera	Speaker	1	Cloud	Referent
+ Shera	Speaker	1	Cid	Referent
+ Man on the Path to Godo's House	Speaker	5	Yuffie	Referent
+ Gorky	Speaker	6	Yuffie	Referent
+ Godo	Speaker	11	Yuffie	Referent
+ Woman Walking near River	Speaker	1	Yuffie	Referent
+ Staniv	Speaker	2	Yuffie	Referent
+ Bald Black Man	Speaker	1	Rude	Referent
+ Soldier outside Cargo Ship	Speaker	1	Rufus	Referent
+ Little Cloud	Speaker	2	Tifa	Referent
+ All	Speaker	1	Cloud	Referent
+ Gast	Speaker	4	Aerith	Referent
+ Ifalna	Speaker	3	Aerith	Referent
+ Everyone	Speaker	1	Cloud	Referent
+ Crew Member	Speaker	1	Cid	Referent
+ Crew Member	Speaker	1	Barret	Referent
+ Crew Member	Speaker	2	Cloud	Referent
+ Pilot in Training (LV3)	Speaker	1	Cid	Referent
+ Crew Member 4	Speaker	1	Tifa	Referent
+ Kid in Nanaki's Room	Speaker	2	Nanaki	Referent
+ Zack	Speaker	4	Cloud	Referent
+ Zack	Speaker	1	Sephiroth	Referent
+ Soldier on the Path to the Airport	Speaker	1	Sephiroth	Referent
+ Soldiers in Reactor	Speaker	1	Cloud	Referent
+ Lucrecia	Speaker	5	Vincent	Referent
+ Lucrecia	Speaker	4	Sephiroth	Referent
+ Learner Pilot (L13)	Speaker	1	Cloud	Referent
+ Learner Pilot (L14)	Speaker	1	Cloud	Referent
+ Learner Pilot (LV14 Limit Break!)	Speaker	1	Cloud	Referent
+ Full Fledged Pilot	Speaker	1	Cloud	Referent

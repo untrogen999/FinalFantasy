@@ -1,0 +1,355 @@
+<scene name="CosmoNanaki">
+
+
+
+<h1>Cosmo Canyon - Nanaki</h1>
+
+<h4><a href="#arrival">Arrival at Cosmo Canyon</a></h4>
+<h4><a href="#explore">Exploring Cosmo Canyon</a></h4>
+<h4><a href="#bugenhagen">Bugenhagen and His Machine</a></h4>
+<h4><a href="#candle">Around the Cosmo Candle</a></h4>
+<h4><a href="#gi">The Gi Cave</a></h4>
+<h4><a href="#leaving">Leaving Cosmo Canyon</a></h4>
+<hr></hr>
+<p class="italic">The party may choose to stop at Cosmo Canyon, but if they attempt to bypass it instead, the buggy sparks.</p>
+<p class="indent"><b>Cloud</b><br/>!?</p>
+<p class="italic">It continues to spark and then breaks down. Cloud gets out.</p>
+<p class="indent"><b>Cloud</b><br/>Oh man... a breakdown? Now?</p>
+<p class="italic"><a name="arrival"></a>They head to the nearby village of Cosmo Canyon in search of a mechanic. Red XIII runs ahead when they reach the gate.</p>
+<p class="indent"><b>Red XIII</b><br/>I am home! It is I, Nanaki!</p>
+<p class="indent"><b>Gatekeeper</b><br/>Hey, Nanaki! You're safe!<br/>Come on, and say hello to Bugenhagen!</p>
+<p class="italic">Red XIII runs on up a staircase along the side of the canyon.</p>
+<p class="indent"><b>Cloud</b><br/>...Nanaki?</p>
+<p class="indent"><b>Barret</b><br/>I finally made it... So this is... Cosmo Canyon!</p>
+<p class="indent"><b>Aerith</b><br/>Cosmo... Canyon? I wonder if there's any relation to the planet or the Ancients...</p>
+<p class="indent"><b>Tifa</b><br/>Red XIII seems different, doesn't he?</p>
+<p class="indent"><b>Yuffie</b><br/>Hmmm... Any Materia? Any Materia around?</p>
+<p class="indent"><b>Cait Sith</b><br/>Hmmm... So this is Cosmo Canyon.</p>
+<p class="italic">Cloud and the others approach the gate.</p>
+<p class="indent"><b>Gatekeeper</b><br/>Welcome to Cosmo Canyon. Are you familiar with this land?</p>
+<p class="indent"><b>Cloud</b><br/>- Yes<br/>- No</p>
+<div class="block"/>
+  <p><span class="highlight">Yes</span></p>
+  <p class="indent-nopad"><b>Gatekeeper</b><br/>You lied. That is something that is not treated lightly here in Cosmo Canyon.</p>
+
+<div class="block"/>
+  <p><span class="highlight">No</span></p>
+  <p class="indent-nopad"><b>Gatekeeper</b><br/>Let me explain.<br/>People from all over the world gather here to seek the Study of Planet Life.</p>
+
+<p class="indent"><b>Barret</b><br/>Wooooooooo!<br/>I always wanted to come here!</p>
+<p class="indent"><b>Gatekeeper</b><br/>Ummgah! It's full capacity at present, so I'm afraid I can't let you enter.</p>
+<p class="italic">Red XIII comes back down the stairs.</p>
+<p class="indent"><b>Red XIII</b><br/>They helped me some when I was on the road. Please let them in.</p>
+<p class="indent"><b>Gatekeeper</b><br/>...Oh, is that so? You helped our Nanaki? Please, come in.</p>
+<p class="indent"><b>Cloud</b><br/>Who is Nanaki?</p>
+<p class="indent"><b>Gatekeeper</b><br/>Nanaki is Nanaki. That's his name.</p>
+<p class="italic">* <b>Note</b>: From this point on, that's how I'll refer to him. It's his name, after all.</p>
+<p class="indent"><b>Gatekeeper</b><br/>Welcome to Cosmo Canyon. Make yourselves at home.</p>
+<p class="italic">Cloud and the others enter the village and go up to where Nanaki is waiting on the stairway landing.</p>
+<p class="indent"><b>Nanaki</b><br/>Here is where I was... I mean, ...this is my hometown.<br/>My tribe were protectors of those who appreciate this beautiful canyon and the Planet.<br/>My brave mother fought and died here, but my cowardly father left her...... I am the last of my race.</p>
+<p class="indent"><b>Cloud</b><br/>Cowardly father?</p>
+<p class="indent"><b>Nanaki</b><br/>Yes. My father was a wastrel.<br/>And so the mission I inherited from my ancestors, is to protect this place. My journey ends here.</p>
+<p class="indent"><b>Bugenhagen</b> (from above)<br/>Hey! Nanaki--! You're home!</p>
+<p class="indent"><b>Nanaki</b><br/>Coming, Grandpa!</p>
+<p class="italic-inline">He dashes off up the stairs.</p>
+<blockquote class="party"><a name="explore"></a>
+	<p class="indent-nopad"><b>Barret</b><br/>Good timin'. Let's take a breather.<br/>I got stuff I want to find out, too.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Let's rest for a bit. There are some things I want to find out about anyway.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>That's perfect. Why don't we take a break too? We can meet back here in a while, OK?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Rest, rest, rest! I wanna rest! There! It's decided!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>I'm just dead tired. Everyone, how 'bout some rest?</p>
+</blockquote>
+<p class="italic">The others all wander off.</p>
+<p class="indent"><b>Sign</b><br/>Tasty Cocktails! Pub "Starlet"<br/>Fluffy Beds! In "Shildra Inn"<br/>Come in today!<br/>It's right near Cosmo Candle!</p>
+<p class="italic">Cloud finds Tifa and Aerith at the pub.</p>
+<p class="indent"><b>Barkeeper</b><br/>Welcome. How 'bout our original cocktail, 'Cosmo Candle?'<br/>A drink now and then is good for you. It'll relax you a bit. ...If you know when to stop.</p>
+<p class="indent"><b>Aerith</b><br/>Maybe there are some people here that know about the Promised Land and the Ancients.</p>
+<p class="indent"><b>Tifa</b><br/>Nanaki...... I wonder what's happened to Nanaki...? He's as excited as a little boy.</p>
+<p class="indent"><b>Elder Bugah</b><br/>Is that so? You brought Nanaki back here?<br/>Yeah, thanks.</p>
+<p class="italic">Upstairs is the inn.</p>
+<p class="indent"><b>Innkeeper</b><br/>Welcome to 'Shildra Inn'.<br/>It'll be 100 gil a night. Would you like to stay?</p>
+<p class="indent"><b>Cloud</b><br/>- Yes<br/>- No thanks</p>
+<div class="block"/>
+  <p><span class="highlight">Yes</span></p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Have a great dream of the stars...</p>
+  <p class="italic">After spending the night...</p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Were you able to hear the stars whispers?<br/>Well then, please come again.</p>
+
+<div class="block"/>
+  <p><span class="highlight">No thanks</span></p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Well then, please come again.</p>
+
+<p class="indent"><b>Flyer on Wall</b><br/>[Turtle's Paradise] No. 5<br/>Our cocktails are good but our wine is the best!<br/>Please stop in to "Turtle's Paradise"!!</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Man</b><br/>So this is Cosmo Canyon... Quite a mysterious place.<br/>Have you come to seek the 'Study of Planet Life'?</p>
+<p class="indent"><b>Cloud</b><br/>- That's it<br/>- No</p>
+<div class="block"/>
+  <p><span class="highlight">That's it</span></p>
+  <p class="indent-nopad"><b>Man</b><br/>Yeah? I heard there's an awesome observatory here. I'd like to see it if I have a chance.</p>
+
+<div class="block"/>
+  <p><span class="highlight">No</span></p>
+  <div class="block"/>
+    <p class="italic"><span class="highlight">If the buggy broke down...</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>Oh yeah? What? The car broke down!?<br/>Why don't you look around Cosmo Canyon, while I fix the car?</p>
+    <p class="italic">He walks out through the gate.</p>
+  
+  <div class="block"/>
+    <p class="italic"><span class="highlight">If Cloud and the others chose to stop...</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>Oh, really?<br/>There really isn't much else to see here.</p>
+  
+
+<p class="indent"><b>Kid near the Cosmo Candle</b><br/>Yaaay! Nanaki! Nanaki's back! It's all thanks to this flame!<br/>This fire is called 'Cosmo Candle'. It has burned for generations.<br/>It is a holy flame that protects this canyon.<br/>I heard once, it only went out once, long ago.<br/>The elders said something horrifying occurred, but I really don't know much about it.</p>
+<p class="indent"><b>Gatekeeper</b><br/>Since you're here, why don't you listen to Bugenhagen's story?</p>
+<p class="italic">At the Tiger Lily Weapons shop...</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>Oh, welcome.<br/>The people of this canyon hate to compete. So almost everything here are replicas.<br/>But that's all right. Some of them you can really use.</p>
+<p class="indent"><b>Flyer on wall</b><br/>[Turtle Paradise Newsletter] Number 4<br/>Now hiring!<br/>Looking for someone who can stand long hours of boredom!<br/>For details, contact Pub "Turtle Paradise"!!</p>
+<p class="italic">In the Elder's Room...</p>
+<p class="indent"><b>Elder Hargo</b><br/>Where did I put it...? I know it's around here...</p>
+<p class="indent"><b>Barret</b><br/>There was this guy who studied 'Planetary Life' here.<br/>He couldn't take things the way they were, so he went to Midgar to form AVALANCHE.<br/>Wanna hear more?</p>
+<p class="indent"><b>Cloud</b><br/>- Go on</p>
+<p class="indent"><b>Barret</b><br/>Guess you could say this is where AVALANCHE was born.<br/>I always wanted to come here... And... I finally...... made it.<br/>A lot... happened...</p>
+<p class="indent"><b>Cloud</b><br/>- And then?</p>
+<p class="indent"><b>Barret</b><br/>And then...? I don't know what's going to happen, now that there is no AVALANCHE...</p>
+<p class="italic">In the Materia shop...</p>
+<p class="indent"><b>Yuffie</b><br/>Oh man! This place looks like a real drag. And their Materia sucks, too.</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>...num... yawn... Sir,... You... forgot...... your...... change.<br/>...num... Yes, I'm coming...<br/>Are you here to shop?</p>
+<p class="indent"><b>Cloud</b><br/>- That's right<br/>- No, what's your problem?</p>
+<div class="block"/>
+  <p><span class="highlight">That's right</span></p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>Oh... is that so... You're here to shop?</p>
+  <p class="italic-inline-nopad">He jumps up.</p>
+  <p class="block-inline-nopad">I'm sorry! We hardly ever get any customers so...... Oh, but I DO have confidence in our materia!<br/>I'm... I'm so sorry! It seems as though I've become so used to being lazy...</p>
+
+<div class="block"/>
+  <p><span class="highlight">No, what's your problem?</span></p>
+  <p class="indent-nopad"><b>Shopkeeper</b><br/>Oh... is that so... then leave me alone and let me... yawn... sleep...</p>
+
+<p class="italic">Inside a woman's living quarters...</p>
+<p class="indent"><b>Woman</b><br/>Oh man, I'm so busy. I need more help. Mummer... complaint...</p>
+<p class="italic">If Cait Sith is in the party...</p>
+<p class="indent"><b>Woman</b><br/>Those two... uh, Anyway, are you two friends? It really seems strange.</p>
+<p class="indent"><b>Cait Sith</b><br/>Hmm, this place seems like it has a lot of secrets.<br/>So, when's dinner?</p>
+<p class="indent"><b>Woman</b><br/>All right, all right. I'm making it right now.<br/>...But I wonder which one is going to eat...</p>
+<p class="indent"><b>Kid outside Sealed Door</b><br/>Bugenhagen sealed this door shut.<br/>How'd he do that? With super glue?</p>
+<p class="italic"><a name="bugenhagen"></a>Cloud continues on up to the observatory, where Nanaki and Bugenhagen are.</p>
+<p class="indent"><b>Nanaki</b><br/>Cloud, this is my grandfather, Bugen.<br/>He is incredible. He knows everything.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. I hear that you looked after Nanaki a bit.<br/>Nanaki is still a child you see.</p>
+<p class="indent"><b>Nanaki</b><br/>Please stop, grandfather. I'm 48.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. Nanaki's tribe has incredible longevity.<br/>So you see his 48 years would only be equivalent to say that of a 15 or 16 year old in human reckoning.</p>
+<p class="indent"><b>Cloud</b><br/>15 or 16!?</p>
+<p class="indent"><b>Bugenhagen</b><br/>He's quiet and very deep. You thought he was an adult?</p>
+<p class="indent"><b>Nanaki</b><br/>......grandfather. I want to be an adult.<br/>I want to grow up to be able to protect you and the village.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. No Nanaki. You can't stand on your own yet.<br/>To do that now would destroy you in the long run.<br/>Reaching up into the heavens, threatening to snatch the very stars from the great city of Midgar. You've seen it, haven't you?<br/>Well, that's a bad example. Looking up too much makes you lose perspective.<br/>When it's time for this planet to die, you'll understand that you know absolutely nothing.</p>
+<p class="indent"><b>Cloud</b><br/>......When the planet dies?</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. It may be tomorrow, or 100 years from now... But it's not long off.</p>
+<p class="indent"><b>Cloud</b><br/>How do you know this?</p>
+<p class="indent"><b>Bugenhagen</b><br/>I hear the cries of the Planet.</p>
+<p class="italic">A throbbing noise starts up.</p>
+<p class="indent"><b>Cloud</b><br/>What's that?</p>
+<p class="indent"><b>Bugenhagen</b><br/>The sounds of the stars in the heavens. While this goes on, planets are born, and die.</p>
+<p class="italic">A keening noise joins the throbbing.</p>
+<p class="indent"><b>Cloud</b><br/>What was that?</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. That was a scream from this planet.<br/>Didn't you hear it? As if to say... I hurt, I suffer......</p>
+<p class="indent"><b>Nanaki</b><br/>They have come here on a journey to save the planet.<br/>Why don't you show them your apparatus?</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. To save the planet? Ho Ho Hoooo!<br/>But, then again, I guess it wouldn't hurt to show him.</p>
+<p class="indent"><b>Kid</b> (walking in)<br/>Bugenhagen!<br/>Several odd looking people have come.</p>
+<p class="indent"><b>Bugenhagen</b><br/>The whole place has gotten busy all of a sudden.</p>
+<p class="indent"><b>Nanaki</b><br/>He brought friends too. I'll go get them.</p>
+<p class="italic-inline">Nanaki starts for the door.</p>
+<p class="block-inline">Cloud, please call one of them.<br/>Only three people can fit in grandfather's machine.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Don't worry. My machine won't run away. You go and invite your friends.</p>
+<p class="italic">Cloud runs off to invite someone.</p>
+<p class="indent"><b>Barret</b><br/>What?</p>
+<p class="indent"><b>Aerith</b><br/>Hmm?</p>
+<p class="indent"><b>Tifa</b><br/>Are you going somewhere?</p>
+<p class="indent"><b>Nanaki</b> (in his room)<br/>Don't worry about me. I've seen it many times.<br/>It's my first time back in a while. Let me rest for a bit...</p>
+<p class="indent"><b>Yuffie</b><br/>God. I HATE studying!</p>
+<p class="indent"><b>Cait Sith</b><br/>What did they say?</p>
+<p class="indent"><b>Gatekeeper</b><br/>Did you get to see Bugenhagen's contraption? If you haven't yet, you must!</p>
+<p class="italic">Back to the observatory...</p>
+<p class="indent"><b>Bugenhagen</b><br/>Here, over here. The door's unlocked, come on in.</p>
+<p class="italic">Cloud enters the room housing the machine.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. It looks like you have them all together. Then let's begin.<br/>I'll be stand there.</p>
+<p class="italic">Cloud gets on the machine, and Bugenhagen switches it on. The platform lifts, taking them up to an interactive model of the solar system.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>This is really somethin'!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>So pretty... It's just like the real thing!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Wow! It's just like the real thing!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Woa! Wooooah! Pretty good, surprisin' me!</p>
+</blockquote>
+<p class="indent"><b>Bugenhagen</b><br/>Hmm, yes pretty good. This is my laboratory.<br/>All the workings of space are entered into this 3D Holographic System.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Whoa! Shootin' stars!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Hey! A shooting star!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Look, look! A shooting star!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Wh, what the? A shooting star?</p>
+</blockquote>
+<p class="italic">Cloud and the others watch the model for a while.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>This's really somethin'!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Wow, how wonderful.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Oh! This is amazing!!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Whew!!</p>
+</blockquote>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. Yes, it is something, isn't it?<br/>Well, let's get to the subject.<br/>Eventually... all humans die. What happens to them after they die?<br/>The body decomposes, and returns to the Planet. That much everyone knows. What about their consciousness, their hearts and their souls?<br/>The soul too returns to the Planet.<br/>And not only those of humans, but everything on this Planet. In fact, all living things in the universe, are the same.<br/>The spirits that return to the Planet, merge with one another and roam the Planet.<br/>They roam, converge, and divide, becoming a swell, called the 'Lifestream'.<br/>Lifestream... In other words, a path of energy of the souls roaming the Planet.<br/>'Spirit Energy' is a word that you should never forget.<br/>A new life... children are blessed with Spirit energy and are brought into the world.<br/>Then, the time comes when they die and once again return to the Planet...<br/>Of course there are exceptions, but this is the way of the world.<br/>I've digressed, but you'll understand better if you watch this.</p>
+<p class="italic">On the Planet model, a man is born, and dies. His spirit energy enters the Lifestream and forms a tree elsewhere. The tree dies and returns to the Lifestream. A new man is born, and dies, etc. Eventually the Lifestream covers the entire Planet.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Spirit energy makes all things possible, trees, birds, and humans.<br/>Not just living things. But spirit energy makes it possible for Planets to be Planets.<br/>What happens if that energy were to disappear?</p>
+<p class="italic">Bugenhagen takes all the Spirit energy away and the Planet crumbles and dies.</p>
+<p class="indent"><b>Bugenhagen</b><br/>......These are the basics of the Study of Planet Life.</p>
+<p class="indent"><b>Cloud</b><br/>If the Spirit energy is lost, our Planet is destroyed...</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. Spirit energy is efficient BECAUSE it exists within nature.<br/>When Spirit energy is forcefully extracted, and manufactured, it can't accomplish its true purpose.</p>
+<p class="indent"><b>Cloud</b><br/>You're talking about Mako energy, right?</p>
+<p class="indent"><b>Bugenhagen</b><br/>Everyday Mako reactors suck up Spirit energy, diminishing it.<br/>Spirit energy gets compressed in the reactors and processed into Mako energy. All living things are being used up and thrown away.<br/>In other words, Mako energy will only destroy the Planet...</p>
+<p class="italic-inline">He turns off the machine.</p>
+<p class="block-inline">The story of the planets... and those who lived with them...<br/>You want to know more? Then you must listen to the words of the elders.<br/>Nanaki? His father a coward?<br/>So that's it... Nanaki's been thinking that all this time...</p>
+<p class="italic">Cloud and the others leave to explore the place further.</p>
+<p class="indent"><b>Elder Hargo</b><br/>Ahh, here it is.<br/>My job is to gather all the legends and the knowledge of the planet and to make a book.<br/>Then, even when I return to the planet, the children may still be taught about many things...<br/>Mmm? Oh, we have guests. Good, good.<br/>I know, I know.<br/>You came to ask me something, right? Am I right?</p>
+<p class="indent"><b>Cloud</b><br/>- It's about the Promised Land<br/>- Not really</p>
+<div class="block"/>
+  <p><span class="highlight">It's about the Promised Land</span></p>
+  <p class="indent-nopad"><b>Elder Hargo</b><br/>...The Promised Land. So you want to know...?<br/>There is no one place called the Promised Land. That's what I believe.<br/>No no, it does exist. Hmmm...... you can say that too.<br/>In other words, it doesn't exist for us, but it did for the Ancients.<br/>The Promised Land is the resting place of the Ancients.<br/>The life of the Ancients is one continuous journey. A journey to grow trees and plants, produce animals, and to raise Mako energy.<br/>Their harsh journeys continued throughout their lives...<br/>The place they returned to after their long journey... Their burial land is the Promised Land.<br/>Huh? Supreme Happiness? I believe that, for the Ancients, it was the moment that they were able to return to their Planet,<br/>At that moment they were released from their fate, and gained their supreme happiness...<br/>At least that's what I believe. I really don't know whether or not it's the truth now.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Not really</span></p>
+  <p class="indent-nopad"><b>Elder Hargo</b><br/>Oh, that's not what you're here for?<br/>I'd appreciate it if you don't talk to me about such foolish things as legends and old wives tales.</p>
+
+<p class="indent"><b>Elder Hargo</b><br/>By the way, those that came with you are all at the Cosmo Candle.<br/>Are you leaving?</p>
+<p class="indent"><b>Gatekeeper</b><br/>Leaving already? But it appears your friends still want to learn more about the planet...</p>
+<p class="italic">In the Pub...</p>
+<p class="indent"><b>Elder Bugah</b><br/>Mmm...<br/>What is it?</p>
+<p class="indent"><b>Cloud</b><br/>- The story of the Ancients...<br/>- Nothing</p>
+<div class="block"/>
+  <p><span class="highlight">The story of the Ancients...</span></p>
+  <p class="indent-nopad"><b>Elder Bugah</b><br/>You can't talk of the Ancients, without mentioning Professor Gast.<br/>He used to come here sometimes.<br/>He was a Shinra scholar who spent his life studying the Ancients.<br/>He was a serious person, never would have figured he'd be with the Shinra.<br/>Must've been about 30 years ago, when he found the corpse of an Ancient. He was elated!<br/>If I recall... he named it 'Jenova' and was doing a lot of research...<br/>One day, he showed up here, looking real distressed.<br/>He was mumbling something about Jenova not being an Ancient and that he'd done a terrible thing...<br/>He's been missing since then. I heard that he never went back to Shinra<br/>So, if you ever see Professor Gast, I want you to tell him...<br/>That the old man that likes to drink in Cosmo Canyon, wanted to hear about the Ancients.<br/>Well, there's lots to talk about,<br/>but most things about the Ancients are all legend and folk tales, and no one knows the truth.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Nothing</span></p>
+  <p class="indent-nopad"><b>Elder Bugah</b><br/>...hmm. That's no fun... I wanna tell a story.</p>
+
+<p class="indent"><b>Elder Bugah</b><br/>By the way, your friends are all in front of the 'Cosmo Candle'<br/>Are you all leaving now?</p>
+<p class="italic"><a name="candle"></a>Cloud joins his friends by the Candle.</p>
+<p class="indent"><b>Nanaki</b><br/>......</p>
+<p class="indent"><b>Barret</b><br/>Cosmo Canyon... This's where AVALANCHE was born...<br/>I promised my guys someday... when we saved the planet from the Shinra, that we'd all go to Cosmo Canyon and celebrate...<br/>Biggs... Wedge... Jessie...<br/>Now they're all gone... died for the planet.<br/>...Really? To save the planet?<br/>We all... we all hate the Shinra...<br/>Do I even got a to go on?<br/>Will they......... will they ever forgive me?<br/>...Right now, I really don't know. But I know one thing.<br/>If there's anything I can do, to save the planet... or the people livin' on it... Then I'm gonna do it!<br/>I don't care if it's for justice or revenge, or whatever. I don't care...... let 'em decide for 'emselves.</p>
+<p class="italic-inline">He gets to his feet.</p>
+<p class="block-inline">Urrrrrgh! I'm gonna do it!!<br/>Again... Again... AVALANCHE's born again!</p>
+<p class="indent"><b>Aerith</b><br/>I learned a lot. The elders taught me many things.<br/>About the Cetra... And the Promised Land...<br/>I'm...... alone... I'm all alone now...</p>
+<p class="indent"><b>Cloud</b><br/>But I'm...... we're here for you, right?</p>
+<p class="indent"><b>Aerith</b><br/>I know. I know, but... I am the only...... Cetra.</p>
+<p class="indent"><b>Cloud</b><br/>Does that mean we can't help?</p>
+<p class="indent"><b>Aerith</b><br/>......</p>
+<p class="indent"><b>Tifa</b><br/>Cloud...<br/>Bonfires are funny, aren't they?<br/>They make you remember all sorts of things.<br/>You know, Cloud. 5 Years ago...<br/>......It's nothing.<br/>No, forget. I'm afraid to ask...</p>
+<p class="indent"><b>Cloud</b><br/>What is it...?</p>
+<p class="indent"><b>Tifa</b><br/>It feels like... it feels like you're going far away...<br/>You really, really are...... you... right?</p>
+<p class="indent"><b>Yuffie</b><br/>What a boring place, just like I thought. I wanna go somewhere! Let's go find some Materia!</p>
+<p class="indent"><b>Cait Sith</b><br/>I wonder how many years it's been... Gosh, it brings back memories......</p>
+<p class="indent"><b>Nanaki</b><br/>...Long ago.<br/>...When I was still very small. We were all around this flame...<br/>No, never mind...</p>
+<p class="indent"><b>Cloud</b><br/>What happened?</p>
+<p class="indent"><b>Nanaki</b><br/>It's about my parents.<br/>When I talk about my mother, I am full of pride and joy...<br/>And that's fine. ...But when I remember my father, my heart is full of anger...</p>
+<p class="indent"><b>Bugenhagen</b><br/>...You really can't forgive your father...?</p>
+<p class="indent"><b>Nanaki</b><br/>Of course. He...... left mother for dead.<br/>When the Gi tribe attacked, he ran off by himself, leaving mother and the people of the Canyon!</p>
+<p class="indent"><b>Bugenhagen</b><br/>...Come, Nanaki. There's something you should see.</p>
+<p class="indent"><b>Nanaki</b><br/>...?</p>
+<p class="indent"><b>Bugenhagen</b><br/>The place may be dangerous.<br/>Cloud. Will you and one other person come with us?</p>
+<p class="indent"><b>Barret</b><br/>...Where're they going?</p>
+<p class="indent"><b>Aerith</b><br/>I wonder what he wants to show Nanaki...?</p>
+<p class="indent"><b>Tifa</b><br/>Can I go too?</p>
+<p class="indent"><b>Yuffie</b><br/>Does he want to show him THAT? You know, maybe there's some Materia that's been passed on for generations in this Canyon!?</p>
+<p class="indent"><b>Cait Sith</b><br/>Dangerous? Count me out......</p>
+<p class="indent"><b>Elder Bugah</b><br/>Mmm. I'm starting to feel good now. That bartender's cocktails always hit the spot.</p>
+<p class="indent"><b>Gatekeeper</b><br/>Hm? If you're looking for Bugenhagen, he went to the Sealed Door.<br/>Remember, there's a steel door on the way to Bugenhagen's room.<br/>What's that door there for anyhow? It's been closed forever...</p>
+<p class="italic"><a name="gi"></a>Cloud and the others join Bugenhagen by the sealed door.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo<br/>Are we all set?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah<br/>- Just a minute</p>
+<p class="indent"><b>Bugenhagen</b><br/>Not ready yet? Tell me when you are ready.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. Shall we go?</p>
+<p class="italic-inline">He hits a switch to open the door.</p>
+<p class="block-inline">All right. Come in, come in.</p>
+<p class="indent"><b>Nanaki</b><br/>Hey? Aren't you going with us, Grandpa?</p>
+<p class="indent"><b>Bugenhagen</b><br/>What are you crazy? It's dangerous in there. I told you that!<br/>You want an old man like me should go first? I'll be right behind you.</p>
+<p class="italic">If you try to go back out...</p>
+<p class="indent"><b>Bugenhagen</b><br/>What is it, you're going back? I'll be waiting here for you when you're ready.<br/>I can't leave this door open forever.<br/>Good. Then we shall proceed.</p>
+<p class="italic">They enter the cave and climb to the bottom. After passing through the first chamber, Bugenhagen stops in the doorway.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo.<br/>Everyone here's a Ghost of the Gi tribe. Killed in a certain battle.</p>
+<p class="indent"><b>Nanaki</b><br/>A certain battle...?</p>
+<p class="indent"><b>Bugenhagen</b><br/>The vengeful spirits of the Gi didn't disappear, and couldn't return to the Lifestream...<br/>We still have far to go. Ho Ho Hoooo.</p>
+<p class="italic">They continue on through the second chamber, and Bugenhagen stops again.</p>
+<p class="indent"><b>Bugenhagen</b><br/>As you can see, this cave leads to the back of Cosmo Canyon.<br/>It was unfortunate that the Gi were larger than us. If they attacked through here, we wouldn't have stood a chance.</p>
+<p class="indent"><b>Nanaki</b><br/>......</p>
+<p class="indent"><b>Bugenhagen</b><br/>Let's move on.</p>
+<p class="italic">They move through the third chamber.</p>
+<p class="indent"><b>Bugenhagen</b><br/>This warrior went through the cave all alone.<br/>Fighting attackers one after another...</p>
+<p class="indent"><b>Nanaki</b><br/>Grandpa...... That warrior...</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo... We're almost there.</p>
+<p class="italic">They enter the final chamber, where an evil-looking face is blocking the far exit.</p>
+<p class="indent"><b>Bugenhagen</b><br/>What is this......?</p>
+<p class="indent"><b>Nanaki</b><br/>Grandpa, is he...!?</p>
+<p class="indent"><b>Bugenhagen</b><br/>After death... The ghosts of the Gi... Like stagnant air......<br/>This... can't be!!</p>
+<p class="italic">Cloud and the others fight the Gi Nattak.</p>
+<p class="indent"><b>Bugenhagen</b><br/>...Thank you, Cloud. Because of you, we survived.<br/>Nanaki, you have grown strong, too.</p>
+<p class="indent"><b>Nanaki</b><br/>......Oh yeah?</p>
+<p class="indent"><b>Bugenhagen</b><br/>Now I know that it wasn't a mistake bringing you here...<br/>Come, I have something I want to show you. Right over here.</p>
+<p class="italic">They continue out of the cave.</p>
+<p class="indent"><b>Nanaki</b><br/>This is...</p>
+<p class="indent"><b>Bugenhagen</b><br/>...The warrior who fought against the Gi.<br/>He kept them from taking even one step into Cosmo Canyon.<br/>But he was never able to return to town...<br/>Look, Nanaki. Look at your father, at the warrior, Seto.</p>
+<p class="italic">Nanaki looks up to where Seto stands on the cliff above, turned to stone.</p>
+<p class="indent"><b>Nanaki</b><br/>...That... That's...... Seto...?</p>
+<p class="indent"><b>Bugenhagen</b><br/>Seto continued to fight the Gi tribe here. ...To protect this Canyon.<br/>Even after the Gi's poisonous arrows turned his body to stone......<br/>Even after they all ran away... Seto, continued to protect us.<br/>And he continues to protect us, even now.</p>
+<p class="indent"><b>Nanaki</b><br/>Even now...</p>
+<p class="indent"><b>Bugenhagen</b><br/>You thought that he was a coward and ran away. But he, alone risked his life to protect Cosmo Canyon.<br/>That is your father, Seto.</p>
+<p class="indent"><b>Nanaki</b><br/>That...... that is Seto? ...!? Did mother know?</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo... She knew. The two of them made me promise to keep this cave shut.<br/>They asked me to seal it myself and not to tell a soul.<br/>They said we should forget about this cave.</p>
+<p class="indent"><b>Nanaki</b><br/>.........</p>
+<p class="indent"><b>Bugenhagen</b><br/>Cloud... Would you mind leaving the two of us alone?</p>
+<p class="italic">Cloud nods and leaves the cave.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Nanaki. I want you to continue your journey with Cloud and the others.</p>
+<p class="indent"><b>Nanaki</b><br/>Grandpa!?</p>
+<p class="indent"><b>Bugenhagen</b><br/>Listen, Nanaki.<br/>Cloud says they are trying to save the planet.<br/>Honestly, I don't think it can be done.<br/>For even if they stop every reactor on the planet, it's only going to postpone the inevitable.<br/>Even if they stop Sephiroth, everything will perish.<br/>But, Nanaki. I've been thinking lately.<br/>I've been thinking if there was anything WE could do,<br/>as a part of the planet, something to help a planet already in misery...<br/>No matter what happens, isn't it important to try?<br/>Am I just wishing against fate?<br/>I am too old to do anything about it...<br/>This year, I'll be 130. Ho Ho Hoooo.<br/>That is why, Nanaki, you must go with them! For my sake.</p>
+<p class="indent"><b>Nanaki</b><br/>Grandpa...</p>
+<p class="indent"><b>Bugenhagen</b><br/>I wanted to show you your real father before you left...<br/>I'm so glad that you came back while I was still alive to show you.</p>
+<p class="indent"><b>Nanaki</b><br/>Grandpa... don't talk like that. I don't want to think of life... without you......</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. Well, I've had a long life.</p>
+<p class="indent"><b>Nanaki</b><br/>Grandpa! You must live!<br/>I'll see to it.<br/>I'll see to what's happening to the planet. And I'll come back to tell you.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Nanaki...</p>
+<p class="indent"><b>Nanaki</b><br/>I am Nanaki of Cosmo Canyon! The son of the warrior, Seto!<br/>I'll come back a warrior true to that noble name! So please, Grandpa...</p>
+<p class="italic-inline">He turns and looks up to see that Seto is crying.</p>
+<p class="indent"><b>Bugenhagen</b><br/>That's... Seto's...... Seto......</p>
+<p class="indent"><b>Nanaki</b><br/>Seto....... Fa... Father...</p>
+<p class="italic-inline">He leaps up higher and lets out a keening howl.</p>
+<p class="italic"><a name="leaving"></a>Back outside, the others are gathered around the Cosmo Canyon.</p>
+<p class="indent"><b>Barret</b><br/>They said they finished fixin' the buggy.</p>
+<p class="indent"><b>Cloud</b><br/>Shall we get going?</p>
+<p class="indent"><b>Aerith</b><br/>So this is it, Nanaki...</p>
+<p class="indent"><b>Barret</b><br/>That's just the way it goes. ...You came in handy at times...</p>
+<p class="indent"><b>Man</b><br/>The repair on your car is completed.<br/>Now you should be able to go where ever you want.</p>
+<p class="indent"><b>Cloud</b><br/>- How much do I owe...?<br/>- Much obliged</p>
+<div class="block"/>
+  <p><span class="highlight">How much do I owe...?</span></p>
+  <p class="indent-nopad"><b>Man</b><br/>No charge! You'd do the same for me, right?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Please, take 1000 gil<br/>- I guess you're right</p>
+	<div class="block"/>
+	  <p><span class="highlight">Please, take 1000 gil</span></p>
+	  <p class="indent-nopad"><b>Man</b><br/>Are you sure...? Well, all right. Thank you.<br/>Oh yeah. Did you stay at the inn already?<br/>There was a bottle on the sofa there a couple of days ago... was it yours?</p>
+	
+	<div class="block"/>
+	  <p><span class="highlight">I guess you're right</span></p>
+	  <p class="italic">Nothing happens.</p>
+	
+
+<div class="block"/>
+  <p><span class="highlight">Much obliged</span></p>
+  <p class="italic">Nothing happens.</p>
+
+<p class="indent"><b>Man</b><br/>Mmm...... I think the teachings of the 'Study of Planet Life' are true.<br/>But can people used to Mako energy ever go back...?</p>
+<p class="indent"><b>Kid outside Sealed Door</b><br/>Nope... It doesn't open... How'd he seal it? With a huge magnet?</p>
+<p class="italic">Cloud starts for the gate, and Nanaki comes running after him.</p>
+<p class="indent"><b>Nanaki</b><br/>Wait for me! I'm coming too!</p>
+<p class="indent"><b>Cloud</b><br/>Mmm?</p>
+<p class="indent"><b>Bugenhagen</b><br/>Cloud. Please look after Nanaki.</p>
+<p class="indent"><b>Cloud</b><br/>What happened?</p>
+<p class="indent"><b>Nanaki</b><br/>I think I grew up a little. That's what happened!</p>
+<p class="italic-inline">He runs off down the steps.</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. Come back whenever you need my knowledge.</p>
+<p class="italic">Cloud and the others return to the buggy and continue north.</p>
+
+</scene>

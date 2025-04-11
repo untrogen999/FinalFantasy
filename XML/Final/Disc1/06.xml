@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="FallOfThePillar">
+
+
+
+<sp> Sector 7 - Fall of the Pillar </sp>
+
+<sp> Conflicts at Shinra HQ </sp>
+<sp> Arrival at the Pillar </sp>
+<sp> After the Pillar's Collapse </sp>
+
+<stage>At Shinra Headquarters, President Shinra, Heidegger, and Reeve are meeting in the President's 70th floor office.</stage>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>How are the preparations going? </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Ha, ha, ha!! Smoothly, very smoothly! I assigned the Turks to this. </sp>
+<sp> <speaker name="Reeve">Reeve</speaker><boxstart/>President!! Are we really going to do this? Simply destroy a group with only a few members... </sp>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>What's the problem, Reeve? You want out? </sp>
+<sp> <speaker name="Reeve">Reeve</speaker><boxstart/>...No.<boxstart/>But, as head of the Urban Development Department, I have been involved in the building and running of Midgar. That's why... </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Reeve, you should flush those personal problems in the morning! </sp>
+<sp> <speaker name="Reeve">Reeve</speaker><boxstart/>The Mayor's against this anyway... </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Mayor?<boxstart/>He just sits in this building all day feeding his face! You still call that a Mayor?<boxstart/>Now if you'll excuse me sir! </sp>
+<stage>Heidegger walks out. Reeve almost starts after him, but stays put.</stage>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>You're tired. Why don't you take a couple of days off and go somewhere. </sp>
+<stage>Reeve looks at him, and then walks off.</stage>
+<sp> <speaker name="President Shinra">President Shinra</speaker><boxstart/>We'll destroy Sector 7 and report that AVALANCHE did it. Then we'll send in the rescue operation care of Shinra, Inc....<boxstart/>Heh, heh, heh... this is perfect. </sp>
+
+<stage>Having fallen through Don Corneo's trap door, Cloud, Aerith, and Tifa land in the sewers beneath Sector 6. Cloud goes to each of his companions in turn.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You alright? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Yeah. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You alright? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Man! This is terrible. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Well, the worst is over... </sp>
+<stage>There is a low growling noise.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Maybe not... </sp>
+<stage>The Don's pet monster, Aps, attacks them, but they fight and defeat it.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>It's too late...... Marlene... <referent name="Barret">Barret</referent>... the people of the Slums. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Don't give up, never give up hope. It's not easy to destroy the pillar, right? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>.........Yeah...... you're right! We still have time. </sp>
+<stage>They make their way through the sewers, climbing out to find themselves in Sector 7's Train Graveyard.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>. I got you mixed up in all of this... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Don't tell me to go home. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Let's see... If we can just get past the trains that are lit up, we should be able to get out of here. </sp>
+<stage>Winding their way through the abandoned trains, they make it to the all-but-deserted train station.</stage>
+<sp> <speaker name="Station man">Station man</speaker><boxstart/>I heard a rumor that the plate was going to fall, crushing this station, I've worked at so many years.<boxstart/>But I just can't bear to leave here. </sp>
+<stage>They run on past the station to the gated base of the pillar. A small crowd is gathered by the fence, and gunfire sounds from the staircase adjacent to the pillar.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We made it! The pillar's standing! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wait! You hear something...... above us? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>......gun fire? </sp>
+<stage>They look up and see Barret up at the very top of the stairs. Wedge is with him, but he falls from the platform to land near Cloud and the others. Everyone runs over.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wedge!! You all right!? </sp>
+<sp> <speaker name="Wedge">Wedge</speaker><boxstart/>......Cloud...... You remembered...... my name.<boxstart/><referent name="Barret">Barret</referent>'s up top. ...help him......<boxstart/>An' <referent name="Cloud">Cloud</referent>... Sorry, I wasn't any help. </sp>
+<stage>Cloud shakes his head and stands.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'm going up!<boxstart/><referent name="Aerith">Aerith</referent>! You look after Wedge. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Aerith">Aerith</referent>, do me a favor.<boxstart/>I have a bar called '7th Heaven' in this neighborhood.<boxstart/>There's a little girl named Marlene there...... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Don't worry. I'll put her somewhere safe. </sp>
+<stage>Tifa turns to the crowd.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>It's dangerous here!<boxstart/>Everyone get away from the pillar, quickly!<boxstart/>Everyone get out of Sector 7! </sp>
+<stage>Everyone disperses but no one leaves the area.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker> (crouching next to Wedge)<boxstart/>Don't worry. You let me handle this. </sp>
+<sp> <speaker name="Soldier 2">Soldier 2</speaker><boxstart/>L, look... This is my job, so I have to be here until the absolute last minute. </sp>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Umm... I just LOVE men with a sense of duty. Let me stay here with you. </sp>
+<sp> <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>Uh oh...... There goes the pillar.<boxstart/>I'm scared, but it's for your own good.<boxstart/>If things get too hairy, we'll escape. It's not something you'll see happen too often. </sp>
+<sp> <speaker name="Man by Fence">Man by Fence</speaker><boxstart/>Uhh...... Help! My strange and wonderful little place. </sp>
+<sp> <speaker name="Soldier 1">Soldier 1</speaker><boxstart/>Doh! And this was supposed to be my last job! Do something!!<boxstart/>I never thought this would ever happen to me! Great... I'm quitting tomorrow! </sp>
+<stage>If Cloud tries to leave the area...</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! You've gotta go now, or <referent name="Barret">Barret</referent>'s... </sp>
+<stage>Cloud and Tifa climb the staircase, running into Biggs and Jessie, both wounded, along the way.</stage>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/><referent name="Cloud">Cloud</referent>... so you don't care... what happens... to the... Planet? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Nope, not interested<boxstart/>- You're wounded...... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Nope, not interested </sp>
+  <sp> <speaker name="Biggs">Biggs</speaker><boxstart/>Hmph... you haven't changed. Oh, forget it. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>You're wounded...... </sp>
+  <sp> <speaker name="Biggs">Biggs</speaker><boxstart/>Thanks, <referent name="Cloud">Cloud</referent>.<boxstart/>...don't worry 'bout me...... <referent name="Barret">Barret</referent>'s... fighting up there. Go help him... </sp>
+
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>...<referent name="Cloud">Cloud</referent>... I'm glad...... I could talk with you... one last time. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Don't say 'last'......<boxstart/>- Is that so... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Don't say 'last'...... </sp>
+  <sp> <speaker name="Jessie">Jessie</speaker><boxstart/>That's... all right...<boxstart/>Because... of our actions... many...... people died...... this probably...... is our punishment... </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Is that so... </sp>
+  <sp> <speaker name="Jessie">Jessie</speaker><boxstart/>...Is... that so......?<boxstart/>Ha...... cool...... as usual... ex-...SOLDIER. ...always... I liked that... in you... </sp>
+
+<stage>Cloud and Tifa reach the top of the pillar to join Barret.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Tifa">Tifa</referent>! <referent name="Cloud">Cloud</referent>! You came!<boxstart/>Be careful! They're attacking from the helicopter. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Better equip ourselves before they attack in full force!<boxstart/>Here they come! </sp>
+<stage>The helicopter passes overhead, and Barret fires at it. Reno jumps down and runs over to the control panel.</stage>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>You're too late. Once I push this button... </sp>
+<stage>He pushes it.</stage>
+<sp> <boxstart/>That's all, folks! Mission accomplished. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We have to disarm it! <referent name="Cloud">Cloud</referent>! <referent name="Barret">Barret</referent>! Please! </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>I can't have you do that. No one gets in the way of <referent name="Reno">Reno</referent> and the Turks... </sp>
+<stage>They enter a battle with Reno, who casts his Pyramid spell on someone.</stage>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>Try and break it if you can. </sp>
+<stage>The fight continues until Reno checks his watch.</stage>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>It's time. </sp>
+<stage>Reno runs past Tifa and jumps from the platform. Tifa runs to the controls.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>DAMN! It's a time bomb! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>! I don't know how to stop this. Try it! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...It's not a normal time bomb. </sp>
+<stage>The helicopter rises up from below with Tseng of the Turks on its side rig and Aerith behind him.</stage>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>That's right. You'll have a hard time disarming that one.<boxstart/>It'll blow the second some stupid jerk touches it. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Please, stop it! </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Ha ha ha......<boxstart/>Only a Shinra Executive can set up or disarm the Emergency Plate Release System. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Shut yer hole! </sp>
+<stage>He fires at Tseng, but the attack proves ineffective.</stage>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>I wouldn't try that...... You just might make me injure our special guest. </sp>
+<stage>Aerith lifts her head.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Aerith">Aerith</referent>!! </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Oh, you know each other?<boxstart/>How nice you could see each other one last time. You should thank me. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What are you gonna do with <referent name="Aerith">Aerith</referent>!? </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>I haven't decided.<boxstart/>Our orders were to find and catch the last remaining Ancient.<boxstart/>It's taken us a long time, but now I can finally report this to the President. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker> (leaning forward)<boxstart/><referent name="Tifa">Tifa</referent>, don't worry! She's all right! </sp>
+<stage>Tseng turns and slaps Aerith, and she falls back.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Aerith">Aerith</referent>! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hurry and get out! </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Ha, ha, ha... Well, it should be starting right about now. Think you can escape in time? </sp>
+<stage>The helicopter flies off just as the first explosions go off and the pillar starts to come apart.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Once that Plate starts coming down it'll be too late. We gotta hurry! </sp>
+<stage>They all spend a few moments frantically looking for an escape route, and then Barret jumps over to a cable attached to the platform.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, we can use this wire to get out! </sp>
+<stage>They all climb onto the cable and swing out as the plate comes crashing down behind them.</stage>
+
+<stage>Cloud, Tifa, and Barret land in the Sector 6 playground, now littered with smoking debris from Sector 7. They stand and walk slowly to the gate that once led to Sector 7.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Marlene! MARLENE!<boxstart/>MAR---LE---NE!!<boxstart/>Biggs!<boxstart/>Wedge!!<boxstart/>Jessie!!<boxstart/>Goddamnit!<boxstart/>Damnit!<boxstart/>DAMN IT ALL TO HELL!!<boxstart/>What the hell's it all for!?<boxstart/>ARGGHHHH!!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey, <referent name="Barret">Barret</referent>! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Barret">Barret</referent>! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>ARGGHHHH!!! </sp>
+<stage>Cloud and Tifa run over to him.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Barret, stop... Please stop, <referent name="Barret">Barret</referent>. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>URGHHHH!!! </sp>
+<stage>He fires several rounds at the rubble, then falls to his knees.</stage>
+<sp> <boxstart/>God damn... </sp>
+<stage>Some time passes... Having settled down some, Barret is seated near the slide, and Cloud and Tifa stand nearby.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Marlene... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......... <referent name="Barret">Barret</referent>......?<boxstart/>Marlene is... I think Marlene is safe. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>......huh? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Right before they took <referent name="Aerith">Aerith</referent>, she said, "Don't worry, she's all right." She was probably talking about Marlene. </sp>
+<stage>Barret gets to his feet.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>R, really!? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>But... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Biggs...... Wedge... Jessie...... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>All three of them were in the pillar. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Think I don't know that?<boxstart/>But... we, all of us fought together.<boxstart/>I don't wanna think of them as dead! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...and the other people in Sector 7. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>This is all screwed up!<boxstart/>They destroyed an entire village just to get to us! They killed so many people... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...are you saying it's our fault? Because AVALANCHE was here? Innocent people lost their lives because of us? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>No, <referent name="Tifa">Tifa</referent>!<boxstart/>That ain't it! Hell no!!<boxstart/>It ain't us! It's the damn Shinra! It's never been nobody but the Shinra!<boxstart/>They're evil and destroyin' our planet just to...<boxstart/>build their power and line their own damn pockets with gold!<boxstart/>If we don't get rid of them, they're gonna kill this planet!<boxstart/>Our fight ain't never gonna be over until we get rid of them!! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>.........I don't know. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What don't you know!? You don't believe me? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>It's not that. I'm not sure about... me. My feelings. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>An' what about you? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......... </sp>
+<stage>Cloud walks off towards Sector 5 without answering.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo!<boxstart/>Where's he think he's goin'? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh! <referent name="Aerith">Aerith</referent>! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Oh yeah, that girl. What's up with her? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...I don't really know... But she's the one I left Marlene with. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Damn! Marlene!! </sp>
+<stage>Barret starts after Cloud, but stops when Tifa doesn't follow immediately.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Tifa">Tifa</referent>. There ain't no turnin' back now. </sp>
+<stage>He turns and runs after Cloud. Tifa follows with a glance back over her shoulder. Up ahead, Cloud is making his way through Sector 6.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>! </sp>
+<stage>Cloud stops to let Tifa and Barret catch up.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Take me to Marlene! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're going to help <referent name="Aerith">Aerith</referent>? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah... But before that, there's something I want to know. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What's that? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...it's about the Ancients. </sp>
+<stage>The screen goes black momentarily.</stage>
+<sp> In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>...? </sp>
+<stage>He falls to one knee.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Are you all right? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Pull it together, man! </sp>
+
+
+</scene>

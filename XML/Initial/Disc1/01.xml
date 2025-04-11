@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="Reactor1">
+
+
+
+<div class="highlight"/>
+<h1>Sector 1 - The No. 1 Reactor</h1>
+
+<h4><a href="#mission">Enter AVALANCHE</a></h4>
+<h4><a href="#escape">Escape from Sector 8</a></h4>
+<h4><a href="#train">Last Train Home</a></h4>
+
+<hr></hr>
+<p class="italic"><a name="mission"></a>The opening sequence: A whirl of stars, humming softly, the view slowly drifting downwards and changing to show Aerith's face lit by Mako. She stands and walks out into the streets of Midgar as the camera pans back to show the city in full before again diving in, this time following a train as it pulls into a station in Sector 8. Biggs and Jessie leap off first, taking out the two guards stationed there. Wedge follows, and the three of them run ahead. Barret and Cloud leap down last.</p>
+<p class="indent"><b>Barret</b><br/>C'mon newcomer. Follow me.</p>
+<p class="italic">Barret runs ahead. Cloud follows, taking out two guards who stand in his path. He joins Biggs, Wedge, and Jessie at the gate to the reactor complex, where Jessie is working to open the door.</p>
+<p class="indent"><b>Biggs</b><br/>Wow! You used to be in SOLDIER all right! ...Not everyday ya find one in a group like AVALANCHE.</p>
+<p class="indent"><b>Jessie</b><br/>SOLDIER? Aren't they the enemy?<br/>What's he doing with us in AVALANCHE?</p>
+<p class="indent"><b>Biggs</b><br/>Hold it, Jessie. He WAS in SOLDIER.<br/>He quit them and now is one of us.<br/>Didn't catch your name...</p>
+<p class="indent"><b>Cloud</b><br/>...Cloud.</p>
+<p class="indent"><b>Biggs</b><br/>Cloud, eh? I'm...</p>
+<p class="indent"><b>Cloud</b><br/>I don't care what your names are. Once this job's over... I'm outta here.</p>
+<p class="italic">Barret comes running over.</p>
+<p class="indent"><b>Barret</b><br/>The hell you all doin'!? I thought I told you never to move in a group!<br/>Our target's the North Mako Reactor. We'll meet on the bridge in front of it.</p>
+<p class="italic">Jessie opens the door and she, Biggs, and Wedge run through. Barret turns back to Cloud.</p>
+<p class="indent"><b>Barret</b><br/>Ex-SOLDIER, huh? Don't trust ya!<br/>If you push the Directional button while pushing the [CANCEL] button to run. (earlier marked X)</p>
+<p class="italic">Barret runs on ahead. Cloud looks up at the reactor before following. In front of the reactor, everyone but Wedge heads across the bridge inside.</p>
+<p class="indent"><b>Wedge</b><br/>I'll secure the escape passage. Concentrate on the mission, Cloud.<br/>Geez, we're really gonna blow this huge furnace up? This'll be somethin' to see!</p>
+<p class="italic">Cloud follows the others into the reactor.</p>
+<p class="indent"><b>Barret</b><br/>Yo! This your first time in a reactor?</p>
+<p class="indent"><b>Cloud</b><br/>No. After all, I did work for Shinra, y'know.</p>
+<p class="indent"><b>Barret</b><br/>The planet's full of Mako energy. People here use it every day.</p>
+<p class="italic">Cloud shrugs.</p>
+<p class="indent"><b>Barret</b><br/>It's the life blood of this planet. But Shinra keeps suckin' the blood out with these weird machines.</p>
+<p class="indent"><b>Cloud</b><br/>I'm not here for a lecture. Let's just hurry.</p>
+<p class="indent"><b>Barret</b><br/>That's it! You're comin' with me from now on.</p>
+<p class="indent"><b>Jessie</b><br/>Biggs and I got the code for this door.</p>
+<p class="indent"><b>Biggs</b><br/>Code deciphered.</p>
+<p class="italic">The first door opens and they run through.</p>
+<p class="indent"><b>Biggs</b><br/>Think how many of our people risked their lives, just for this code...</p>
+<p class="indent"><b>Jessie</b><br/>Code deciphered.</p>
+<p class="italic">The second door opens, and Jessie, Cloud, and Barret enter the elevator.</p>
+<p class="indent"><b>Jessie</b><br/>Push that button over there!</p>
+<p class="italic">Cloud pushes the button.</p>
+<div class="highlight"/><p>Switch on.</p>
+<p class="indent"><b>Barret</b><br/>Little by little the reactors'll drain out all the life. And that'll be that.</p>
+<p class="indent"><b>Cloud</b><br/>It's not my problem.</p>
+<p class="indent"><b>Barret</b><br/>The planet's dyin', Cloud!</p>
+<p class="indent"><b>Cloud</b><br/>The only thing I care about is finishin' this job before security and the Roboguards come.</p>
+<p class="italic">Barret shakes his fist but says nothing. The elevator reaches the bottom and they exit. After heading down a set of stairs, Jessie hangs back to let the other two continue on.</p>
+<p class="indent"><b>Jessie</b><br/>Push the [OK] button in front of a ladder to grab on to it. After that, use the [Directional button] to move up and down.</p>
+<p class="italic">Barret and Cloud eventually reach the core of the reactor.</p>
+<p class="indent"><b>Barret</b><br/>When we blow this place, this ain't gonna be nothin' more than a hunka junk.<br/>Cloud, you set the bomb.</p>
+<p class="indent"><b>Cloud</b><br/>Shouldn't you do it?</p>
+<p class="indent"><b>Barret</b><br/>Jus' do it! I gotta watch to make sure you don't pull nothin'.</p>
+<p class="indent"><b>Cloud</b><br/>Fine, be my guest.</p>
+<p class="italic">For an instant, everything goes red and Cloud stands on tiptoe. There is a sharp humming noise.</p>
+<p class="block-color">Watch out!<br/>This isn't just a reactor!!</p>
+<p class="indent"><b>Barret</b><br/>......What's wrong?</p>
+<p class="indent"><b>Cloud</b><br/>Huh?</p>
+<p class="indent"><b>Barret</b><br/>What's wrong, Cloud? Hurry it up!</p>
+<p class="indent"><b>Cloud</b><br/>...Yeah, sorry.</p>
+<p class="italic">Cloud sets the bomb. Alarms go off and he looks around.</p>
+<p class="indent"><b>Barret</b><br/>Heads up, here they come!</p>
+<p class="italic">They enter a battle with the Guard Scorpion.</p>
+<p class="indent"><b>Cloud</b><br/>Barret, be careful!<br/>Attack when its tails up<br/>It's gonna counter with its laser!</p>
+<p class="italic">In spite of Cloud's poorly-translated advice, they defeat the Guard Scorpion.</p>
+<p class="indent"><b>Cloud</b><br/>Come on, let's get outta here!</p>
+<div class="highlight"/><p>Ten minutes to detonation!</p>
+<p class="italic">Heading out, Cloud comes across Jessie, trying to tug her foot out of a hole in the walkway. He crouches down beside her to help.</p>
+<p class="indent"><b>Cloud</b><br/>You all right?</p>
+<p class="indent"><b>Jessie</b><br/>My leg got stuck.<br/>Thanks!</p>
+<p class="italic">Leg freed, she jumps over him and runs on. Cloud follows her back up the elevator. (If you fail to help Jessie going up, Biggs will tell you "Jessie hasn't come up yet," and you have to go back down to help her anyway.)</p>
+<p class="indent"><b>Biggs</b><br/>Let's go!</p>
+<p class="indent"><b>Jessie</b><br/>Code deciphered.<br/>All right, be careful</p>
+<p class="indent"><b>Biggs</b><br/>Code deciphered.</p>
+<p class="italic">They all run from the reactor, across the bridge to the exit where Wedge is waiting. Barret accidentally bowls Jessie over, Cloud helps her up, and they make it through the doorway just as the reactor blows.<br/><br/><a name="escape"></a>In the escape passage, the way out has been blocked by rubble, and Jessie is setting explosives to open the way.</p>
+<p class="indent"><b>Biggs</b><br/>That should keep the planet going... at least a little longer.</p>
+<p class="indent"><b>Wedge</b><br/>Yeah.</p>
+<p class="indent"><b>Barret</b><br/>.........</p>
+<p class="indent"><b>Jessie</b><br/>OK! Now everyone get back.</p>
+<p class="italic">The bomb blows an exit and they leap out one by one. Wedge runs around for a minute as though on fire.</p>
+<p class="indent"><b>Barret</b><br/>All right, now let's get out of here.<br/>Rendezvous at Sector 8 station! Split up and get on the train!</p>
+<p class="italic">Biggs, Wedge, and Jessie nod and run off in separate directions. Barret starts to leave.</p>
+<p class="indent"><b>Cloud</b><br/>H, hey!</p>
+<p class="indent"><b>Barret</b><br/>If it's about your money Save it 'til we're back at the hideout.</p>
+<p class="italic">Barret runs off, and Cloud is left to make his own way to the station. Heading up into a city square, he sees a flower girl (Aerith), who gets knocked down by some people running about in a panic. She gets up, dusts herself off, and walks over to him.</p>
+<p class="indent"><b>Flower Girl</b><br/>Excuse me.<br/>What happened?</p>
+<p class="indent"><b>Cloud</b><br/>- You'd better get out of here<br/>- Nothing... hey, listen...</p>
+<div class="block"/>
+  <p><span class="highlight">You'd better get out of here.</span></p>
+  <p class="indent-nopad"><b>Flower Girl</b><br/>Really? I don't know what's going on, but all right.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Nothing... hey, listen...</span><br/>.........<br/>- Don't see many flowers around here<br/>- Never mind</p>
+  <div class="block"/>
+    <p><span class="highlight">Don't see many flowers around here</span></p>
+    <p class="indent-nopad"><b>Flower Girl</b><br/>Oh, these? Do you like them? They're only a gil...?</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- Buy one<br/>- Forget it</p>
+      <div class="block"/>
+        <p><span class="highlight">Buy one</span></p>
+        <p class="indent-nopad"><b>Flower Girl</b><br/>Oh, thank you!<br/>Here you are!</p>
+      
+      <div class="block"/>
+        <p><span class="highlight">Forget it</span></p>
+        <p class="indent-nopad"><b>Flower Girl</b><br/>Ahh... not again.</p>
+      
+  
+  <div class="block"/>
+    <p><span class="highlight">Never mind</span></p>
+    <p class="indent-nopad"><b>Flower Girl</b><br/>What! Tell me!<br/>Uh, excuse me, would you like to buy some flowers? They're only one gil.</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- Buy one<br/>- Forget it</p>
+      <div class="block"/>
+        <p><span class="highlight">Buy one</span></p>
+        <p class="indent-nopad"><b>Flower Girl</b><br/>Oh, thank you!<br/>Here you are!</p>
+      
+      <div class="block"/>
+        <p><span class="highlight">Forget it</span></p>
+        <p class="indent-nopad"><b>Flower Girl</b><br/>Ahh... not again.</p>
+      
+  
+
+<p class="italic">The flower girl walks away, and Cloud continues through Sector 8.</p>
+<p class="indent"><b>Redhead</b><br/>Just what the hell's going on!?</p>
+<p class="indent"><b>Man with Hat</b><br/>Wonder what that is on the wall over there. Let's see...<br/>Don't be fooled by Shinra! Mako energy doesn't last forever! Mako is the planet's lifesource! The end is in sight!<br/>Protectors of the planet: AVALANCHE</p>
+<p class="italic">Eventually Cloud reaches a three-way intersection, beneath which the railroad tracks run out from a tunnel.</p>
+<p class="indent"><b>Soldier</b><br/>Hey! You there!!</p>
+<p class="indent"><b>Cloud</b><br/>Shinra soldiers...<br/>- Fight them<br/>- Later!</p>
+<p class="indent"><b>Soldiers</b><br/>What the?</p>
+<p class="indent"><b>Cloud</b><br/>Hmph</p>
+<p class="italic">More soldiers come from another direction.</p>
+<p class="indent"><b>Soldiers</b><br/>That's him!</p>
+<p class="indent"><b>Cloud</b><br/>Hmph</p>
+<p class="italic">Even more soldiers come from the third street, and they surround Cloud above the railway tunnel.</p>
+<p class="indent"><b>Soldier</b><br/>That's as far as you go.</p>
+<p class="indent"><b>Cloud</b><br/>I don't have time to be messin' around with you.</p>
+<p class="indent"><b>Soldier</b><br/>Enough babbling...... Grab him!!</p>
+<p class="italic">As the soldiers lunge for him, Cloud jumps from the street and lands atop a train passing by underneath.</p>
+<hr></hr>
+<p class="italic"><a name="train"></a>Inside the train, Barret, Biggs, Wedge, and Jessie are gathered in the baggage car.</p>
+<p class="indent"><b>Wedge</b><br/>Cloud never came.</p>
+<p class="indent"><b>Biggs</b><br/>Cloud...... Wonder if he was killed?</p>
+<p class="indent"><b>Barret</b><br/>No way!!</p>
+<p class="indent"><b>Jessie</b><br/>Cloud......</p>
+<p class="italic">They lapse into silence for a moment, and then glance up at a drumming noise on the roof.</p>
+<p class="indent"><b>Biggs</b><br/>Say, do you think Cloud's......<br/>Going to fight to the end for AVALANCHE!?</p>
+<p class="indent"><b>Barret</b><br/>The hell would I know!? Do I look like a mind reader?</p>
+<p class="italic-inline">He bangs his fist on a nearby crate.</p>
+<p class="block-inline">Hmph!! If y'all weren't such screw-ups...</p>
+<p class="indent"><b>Wedge</b><br/>Hey, Barret! What about our money...?</p>
+<p class="italic">Barret bangs the crate again.</p>
+<p class="indent"><b>Barret</b><br/>Uh, nothin' ...sorry.</p>
+<p class="indent"><b>(from outside)</b><br/>Ahhh......</p>
+<p class="italic">They all glance up at some louder banging on the roof. The door opens and Cloud swings through.</p>
+<p class="indent"><b>Biggs</b><br/>Cloud!!</p>
+<p class="indent"><b>Jessie</b><br/>Cloud......</p>
+<p class="indent"><b>Wedge</b><br/>Cloud!!</p>
+<p class="indent"><b>Cloud</b><br/>Looks like I'm a little late.</p>
+<p class="indent"><b>Barret</b><br/>You damn right, you're late!!<br/>Come waltzin' in here makin' a big scene!</p>
+<p class="indent"><b>Cloud</b><br/>It's no big deal. Just what I always do.</p>
+<p class="indent"><b>Barret</b><br/>Shi't!<br/>Havin' everyone worried like that you don't give a damn 'bout no one but yourself!</p>
+<p class="indent"><b>Cloud</b><br/>Hmm...... You were worried about me!</p>
+<p class="indent"><b>Barret</b><br/>Wha!?<br/>I'm takin' it outta your money, hot stuff!<br/>Wake up!<br/>We're movin' out! Follow me!</p>
+<p class="italic">Barret moves on ahead to the next car.</p>
+<p class="indent"><b>Wedge</b><br/>Hey, Cloud!! You were great back there!</p>
+<p class="italic-inline">He follows Barret.</p>
+<p class="indent"><b>Biggs</b><br/>Heh heh...... Cloud! We'll do even better next time.</p>
+<p class="italic">Biggs disappears, too, leaving just Cloud and Jessie. Jessie walks over to the open door.</p>
+<p class="indent"><b>Jessie</b><br/>Be careful, I'll shut this.</p>
+<p class="italic-inline">She shuts the door and turns to Cloud, looking him up and down.</p>
+<p class="block-inline">Oh, Cloud!! Your face is pitch-black......</p>
+<p class="italic-inline">She rubs at his face.</p>
+<p class="block-inline">There you go!<br/>Say, thanks for helping me back there at the Reactor!</p>
+<p class="italic">Jessie disappears into the next car. Cloud follows.</p>
+<div class="highlight"/><p>Last train out of Sector 8 Station. Last stop is Sector 7, Train Graveyard. Expected time of arrival is 12:23AM, Midgar Standard Time...</p>
+<p class="italic">As the members of AVALANCHE run into the car, other passengers leave.</p>
+<p class="indent"><b>Shinra Manager</b><br/>This is why I hate the last train. Hoo-boy...</p>
+<p class="indent"><b>Train Bum</b><br/>Huh...? This is my house, so make yourselves at home.</p>
+<p class="indent"><b>Bald Man</b><br/>You see the headlines in the Shinra Times?<br/>The terrorists that bombed the No. 1 Reactor are based somewhere in the slums.<br/>...blowing up a Reactor... they sure put some thought into this one.<br/>They must have a real calculating leader. I wonder what they'll do next?</p>
+<p class="indent"><b>Barret</b><br/>Stop actin' like a damn kid. Si'down an' shu'up!</p>
+<p class="indent"><b>Biggs</b><br/>It seems this train hasn't switched to security mode yet.<br/>I'm sure that will change by tomorrow.<br/>...YAWN... that sure took its toll on me. I'm gonna sleep till we get to the station.</p>
+<p class="italic">If you try to move on to the next car, a train worker stops you.</p>
+<p class="indent"><b>Train Worker</b><br/>Please! You're disturbing the other passengers.</p>
+<p class="indent"><b>Wedge</b><br/>Someday AVALANCHE's gonna be famous... and me, too!<br/>Cloud!!<br/>Don't ya think I got a bright future ahead of me?</p>
+<p class="indent"><b>Cloud</b><br/>- What do you have in mind?<br/>- I wouldn't hold my breath</p>
+<div class="block"/>
+  <p><span class="highlight">What do you have in mind?</span></p>
+  <p class="indent-nopad"><b>Wedge</b><br/>All my life, I felt like nothin' but a sidekick.<br/>But after joinin' AVALANCHE and tryin' to save the Planet, I feel like I can do lots of things.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I wouldn't hold my breath</span></p>
+  <p class="indent-nopad"><b>Wedge</b><br/>Oh man, that's pretty harsh, Cloud. You really think I won't?</p>
+
+<p class="indent"><b>Jessie</b><br/>Hey, Cloud. You want to look at this with me?<br/>It's a map of the Midgar Rail System. Let's look at it together. I'll explain it to you.<br/>I like this kinda stuff. Bombs and monitors... you know, flashy stuff.<br/>Okay, it's about to start.<br/>This is a complete model of the city of Midgar.<br/>It's about a 1/10000 scale.<br/>The top plate is about 50 meters above ground.<br/>A main support structure holds the plate up in the center, and there are other support structures built in each section...<br/>psst... whisper... whisper (The No. 1 Reactor we blew up was in the northern section.)<br/>Then there's No. 2, No. 3 all the way up to the No. 8 Reactor.<br/>The 8 Reactors provide Midgar with electricity.<br/>Each town used to have a name, but no one in Midgar remembers them.<br/>Instead of names, we refer to them by numbered sectors. That's the kind of place this is.<br/>Phew..., this is next! Look.<br/>This is the route this train is on.<br/>The route spirals around the main support structure.<br/>We should be coming around the center area, right now.<br/>At each checkpoint, an ID sensor device is set up.<br/>It can check the identities and backgrounds on each and every passenger on the train by linking it up to the central data bank at Shinra headquarters.<br/>whisper... whisper... (Anyone could tell that we look suspicious, so we're using fake ID's.)</p>
+<p class="italic">A red light starts flashing.</p>
+<p class="indent"><b>Jessie</b><br/>Speak of the devil...<br/>That light means that we're in the ID Security Check area.<br/>...whisper... whisper... (When the lights go off, you never know what kind of creeps'll come out.)<br/>...anyhow, we're almost back now. That's a relief.</p>
+<p class="italic">The lights stop flashing.</p>
+<p class="indent"><b>Wedge</b><br/>I'm seein' stars. This sucks. I hate the dark.</p>
+<p class="indent"><b>Jessie</b><br/>I know! Next time, I'll give you one I made myself.</p>
+<p class="indent"><b>Cloud</b><br/>- Thanks anyway<br/>- Looking forward to it</p>
+<div class="block"/>
+  <p><span class="highlight">Thanks anyway</span></p>
+  <p class="indent-nopad"><b>Jessie</b><br/>Oh yeah, you might regret it. I'm the type who takes things personal.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Looking forward to it</span></p>
+  <p class="indent-nopad"><b>Jessie</b><br/>Okay, then I'll put a little extra effort in and make it with a BANG.</p>
+
+<p class="indent"><b>Jessie</b><br/>We're almost there. After talking with you, I really want to do it!<br/>I think you've lit my fuse!</p>
+<p class="indent"><b>Biggs</b><br/>...snore... heebeebeeheebee... snore... (Don't act so damn big, Barret... snooze...)</p>
+<p class="indent"><b>Barret</b><br/>Look... you can see the surface now. This city don't have no day or night.<br/>If that plate weren't there... we could see the sky.</p>
+<p class="italic">Cloud walks over to join Barret in looking out the window.</p>
+<p class="indent"><b>Cloud</b><br/>A floating city... Pretty unsettling scenery.</p>
+<p class="italic">Barret gets up.</p>
+<p class="indent"><b>Barret</b><br/>Huh?<br/>Never expect ta hear that outta someone like you.<br/>...you jes' full of surprises.<br/>The upper world... a city on a plate...<br/>It's 'cuz of that &amp;^#$# 'pizza', that people underneath are sufferin'!<br/>And the city below is full of polluted air.<br/>On topa that, the Reactor keeps drainin' up all the energy.</p>
+<p class="indent"><b>Cloud</b><br/>Then why doesn't everyone move onto the Plate?</p>
+<p class="indent"><b>Barret</b><br/>Dunno. Probably 'cuz they ain't got no money. Or, maybe...<br/>'Cuz they love their land, no matter how polluted it gets.</p>
+<p class="indent"><b>Cloud</b><br/>I know... no one lives in the slums because they want to.<br/>It's like this train. It can't run anywhere except where its rails take it.</p>
+
+
+</scene>

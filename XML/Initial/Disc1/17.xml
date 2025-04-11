@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="CorelPrison">
+
+
+
+<h1>Corel Prison - Confronting Dyne</h1>
+
+<h4><a href="#arrival">Arrival in Corel Prison</a></h4>
+<h4><a href="#barret">The Rest of Barret's Story</a></h4>
+<h4><a href="#dyne">Barret Confronts Dyne</a></h4>
+<h4><a href="#up">Going Up</a></h4>
+<hr></hr>
+<p class="italic"><a name="arrival"></a>Cloud lands in the prison town below Gold Saucer.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>You all right?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Cloud, you all right?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Are you all right?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Hey, you okay?</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>Where are we?</p>
+<p class="indent"><b>Cait Sith</b><br/>A desert prison... Corel Prison...</p>
+<p class="indent"><b>Cloud</b><br/>A desert prison?</p>
+<p class="indent"><b>Cait Sith</b><br/>Yup, a natural prison in the middle of the desert... surrounded entirely by quicksand.<br/>I heard that once you get in, you never get out...<br/>But, there was one special exception...</p>
+<p class="italic">The third party member turns around suddenly to notice Barret a ways off.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>Hey!! Barret!!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Barret!?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Mmm!? Isn't that Barret?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Hey? Isn't that guy, Barret?</p>
+</blockquote>
+<p class="italic">They all run over to Barret. Near him is a corpse.</p>
+<p class="indent"><b>Cloud</b><br/>Barret...<br/>Did he really......</p>
+<p class="indent"><b>Barret</b><br/>Stay back! This's something I gotta deal with.<br/>Jes' leave me alone...</p>
+<p class="italic-inline">He runs off.</p>
+<p class="indent"><b>Cait Sith</b><br/>Whew! That's one of your friends? He sure looks dangerous...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>Cloud, what should we do? Barret's not his normal self.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>...Barret......</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Barret...</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Hey, Cloud! Just leave him alone.<br/>I mean, he told us to, didn't he? Then that's that, right?</p>
+</blockquote>
+<p class="italic">Cloud kneels down by the corpse.</p>
+<p class="indent"><b>Cloud</b><br/>This one's been shot too...</p>
+<p class="indent"><b>Man Near Gate</b><br/>Wo-ho! Welcome to Corel Prison.<br/>Hold---it. If you wanna pass, Then you're gonna need the boss's permission.</p>
+<p class="italic">If Cloud tries to run out into the desert...</p>
+<p class="indent"><b>Cloud</b><br/>We should find Barret before we go out into the desert.</p>
+<p class="italic">Cloud and the others follow Barret. A man starts following them.</p>
+<p class="indent"><b>Man Following</b><br/>Ha ha ha</p>
+<p class="indent"><b>Man</b><br/>I'll tell you one thing, rookie. This desert is extremely dangerous.<br/>It'll welcome you in, but when you try to leave it, it'll swallow ya.<br/>I hear tell, some of them never make it out... the best thing is to stay out of the desert entirely.</p>
+<p class="indent"><b>Black Man</b><br/>Those guys only tell lies. Only lies. Not a one of 'em will tell you the truth.<br/>Just talk with 'em a couple of times, and you'll get sick of them.</p>
+<p class="indent"><b>Three Liars</b><br/>This place is heaven.<br/>This place is heaven.<br/>This place is heaven.<br/>Man with a gun on his arm?<br/>Never heard of him.<br/>Never heard of him.<br/>Never heard of him.<br/>You wanna see the Boss?<br/>Go Southwest and you'll meet him.<br/>You'll meet him.<br/>You'll meet him.<br/>Once out in the desert, stay still and don't walk.<br/>Don't walk<br/>Don't walk<br/>There's no way you'll ever see a mysterious Chocobo carriage. No way.<br/>No way.<br/>No way.</p>
+<p class="indent"><b>Man 2</b><br/>This elevator will take you to the top...<br/>But, you gotta be picked as a Chocobo Racer, first.</p>
+<p class="indent"><b>Big Man</b><br/>Want to enter the Chocobo Race?</p>
+<p class="indent"><b>Cloud</b><br/>- Not interested<br/>- Yeah, I want to enter</p>
+<div class="block"/>
+  <p><span class="highlight">Not interested</span></p>
+  <p class="indent-nopad"><b>Big Man</b><br/>You thinkin' of livin' here forever? Then live a long life!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Yeah, I want to enter</span></p>
+  <p class="indent-nopad"><b>Big Man</b><br/>Then go get permission with the boss of this place.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Who's the boss?</p>
+  <p class="indent-nopad"><b>Big Man</b><br/>You don't even know that? Oh man.</p>
+
+<p class="indent"><b>Guards Outside Trailer</b><br/>You new? Then go and pay your respects to Mr. Coates.</p>
+<p class="italic">Inside the trailer...</p>
+<p class="indent"><b>Mr. Coates</b><br/>Never seen your face 'round here before. Goin' up?</p>
+<p class="indent"><b>Cloud</b><br/>- Not interested<br/>- Yeah, up</p>
+<div class="block"/>
+  <p><span class="highlight">Not interested</span></p>
+  <p class="indent-nopad"><b>Mr. Coates</b><br/>Heh heh! You sure got guts!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Yeah, up</span></p>
+  <p class="indent-nopad"><b>Mr. Coates</b><br/>You don't seem to understand how things work down here.<br/>This is the Gold Saucer's garbage dump. And that makes alluv ya scrubs.<br/>The only way to get back up there is to win the Chocobo Race.<br/>But, it's not as easy as you rookies think.<br/>Of course, if you got the boss's permission it'd be a different story but, YOU'll never get that!<br/>Ha ha ha ha.</p>
+
+<p class="italic">At the prison pub...</p>
+<p class="indent"><b>Shopkeeper</b><br/>A rookie? Then you gotta buy something. Yup, that's the rule here.</p>
+<p class="italic"><a name="barret"></a>Finally, Cloud, Cait Sith, and the third party member enter the mayor's old house. Barret bursts in after them.</p>
+<p class="indent"><b>Barret</b><br/>Didn't I tell you not to come here!?</p>
+<p class="italic-inline">He aims his gun arm in their direction.</p>
+<p class="indent"><b>Cait Sith</b><br/>Ju...... just hold on for a second! We just want to talk! You'll understand if you just hear us out!</p>
+<p class="italic">Barret fires, and a man behind the couch collapses.</p>
+<p class="indent"><b>Barret</b><br/>Didn't want none of ya to get involved...</p>
+<p class="italic">Cloud shrugs, and the others run in.</p>
+<p class="indent"><b>Aerith</b><br/>Hey that's Cloud's line! '...It's too dangerous, I can't let you get involved...' blah, blah, blah...</p>
+<p class="indent"><b>Tifa</b><br/>Yeah. We're already involved in this.</p>
+<p class="indent"><b>Aerith</b><br/>We saw you and hurried here. Barret, just tell us what's going on.</p>
+<p class="indent"><b>Barret</b><br/>You guys...</p>
+<p class="indent"><b>Red XIII</b><br/>I heard that the murders at the Battle Arena were done by a man with a gun-arm. ...Was that you?</p>
+<p class="italic">Barret shakes his head violently.</p>
+<p class="indent"><b>Barret</b><br/>There's another... another man that got a gun grafted inta one of his arms. It was four years ago...</p>
+<div class="highlight"/><p class="italic">Flashback. Barret and Dyne are walking along the train tracks that lead to North Corel.</p>
+<p class="indent-nopad"><b>Barret</b> (narrating)<br/>I remember... I was on my way home from visiting a Mako Reactor being built.</p>
+<p class="indent-nopad"><b>Village Headman</b><br/>Barret! Dyne! Come quick! The village's being attacked! It's Shinra soldiers!</p>
+<p class="indent-nopad"><b>Barret</b><br/>What!!!?</p>
+<p class="italic">Barret and Dyne turn to one another and nod. They run to an overlook where they can see the village burning.</p>
+<p class="indent-nopad"><b>Barret</b><br/>What the hell happened?......</p>
+<p class="indent-nopad"><b>Dyne</b><br/>Hey, Barret! It's not over yet!<br/>Everyone's waiting! Let's go back to the village!</p>
+<p class="italic">They start back towards the village.</p>
+<p class="indent-nopad"><b>Village Headman</b><br/>Barret! Dyne! Protect the village...!</p>
+<p class="italic">Shinra soldiers enter and shoot the village headman.</p>
+<p class="indent-nopad"><b>Barret</b><br/>Hmp!! Old man!!</p>
+<p class="italic">Barret and Dyne make a run for it, and the soldiers start shooting at them.</p>
+<p class="indent-nopad"><b>Dyne</b><br/>C'mon, Barret! We gotta hurry!</p>
+<p class="italic-inline-nopad">Dyne runs ahead.</p>
+<p class="indent-nopad"><b>Barret</b><br/>Krggh!!</p>
+<p class="italic-inline-nopad">Barret runs after him.</p>
+<p class="indent-nopad"><b>Dyne</b><br/>Barret!! You stay here!!</p>
+<p class="indent-nopad"><b>Barret</b><br/>Shu'up!!</p>
+<p class="indent-nopad"><b>Scarlet</b><br/>Kyaa haa, ha!!<br/>You can shoot all day and never hit them with aim like that.</p>
+<p class="italic">Scarlet punches one of the soldiers off the bridge, and the others hold their hands up.</p>
+<p class="indent-nopad"><b>Scarlet</b><br/>Haa, ha, ha!! Stop playing around and cover me!!</p>
+<p class="indent-nopad"><b>Dyne</b><br/>Watch out!!</p>
+<p class="italic">Dyne jumps in front of Barret, gets shot, and falls over the edge of the cliff. Barret catches his hand.</p>
+<p class="indent-nopad"><b>Barret</b><br/>Dyne!! Hang on!!<br/>Lissen to me!! You're comin' back to the village, hear!!?</p>
+<p class="indent-nopad"><b>Dyne</b><br/>Yeah... I ain't lettin' go...</p>
+<p class="indent-nopad"><b>Barret</b><br/>You're comin' back... Everyone's waitin' for ya...<br/>Eleanor... and Marlene... They all waitin' on us...</p>
+<p class="italic">The spray of bullets crosses their joined hands, and Barret loses his grip. Dyne falls into the ravine.</p>
+<p class="indent"><b>Barret</b><br/>From then on, I couldn't use my right arm no more.<br/>...I was depressed for a while.<br/>But then I threw away my artificial arm and got this gun grafted in.<br/>Got a new right arm to get revenge on the Shinra, who took everything away...<br/>Back then, I heard the doc say there was another man who got the same operation as me.<br/>But, his was the left arm.</p>
+<p class="indent"><b>Cloud</b><br/>......</p>
+<p class="indent"><b>Aerith</b><br/>But... Dyne's injury was the same as yours, right?</p>
+<p class="indent"><b>Tifa</b><br/>Yeah, that's right. He was deceived by the Shinra too.<br/>He'll probably join us to fight against the Shinra.</p>
+<p class="indent"><b>Barret</b><br/>...wouldn't bet on it. I gotta 'pologize to Dyne before I can rest in peace.<br/>An' that's why, I gotta go alone.</p>
+<p class="indent"><b>Cloud</b><br/>Do whatever you want... Is that what you want to hear?<br/>Well, I can't let you do it. Because, if you die on me, I'm gonna have nightmares.</p>
+<p class="indent"><b>Aerith</b><br/>Barret, this isn't the end.</p>
+<p class="indent"><b>Tifa</b><br/>Weren't you going to save the Planet?</p>
+<p class="indent"><b>Barret</b><br/>Shit! Tifa, you oughtta know by now.</p>
+<p class="indent"><b>Tifa</b><br/>...That's all right. I'm not so different from you.</p>
+<p class="indent"><b>Aerith</b><br/>That's easier to understand. It's you, Barret.</p>
+<p class="indent"><b>Cloud</b><br/>So there it is, Barret. So I guess it'll be Barret, me, and......</p>
+<p class="indent"><b>Aerith</b><br/>I wonder if Dyne will join us?</p>
+<p class="indent"><b>Tifa</b><br/>Be careful.</p>
+<p class="indent"><b>Red XIII</b><br/>Hmm? Shall I go with you?</p>
+<p class="indent"><b>Yuffie</b><br/>You sure are all acting pretty heroic, considerin' we're not makin' any money on this...</p>
+<p class="indent"><b>Cait Sith</b><br/>Fortune's good. Everything is perfect!</p>
+<p class="italic">Cloud and the others go back to the north gate to find the man there dead.</p>
+<p class="indent"><b>Cloud</b><br/>This one's been shot too...</p>
+<p class="italic">They head out into the desert.</p>
+<p class="indent"><b>Man</b><br/>Man, the Boss was REALLY in a bad mood today... Or was it one of his better days?<br/>If you get lost in the desert, just keep going Northeast. If you're lucky, you'll make it back here.</p>
+<p class="italic">If Cloud gets himself lost in the desert, eventually a mysterious chocobo carriage will appear.</p>
+<p class="indent"><b>Carriage Driver</b><br/>Wanna ride...?</p>
+<p class="indent"><b>Cloud</b><br/>- Get on<br/>- Don't get on</p>
+<p class="italic"><a name="dyne"></a>Going northeast, they come across a junkyard, and beyond it they find the ruins of a house and two crude grave markers on the edge of a ravine. Dyne is slumped there. Barret steps forward, gesturing for the others to stay back.</p>
+<p class="indent"><b>Barret</b><br/>...Dyne ...Is that you?</p>
+<p class="indent"><b>Dyne</b><br/>Now that's a voice I haven't heard in years...<br/>A voice I'll never forget...</p>
+<p class="italic-inline">He limps forward.</p>
+<p class="indent"><b>Barret</b><br/>I always hoped I'd be able to see you again someday...<br/>I knew you were alive somewhere... we had the same operation.<br/>Listen to me Dyne. I want to...</p>
+<p class="italic">He starts forward, but Dyne fires at his feet, and Barret stops.</p>
+<p class="indent"><b>Dyne</b><br/>What's that? ......I hear her voice.</p>
+<p class="indent"><b>Barret</b><br/>......?</p>
+<p class="indent"><b>Dyne</b><br/>I hear her voice, Eleanor's voice. Begging me... not to hate your rotten guts.<br/>That's why I didn't hunt you down...</p>
+<p class="indent"><b>Barret</b><br/>...I know I was stupid. I'm not asking you to forgive me.<br/>But... What're you doin' in a place like this?<br/>Why ya wanna kill those that ain't even involved? Why?</p>
+<p class="indent"><b>Dyne</b><br/>...Why!? The hell do you care for!?<br/>Are the people killed going to understand 'why'? Are the people of Corel going to understand just hearing Shinra's excuses?<br/>I don't CARE what the reason is!<br/>All they give us are artillery and stupid excuses... What's left is a world of despair and emptiness...</p>
+<p class="indent"><b>Barret</b><br/>......</p>
+<p class="indent"><b>Dyne</b><br/>You still want to hear 'why'? ...All right, I'll tell you.<br/>'Cause I want to destroy everything.</p>
+<p class="italic-inline">He punctuates his next statements with gunshots.</p>
+<p class="block-inline">The people of this city.<br/>This city itself.<br/>The whole world!</p>
+<p class="italic-inline">He turns away.</p>
+<p class="block-inline">I got nothing left in this world. Corel, Eleanor...... Marlene......</p>
+<p class="indent"><b>Barret</b><br/>Dyne, Marlene...... Marlene's still alive.</p>
+<p class="indent"><b>Dyne</b><br/>......?</p>
+<p class="indent"><b>Barret</b><br/>I went back into town. I thought she was gone for sure.<br/>That is why I wanted to be by her side till the end.<br/>That's when I found her...... found Marlene.</p>
+<p class="indent"><b>Dyne</b><br/>...</p>
+<p class="indent"><b>Barret</b><br/>She's in Midgar. Let's go see her together, all right?</p>
+<p class="indent"><b>Dyne</b><br/>So...... she's still alive...<br/>All right, Barret. I guess that means you and I gotta fight.</p>
+<p class="indent"><b>Barret</b><br/>What!?</p>
+<p class="indent"><b>Dyne</b><br/>Eleanor's alone all by herself. I've got to take Marlene to her.</p>
+<p class="indent"><b>Barret</b><br/>Dyne... are you insane!?</p>
+<p class="indent"><b>Dyne</b><br/>Marlene wants to see her Mom, don't she?</p>
+<p class="italic-inline">He starts firing at Barret.</p>
+<p class="indent"><b>Barret</b><br/>Stop, Dyne! I can't die yet!</p>
+<p class="indent"><b>Dyne</b><br/>Oh yeah? Well my life's been over ever since then.</p>
+<p class="indent"><b>Barret</b><br/>Stop it! I don't wanna fight you!</p>
+<p class="indent"><b>Cloud</b><br/>Barret!</p>
+<p class="indent"><b>Barret</b><br/>Cloud, you stay the hell out of it! This is MY problem!!</p>
+<p class="italic">Barret fights and defeats Dyne, who falls to his knees.</p>
+<p class="indent"><b>Dyne</b><br/>Urgh!</p>
+<p class="italic-inline">He starts to get back up.</p>
+<p class="block-inline">Back!!</p>
+<p class="italic-inline">He limps away to lean against a wall.</p>
+<p class="block-inline">...it wasn't just my arm...... back then......<br/>I lost something irreplaceable. I don't know where I went wrong...</p>
+<p class="indent"><b>Barret</b><br/>Dyne... I don't know either, man.<br/>Is this the only way... we can resolve this?</p>
+<p class="indent"><b>Dyne</b><br/>I told you... I... I want to destroy everything...<br/>Everything... This crazy world... Even me...</p>
+<p class="indent"><b>Barret</b><br/>An' what 'bout Marlene? What's gonna happen to her!?</p>
+<p class="indent"><b>Dyne</b><br/>...Think about it... Barret... How old was Marlene back then...?<br/>Even if I did go to her now... she wouldn't even know me...<br/>And what's more... Barret...<br/>These hands are a little too stained to carry Marlene anymore...</p>
+<p class="indent"><b>Barret</b><br/>......</p>
+<p class="indent"><b>Dyne</b><br/>Barret...</p>
+<p class="italic-inline">He pulls a necklace off and tosses it to Barret.</p>
+<p class="block-inline">Give that pendant to Marlene... It was... Eleanor's... my wife's... memento...</p>
+<p class="indent"><b>Barret</b><br/>All right...</p>
+<p class="indent"><b>Dyne</b><br/>...wow... Marlene's... already...... 4......</p>
+<p class="italic-inline">He limps to the edge of the ravine.</p>
+<p class="block-inline">Barret... Don't...... make... ......Don't ever make Marlene...... cry...</p>
+<p class="indent"><b>Barret</b><br/>Dyne...?<br/>Dyne!</p>
+<p class="italic">Dyne lets himself fall backwards over the edge as Barret runs towards him.</p>
+<p class="indent"><b>Barret</b><br/>Dy------ne!!</p>
+<p class="italic-inline">He falls to his knees.</p>
+<p class="block-inline">...Dyne. Me an' you were the same...<br/>My hands ain't any cleaner...... I shouldn't be able to carry... Marlene either...<br/>Uuuurrrrrrgh!!!</p>
+<p class="italic"><a name="up"></a>Back at the trailer...</p>
+<p class="indent"><b>Mr. Coates</b><br/>You want somethin'?</p>
+<p class="indent"><b>Barret</b><br/>I want to go up.</p>
+<p class="indent"><b>Mr. Coates</b><br/>Like I told you before, you gotta get the Boss' permission, then win the Chocobo......</p>
+<p class="indent"><b>Barret</b><br/>Dyne's got his reasons an' can't speak.</p>
+<p class="italic-inline">He pulls out the necklace.</p>
+<p class="block-inline">So, I got this, instead.</p>
+<p class="indent"><b>Mr. Coates</b><br/>Yeah, bull--!!</p>
+<p class="indent"><b>Barret</b><br/>I want to go up.</p>
+<p class="indent"><b>Mr. Coates</b><br/>R, right.<br/>Did you kill Dyne?<br/>You must've. Or you'd never be holding that thing.<br/>...So Dyne's dead... Maybe now, the place'll calm down a little.<br/>Dyne didn't care who anyone was......</p>
+<p class="italic">Barret grabs Mr. Coates by the collar.</p>
+<p class="indent"><b>Barret</b><br/>The hell do YOU know!!</p>
+<p class="indent"><b>Mr. Coates</b><br/>R... ri...... right! I mean, no, I DON'T know anything. S, s... sorry.</p>
+<p class="italic">Barret releases him.</p>
+<p class="indent"><b>Cloud</b><br/>Then, will you get us outta here?</p>
+<p class="indent"><b>Mr. Coates</b><br/>Huh? Oh man, you guys are mistaken.<br/>I already told you, there's only one way to get outta here.<br/>That's to win the Chocobo Race and that's held up there, in the Gold Saucer.<br/>And, only one racer can go up at a time.</p>
+<p class="indent"><b>Barret</b><br/>Say what!?</p>
+<p class="indent"><b>Mr. Coates</b><br/>Noooo! Really, even if you threaten me!!<br/>A rule's a rule. I can't change it.<br/>If I do, the whole system down here'll get messed up!! An' I can't do that!<br/>Okay, ok, I'll let one go up there. After that, he's gotta deal with Dio.</p>
+<p class="indent"><b>Barret</b><br/>Awright then.<br/>Cloud, you go.<br/>We'll wait down here.<br/>Hurry up an' win that Chocobo Race, an' get us outta here!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>Yes, good luck, Cloud.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Right, Cloud. We'll be waiting and rooting for you.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>You're right. Cloud should do it.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Well, Cloud go get 'em!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Ok Cloud, knock 'em dead!</p>
+</blockquote>
+<p class="italic">Cloud shrugs.</p>
+<p class="indent"><b>Mr. Coates</b><br/>Have you decided?<br/>All you need now is a manager.<br/>...and register and get a Chocobo...</p>
+<p class="indent"><b>Ester</b><br/>Hi...... I happened to hear your story.</p>
+<p class="indent"><b>Mr. Coates</b><br/>Ester?</p>
+<p class="italic">A girl walks in, wearing a pink dress and a chocobo feather in her hair.</p>
+<p class="indent"><b>Ester</b><br/>I'll be your manager.</p>
+<p class="indent"><b>Mr. Coates</b><br/>Well, I have nothing against it, but...<br/>This is Ester. She may look kinda funny...<br/>But there's no better manager in the races...</p>
+<p class="indent"><b>Ester</b><br/>That's so rude...<br/>Yeah, well. Nice to meet you, Cloud.</p>
+<p class="indent"><b>Mr. Coates</b><br/>All right then, Cloud.<br/>I'll send you up the elevator. Ester'll fill you in on the details.</p>
+<p class="italic">On the elevator...</p>
+<p class="indent"><b>Ester</b><br/>Hmm, so that's what happened. I'll talk to Dio directly. You just concentrate on the race.<br/>Oh yeah, getting back to the other thing, there are many different types of Chocobo jockeys. It's not only for criminals.<br/>Some people compete for the fame, some people compete for the money, some for glory... And then there're people like you.<br/>Oh yeah, I'll teach you how to ride a Chocobo.</p>
+<p class="indent"><b>Cloud</b><br/>- All right<br/>- Not interested</p>
+<p class="indent"><b>Ester</b><br/>Ummm... First use the [Select] button to choose either AUTO or MANUAL.<br/>In other words, either you control the Chocobo or let it run on its own.<br/>But it's pretty hard to make the Chocobo run the way you want it to. If the Chocobo doesn't like you, it won't listen.<br/>You can't really help on this one.<br/>But, most of the Chocobo's that I'll provide you with are mellow and you should be able to handle them.<br/>When you're riding, use the [] Button to Speed Up and the X Button to Slow Down.<br/>But, if you go faster than the Chocobo can handle, it'll lose its stamina really fast.<br/>And use the Directional button to move the Chocobo left and right, use the O Button to get a boost of speed.<br/>Of course your stamina runs out faster though.<br/>There are some bad tempered Chocobos that can't pace themselves and they'll lose their stamina pretty fast.<br/>For these kinds of Chocobos, you should set the controls on Manual and slow it down.<br/>Finally, some advice for the restless, once the first and second Chocobo cross the goal line,<br/>Push the [Start] button to end the race.</p>
+<p class="italic">The elevator reaches the top, and Cloud steps out.</p>
+<p class="indent"><b>Man</b><br/>You new?</p>
+<p class="indent"><b>Ester</b><br/>Hi, Joe.</p>
+<p class="indent"><b>Joe</b><br/>Hey, Ester you're looking pretty as usual.</p>
+<p class="indent"><b>Ester</b><br/>Thanks.<br/>Let me introduce you, Cloud.<br/>This is Joe, one of the top Chocobo Jockeys.</p>
+<p class="indent"><b>Joe</b><br/>Nice to meet you, Cloud.<br/>If you're with Ester, then...</p>
+<p class="indent"><b>Ester</b><br/>Right! He's an up and coming jockey.<br/>He's only been down here for a day and already he made it up here!!</p>
+<p class="indent"><b>Joe</b><br/>What!?<br/>Oh, I see...<br/>So what did you do down there?<br/>Sorry... you're not supposed to ask about the past here...<br/>Pretty interesting... I have a feeling that we'll meet again.<br/>Then, until we meet again, Cloud.</p>
+<p class="italic-inline">He leaves the room.</p>
+<p class="indent"><b>Ester</b><br/>I'm going to check on the Chocobo. You just wait here for a while.<br/>I'll be right back.</p>
+<p class="indent"><b>Jockeys</b><br/>......<br/>I got nothing to say.<br/>......<br/>Don't get cocky. Skills don't matter once you get in the race...</p>
+<div class="highlight"/><p>The race will start in a few moments. Will the jockeys for the next race, please proceed to the paddock.<br/>I repeat...</p>
+<p class="italic">All the jockeys leave, but Cloud stays behind. Eventually Ester returns.</p>
+<p class="indent"><b>Ester</b><br/>Cloud<br/>Thanks for waiting. I registered you in the next race.<br/>This is a Chocobo I prepared myself. He won't lose easily.<br/>Oh yeah... You know how to ride one?</p>
+<p class="indent"><b>Cloud</b><br/>- Uh, how was it again?<br/>- Yeah, I got it</p>
+<p class="indent"><b>Ester</b><br/>Then, good luck.</p>
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Cloud loses the race...</span></p>
+	<p class="indent-nopad"><b>Ester</b><br/>Too bad.</p>
+	<p class="italic-inline-nopad">If Cloud comes in 4th place or worse:</p>
+	<p class="block-inline-nopad">You had a tough situation there.</p>
+	<p class="italic-inline-nopad">If Cloud comes in 3rd place:</p>
+	<p class="block-inline-nopad">I was expecting a little more from you.</p>
+	<p class="italic-inline-nopad">If Cloud comes in 2nd place:</p>
+	<p class="block-inline-nopad">You were so close.</p>
+	<div class="block"/>
+		<p class="italic"><span class="highlight">If it is Cloud's 1st or 2nd loss...</span></p>
+		<p class="indent-nopad"><b>Ester</b><br/>Let me find a better Chocobo for you. Wait here for a while, OK?</p>
+	
+	<div class="block"/>
+		<p class="italic"><span class="highlight">If Cloud has lost 3 times...</span></p>
+		<p class="indent-nopad"><b>Ester</b><br/>If you couldn't win with that last Chocobo...<br/>All right, I'll go get the best Chocobo there is!</p>
+	
+	<div class="block"/>
+		<p class="italic"><span class="highlight">If Cloud has lost 4 or more times...</span></p>
+		<p class="indent-nopad"><b>Ester</b><br/>You gotta be kidding me!? There aren't any other Chocobos better than the last one!<br/>Well, if you really want to win, just push the 'SELECT'<br/>and try the 'AUTO' mode.</p>
+	
+
+<p class="italic">Eventually Cloud wins a race.</p>
+<p class="indent"><b>Ester</b><br/>Congratulations!! Now you're home free!<br/>Oh yeah, the owner told me to give this letter to you when you won.</p>
+<p class="indent"><b>Dio</b><br/>Boy, if you're reading this letter, then you must've won. And won a victory that I am sure you earned.<br/>I heard about Dyne from Ester. Now that you are victorious, I promise that you and all your friends will get a full pardon, and you all will be set free.<br/>And also, by way of apology, I prepared a little gift for you to use on your journey.<br/>Sorry I couldn't be there to tell you this in person, but I'm a very busy man.<br/>Sincerely, Dio</p>
+<p class="indent"><b>Cloud</b><br/>A gift?</p>
+<p class="italic">His PHS rings, and he answers it.</p>
+<div class="highlight"/><p class="indent-nopad"><b>Aerith</b><br/>Cloud, isn't this great!? The assistant manager just stopped by and dropped off a 'buggy' for you!<br/>Now you can go over 'deserts' and 'rivers' no problem.<br/>OK, Cloud. I'll be waiting outside.</p>
+<p class="indent"><b>Cloud</b><br/>(Hmm? The letter continues...)<br/>P.S. I just recently met Sephiroth. He must have a lot of fans with boys your age.<br/>Why don't you get his autograph? It seems he's headed toward the South of the river, towards Gongaga.<br/>Sephiroth...</p>
+<p class="indent"><b>Ester</b><br/>I guess this is goodbye.<br/>Yeah. Well, if you ever get your own Race Chocobo, come back again.<br/>I'll take care of your registration and everything. I'll see you again.</p>
+<p class="italic">Cloud and the others leave via their new buggy, headed South towards Gongaga.</p>
+
+</scene>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="NorthernCraterSettling">
+
+
+
+<sp> Northern Crater - The Settling of Everything </sp>
+
+<sp> While Still On the Highwind </sp>
+<sp> Descent into the Crater </sp>
+<sp> Confronting Sephiroth </sp>
+<sp> The Ending Sequence </sp>
+
+<stage>Cloud and the others reach the Northern Crater. On the Highwind...</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Heh heh...... heh heh heh... Time's got a way of sneakin' up on ya, huh?<boxstart/>I'm shakin' all over... Heh heh... I feel sick... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hey, <referent name="Cloud">Cloud</referent>... Would you tell me 'It's all right'? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Say it cool<boxstart/>- Say it normal<boxstart/>- Don't say it </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Say it cool </sp>
+  <stage>Cloud strikes a pose.</stage>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It's all right, <referent name="Tifa">Tifa</referent>. </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Now I feel like things are really going to be all right.<boxstart/>Thanks, <referent name="Cloud">Cloud</referent>.<boxstart/>I'm all right. I'm not going to chicken out at the last minute. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Say it normal </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...It's all right. </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're right, things will be all right.<boxstart/>I'm... all right... really... I'll fight my hardest... </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Don't say it </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...I just can't say it that easy. </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I'm sorry... I guess you're right.<boxstart/>......Wow. I guess... I am a little scared. My knees are trembling. </sp>
+
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I am Nanaki, son of Seto... I am afraid of nothing...<boxstart/>It's all right, all right. I'm <referent name="Nanaki">Nanaki</referent>, the son of brave Seto... I'm not afraid of <referent name="Sephiroth">Sephiroth</referent>... </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>But I ain't gonna forget, no matter what happens.<boxstart/>Not about this here trip, or them folks--none of it! </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... take the ship to the Northern Cave.<boxstart/>The time for flying is now past.<boxstart/>Our battlefield is now beneath the earth...<boxstart/>The gate to tomorrow is not the light of heaven, but the darkness of the depths of the earth...... </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>You ever see the play 'LOVELESS'? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- No<boxstart/>- Yes </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>No </sp>
+  <sp> <speaker name="Cid">Cid</speaker><boxstart/>Yeah, I figured someone like you wouldn't be much on plays. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yes </sp>
+  <sp> <speaker name="Cid">Cid</speaker><boxstart/>Yeah? Really? Well, that's fine.<boxstart/>They've been doin' that play every summer since I was a kid.<boxstart/>An' I remember seein' it just once...<boxstart/>That was when I was in Midgar interviewing to be a pilot.<boxstart/>I had some free time and thought I'd catch the play.<boxstart/>Now, I'm no big fan of the theater or anything.<boxstart/>But this thing put me to sleep, just like I thought it would.<boxstart/>Finally during the last scene, the guy next to me woke me up tellin' me my snorin' was too loud.<boxstart/>So about all I really remember of that play is the end...<boxstart/>The sister of the lead asks her lover,<boxstart/>Do you really have to leave?<boxstart/>And the guy says,<boxstart/>I promised. The people I love, are waiting.<boxstart/>......I don't understand. Not at all. But...... please take care of yourself.<boxstart/>Of course... I'll come back to you. Even if you don't promise to wait. I'll return knowing that you'll be here.<boxstart/>I remember thinking when I heard those lines,<boxstart/>*&amp;%! What the hell's he talkin' about? But, you know... now I'm not so sure...<boxstart/>I think I understand...... </sp>
+
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>When this job's done, I'm landing the ship... yeah, that's what I'll do. </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... sign this. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What is it? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>It's a contract that says when the war is over, all the materia will belong to me.<boxstart/>It's all in there. Read it carefully and then sign it, all right? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Forget it, I'm not even gonna read it.<boxstart/>Whenever I read, I get airsick. </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Oh yeah......?<boxstart/>I'm the same way, so I can't say too much......<boxstart/>Damn! My plan failed. Let's pick on <referent name="Nanaki">Nanaki</referent> later to let off steam. </sp>
+<sp> <speaker name="Full Fledged Pilot">Full Fledged Pilot</speaker><boxstart/><referent name="Cloud">Cloud</referent>, what do you want to do?<boxstart/>- Go on<boxstart/>- Wait a minute </sp>
+<sp> <speaker name="Crew Member">Crew Member</speaker><boxstart/>I wonder what everyone's going to do when this fight's over?<boxstart/>I wonder what's gonna happen to the Highwind...? </sp>
+<stage>Cloud heads out to the deck.</stage>
+<sp> <speaker name="Crew Member">Crew Member</speaker><boxstart/>Take care! </sp>
+<stage>Cloud starts down into Northern Cavern.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Looks like we can only slide down.<boxstart/>- Alright, let's go!<boxstart/>- We'll get prepared first </sp>
+<stage>They slide down and begin their descent into the crater. At length they come to a fork in the path.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The road splits into two. We'll split into two groups. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Which you gonna choose, <referent name="Cloud">Cloud</referent>? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Left<boxstart/>- Right </sp>
+<stage>The others split up, too.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Now don't any of you die on me.......<boxstart/>Gotta get through to <referent name="Sephiroth">Sephiroth</referent>! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Well...... Looks like this is our last big job! </sp>
+<stage>He runs off.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Let's all go back alive, okay? </sp>
+<stage>She runs off.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>All life on this planet, indeed the very life of this planet is in our hands... </sp>
+<stage>He runs off.</stage>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Oh man... 'Materia Hunter <referent name="Yuffie">Yuffie</referent>' sounds like the last chapter of 'Materia Forever.' </sp>
+<stage>She runs off.</stage>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I'm so happy to have met you all, really! ...sniff... </sp>
+<stage>He runs off.</stage>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>It's all over now. With this... </sp>
+<stage>He runs off.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>I'll destroy that <referent name="Sephiroth">Sephiroth</referent> before anyone gets to him! </sp>
+<stage>He runs off.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This will be the end of it! </sp>
+<stage>If Cloud attempts to go down the path he didn't choose, he will stop and say:</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We'll leave this to [name]. </sp>
+<stage>Cloud and his chosen party head off down one path. If they go left, they come to another fork.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Another fork in the road... </sp>
+<stage>They choose directions again.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>'s probably crapping his pants right about now... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wait! <referent name="Sephiroth">Sephiroth</referent>... </sp>
+<stage>Cloud and his party reach a ledge very close to the bottom of the crater just ahead of the others.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Don't leave us, <referent name="Cloud">Cloud</referent>. </sp>
+<stage>The others join Cloud at the bottom.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This is the center of the Planet...? </sp>
+<stage>Each member of the group which went down the opposite path has had something for Cloud until...</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Here, <referent name="Cloud">Cloud</referent>. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, look. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cloud">Cloud</referent>, I found this... </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hey, <referent name="Cloud">Cloud</referent>, I found this. </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Hold on to this. </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>......... Wh... What? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Oh yeah, <referent name="Yuffie">Yuffie</referent>, didn't you find somethin'? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>By the way <referent name="Yuffie">Yuffie</referent>, didn't you find something on the way? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Oh, all right.<boxstart/>Here, <referent name="Cloud">Cloud</referent>. </sp>
+<sp> <speaker name="unspecified"/><boxstart/>Received "Last Elixir"! </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>But I'm the one who found it, so you better give it back to me when you're done with it! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Awright, this's the last dance! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>This is it. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>We finally made it here. </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Well, shall we get goin'? </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Hmm... Being with you all is not so bad. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Let's just get this over with! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Let's get going<boxstart/>- (No, not yet...) </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>All right, everyone, let's mosey. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Damn! Again!<boxstart/>Stop sayin' it like a wimp!<boxstart/>Can't you say 'Move out!' or somethin'? </sp>
+<stage>Cloud scratches his head.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Move out!! </sp>
+<stage>There are growling and hissing noises from above them.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Look at the number... </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>%#@^! They're comin' out in full force! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Cloud">Cloud</referent>! You go first! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'm fighting here too. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Shu'up! It won't do us no good wit' everyone back here! </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/><referent name="Barret">Barret</referent>'s right.<boxstart/>You take two of us with you and go first. The rest'll catch up with ya later. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Is this like a practice run before the real thing? </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Yeah, a major practice run... </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Heh heh, I'm fine with that. (It's probably more fun than fighting <referent name="Sephiroth">Sephiroth</referent> down there.) </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Hmm, this might be fun to pass time. </sp>
+<stage>The growling gets louder.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>They're coming! They're already on the floor next to us! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Cloud">Cloud</referent>! Hurry up and make up your mind! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>All of you!<boxstart/>Later! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yeah, later. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Yup! Later! </sp>
+<stage>Cloud and his chosen party start down. They reach a more substantial platform farther down and look around.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Where are we...? </sp>
+<stage>There is a screeching noise.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What's that!? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What!? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What! What! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Jenova...!?<boxstart/>It's coming!! </sp>
+<stage>A battle with Jenova ensues. After defeating her, the ground beneath them falls apart and they fall downwards into a bright blue light.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Li...... ight...<boxstart/>A light...<boxstart/>Is this......<boxstart/>Is this light...... Holy? </sp>
+<stage>They come to on stone platforms surrounding a caged Holy.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Oww... damn, man! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Barret">Barret</referent>!? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What...? So everyone's together again...? </sp>
+<stage>A pulse of energy goes through them all, lifting them into the air.</stage>
+<sp> <speaker name="Everyone">Everyone</speaker><boxstart/>Uuuugh...!! </sp>
+<stage>Sephiroth appears in front of Holy.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...<referent name="Sephiroth">Sephiroth</referent>!! </sp>
+<stage>Another pulse of energy.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Ugh...! Is this...... the true power of <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>My... my body... I can't control my body...... Uuugh!? </sp>
+<stage>Another pulse.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>My front legs...... my hind legs...... my tail's about to tear off!! </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>This is definitely not good...... He's way outta our league... </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I, I don't know if I can... go on... </sp>
+<stage>A sharper pulse, and they all double over.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Cloud... <referent name="Cloud">Cloud</referent>... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Ugh... ugh... </sp>
+<stage>Another pulse, and Cloud stops writhing.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...there...<boxstart/>It's...... there... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Holy...... Holy... is there......<boxstart/>The Holy is shining......<boxstart/><referent name="Aerith">Aerith</referent>'s prayer is shining......! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Holy...... <referent name="Aerith">Aerith</referent>...... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It's not over yet... This isn't the end yet!! </sp>
+<stage>They prepare themselves for battle.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Let's go everyone...!<boxstart/>- Just one more time...! </sp>
+<stage>One final pulse.</stage>
+<sp> <speaker name="Everyone">Everyone</speaker><boxstart/>Uuaaaahhhhhh!! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Not only <referent name="Aerith">Aerith</referent>...<boxstart/>Holy is the prayer of AVALANCHE...of Marlene and Dyne... And everyone on the planet! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We're not gonna lose!!<boxstart/><referent name="Aerith">Aerith</referent> is here... everyone is here... <referent name="Cloud">Cloud</referent> is here with us!<boxstart/>There's still many things for us to do... I'm not giving up!! </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I'm going to see it through to the end. For our future... And that of the planet...<boxstart/>I understand now, Grandpa. This is my mission!<boxstart/>I won't let the Lifestream... or the Life of the Planet wither away!! </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I don't like it!!<boxstart/>Maybe... maybe I shouldn't have come...<boxstart/>I don't need... materia...... any...<boxstart/>Nope, I still want it!! This an' that an' everything... MINE! And I'm never gonna give any up!! </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>We're not losin'!!<boxstart/>Maybe we were a little late in noticing the trouble we were getting into...<boxstart/>But there's still time... We should be able to get out of it! Even if we can't get EVERYTHING back to normal!<boxstart/>We should be able to protect what's most important!! </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>I was frozen in time... But now I feel as though my time is finally about to begin...!<boxstart/><referent name="Sephiroth">Sephiroth</referent>, now it's your time to sleep between the ages!! </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Hoo-ok......!<boxstart/>I can't be foolin' around in the bottom of this hell hole...<boxstart/>I still have lots of stuff to do with my life! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>'s memories... Our memories...<boxstart/>We came... to tell you... our memories... Come Planet! Show us your answer!<boxstart/>And <referent name="Sephiroth">Sephiroth</referent>!! To the settling of everything!! </sp>
+<stage>They fight Sephiroth, and after a long battle, finally defeat him.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This is all we could do. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Wait! What about Holy? What's gonna happen to the Planet? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>That... I don't know. Isn't the rest up to the Planet? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...You're right.<boxstart/>We've done all that we could do. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>All right, everyone.<boxstart/>It's no use thinking about it.<boxstart/>We'll leave all our worries here.<boxstart/>Let's go home proud. </sp>
+<stage>They all start up the path. A flash of white, and Cloud stops.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What happened? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......I feel it... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What...... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>He is still...... here. </sp>
+<stage>Cloud clutches his head.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Still...... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>He's... laughing... </sp>
+<stage>Cloud's spirit tears away as his body collapses.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>! </sp>
+<stage>Cloud is carried deep into the Lifestream to fight a duel with Sephiroth. Sephiroth, defeated, dissolves into the Lifestream, which then surrounds Cloud.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>.........Lifestream? </sp>
+<stage>He holds out his hand, thinking he sees Aerith reaching down for him, but he soon comes back to reality to realize that it's Tifa's hand, and the ground is crumbling beneath his feet. The rock gives way beneath Tifa, but Cloud catches her and manages to grab hold of the ledge.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......I think I'm beginning to understand. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>An answer from the Planet...<boxstart/>the Promised Land...<boxstart/>I think I can meet her...there. </sp>
+<stage>Tifa hesitates, her expression wistful, and then she closes her eyes and leans her head against Cloud.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Yeah, let's go meet her. </sp>
+<stage>Cloud helps Tifa up to the ledge, and they pull themselves up.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey, where is everyone? </sp>
+<stage>They both turn to look at the ledge across from them, where the others are gathered.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Heeeey! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker> (waving)<boxstart/>I'm glad you're all safe! </sp>
+<sp> <speaker name="Barret">Barret</speaker> (turning to Cid)<boxstart/>They all seem to be safe, too.<boxstart/>But...now what're we going to do? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Holy should be moving soon<boxstart/>and that means this place will... </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Oh, Lady Luck don't fail me now... </sp>
+<stage>As Cid looks up, his mouth drops open and his cigarette falls from it. Everyone looks up to watch the Highwind come crashing down, Lady Luck painted on its side. Once they are all on board, Holy bursts from the crater, bringing them with it. The Highwind starts coming apart.</stage>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Shit!! </sp>
+<stage>Cid reaches for an emergency lever and pulls it. The Highwind transforms into a plane and flies away from the crater.</stage>
+<stage>Meanwhile, in a house in Kalm, Marlene looks up from where she is sitting at a table.</stage>
+<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>The flower girl? </sp>
+<stage>Going to the window, she looks west towards Midgar. Meteor is bearing down on the city, a violent storm beneath it wreaking havoc upon Midgar. Holy rushes in from the north, trying to shield the city, but Meteor pushes through.</stage>
+<stage>Back on the Highwind...</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Wait a damn minute!<boxstart/>What's going to happen to Midgar?<boxstart/>We can't let that happen! </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I had everyone take refuge in the slums,<boxstart/>but the way things are now... </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>It's too late for Holy.<boxstart/>Meteor is approaching the Planet.<boxstart/>Holy is having the opposite effect.<boxstart/>Forget Midgar,<boxstart/>we've gotta worry about the Planet. </sp>
+<stage>They stand around anxiously, watching helplessly. Suddenly, Tifa spots something.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What's that!? </sp>
+<stage>They all turn to look as tendrils of the Lifestream come up out of the earth.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What the hell IS that......? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......Lifestream. </sp>
+<stage>As more of the Lifestream comes up, the people of Kalm sense something and open up their windows.</stage>
+<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>It's coming. </sp>
+<stage>The Lifestream converges on Midgar. A blinding light flashes over the Planet, and everyone flinches. And, somewhere, Aerith lifts her head and smiles.</stage>
+<sp> Five hundred years later... </sp>
+<stage>Nanaki, his mane bedecked with a full eight feathers, is running through a canyon with two cubs trailing behind him. He leads them up to the top of a rise, and the three of them look down upon Midgar, which is by now overrun with vibrant green vegetation.</stage>
+
+</scene>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="World">
+
+
+
+<h1>The World - Before the Temple of the Ancients</h1>
+
+<h4><a href="#chocobo">The Chocobo Farm</a></h4>
+<h4><a href="#sleep">The Sleeping Man</a></h4>
+<h4><a href="#condor">Fort Condor</a></h4>
+<h4><a href="#junon">Junon</a></h4>
+<h4><a href="#costa">Costa del Sol</a></h4>
+<h4><a href="#weapon">The Weapon Seller</a></h4>
+<h4><a href="#cosmo">Cosmo Canyon</a></h4>
+<h4><a href="#rocket">Rocket Town</a></h4>
+<h4><a href="#bone">Bone Village</a></h4>
+<hr></hr>
+<p class="italic"><a name="chocobo"></a>At the Chocobo Farm...</p>
+<p class="indent"><b>Choco Bill</b><br/>Welcome.<br/>How 'bout a Chocobo Lure materia?<br/>Each level it increases, makes it easier for you to find a Chocobo.</p>
+<hr></hr>
+<p class="italic"><a name="sleep"></a>In the Sleeping man's cave, across the river north of Junon...</p>
+<p class="indent"><b>Old Man</b><br/>You've already fought x times... ......zzzzz....... zzzzzzzz......<br/>Come on. You already escaped x times. ......zzz...... zzzzzzzzz......<br/>Large materia needs high level materia............ zzzzzz...... zzzzzzzz......</p>
+<p class="italic">If Cloud tries to search his belongings...</p>
+<p class="indent"><b>Old Man</b><br/>What're you groping around for!<br/>............<br/>......zzzzz......... zzz.......</p>
+<p class="indent"><b>Old Man</b><br/>Who're you?<br/>Hmph. I guess it was fate that I woke up and met you. Here!</p>
+<p class="italic">If the number of battles fought ends in two even numbers...</p>
+<div class="highlight"/><p>Received "Bolt Ring"!!</p>
+<p class="italic">If the number of battles fought ends in two odd numbers...</p>
+<div class="highlight"/><p>Received "Mythril"!!</p>
+<hr></hr>
+<p class="italic"><a name="condor"></a>At Fort Condor...</p>
+<p class="indent"><b>Man with Hat</b><br/>Oh, it's you guys? How are things going?</p>
+<p class="italic">Up at the shed...</p>
+<p class="indent"><b>Man</b><br/>How goes it? The Shinra troops have attacked 1 times since you were here.<br/>So we're getting a litttle short on funds.<br/>We have 12000 gil right now.<br/>Perfect timing! They're just around the corner. Get ready.</p>
+<p class="italic">Once Cloud decides to enter the battle...</p>
+<p class="indent"><b>Man</b><br/>The Barbarians are mixed during this attack.<br/>There are more than 20. Set up for a balanced-attack or we'll be in trouble.</p> 
+<hr></hr>
+<p class="italic"><a name="junon"></a>At Junon...</p>
+<p class="italic">In Lower Junon...</p>
+<p class="indent"><b>Fisherman</b><br/>There's a dolphin in the bay. If you get close enough and blow the whistle, it might come to you.<br/>If you want to get on the ship, why not have the dolphin take you?</p>
+<p class="italic">In Priscilla's House, Priscilla is asleep in her bed.</p>
+<p class="indent"><b>Priscilla</b><br/>No... that tickles...<br/>No... Stop......<br/>Mr. Dolphin......</p>
+<p class="indent"><b>Elevator Guard</b><br/>If you want to get on the elevator that badly, give me 10 gil!</p>
+<p class="indent"><b>Cloud</b><br/>- Okay, I guess<br/>- No way!</p>
+<div class="block"/>
+  <p><span class="highlight">Okay, I guess</span></p>
+  <p class="italic">The elevator door opens.</p>
+  <p class="indent-nopad"><b>Elevator Guard</b><br/>Hurry up and get in!</p>
+
+<div class="block"/>
+  <p><span class="highlight">No way!</span></p>
+  <p class="indent-nopad"><b>Elevator Guard</b><br/>You're such a cheapskate.</p>
+
+<p class="italic">On the Junon Airport Path...</p>
+<p class="indent"><b>Soldier</b><br/>All I wanted was to become a pilot! It used to leave me speechless watching the Highwind in the sunset!</p>
+<p class="indent"><b>Soldiers Practicing Victory Poses</b><br/>Someday I'll get to use my special pose in a real battle!<br/>Same here!! I'll keep practicing until then!</p>
+<p class="italic">In the bar, Rude is gone but the rest of the bald club remains...</p>
+<p class="indent"><b>Bald Black Man</b><br/>It just isn't a party without Rude!</p>
+<p class="italic">In the barracks, a commander stands reprimanding a soldier.</p>
+<p class="indent"><b>Commander</b><br/>Hey!! Stay out of the way!</p>
+<p class="indent"><b>Soldier</b><br/>Ever since I was late to that parade, they've been on my back everyday with basic training.<br/>I can't handle it anymore!</p>
+<p class="indent"><b>Commander</b><br/>Hey! Stop yappin'!</p>
+<p class="indent"><b>Soldier Studying</b><br/>Ugh... My eyes are tired... No, this is the time for me to really buckle down!<br/>Until I become SOLDIER First Class.</p>
+<p class="indent"><b>Soldiers Sleeping</b><br/>ZZZZZ......<br/>Grrrrgh--- ---Grrrgh</p>
+<p class="italic">On the path to the Underwater Reactor, a group of soldiers is drilling.</p>
+<p class="indent"><b>Commander</b><br/>Hey!! Civilian!! Stay out of our training!!<br/>Go around them! And stay out of their way!!</p>
+<p class="italic">Cloud can get on the elevator to the Underwater Reactor.</p>
+<p class="indent"><b>Elevator Attendant</b><br/>...gulp... Going do---wn.<br/>This floor is the Submarine Dock...<br/>Those of you visiting the Underwater Reactor, please proceed through the connecting tunnel.<br/>...gulp... We're here...</p>
+<p class="italic">Cloud gets off the elevator. The two doors leading farther are guarded by soldiers.</p>
+<p class="indent"><b>Soldier</b><br/>Only authorized personnel are allowed past this point!<br/>You know too, right? About Junon Navy's important classified information.<br/>A new submarine has almost been completed using Shinra's top technology.<br/>A new version of submarine. I'll be sailing on it. Man, I can't wait!</p>
+<p class="indent"><b>Soldier 2</b><br/>Man...... It's so boring keeping watch at the Underwater Reactor.</p>
+<p class="italic">Taking the elevator back up...</p>
+<p class="indent"><b>Elevator Attendant</b><br/>...gulp... Going u---p.<br/>Returning to Junon.<br/>...gulp... We're here...</p>
+<p class="italic">At the Shinra Member's bar...</p>
+<p class="indent"><b>Bartender</b><br/>I'm sorry. The bar is only for Shinra employees.</p>
+<p class="indent"><b>Soldier</b><br/>I'm a good lookin' man once I take my uniform off.</p>
+<p class="indent"><b>Soldier 2</b><br/>Mommy... My mommy...</p>
+<p class="indent"><b>Soldier 3</b><br/>Booze, booze! Ain't nothing like booze during working hours.</p>
+<p class="italic">Inside Junon Inn...</p>
+<p class="indent"><b>Innkeeper</b><br/>Welcome to the 'Inn'd of the line' in Junon. Wait, I shouldn't be sayin' stuff like that.<br/>Wanna spend the night?<br/>- 30 gil<br/>- Forget it</p>
+<div class="block"/>
+  <p><span class="highlight">30 gil</span></p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Enjoy your stay.</p>
+  <p class="italic">Cloud and the others rest.</p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Good morning! You still seem a little sleepy.<br/>Looking forward to seeing you again.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Forget it</span></p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Come again.</p>
+
+<p class="italic">In another barracks...</p>
+<p class="indent"><b>Soldier</b><br/>These barracks are for soldiers. This is no place for civilians.</p>
+<p class="italic">In the streets just outside the docks...</p>
+<p class="indent"><b>Sailor</b><br/>How 'bout a ship taxi? Only in Junon!<br/>Free to Air Force personnel!</p>
+<p class="indent"><b>Cloud</b><br/>- Sure, call 'em<br/>- Nope</p>
+<div class="block"/>
+  <p><span class="highlight">Sure, call 'em</span></p>
+  <p class="indent-nopad"><b>Sailor</b><br/>Roger!! Hey! Taxi!!</p>
+  <p class="italic">A helicopter comes.</p>
+  <p class="indent-nopad"><b>Pilot</b><br/>Where to?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- The next town<br/>- Outside Junon</p>
+  <div class="block"/>
+	<p><span class="highlight">The next town</span></p>
+	  <p class="indent-nopad"><b>Pilot</b><br/>Right! The next town it is!!</p>
+	  <p class="italic-inline-nopad">He flies Cloud to the streets outside the airfield.</p>
+	  <p class="block-inline-nopad">Thanks!!</p>
+  
+  <div class="block"/>
+	<p><span class="highlight">Outside Junon</span></p>
+	  <p class="indent-nopad"><b>Pilot</b><br/>Then outside Junon it is! Take care!!!</p>
+  
+
+<div class="block"/>
+  <p><span class="highlight">Nope</span></p>
+  <p class="indent-nopad"><b>Sailor</b><br/>Just holler whenever you want a ride!<br/>If you get sick easily, maybe you'd better not go.</p>
+
+<p class="indent"><b>Soldier outside Cargo Ship</b><br/>Lately it seems like the economy's been better. Must be the 'Rufus' effect.<br/>Cargo ships are always coming and going from Costa del Sol.<br/>Now I'll overlook the fact that you're a stowaway, but you better at least help with the cargo.</p>
+<hr></hr>
+<p class="italic"><a name="costa"></a>At Costa del Sol...</p>
+<p class="indent"><b>Man Near Sea Plane</b><br/>Hey, who're you? You look like you've been around the world twice.<br/>I don't know what your story is, but hang in there.</p>
+<p class="indent"><b>Woman Lounging on Sea Plane</b><br/>Today's a great day for a nap in the sun. It always puts me in a good mood!</p>
+<p class="indent"><b>Sailor</b><br/>Thinking of being stowaways?<br/>It's 100 gil to Junon. Give it to me, and I'll put in a good word with the captain.<br/>What'll we do?</p>
+<p class="indent"><b>Cloud</b><br/>- Pay up<br/>- Don't do it</p>
+<div class="block"/>
+  <p><span class="highlight">Pay up</span></p>
+  <p class="indent-nopad"><b>Sailor</b><br/>Okay. Come on. This way.<br/>It's not the most pleasant ride but make the best of it.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Don't do it</span></p>
+  <p class="indent-nopad"><b>Sailor</b><br/>Thank you. Come back any time you want to stowaway on our ship.</p>
+
+<p class="indent"><b>Sailor Running Around</b><br/>Ever since Rufus complimented him, he ran around for a while, And we haven't heard a peep from him since...</p>
+<p class="italic">Along the streets...</p>
+<p class="indent"><b>Women Walking Around</b><br/>Why's that!?<br/>Not yet!!<br/>Eaghhh!<br/>It's your fault!<br/>What's wrong with you!?<br/>You wanna go!?<br/>Whew!!!</p> <!-- before keystone-->
+<p class="indent"><b>Little Girl</b><br/>It hurts when you kick me with your bare feet!</p>
+<p class="italic">At Johnny's house, after getting the buggy...</p>
+<p class="indent"><b>Johnny</b><br/>Heh, heh, heh!...... My woman and me are getting along pretty good.<br/>But I'm such a pitiful waste......</p>
+<p class="italic">Later...</p>
+<p class="indent"><b>Johnny</b><br/>...sigh...... I'm not good enough for her. What I should do?</p>
+<p class="italic">At the beach...</p>
+<p class="indent"><b>Man</b><br/>Always the same story... Women never pay any attention to me...</p>
+<p class="indent"><b>Woman</b><br/>If this is your idea of flirting... forget it. I do fine as it is.</p>
+<p class="indent"><b>Woman 2</b><br/>The sea, the wind and the sun. Don't you just love the outdoors? It always puts me back on track.</p>
+<p class="indent"><b>Woman 3</b><br/>Hey, good timing. Would you mind putting lotion on me?</p>
+<p class="indent"><b>Cloud</b><br/>- With pleasure<br/>- Sorry</p>
+<div class="block"/>
+  <p><span class="highlight">With pleasure</span></p>
+  <p class="italic">Cloud laughs and puts lotion on her.</p>
+  <p class="indent-nopad"><b>Woman 3</b><br/>Uhhhnn...<br/>Than--kyu!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Sorry</span></p>
+  <p class="indent-nopad"><b>Woman 3</b><br/>Hey, loosen up a bit.</p>
+
+<hr></hr>
+<p class="italic"><a name="weapon"></a>Cloud enters the Weapon seller's house.</p>
+<p class="italic">If he comes before obtaining the Tiny Bronco, the house is empty...</p>
+<p class="indent"><b>Cloud</b><br/>...No one's here. We'll come back later.</p>
+<p class="italic">After obtaining the Tiny Bronco...</p>
+<p class="indent"><b>Weapon Seller</b><br/>Huh? Oh another customer. You sure picked an out of the way place but...<br/>But if it's the "Keystone" you're looking for, you're too late. Don't have it.</p>
+<p class="indent"><b>Cloud</b><br/>Keystone?</p>
+<p class="indent"><b>Weapon Seller</b><br/>What? You didn't come here for that?<br/>The "Keystone" is the key that unlocks the gate to a very old temple somewhere.<br/>You're not going to believe your ears,<br/>But I heard it was the Temple of the Ancients!!</p>
+<p class="indent"><b>Cloud</b><br/>The Temple of the Ancients...</p>
+<p class="indent"><b>Weapon Seller</b><br/>Kya, hah hah hah...<br/>Don't take it seriously. It's just a legend!<br/>Huh? What?</p>
+<p class="indent"><b>Cloud</b><br/>- Where is this "Keystone"?<br/>- Where is the Temple?<br/>- Let's change the subject<br/>- Never mind</p>
+<div class="block"/>
+  <p><span class="highlight">Where is this "Keystone"?</span></p>
+  <p class="indent-nopad"><b>Weapon Seller</b><br/>I sold it already. Yeah well, to tell the truth, I didn't really want to sell it but...<br/>That guy had a way about him that made you feel like it may not be a good idea NOT to sell it to him...</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Who did you sell it to?</p>
+  <p class="indent-nopad"><b>Weapon Seller</b><br/>The manager of the Gold Saucer... think his name was "Dio". Said he was going to put it in his museum, then he took off out of here.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Where is the Temple?</span></p>
+  <p class="indent-nopad"><b>Weapon Seller</b><br/>Come on... it's only a legend. But if it were true, that sure would be something, huh?<br/>Now that you mention it, I have heard of something called Ultimate Destruction Magic<br/>was supposed to be hidden somewhere in the Temple of the Ancients.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Ultimate Destruction Magic...?</p>
+  <p class="indent-nopad"><b>Weapon Seller</b><br/>Come on! I told you not to take it seriously!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Let's change the subject</span></p>
+  <p class="indent-nopad"><b>Weapon Seller</b><br/>All the weapons you see here I made myself. But lately I haven't been able to get materials...<br/>Hey you wouldn't happen to have any Mythril on you, would you? I'll trade you something good if you could spare some.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Give him some<br/>- Forget it</p>
+  <p class="indent-nopad"><b>Weapon Seller</b><br/>Hey thanks! All right you can help yourself to either a big or small box.</p>
+  <p class="italic">When checking the wooden chest downstairs:</p>
+  <div class="highlight-nopad"/><p>Received "Gold Armlet"!</p>
+  <p class="italic">When checking the wall safe upstairs:</p>
+  <div class="highlight-nopad"/><p>Received "Great Gospel"!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Never mind</span></p>
+  <p class="italic">Nothing happens.</p>
+
+<p class="italic">If Cloud tries to open something without giving him Mythril...</p>
+<p class="indent"><b>Weapon Seller</b><br/>Hey, don't just come bargin' in here!</p>
+<p class="italic">If Cloud walks to the bed...</p>
+<p class="indent"><b>Weapon Seller</b><br/>What? You want to rest?</p>
+<p class="indent"><b>Cloud</b><br/>- Yep<br/>- Nope</p>
+<p class="indent"><b>Weapon Seller</b><br/>Oh all right. You can use that bed.</p>
+<hr></hr>
+<p class="italic"><a name="cosmo"></a>At Cosmo Canyon...</p>
+<p class="indent"><b>Kid near the Cosmo Candle</b><br/>Nanaki, are you leaving again? We want you to stay here forever...</p>
+<p class="indent"><b>Innkeeper</b><br/>Welcome to 'Shildra Inn' As long as there are guests, our lights will always be on.<br/>It is 100 Gil a night. Would you like to stay?</p>
+<p class="italic"> If Nanaki is not in the party...</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. You people.<br/>Where is Nanaki? I hope he's not bothering you.</p>
+<p class="italic">If Nanaki is in the party...</p>
+<p class="indent"><b>Bugenhagen</b><br/>Ho Ho Hoooo. I'm glad you're back, Nanaki.<br/>I hate to ask you but, please look after Nanaki from now on.</p>
+<hr></hr>
+<p class="italic"><a name="rocket"></a>On returning to Rocket Town...</p>
+<p class="italic">At the Shanghai Inn...</p>
+<p class="indent"><b>Barkeeper</b><br/>Would you like something to drink?</p>
+<p class="indent"><b>Cloud</b><br/>- Let me hear your story</p>
+<p class="indent"><b>Barkeeper</b><br/>Y'know, I heard Rufus rushed back to headquarters in Midgar...</p>
+<p class="indent"><b>Man at Table</b><br/>How long's that guy gonna be in the bathroom? I need to go too...</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Redhead</b><br/>Oh, it's you? I heard you and the Captain really made a BANG!<br/>I also heard that Rufus was so pissed off he went on a rampage and that no one's been able to get near him!</p>
+<p class="indent"><b>Mechanic</b><br/>I heard Tiny Bronco broke...<br/>That sucks. I was secretly eyeing that thing. Broke, huh? What a drag.</p>
+<p class="indent"><b>Old Man</b><br/>Because those Shinra creeps locked us up in our houses, we couldn't even watch the rocket lift off.<br/>I never thought that my only hobby would be destroyed by that arrogant young Rufus...!</p>
+<p class="italic">Inside the house on the right...</p>
+<p class="indent"><b>Old Man</b><br/>Hmm, let's see... do I know any good jokes...?</p>
+<p class="italic">At Cid's house, Shera is working on the car inside.</p>
+<p class="indent"><b>Shera</b><br/>I'll take care of everything at home. But please take care of the Captain.</p>
+<hr></hr>
+<p class="italic"><a name="bone"></a>At Bone Village...</p>
+<p class="indent"><b>Excavator</b><br/>Welcome to Bone Village, a town for nature lovers.<br/>What do you want?</p>
+<p class="indent"><b>Cloud</b><br/>- Have you seen Sephiroth?<br/>- What are you doing?</p>
+<div class="block"/>
+  <p><span class="highlight">Have you seen Sephiroth?</span></p>
+  <p class="indent-nopad"><b>Excavator</b><br/>Oh, the man in a Black Cape. He was looking for the Temple of the Ancients.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- The Temple of the Ancients?</p>
+  <p class="indent-nopad"><b>Excavator</b><br/>It's way down south. It's right on the other side between this town and the inland sea.<br/>It's the pyramid that rises within the forest.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- How do you get in?</p>
+  <p class="indent-nopad"><b>Excavator</b><br/>You'll need a Keystone.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- What's a Keystone?</p>
+  <p class="indent-nopad"><b>Excavator</b><br/>Just like it sounds. A rock that's a key. I heard that some rich guy has it.</p>
+
+<div class="block"/>
+  <p><span class="highlight">What are you doing?</span></p>
+  <p class="indent-nopad"><b>Excavator</b><br/>We're excavating. It's like the land's telling a history of the planet.</p>
+
+<hr></hr>
+
+</scene>

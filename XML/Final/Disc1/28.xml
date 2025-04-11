@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="CityOfTheAncients">
+
+
+
+<sp> The City of the Ancients - Aerith's Sacrifice </sp>
+
+<sp> Searching for Aerith </sp>
+<sp> Aerith's Death </sp>
+<sp> Cloud's Resolution </sp>
+
+<stage>Cloud and the others reach the City of the Ancients, a forebodingly deserted place. Going too far north along the path causes Cloud's companions to stop him.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey yo! Wait up.<boxstart/>That way goes to the Mountains up north. Let's hurry and find <referent name="Aerith">Aerith</referent>. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hey, hey <referent name="Cloud">Cloud</referent>.<boxstart/>If we continue this way, we'll end up in the Northern Mountains. <referent name="Aerith">Aerith</referent> isn't over there, right? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Wait!<boxstart/>That road leads to the Northern Mountains. We have to go the other way to find <referent name="Aerith">Aerith</referent>. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Ahhh--- I can't go another step!!<boxstart/>We're looking for <referent name="Aerith">Aerith</referent>, right! Then why are you heading for the mountains!? What a dork! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Wa------it!<boxstart/><referent name="Cloud">Cloud</referent>, uh that's the road to the Northern Mountains.<boxstart/><referent name="Aerith">Aerith</referent> is waiting, let's go find her. </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Wait, <referent name="Cloud">Cloud</referent>.<boxstart/>This is the road to the Northern Mountains. Don't you want to find <referent name="Aerith">Aerith</referent>? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>H...ey, <referent name="Cloud">Cloud</referent>.<boxstart/>You thinkin' of going skiing? If we wanna find <referent name="Aerith">Aerith</referent>, we go THAT way! </sp>
+
+<stage>After exploring the city and finding it empty, Cloud and the others enter the one shell house that's still in tact. Cloud touches one of the glowing orbs.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Ugh.<boxstart/>...Words of the Ancients?<boxstart/>...no good. I can't understand.<boxstart/>...Ugh, again?<boxstart/>This stream of consciousness... Could this be the words of the Ancients...? </sp>
+<stage>Upstairs, there are several beds.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>heh, there's a bed. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Do you think the people who used to live here used it? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Look, there's a bed here. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>How COOL! I can't believe we found such a soft bed in a dive like this. </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>We're in luck. There's a bed in here. </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>I wonder if the owners used this? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Yeah, and it looks pretty comfortable. </sp>
+
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, <referent name="Cloud">Cloud</referent>. Let's take a break here. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shall we take a break here? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Hey, let's rest a bit. I'm tired... </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on--, let's rest for a while--- I don't want to walk anymore... </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, why don't we catch 40? </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Maybe we should take a short nap? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>I'm beat. Why don't we get some rest? </sp>
+
+<stage>They go to sleep, but Cloud wakes in the middle of the night.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I feel it... </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Cloud">Cloud</referent>, what is it? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... what's wrong? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>What's wrong? Are you sick? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey---, <referent name="Cloud">Cloud</referent>. What's your problem? </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What's wrong? What time is it...? </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>...What's wrong? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Do you know what TIME it is!? </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent> is here.<boxstart/>...and so is <referent name="Sephiroth">Sephiroth</referent>. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Wh, what! <referent name="Sephiroth">Sephiroth</referent>!? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're saying it's not just <referent name="Aerith">Aerith</referent>, but <referent name="Sephiroth">Sephiroth</referent>, too? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>What! <referent name="Sephiroth">Sephiroth</referent>'s here too!? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>No way---! <referent name="Sephiroth">Sephiroth</referent> wasn't invited! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Are you serious, <referent name="Cloud">Cloud</referent>!? </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>...If that's true, then we're in for it. </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Wa, wa, wait a minute. You serious!? </sp>
+
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>How do you know that? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>But how can you tell? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>How did you find out? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Wh...why? How can you tell that kind of stuff? </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>But how can you tell that? </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>...How did you find that out? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Hey, how do you know!? </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...it's not an excuse. I feel it in my soul. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Then, we better get up offa our lazy asses!! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>If that's true, then we've got to hurry! We've got to get to <referent name="Aerith">Aerith</referent>! </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Wh, ...what should we do? We must hurry to her! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>That means it's pretty bad... doesn't it? </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>If that's true, then we're in for it! We have to find <referent name="Aerith">Aerith</referent> fast! </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>If that's true, we should hurry. Something terrible could happen at any moment. </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Shit, <referent name="Cloud">Cloud</referent>. We can't be sittin' around on our asses. </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...right. Let's hurry and find <referent name="Aerith">Aerith</referent>. </sp>
+<stage>They go down the path from the house a ways and Cloud stops.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>'s voice...... Coming from there? </sp>
+<stage>They go to the shell house near the lake and find a hidden stairway down to the altar where Aerith is praying. Cloud and the others stop on the platform below the stepping-stone pillars.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>? </sp>
+<stage>He starts up on his own, gesturing for the others to stay back. Upon reaching Aerith, he draws his sword and moves to attack her.</stage>
+<sp> <speaker name="All">All</speaker><boxstart/><referent name="Cloud">Cloud</referent>! </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Stop it!! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Stop! </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>What are you doing! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Sto----p! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What are you doing! </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Stop it! </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Dumb #^%@! </sp>
+
+<stage>Their voices stop him and he shakes his head, lowering his sword and stepping back.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Ugh... what are you making me do. </sp>
+<stage>Aerith looks up from her prayer with a smile, and Sephiroth leaps down from above to impale her. As he pulls the Masamune back out of her, the White Materia comes loose from her hair and bounces down the steps. Cloud moves to take Aerith in his arms as she falls.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...<referent name="Aerith">Aerith</referent>. </sp>
+<stage>He shakes her.</stage>
+<sp> <boxstart/>This can't be real! </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker> (arms raised)<boxstart/>Do not worry. Soon the girl will become part of the Planet's energy.<boxstart/>All that is left is to go North. The 'Promised Land' waits for me over the snowy fields.<boxstart/>There, I will become a new being by uniting with the planet. As will this girl...... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Shut up.<boxstart/>The cycle of nature and your stupid plan don't mean a thing.<boxstart/>Aerith is gone.<boxstart/><referent name="Aerith">Aerith</referent> will no longer talk, no longer laugh, cry...... or get angry......<boxstart/>What about us...... what are WE supposed to do?<boxstart/>What about my pain?<boxstart/>My fingers are tingling.<boxstart/>My mouth is dry.<boxstart/>My eyes are burning! </sp>
+<stage>Sephiroth lowers his arms.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>What are you saying? Are you trying to tell me you have feelings too? </sp>
+<stage>Cloud stands and turns to face Sephiroth.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Of course! Who do you think I am!? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Ha, ha, ha...... Stop acting as if you were sad.<boxstart/>There's no need to act as though you're angry either. </sp>
+<stage>He pushes off the floor to hover several feet above Cloud.</stage>
+<sp> <boxstart/>Because, <referent name="Cloud">Cloud</referent>. You are... </sp>
+<stage>Sephiroth flies off, and Cloud and the others are left to fight Jenova∙LIFE.</stage>
+<sp> <speaker name="Jenova">Jenova</speaker><boxstart/>Beacause, you are...... a puppet. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'm....... a puppet? </sp>
+<stage>Barret looks at Aerith, shakes his head, touches Cloud's shoulder, and walks off.</stage><boxstart/>
+<sp> Tifa kneels to trace Aerith's face with her hand and then runs off crying.<boxstart/> </sp>
+<sp> Nanaki looks at Aerith, shakes his head, howls, and pads down the stairs.<boxstart/> </sp>
+<sp> Yuffie clasps her hands and bows her head. She walks to Cloud, and he holds her while she cries. Eventually she calms and runs off.<boxstart/> </sp>
+<sp> Cait Sith looks at Aerith, then at Cloud. He does a half-hearted dance, then leaves with his head lowered.<boxstart/> </sp>
+<sp> Vincent looks at Aerith, then at Cloud, and walks away.<boxstart/> </sp>
+<sp> Cid looks at Aerith, sighs, and leaves.<boxstart/> </sp>
+<sp> Once everyone has said goodbye, Cloud lifts Aerith and carries her to the lake, where he lets her body sink into the water.</sp>
+
+<stage>Cloud and the others stand in the shell house where they slept earlier.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Everyone, listen to me.<boxstart/>I'm <referent name="Cloud">Cloud</referent>, ex-SOLDIER, born in Nibelheim.<boxstart/>I came to settle up with <referent name="Sephiroth">Sephiroth</referent>. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>What're ya tryin' to say? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...What's going on? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>...Hmm? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Why now? </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Why're you being so formal? Is something wrong? </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>...You're right. </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>I heard that before. </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I came here by my own free will... Or so I thought.<boxstart/>However...<boxstart/>...To tell the truth, I'm afraid of myself.<boxstart/>...There is a part of me that I don't understand.<boxstart/>That part that made me give the Black Materia to <referent name="Sephiroth">Sephiroth</referent>.<boxstart/>If you hadn't stopped me, <referent name="Aerith">Aerith</referent> might have been...<boxstart/>...There's something inside of me. A person who is not really me.<boxstart/>That's why I should quit this journey.<boxstart/>Before I do something terrible. </sp>
+<stage>He makes a fist and shakes his head slowly.</stage>
+<sp> <boxstart/>But I am going.<boxstart/>He destroyed my hometown five years ago, killed <referent name="Aerith">Aerith</referent>, and is now trying to destroy the Planet. I'll never forgive... <referent name="Sephiroth">Sephiroth</referent>.<boxstart/>I... I must go on.<boxstart/>...I have a favor to ask of you.<boxstart/>Will you all come with me?<boxstart/>...to save me from doing something terrible. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>...I dunno, man... </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...But, <referent name="Cloud">Cloud</referent>. </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>...All right, <referent name="Cloud">Cloud</referent>. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Leave it to me! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Watch you?...... We're all in this together! </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>...I guess so. </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Well, we'll face it when it happens. </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I don't know how <referent name="Aerith">Aerith</referent> tried to save the planet from the Meteor.<boxstart/>And I guess now, we'll never know.<boxstart/>But!<boxstart/>We still have a chance. We must get that Black Materia back before <referent name="Sephiroth">Sephiroth</referent> uses it.<boxstart/>Let's go. </sp>
+<stage>Cloud leads the way from the shell house and they walk down the path a ways.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Which way'd that damn foo' <referent name="Sephiroth">Sephiroth</referent> go? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>... I wonder which way he went? </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>... Which way did he go? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Ummm... Which way did that <referent name="Sephiroth">Sephiroth</referent> guy go? </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I wonder which way <referent name="Sephiroth">Sephiroth</referent> went? </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Which way did <referent name="Sephiroth">Sephiroth</referent> head? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>...Which way did that creep <referent name="Sephiroth">Sephiroth</referent> go!? </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...ugh. </sp>
+<stage>He sees a flickering image of Sephiroth walking the path to the north.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey, you awright? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>! Get a hold of yourself!! </sp>
+	<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>You all right? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Wait! Get a hold of yourself! </sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Cloud">Cloud</referent>! Are you all right? </sp>
+	<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>...you all right? </sp>
+	<sp> <speaker name="Cid">Cid</speaker><boxstart/>Ey, hey! You alright? </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmmm...<boxstart/><referent name="Sephiroth">Sephiroth</referent> said to me... Head North............ past the Snow Fields...... </sp>
+<stage>They follow the path northward through Corral Valley Cave and out into the snow fields, after Sephiroth.</stage>
+
+</scene>

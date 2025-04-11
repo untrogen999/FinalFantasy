@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="SeventhHeaven">
+
+
+
+<h1>Sector 7 - Seventh Heaven</h1>
+
+<h4><a href="#arrival">Arrival in Sector 7</a></h4>
+<h4><a href="#exploring">Exploring the Sector</a></h4>
+<h4><a href="#7thheaven">Tifa's 7th Heaven</a></h4>
+<h4><a href="#walk">Walking the Sector Again</a></h4>
+<h4><a href="#avalanche">Back at 7th Heaven</a></h4>
+<h4><a href="#promise">The Promise</a></h4>
+<h4><a href="#day">The Next Day</a></h4>
+<h4><a href="#beginner">Beginner's Hall</a></h4>
+<h4><a href="#johnny">Johnny's Departure</a></h4>
+<h4><a href="#train">Boarding the Train</a></h4>
+<hr></hr>
+<p class="italic"><a name="arrival"></a>The train pulls into the Sector 7 station, and its passengers get off.</p>
+<p class="indent"><b>Barret</b><br/>Yo!! Get over here, all'ya!!</p>
+<p class="italic">The others group around Barret by the steps down from the platform.</p>
+<p class="indent"><b>Barret</b><br/>This mission was a success. But don't get lazy now.<br/>The hard part's still to come! Don't y'all be scared of that explosion!<br/>Cause the next one's gonna be bigger than that!<br/>Meet back at the hideout!! Move out!</p>
+<p class="italic">Barret runs off, and Biggs, Wedge, and Jessie follow him.</p>
+<p class="indent"><b>Station Man</b><br/>When you've been a train man as long as I have, you see a lot of people and a lot of lives.<br/>People meeting, parting, joy, sadness... After a while, it doesn't even get to you anymore.<br/>I wonder how long it's been... There's an invisible rail between me and the passengers.<br/>I could never live their lives. I'm just a train man plain and simple. It's easier that way.<br/>That's not to say that the crossing gate of my heart doesn't hurt now and again.<br/>Back during the war, I remember there was a lot of painful scenes then.<br/>But, that's a story for another day...<br/>First train leaves Midgar at 05:04am.</p>
+<p class="italic"><a name="exploring"></a>A red-haired couple are standing by the street lamp.</p>
+<p class="indent"><b>Guy</b><br/>I'm not letting you go tonight.</p>
+<p class="indent"><b>Girl</b><br/>Wow!</p>
+<p class="indent"><b>Guy</b><br/>Isn't there somewhere we could go to be alone?</p>
+<p class="indent"><b>Girl</b><br/>Wow!<br/>There's only the train graveyard around here. And they say there's ghosts around too!</p>
+<p class="indent"><b>Guy</b><br/>......damn.</p>
+<p class="indent"><b>Girl</b><br/>What?</p>
+<p class="italic">Cloud leaves the train station and walks through the sector.</p>
+<p class="indent"><b>Man by Fence</b><br/>Hey now!! Oops!!<br/>What on earth are you doing? Just butt out......geez!<br/>Huh? You came to see it, too?<br/>There was a bombing on top. If this pillar should come down, everyone in the slums is dust...<br/>Well, there's no point in worryin' about that.<br/>Hey!! Look! It's huge, ain't it?</p>
+<p class="italic">Cloud looks up at the pillar with him.</p>
+<p class="indent"><b>Man by Fence</b><br/>Hey... This is a strange and wonderful place.<br/>This is my place, but you can come here when you want. Bye, bro!</p>
+<p class="italic-inline">He runs off.</p>
+<p class="indent"><b>Barret</b><br/>Yo, Cloud! Over here, now!</p>
+<p class="italic">Of course, you can ignore him if you want. Some distance from the fence are two soldiers guarding an exit.</p>
+<p class="indent"><b>Soldier 1</b><br/>What the hell do you want? You know who I am?<br/>You can't pass. I got the miserable job of keepin' scum like you from trying to sneak in here.</p>
+<p class="indent"><b>Soldier 2</b><br/>W, wow! You're great!!</p>
+<p class="indent"><b>Soldier 1</b><br/>Damn right!! Don't waste time talkin's, what I always say!</p>
+<p class="indent"><b>Soldier 2</b><br/>But, uh, I......<br/>Ah... eh... uhm............ Excuse me. You cannot pass without the proper clearance.<br/>Did I do good this time?</p>
+<p class="indent"><b>Soldier 1</b><br/>You gotta be tougher!</p>
+<p class="indent"><b>Soldier 2</b><br/>But, uh, I......</p>
+<p class="italic">As Cloud approaches 7th Heaven, Barret and the others charge into the bar. Gunfire is heard, and a number of customers run out. Tifa comes out after them and bows apologetically. All the AVALANCHE members go inside but Barret, who waits impatiently by the entrance.</p>
+<p class="indent"><b>Barret</b><br/>Heh heh...<br/>You wanna meet your little baby?</p>
+<p class="indent"><b>Cloud</b><br/>- Little baby?<br/>- Out of my way!</p>
+<div class="block"/>
+  <p><span class="highlight">Little baby?</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>Hey! Don' act like you don't know what I mean!<br/>I'm tellin' you...</p>
+
+<div class="block"/>
+  <p><span class="highlight">Out of my way</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>Heh! Jes calm down.<br/>Can't have people suspectin' us.</p>
+
+<p class="indent"><b>Gossip</b><br/>Did you hear?</p>
+<p class="indent"><b>Cloud</b><br/>- Don't care<br/>- No, what?</p>
+<div class="block"/>
+  <p><span class="highlight">Don't care</span></p>
+  <p class="indent-nopad"><b>Gossip</b><br/>Oh, well excuse ME!</p>
+
+<div class="block"/>
+  <p><span class="highlight">No, what?</span></p>
+  <p class="indent-nopad"><b>Gossip</b><br/>There's a news update. They say that there was a terrorist explosion up above, and that this time it was a Mako Reactor!!<br/>You know what this means?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Don't care<br/>- No, what?</p>
+    <div class="block"/>
+      <p><span class="highlight">Don't care</span></p>
+      <p class="indent-nopad"><b>Gossip</b><br/>Oh, well excuse ME!</p>
+    
+    <div class="block"/>
+      <p><span class="highlight">No, what?</span></p>
+      <p class="indent-nopad"><b>Gossip</b><br/>Ya see, I keep on top of these things, an' if ya ask me......<br/>If you knock out Midgar's power, then all of its computers and signals are going to be knocked out too.<br/>Financially there must've been about a billion gil worth of damage.<br/>An' that ain't all!! A lotta innocent people got killed too!<br/>If the explosion had been in the middle of the night, that woulda been one thing. At least the people coulda gone in their sleep.<br/>This Mako explosion has really sent Midgar into a fit.</p>
+    
+
+<p class="indent"><b>Kid</b><br/>Explosions! Explosions! Oh Man! AVALANCHE is so cool!</p>
+<p class="indent"><b>Johnny's Cousin</b><br/>Oh Jesus!! What the hell's wrong tonight!!<br/>I thought that long blackout was strange.<br/>They say a Mako Reactor was destroyed above.<br/>I was jes sittin' here drinkin', watchin' the news by myself.<br/>'n' all of a sudden I get kicked outta the &amp;*%$ store. What's up with that!?<br/>I wasn't even done with my drink. I didn't even pay my bill...</p>
+<p class="indent"><b>Johnny</b><br/>Woo...... ah geez, I'm blitzed. I jes love them homemade cocktails. But they sure do creep up on ya.</p>
+<p class="indent"><b>A sign to the far left</b><br/>Don't be taken in by the Shinra.<br/>Mako energy will not last forever.<br/>Mako is the life of the Planet and that life is finite.<br/>The end is coming.<br/>Saviors of the Planet: AVALANCHE</p>
+<p class="indent"><b>Cloud</b><br/>What crappy handwriting. And look at all this graffiti!</p>
+<p class="italic">The Item Shop is closed, but you can enter the Weapons Shop.</p>
+<p class="indent"><b>Black-haired Man</b><br/>Hey!! What the, YOU?<br/>Anyone talking to me must be a novice.</p>
+<p class="indent"><b>Cloud</b><br/>- Yep, that's me<br/>- I used to be with SOLDIER, the name's Cloud</p>
+<div class="block"/>
+  <p><span class="highlight">Yep, that's me</span></p>
+  <p>So what. Everyone's a beginner sometime.</p>
+  <p class="indent-nopad"><b>Black-haired Man</b><br/>Don't act so big, amateur. Seein' as how I'm such a warm hearted guy, I'll show ya the ropes.<br/>You come back here tomorrow. I got some things I gots ta do.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I used to be with SOLDIER, the name's Cloud</span></p>
+  <p>The name's Cloud. Used to be with SOLDIER, I got no business with you.</p>
+  <p class="indent-nopad"><b>Black-haired Man</b><br/>Hmmph!! Well, I never heard of ya!</p>
+
+<p class="italic">Upstairs, the storage area (Beginner's Hall) is closed off.</p>
+<p class="indent"><b>Big Man</b><br/>Unn......!! Who the hell are you!? No unauthorized access.<br/>Since today's special, I'm gonna let you in on a juicy bit of news. But you gotta keep it to yourself.<br/>Do you know what's been going on......?</p>
+<p class="indent"><b>Cloud</b><br/>- What, that again?<br/>- ............</p>
+<div class="block"/>
+  <p><span class="highlight">What, that again?</span></p>
+  <p class="indent-nopad"><b>Big Man</b><br/>I guess you must be sick of hearing it... But it's been so long since there was any real news here.<br/>You're worried where it's all heading, right?</p>
+
+<div class="block"/>
+  <p><span class="highlight">............</span></p>
+  <p class="indent-nopad"><b>Big Man</b><br/>Everything's in a buzz 'bout that terrorist group AVALANCHE blowin' up the Sector 1 Mako Reactor.<br/>On the surface they say they're an anti-Shinra group, but in reality...<br/>They say they're just out to kill as many people as they can.<br/>Gyaaaa, Haaa haaa!!<br/>That's a good one, ain't it!? While they're bustin' things up on top, the only ones makin' out good are us weapon stores!<br/>Now, if we can just get rid of this back stock, we'll be doin' ok.</p>
+
+<p class="indent"><b>Man in Hat</b><br/>You know what I do? I'll bet you don't.<br/>You come here tomorrow and I'll tell you.<br/>Ahh, there just ain't no good jobs here in the slums.<br/>I wanna go to the upper world.</p>
+<p class="italic"><a name="7thheaven"></a>Cloud returns to 7th Heaven, where Barret is waiting.</p>
+<p class="indent"><b>Barret</b><br/>Ok! Go on ahead.<br/>You! Cloud!! Get off your slow-movin' ass!!</p>
+<p class="italic">Cloud enters 7th Heaven, and Marlene hops up excitedly.</p>
+<p class="indent"><b>Marlene</b><br/>Papa!!</p>
+<p class="italic">Cloud starts, and when Marlene sees it's him, she runs and hides in the corner. Tifa comes out from behind the bar and hurries over to her.</p>
+<p class="indent"><b>Tifa</b><br/>Marlene! Aren't you going to say anything to Cloud?</p>
+<p class="italic-inline">She walks over to Cloud with Marlene hiding behind her.</p>
+<p class="block-inline">Welcome home, Cloud. Looks like everything went well.<br/>Did you fight with Barret?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah<br/>- Not this time</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>I should have known.<br/>He's always pushing people around, and You've always been in fights ever since you were little.<br/>I was worried.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Not this time</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Hmm. You've grown up.<br/>When you were little you used to get into fights at the drop of a hat.</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If you bought a flower...</span></p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Flowers? How nice...<br/>You almost never see them here in the slums.<br/>But...<br/>A flower for me? Oh Cloud, you shouldn't have...</p>
+	<p class="indent-nopad"><b>Cloud</b><br/>No big.<br/>- Give it to Tifa<br/>- Give it to Marlene</p>
+	<div class="block"/>
+	  <p><span class="highlight">Give it to Tifa</span></p>
+	  <p class="indent-nopad"><b>Tifa</b><br/>Thank you, Cloud. It smells wonderful.<br/>Maybe I should fill the store with flowers.</p>
+	
+	<div class="block"/>
+	  <p><span class="highlight">Give it to Marlene</span></p>
+	  <p class="italic">Nothing happens until Barret comes in.</p>
+	
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If you didn't buy a flower...</span></p>
+	<p class="indent-nopad"><b>Tifa</b><br/>I'm so glad everyone's safe.</p>
+
+<p class="indent"><b>Tifa</b><br/>Sorry, Cloud. Marlene seems a little shy.</p>
+<p class="indent"><b>Marlene</b><br/>............</p>
+<p class="italic">Biggs, Wedge, and Jessie are sitting around a table relaxing.</p>
+<p class="indent"><b>Biggs</b><br/>Aaah!! Nothin' like that first drink after a job.<br/>Hic!!<br/>Why don't you have one too?</p>
+<p class="indent"><b>Cloud</b><br/>- No<br/>- Yeah, why not?</p>
+<div class="block"/>
+  <p><span class="highlight">No</span></p>
+  <p class="indent-nopad"><b>Biggs</b><br/>What!? You tellin' me you're too good to drink with me?<br/>Don't act big-headed jus' because you were in SOLDIER!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Yeah, why not?</span></p>
+  <p class="indent-nopad"><b>Biggs</b><br/>Oh!! That's more like it!!<br/>Even if you were in SOLDIER, you're still a rookie here. So you'd better listen to whatever I tell ya!</p>
+
+<p class="indent"><b>Biggs</b><br/>Hic...!!<br/>Oh...... Don't tell Barret what I just said.</p>
+<p class="indent"><b>Wedge</b><br/>Oh, Cloud!<br/>Tifa really knows how to cook. Mmm, mmm......<br/>Anyway, let me tell you somethin'</p>
+<p class="indent"><b>Cloud</b><br/>- About what?<br/>- I'm not interested in your stories</p>
+<div class="block"/>
+  <p><span class="highlight">About what?</span></p>
+  <p class="indent-nopad"><b>Wedge</b><br/>Tifa always lets me taste her cooking.<br/>And look at me now, I'm rolly-polly.<br/>Don't know whether I should be happy or sad. But it's the good food and drinks that make this shop famous.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I'm not interested in your stories</span></p>
+  <p class="indent-nopad"><b>Wedge</b><br/>Cloud...... ......forget it.</p>
+
+<p class="indent"><b>Jessie</b><br/>Careless...... You're getting all excited.<br/>Wonder what for......?</p>
+<p class="italic">Cloud starts for the door, but has to jump out of the way as Barret comes thundering in.</p>
+<p class="indent"><b>Marlene</b><br/>Papa, welcome home!</p>
+<p class="italic">He lifts her up onto his shoulder.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If you gave the flower to Marlene...</span></p>
+	<p class="indent-nopad"><b>Barret</b><br/>Huh? Where'd you get that flower?</p>
+	<p class="indent-nopad"><b>Marlene</b><br/>Cloud gave it to me.</p>
+	<p class="indent-nopad"><b>Barret</b><br/>Oh......<br/>Did you thank him?</p>
+	<p class="indent-nopad"><b>Marlene</b><br/>............<br/>Thank you, Cloud.<br/>We'll take care of you.</p>
+
+<p class="indent"><b>Tifa</b><br/>You all right, Barret?</p>
+<p class="indent"><b>Barret</b><br/>Great!!<br/>Get in here, fools!! We're startin' the meetin'!!</p>
+<p class="italic">Barret heads down to the basement using the pinball machine elevator, and the others follow. Cloud can wander the Sector a little more before joining them.</p>
+<p class="italic"><a name="walk"></a>Back at the train station, the couple is still there.</p>
+<p class="indent"><b>Guy</b><br/>Hey, come over here.</p>
+<p class="indent"><b>Girl</b><br/>But people will...</p>
+<p class="indent"><b>Guy</b><br/>Who cares?</p>
+<p class="indent"><b>Girl</b><br/>But... There's a weirdo over there.</p>
+<p class="indent"><b>Guy</b><br/>Huh?</p>
+<p class="italic-inline">He turns to Cloud.</p>
+<p class="block-inline">Say, you're pretty gutsy.<br/>Why don't you go snoop somewhere else, Romeo?</p>
+<p class="italic">Closer to 7th Heaven...</p>
+<p class="indent"><b>Gossip</b><br/>Did you hear?</p>
+<p class="indent"><b>Cloud</b><br/>- 'Bout what?<br/>- Don't care</p>
+<div class="block"/>
+  <p><span class="highlight">'Bout what?</span></p>
+  <p class="indent-nopad"><b>Gossip</b><br/>About that little girl named Tifa and that bar called '7th Heaven'.<br/>I'm not only informed, I'm kinda nosey too. Anyhow, I got the scoop.<br/>You wanna hear?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- You bet!<br/>- Don't care</p>
+    <div class="block"/>
+      <p><span class="highlight">You bet!</span></p>
+      <p class="indent-nopad"><b>Gossip</b><br/>That Barret and three of his henchmen are like this sometimes.<br/>Suddenly, they threw out a customer and start talking trash to him. It's strange, if you ask me. And that place always smells like gun powder.<br/>It's dangerous, I tell you. They must be doing terrible things in there.</p>
+    
+    <div class="block"/>
+      <p><span class="highlight">Don't care</span></p>
+      <p class="indent-nopad"><b>Gossip</b><br/>Oh really? Well, aren't you a cool one!</p>
+    
+
+<div class="block"/>
+  <p><span class="highlight">Don't care</span></p>
+  <p class="indent-nopad"><b>Gossip</b><br/>Oh really? Well, aren't you a cool one!</p>
+
+<p class="indent"><b>Johnny's Cousin</b><br/>There's a TV in there, but my cheap aunt won't let me in the house. Look for yourself.</p>
+<p class="indent"><b>Johnny's Mom</b> (from inside her house)<br/>I'm not opening up. Go away!!</p>
+<p class="indent"><b>Johnny</b><br/>Hey!! Open up! C'mon baby!!<br/>It's me! Johnny! Mom!!</p>
+<p class="indent"><b>Johnny's Cousin</b><br/>Now that you mention it, there used to be an outside TV monitor here in the slums.<br/>But that Barret, busted it up.<br/>Shot it up with that weird machine gun hand of his. Blam, blam, blam.<br/>I think it was when President Shinra was on.<br/>He was on again this morning, too, you know.<br/>Tifa better watch out for her TV.</p>
+<p class="indent"><b>Kid</b><br/>All's quiet!! Shh, I'm spying now!<br/>OH!! There's something!! DANGER!! ALERT!!</p>
+<p class="italic"><a name="avalanche"></a>Back in 7th Heaven, Tifa's still behind the bar, though the place is empty. Cloud walks up.</p>
+<p class="indent"><b>Tifa</b><br/>Sit down.</p>
+<p class="italic">Cloud sits.</p>
+<p class="indent"><b>Tifa</b><br/>How about...<br/>...something to drink?</p>
+<p class="indent"><b>Cloud</b><br/>- I don't feel like it<br/>- Give me something hard</p>
+<div class="block"/>
+  <p><span class="highlight">I don't feel like it</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>OHH!!<br/>I can make a drink just as good as anyone else.<br/>Everyone says, my drinks taste the best!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Give me something hard</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Just a minute. I'll make one for you.<br/>You know, I'm relieved you made it back safely.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>What's with you all of a sudden? That wasn't even a tough job.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>I guess not...<br/>You were in SOLDIER.<br/>Make sure you get your pay from Barret.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Don't worry. Once I get that money, I'm outta here.</p>
+
+<p class="italic">Cloud gets up.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud. Are you feeling all right?</p>
+<p class="indent"><b>Cloud</b><br/>...yeah... Why?</p>
+<p class="indent"><b>Tifa</b><br/>No reason. You just look a little tired I guess.<br/>You'd better go down below.</p>
+<p class="italic">Cloud goes down to the basement. Jessie is working at her computer, while Wedge is sitting at the table in the center of the room. Barret is using a punching bag in the corner, and Biggs and Marlene are nearby on either side of him.</p>
+<p class="indent"><b>Wedge</b><br/>You think I'm a little too uptight?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah...<br/>- No...</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah...</span></p>
+  <p class="indent-nopad"><b>Wedge</b><br/>The next mission will be to blow up the Sector 5 Reactor.<br/>Cloud, you're great! Don't you ever get nervous?<br/>Or are you like, impervious to feelings? Naw, that couldn't be it.</p>
+
+<div class="block"/>
+  <p><span class="highlight">No...</span></p>
+  <p class="indent-nopad"><b>Wedge</b><br/>Well, that's ok. Don't worry about me. I don't look like it, but I'm a coward at heart.</p>
+
+<p class="italic">The TV near Jessie's computer is on, showing the bombing. President Shinra is in the middle of a speech.</p>
+<div class="highlight"/><p class="indent-nopad"><b>President Shinra</b><br/>.........today the No. 1 Reactor was bombed. The terrorist group AVALANCHE has claimed responsibility for the bombing.<br/>It is expected that AVALANCHE will continue its reign of terror.<br/>But citizens of Midgar, there is no need to fear.<br/>I have immediately mobilized SOLDIER to protect our citizenry against this senseless violence. Thank you and good night.</p>
+<p class="indent"><b>Jessie</b><br/>Oops...<br/>Hey, look at the news... What a blast.<br/>Think it was all because of my bomb? But all I really did was just make it like the computer told me.<br/>Oh no! I must've made a miscalculation somewhere.<br/>Hey, that was my bomb's debut. Makes me kinda proud.</p>
+<p class="indent"><b>Barret</b><br/>Yo, Cloud! There's somethin' I wanna ask ya.<br/>Was there anyone from SOLDIER fighting us today?</p>
+<p class="indent"><b>Cloud</b><br/>None. I'm positive.</p>
+<p class="indent"><b>Barret</b><br/>You sound pretty sure.</p>
+<p class="indent"><b>Cloud</b><br/>If there was anyone from SOLDIER you wouldn't be standing here now.</p>
+<p class="indent"><b>Barret</b><br/>Don't you go thinkin' you so bad jes cuz you was in SOLDIER.</p>
+<p class="italic">Barret lunges for Cloud, and Biggs tries to hold him back.</p>
+<p class="indent"><b>Cloud</b><br/>............</p>
+<p class="italic">Barret throws Biggs off, slamming him against the wall, and stands there seething.</p>
+<p class="indent"><b>Barret</b><br/>Yeah, you're strong.<br/>Probably all them guys in SOLDIER are.<br/>But don't forget that your skinny ass's workin' for AVALANCHE now!<br/>Don't get no ideas 'bout hangin' on to Shinra.</p>
+<p class="indent"><b>Cloud</b><br/>Stayin' with Shinra?<br/>You asked me a question and I answered it... that's all.<br/>I'm going upstairs. I want to talk about my money.</p>
+<p class="indent"><b>Barret</b><br/>Shucks!! ............money...</p>
+<p class="indent"><b>Marlene</b><br/>Papa, you're so great!</p>
+<p class="italic">Cloud starts to leave, but Tifa, who's come down in the midst of this, runs up to him.</p>
+<p class="indent"><b>Tifa</b><br/>Wait, Cloud!</p>
+<p class="indent"><b>Barret</b><br/>Tifa! Let him go!<br/>Looks like he still misses the Shinra!</p>
+<p class="indent"><b>Cloud</b><br/>Shut up!<br/>I don't care about either Shinra or SOLDIER!<br/>But don't get me wrong!<br/>I don't care about AVALANCHE or the Planet for that matter!</p>
+<p class="indent"><b>Tifa</b><br/>Straighten things up with everyone for me.</p>
+<p class="indent"><b>Jessie</b><br/>Money...<br/>Oh my. It must have been for a lot of it.<br/>Sure! Well, what the hell? It's a verbal agreement. Now let me figure this out.<br/>Oh stop it, Cloud! Did you hear me?</p>
+<p class="indent"><b>Wedge</b><br/>......Cloud.<br/>You say you don't care, but you came to talk to me.<br/>Cloud... You just want friends.<br/>Isn't that right?</p>
+<p class="indent"><b>Cloud</b><br/>- Blow off<br/>- I really don't care</p>
+<div class="block"/>
+  <p><span class="highlight">Blow off</span></p>
+  <p class="indent-nopad"><b>Wedge</b><br/>Yeah, well. You look kind of lonely to me.<br/>If you ever got anything you want to get off your chest, you can always talk to me.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I really don't care</span></p>
+  <p class="indent-nopad"><b>Wedge</b><br/>You're terrible. Real cold blooded.</p>
+
+<p class="italic"><a name="promise"></a>Cloud goes upstairs and starts for the door. Tifa comes after him.</p>
+<p class="indent"><b>Tifa</b><br/>Listen, Cloud. I'm asking you. Please join us.</p>
+<p class="indent"><b>Cloud</b><br/>Sorry Tifa...</p>
+<p class="indent"><b>Tifa</b><br/>The Planet is dying. Slowly but surely it's dying.<br/>Someone has to do something.</p>
+<p class="indent"><b>Cloud</b><br/>So let Barret and his buddies do something about it.<br/>It's got nothing to do with me.</p>
+<p class="indent"><b>Tifa</b><br/>So! You're really leaving!?<br/>You're just going to walk right out ignoring your childhood friend!?</p>
+<p class="indent"><b>Cloud</b><br/>What......?<br/>- How can you say that!<br/>- ......Sorry</p>
+<p class="indent"><b>Tifa</b> (she says the same thing regardless)<br/>......You forgot the promise, too.</p>
+<p class="indent"><b>Cloud</b><br/>Promise?</p>
+<p class="indent"><b>Tifa</b><br/>So you DID forget.<br/>Remember...... Cloud. It was seven years ago...</p>
+<p class="italic">The scene shifts to show the well in the center of Nibelheim. The sky is bright with stars.</p>
+<p class="indent"><b>Tifa</b><br/>Look, the well.<br/>Do you remember?</p>
+<p class="indent"><b>Cloud</b><br/>Yeah... back then.<br/>I thought you would never come, and I was getting a little cold.</p>
+<div class="highlight"/>
+  <p class="italic">In the memory, a young Tifa comes to join a young Cloud at the well.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Sorry I'm late.<br/>You said you wanted to talk to me about something?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Come this spring... I'm leaving this town for Midgar.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>...All boys are leaving our town.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>But I'm different from all of them. I'm not just going to find a job.<br/>I want to join SOLDIER.<br/>I'm going to be the best there is, just like Sephiroth!</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Sephiroth... The Great Sephiroth.</p>
+  <p class="italic">Cloud goes around and climbs up to the top of the well. He nods.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Isn't it hard to join SOLDIER?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>...I probably won't be able to come back to this town for a while.</p>
+  <p class="italic">Tifa makes a sobbing motion into her hands.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>...huh?</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Will you be in the newspapers if you do well?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>I'll try.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Hey, why don't we make a promise?<br/>Umm, if you get really famous and I'm ever in a bind......<br/>You come save me, all right?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>What?</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Whenever I'm in trouble, my hero will come and rescue me.<br/>I want to at least experience that once.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>What?</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Come on--! Promise me----!</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>All right...... I promise.</p>
+  <p class="italic">A shooting star flashes across the sky.</p>
+
+<p class="indent"><b>Tifa</b><br/>You remember now, don't you... our promise?</p>
+<p class="indent"><b>Cloud</b><br/>I'm not a hero and I'm not famous. I can't keep...... the promise.</p>
+<p class="indent"><b>Tifa</b><br/>But you got your childhood dream, didn't you? You joined SOLDIER.<br/>So come on! You've got to keep your promise......</p>
+<p class="italic">Barret climbs up the elevator shaft from below.</p>
+<p class="indent"><b>Barret</b><br/>Wait a sec big-time SOLDIER!<br/>A promise is a promise! Here!!</p>
+<div class="highlight"/><p>Received Barret's stash, 1500 gil!</p>
+<p class="indent"><b>Cloud</b><br/>This is my pay? Don't make me laugh.</p>
+<p class="indent"><b>Tifa</b><br/>What? Then you'll...!!</p>
+<p class="indent"><b>Cloud</b><br/>You got the next mission lined up? I'll do it for 3000.</p>
+<p class="indent"><b>Barret</b><br/>What......!?</p>
+<p class="indent"><b>Tifa</b><br/>It's ok, it's ok.<br/>psst, psst...... (We're really hurting for help, right?)</p>
+<p class="indent"><b>Barret</b><br/>Uh...... ugh...... (That money's for Marlene's schoolin'......)<br/>2000!</p>
+<p class="indent"><b>Tifa</b><br/>Thanks, Cloud.</p>
+<p class="italic">Cloud and the others go to sleep for the night.</p>
+<hr></hr>
+<p class="italic"><a name="day"></a>Cloud wakes alone in the basement and heads upstairs.</p>
+<p class="indent"><b>Tifa</b><br/>Good Morning! Cloud!<br/>Did you sleep well?</p>
+<p class="indent"><b>Cloud</b><br/>- Barret's snoring kept me up......<br/>- Next to you, who wouldn't?</p>
+<div class="block"/>
+  <p><span class="highlight">Barret's snoring kept me up......</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>psstpsst...<br/>(keep it down, they'll hear you. Barret's always edgy before an operation.)</p>
+
+<div class="block"/>
+  <p><span class="highlight">Next to you, who wouldn't?</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>I don't know what you mean.</p>
+
+<p class="indent"><b>Tifa</b><br/>I'm going this time.</p>
+<p class="indent"><b>Barret</b><br/>Our target's the Sector 5 Reactor. Head for the station first.<br/>I'll fill you in on the train.<br/>Yo! Cloud!<br/>Before the next mission, I got somethin' I wanna ask you!<br/>I, uh,...... I don't really know how to use Materia!<br/>I'll give you that Materia you found. Just teach me how to use it!</p>
+<p class="indent"><b>Cloud</b><br/>...sigh...<br/>- Ok, I'll explain it<br/>- You wouldn't understand</p>
+<div class="block"/>
+  <p><span class="highlight">Ok, I'll explain it</span></p>
+  <p>Sure, I'll explain how Materia works.</p>
+  <p class="italic">A tutorial on materia ensues.</p>
+  <p class="indent-nopad"><b>Barret</b><br/>Shi......! What's this 'It wasn't that tough!' crap!<br/>I'm clueless......<br/>Well, you handle the Materia then!</p>
+
+<div class="block"/>
+  <p><span class="highlight">You wouldn't understand</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>So this is what makes them guys in SOLDIER so great, huh!?<br/>Ok. I'll ask Jessie again later. But you're in charge of the Materia!</p>
+
+<p class="indent"><b>Tifa</b><br/>Cloud! I got a message from the Weapon Shop man upstairs.<br/>He has something he wants to give you. Don't forget!<br/>Marlene, you watch the store while we're gone!</p>
+<p class="indent"><b>Marlene</b><br/>All right!! Good Luck.<br/>Take care!</p>
+<p class="italic">Cloud and the others leave 7th Heaven together. By now the Item Shop is open.</p>
+<p class="indent"><b>Item Shopkeeper</b><br/>Ahh... Another slow day......<br/>If this keeps up, this store's goin' under...<br/>Can't sell any really good medicine in a slum like this.<br/>Oh!! Look at this! This doesn't happen everyday. You a...... customer?<br/>Yes!! Welcome!! We sell! We buy!</p>
+<p class="italic">Returning to the Weapons Shop...</p>
+<p class="indent"><b>Weapons Shopkeeper</b><br/>He, HEY! Waitaminit you!!<br/>You can't just walk outta here without buyin' somethin'...<br/>Might be unhealthy fer ya, if ya know what I mean.</p>
+<p class="indent"><b>Kid</b><br/>You dried up old geez. You tired?<br/>Why don't you rest up on the third floor of my house?<br/>There's just one condition.<br/>You gotta give me some cash.</p>
+<p class="indent"><b>Cloud</b><br/>- 1 gil<br/>- 10 gil<br/>- nothin'</p>
+<div class="block"/>
+  <p><span class="highlight">1 gil</span></p>
+  <p class="indent-nopad"><b>Kid</b><br/>Damn, man!! Just forget about it!</p>
+
+<div class="block"/>
+  <p><span class="highlight">10 gil</span></p>
+  <p class="indent-nopad"><b>Kid</b><br/>Oh man, oh man......<br/>Go ahead 'n' help yourself to the room.</p>
+
+<div class="block"/>
+  <p><span class="highlight">nothin'</span></p>
+  <p class="indent-nopad"><b>Kid</b><br/>Cheap %#*^</p>
+
+<p class="indent"><a name="beginner"></a><b>Black-haired Man</b><br/>Heh heh... He'll forget about it. OH, you!!<br/>Get my friend on the second floor to teach ya.</p>
+<p class="italic">On the second floor, the Beginner's Hall is open.</p>
+<p class="indent"><b>Big Man</b><br/>This is the Beginner's Hall.<br/>You say you're a beginner? But your eyes say you're not.</p>
+<p class="indent"><b>Cloud</b><br/>Don't mess with me. I used to be in SOLDIER. I'll tell you how much I know... an' for free too!</p>
+<p class="italic-inline">A tutorial menu opens.</p>
+<p class="italic">If you talk to the dog, you enter a short controls tutorial, and then a finger appears over Cloud's head.</p>
+<p class="indent"><b>Cloud</b><br/>Huh? Finger!? What the hell?</p>
+<p class="indent"><b>Finger</b><br/>I'm the position cursor!! Call me whenever you're walking around confused!<br/>Push the [SELECT] button and I'll appear over your shiny little head.</p>
+<p class="indent"><b>Cloud</b><br/>Geez, you stand out even more than I do...</p>
+<p class="indent"><b>Finger</b><br/>Am I in the way? If so, just push the [SELECT] button one more time.<br/>I'm pretty busy myself, and can't always come when you need me. If I don't show up sometimes, don't get mad.<br/>Later!</p>
+<p class="italic">Inside the Beginner's Hall, a boy and girl are sparring.</p>
+<p class="indent"><b>Boy</b><br/>......smack......knock......!!</p>
+<p class="indent"><b>Girl</b><br/>Help!</p>
+<p class="indent"><b>Cloud</b><br/>You've got to hang in there. You're limit gauge is just starting to build.</p>
+<p class="indent"><b>Girl</b><br/>Waaaah!!</p>
+<p class="indent"><b>Cloud</b><br/>Ok! Now your limit gauge is full, go ahead and use it! Fight with your limit technique.</p>
+<p class="italic">The girl knocks down the boy.</p>
+<p class="indent"><b>Cloud</b><br/>Great!</p>
+<p class="indent"><b>Boy</b><br/>Magic!! Magic!!</p>
+<p class="indent"><b>Girl</b><br/>Help!</p>
+<p class="indent"><b>Cloud</b><br/>Calm down! When your enemy uses magic counter with [Magic Barrier] or [reflect].<br/>[Magic Barrier] reduces the damage received from magic by half.<br/>[reflect] bounces the attacks off you. But the number of times you can use it is limited so be careful.</p>
+<p class="italic">The girl uses reflect and knocks down the boy.</p>
+<p class="indent"><b>Cloud</b><br/>Great!</p>
+<p class="indent"><b>Boy</b><br/>Wow! You sure are strong! I'm going to be strong, too!</p>
+<p class="indent"><b>Girl</b><br/>Me too!</p>
+<p class="indent"><b>Cloud</b><br/>If you want to get as strong as me you need to use Materia.<br/>And you have to find the best combinations of them.<br/>The type of Materia you put in your weapons and armor will determine how quickly your Materia grows.<br/>Put Materia into the open slots in your weapons and armor. The possible combinations are limitless.<br/>That's about all I can tell you. If you want to be like me, you have to have some natural talent.</p>
+<p class="indent"><b>Girl + Boy</b><br/>I still don't get it!</p>
+<p class="indent"><b>Cloud</b><br/>Listen kid, don't piss me off!<br/>That's all right. Just give it a try. Little by little, you'll get used to it.</p>
+<p class="italic">The kids go back to their sparring match.</p>
+<p class="indent"><b>Three Guys Posing</b><br/>Hey SOLDIER!! Tell us about battles! We'll even pay you!</p>
+<p class="indent"><b>Cloud</b><br/>I'm not hard up enough to take money from guys like you. But I'll rap with you for a while.</p>
+<p class="italic-inline">A tutorial menu opens.</p>
+<p class="italic">On the third floor, there are some beds. If you haven't paid, the kid runs in after you.</p>
+<p class="indent"><b>Kid</b><br/>This is a slum, so don't think you can stay for free.<br/>What are you going to do?<br/>Doesn't just seeing the bed make you sleepy?</p>
+<p class="indent"><b>Cloud</b><br/>- 10 gil<br/>- no way</p>
+<div class="block"/>
+  <p><span class="highlight">10 gil</span></p>
+  <p class="indent-nopad"><b>Kid</b><br/>Sweet dreams, pops.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>hoo...</p>
+  <p class="italic">Cloud rests.</p>
+
+<div class="block"/>
+  <p><span class="highlight">no way</span></p>
+  <p class="indent-nopad"><b>Kid</b><br/>Tough guy, huh!? You'd better sleep when you can.<br/>You'd better save when you can.<br/>That's the trick to being tough. Remember that, old dude.</p>
+
+<p class="italic"><a name="johnny"></a>Back outside, a small crowd is gathered around Johnny. Biggs, Wedge, and Jessie, who are among them, run off as soon as Cloud nears. Johnny's mom goes back inside her house.</p>
+<p class="indent"><b>Johnny</b><br/>I'm leaving. Goin' faraway. But when I come back I'll be a better man! This is goodbye!<br/>Hey! Childhood friend! You better take good care of Tifa!</p>
+<p class="italic">Johnny runs off.</p>
+<p class="indent"><b>Johnny's Cousin</b><br/>I hope he doesn't get hurt.<br/>That worries me the most.</p>
+<p class="indent"><b>Gossip</b><br/>Yesterday, everyone in town was peeking at the two of you from outside the bar.<br/>Tifa's childhood friend. That's a good one!</p>
+<p class="indent"><b>Kid</b><br/>Ahh! Now I ain't got no one to pick on!</p>
+<p class="italic">Inside Johnny's house...</p>
+<p class="indent"><b>Johnny's Dad</b><br/>Ha! Ha!...... I wonder if my son's already left?<br/>When it's just my wife and I here, you have no idea how lonesome it gets.<br/>You want them to be happy and do what they want while they're young, but being a parent, you can't help but worry...<br/>I guess I'm not cut out to be a parent yet.<br/>By the way......<br/>Where are you from?</p>
+<p class="indent"><b>Cloud</b><br/>- A village called Nibelheim<br/>- Who cares?</p>
+<div class="block"/>
+  <p><span class="highlight">A village called Nibelheim</span></p>
+  <p class="indent-nopad"><b>Johnny's Dad</b><br/>Hm...... you said Nibelheim? Wasn't it in the news a while back?<br/>Something to do with a Reactor accident...<br/>That was the first major Mako accident, so I remember it really being a hot topic.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Who cares?</span></p>
+  <p class="indent-nopad"><b>Johnny's Dad</b><br/>Ha, Ha!...... Well, there's nothin' wrong with that, I'd say.<br/>But if you still have a family, You outta at least write them.<br/>Even though you may turn your back on your hometown, It'll always be there for you.<br/>Least that's how I see it.</p>
+
+<p class="indent"><b>Johnny's Dad</b><br/>Well, you mind leaving the two of us alone?<br/>I want to enjoy some quiet time together with my wife.</p>
+<p class="indent"><b>Johnny's Mom</b><br/>He used to give us nothing but headaches when he was here, but now that he's gone... I kind of miss him.<br/>......strange, isn't it?</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Kid</b> (standing by the door to 7th Heaven)<br/>When it comes down to it... I'm gutless. I'm still just a no good kid.</p>
+<p class="indent"><b>Gossip</b><br/>Listen! If there isn't anyone to listen, what's the use of getting gossip on everyone!?<br/>Yeah, and you Mr. I-don't-care!<br/>I'll get a little more information that would pique even your interest. You wait and see!</p>
+<p class="indent"><b>Johnny's Cousin</b><br/>Ah... Johnny's gone. You look a little disappointed.<br/>I don't like to say it myself but, I'm just a lonely guy when I'm not drinking.</p>
+<p class="italic">Further on, to where the two soldiers are stationed...</p>
+<p class="indent"><b>Soldier 1</b><br/>HALT!! No one is allowed to pass!!</p>
+<p class="indent"><b>Soldier 2</b><br/>You know, I got some tickets to "Loveless", do you want to go?</p>
+<p class="indent"><b>Soldier 1</b><br/>What're you, retarded? Midgar's under martial law now!</p>
+<p class="indent"><b>Soldier 2</b><br/>You mean, you really are concerned for me?</p>
+<p class="indent"><b>Soldier 1</b><br/>Hell no!! But in case you forgot, we're in the middle of a slum.<br/>They could be anywhere around, so stay on your guard.</p>
+<p class="indent"><b>Soldier 2</b><br/>Right. You mean the AVALANCHERS?<br/>Don't you worry. SOLDIER has been added to the police force.<br/>Boy, it's been a while since SOLDIER's been mobilized, hasn't it?<br/>I ever tell you that I flunked the SOLDIER entrance exam?</p>
+<p class="indent"><b>Soldier 1</b><br/>Damn right!! blahblahblah......<br/>Hey shut up for a minute and let me get back to work!</p>
+<p class="indent"><b>Soldier 2</b><br/>............sigh.</p>
+<p class="indent"><b>Soldier 1</b><br/>What are you more scared of... AVALANCHE or me?</p>
+<p class="indent"><b>Soldier 2</b><br/>Oh, you, of course.</p>
+<p class="italic"><a name="train"></a>Cloud and the others continue on to the train station. The same red-haired couple is still there.</p>
+<p class="indent"><b>Guy</b><br/>I've had it!</p>
+<p class="indent"><b>Girl</b><br/>Me too.</p>
+<p class="indent"><b>Guy</b><br/>You know this is the first time, we've ever agreed on something.</p>
+<p class="indent"><b>Girl</b><br/>Yes.....</p>
+<p class="indent"><b>Guy</b><br/>Well then, shall we......?</p>
+<p class="indent"><b>Girl</b><br/>Yes......</p>
+<p class="italic">They move to embrace, but fall over from exhaustion.</p>
+<p class="indent"><b>Guy</b><br/>urggh............</p>
+<p class="indent"><b>Girl</b><br/>huff...... wheez</p>
+<p class="italic">Biggs, Wedge, and Jessie are by the train, and they run inside as Cloud approaches.</p>
+<p class="indent"><b>Station Man</b><br/>Morning. Dawn comes and things never change.<br/>You be careful not to get hurt. Come on back again, hear?<br/>ALL ABOARD! The train is about to depart.</p>
+<p class="italic">Cloud and the others board the train.</p>
+
+
+</scene>

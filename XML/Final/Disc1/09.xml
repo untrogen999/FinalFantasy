@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="Kalm">
+
+
+
+<sp> Kalm - Cloud's Story </sp>
+
+<sp> Exploring Kalm </sp>
+<sp> Cloud Begins His Story </sp>
+<sp> Arrival at Nibelheim </sp>
+<sp> The Town of Nibelheim: Visiting Family &amp; Friends </sp>
+<sp> Setting Out for the Reactor </sp>
+<sp> The Reactor </sp>
+<sp> Sephiroth Snaps </sp>
+<sp> The End of Cloud's Story </sp>
+
+<stage>Cloud and his party arrive in Kalm.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>This is Kalm. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We've reached Kalm. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>So this is Kalm? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>......looks like we've reached Kalm. </sp>
+
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, I'll be waitin' at the inn... Hurry up and get your butt over there! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I wonder if everyone's there already. Let's hurry over to the inn! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Everyone's waiting at the inn. Let's go <referent name="Cloud">Cloud</referent>. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>We're supposed to meet at the inn. ......Shall we go? </sp>
+
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Get over here! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Well then, I'll go on ahead. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Let's go <referent name="Cloud">Cloud</referent>. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Let's go <referent name="Cloud">Cloud</referent>. </sp>
+
+<stage>The others all go inside, but Cloud has the opportunity to explore the town before joining them.</stage>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Aw, c'mon! listen to me! Got anything interesting to say?...... </sp>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Thanks to Shinra, Inc. developing Mako energy for us, everything's more convenient now.<boxstart/>Maybe a little too convenient. </sp>
+<sp> <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Tourists, huh?<boxstart/>There are some things you should know that'll come in handy when you travel around the world......<boxstart/>Want me to tell you what they are? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Tell me<boxstart/>- I already know </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Tell me </sp>
+  <sp> <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Then let me explain how to use the world map.<boxstart/>Well then, what do you want to know? </sp>
+  <stage>A tutorial menu opens.</stage>
+  <sp> <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Well then, bon voyage! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>I already know </sp>
+  <sp> <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Is that so? Well, that's that. Have a nice trip. </sp>
+
+<stage>Inside the first house...</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Thanks to Mako energy, life's pretty darn convenient. Thanks to Shinra.<boxstart/>Don't you think? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, maybe<boxstart/>- You're full of it </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yeah, maybe </sp>
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>See!? How would we get by without Mako energy? </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>You're full of it </sp>
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>Hmmn. But I'd hate to think of what life'd be like without Mako energy. </sp>
+
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Yeah, Mako energy's made our lives much easier. And it's all thanks to Shinra, Inc. </sp>
+<sp> <speaker name="Girl Upstairs">Girl Upstairs</speaker><boxstart/>Mako energy's made things a lot more convenient......<boxstart/>But seems like a lot of plants and animals have been disappearing at a rapid pace.<boxstart/>I think the old life was better.<boxstart/>Don't you think so? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, maybe<boxstart/>- No way </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yeah, maybe </sp>
+  <sp> <speaker name="Girl Upstairs">Girl Upstairs</speaker><boxstart/>Yeah, sure I'm right! You think so, don't you? </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>No way </sp>
+  <sp> <speaker name="Girl Upstairs">Girl Upstairs</speaker><boxstart/>That sounds just like what my mom says. </sp>
+
+<sp> <speaker name="Girl Upstairs">Girl Upstairs</speaker><boxstart/>I thought things were better when I was able to play with animals...... </sp>
+<stage>Inside the second house...</stage>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Did you say you came from Midgar?<boxstart/>I used to live there, too. But I hear they got lots of troubles lately. </sp>
+<stage>Inside the third house...</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>There was a suspicious-looking man in a black cloak! He was carrying a wicked-looking sword.<boxstart/>Why doesn't anyone believe me? I'm all alone... </sp>
+<stage>Upstairs, a boy is running around while a little girl watches him.</stage>
+<sp> <speaker name="Girl">Girl</speaker><boxstart/>......My older brother's so stupid. He's so embarrassing I could just puke! </sp>
+<sp> <speaker name="Boy">Boy</speaker><boxstart/>When I grow up I'm gonna be in SOLDIER. That's why I'm training hard now!!<boxstart/>Hyah, hayah, eagghh! </sp>
+<stage>Back outside...</stage>
+<sp> <speaker name="Man in Blue">Man in Blue</speaker><boxstart/>I hear that the natural resources near the reactors are being sucked dry.<boxstart/>We're better off with them bringing in the Mako energy. </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>I heard President Shinra was killed. And his son <referent name="Rufus">Rufus</referent>, the new president, was badly hurt.<boxstart/>Hey, I bet that's news to you? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Hey you're pretty clued!!<boxstart/>- Don't care... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Hey you're pretty clued!! </sp>
+  <sp> <speaker name="Man">Man</speaker><boxstart/>Heh, heh, heh...... This is just between us. I heard it was that there Ava-whaddya call-ums that attacked the President Shinra and his son. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Don't care... </sp>
+  <sp> <speaker name="Man">Man</speaker><boxstart/>Don't care? If you're going to travel, you'd best keep an eye on what Shinra's doing. </sp>
+
+<sp> <speaker name="Man">Man</speaker><boxstart/>Shinra is leading the world around by the nose, and you guys are just gonna sit back and take it? </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>The famous floating city, Midgar... Just once I'd love to see it in person.<boxstart/>South of this town past the Mythril Mine and far to the west is a Shinra harbor called Junon.<boxstart/>They say there's a reactor and many tall buildings there. I hope to see it someday. </sp>
+<stage>Inside the fourth house...</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Is it true that Shinra made a Monster? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- It's true<boxstart/>- Just a rumor </sp>
+<sp> <speaker name="Woman">Woman</speaker> (she says the same thing regardless)<boxstart/>Yeah, well either way, as long as we're using the reactor, we can't stand up to Shinra. </sp>
+<sp> <speaker name="Kalm Traveler">Kalm Traveler</speaker><boxstart/>The world's at peace... all's well.<boxstart/>I got my health, and enough to eat... all's well. </sp>
+<sp> <speaker name="Kid outside Bar">Kid outside Bar</speaker><boxstart/>My old man was a miner, but he couldn't go to work after monsters started appearing in the Mythril Mine.<boxstart/>Now all he does is sit around getting drunk in the bar... </sp>
+<stage>Inside the bar...</stage>
+<sp> <speaker name="Person in Blue">Person in Blue</speaker><boxstart/>I heard terrorists bombed a Midgar reactor...<boxstart/>There sure have been a lot of dangerous accidents recently. I hate it, just hate it. </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Me? I used to work in a coal mine down south called Mythril Mine.<boxstart/>But, right around then, monsters started appearing.<boxstart/>After that, business went to pot and now I spend the days here drinking.<boxstart/>Urrrp! ...hic... I'm stinking drunk!! </sp>
+<sp> <speaker name="Bartender">Bartender</speaker><boxstart/>It seems there was this group called AVALANCHE runnin' around, but I guess they finally got wiped out by SOLDIER.<boxstart/>Shinra is trying to eliminate anyone, who stands up to them.<boxstart/>It don't matter if we like it or not. Shinra's taken over, and we gotta live with it! </sp>
+<sp> <speaker name="Cook">Cook</speaker><boxstart/>Stay out of the kitchen. </sp>
+<stage>If Cloud tries to leave Kalm...</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Barret">Barret</referent> and the others are waiting for us at the inn. </sp>
+<stage>His exploration of the town exhausted, Cloud goes to the inn.</stage>
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Mr...... <referent name="Cloud">Cloud</referent>? Your party is waiting for you on the 2nd floor. </sp>
+<stage>Cloud heads upstairs to find everyone waiting.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, you're late! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo man, you're late! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Sorry to keep you waiting. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Guess everyone's here now. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>So let's hear your story......<boxstart/>You know, the one about <referent name="Sephiroth">Sephiroth</referent> and the crisis facing the planet.<boxstart/>Let's hear it all. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......I used to want to be like Sephiroth, so I joined SOLDIER.<boxstart/>After working with <referent name="Sephiroth">Sephiroth</referent> on several missions, we became friends. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>You call that a friend? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah, well......<boxstart/>He's older than me, and he hardly ever talked about himself. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>So I guess you'd call him a war buddy...... We trusted each other. Until one day...... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...one day? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>After the war it was SOLDIER's duty to put down any resistance against the Shinra.<boxstart/>......that was 5 years ago.<boxstart/>I was 16...... </sp>
+<stage>A flashback sequence begins. <referent name="Cloud">Cloud</referent> and <referent name="Sephiroth">Sephiroth</referent> are riding in the back of a truck with two Shinra infantrymen.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It sure is raining hard. </sp>
+<sp> He walks to one of the infantrymen. </sp>
+<sp> Hey, how are you doing? </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>I'm all right. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I wouldn't know...<boxstart/>I've never had motion sickness. </sp>
+<sp> He walks to the other infantrymen. </sp>
+<sp> Everything okay? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Hey.<boxstart/>Settle down. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>They gave me some new Materia.<boxstart/>I can't wait to use it. </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...just like a kid. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You going to brief us about this mission? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...this isn't a typical mission. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Good! </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Why do you say that? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I joined SOLDIER so I could be like you.<boxstart/>But by the time I made First Class, the war was already over.<boxstart/>My big hopes of becoming a hero like you ended with the war.<boxstart/>That's why I always sign up whenever there's a big mission. Kind of a way to prove myself.<boxstart/>Say, how do you feel, MISTER <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...I thought you wanted a briefing? </sp>
+<stage>Cloud scratches his head.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Our mission is to investigate an old Mako reactor.<boxstart/>There have been reports of it malfunctioning, and producing brutal creatures.<boxstart/>First, we will dispose of those creatures. Then, we'll locate the problem and neutralize it. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Brutal creatures... Where? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>The Mako Reactor at Nibelheim. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Nibelheim...<boxstart/>That's where I'm from. </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Hmm... hometown... </sp>
+<stage>There is a loud thud.</stage>
+<sp> <speaker name="Driver">Driver</speaker><boxstart/>Sir... s, something strange just crashed into our truck! </sp>
+<stage>Sephiroth stands.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>That would be our Monster... </sp>
+<stage>Sephiroth and Cloud go outside to fight the green dragon that attacked the truck. Sephiroth kills it in a few hits.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>'s strength is unreal. He is far stronger in reality than any story you might have heard about him. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>So... Where do you come in? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Me? I was mesmerized by the way <referent name="Sephiroth">Sephiroth</referent> fought. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......and then we reached Nibelheim. </sp>
+<stage>Another flashback sequence opens: <referent name="Sephiroth">Sephiroth</referent> approaches the gate to Nibelheim, then turns around to face the others, who are still off-screen behind him.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>How does it feel?<boxstart/>It's your first time back to your hometown in a long time, right?<boxstart/>So how does it feel?<boxstart/>I wouldn't know because I don't have a hometown... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Ummm... how 'bout your parents? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>My mother is Jenova. She died right after she gave birth to me. My father... </sp>
+<sp> He laughs and shakes his head. </sp>
+<sp> What does it matter...?<boxstart/>All right, let's go. </sp>
+<stage>The others approach and stop before the gate.</stage>
+<sp> <speaker name="Soldier 2">Soldier 2</speaker><boxstart/>Psst... (You keep wandering around here and you'll get in trouble.) </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>It's so boring, being on watch. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- You want to do what we always do?<boxstart/>- Just sit tight, it's your job, right? </sp>
+
+  You want to do what we always do?
+  Shall we practice?
+  <sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Practice... oh, you mean practice my pose.<boxstart/>Does someone in SOLDIER always have to be careful about what other people think?<boxstart/>...How did it go? </sp>
+  He strikes a pose.
+  ...Was it like this?
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Good job! </sp>
+  <sp> <speaker name="Soldier">Soldier</speaker><boxstart/>I really don't want to be in SOLDIER. </sp>
+
+
+  Just sit tight, it's your job, right?
+  I'll come and talk to you once in a while. Just stick with it.
+
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>The Mako smell is pretty bad here. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>You wait a minute!!<boxstart/>Isn't that, um...? The name of <referent name="Sephiroth">Sephiroth</referent>'s mother...<boxstart/>I remember Jenova. That's that damn headless spook livin' in the Shinra building. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>That's right. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Barret">Barret</referent>, would you please let us hear what <referent name="Cloud">Cloud</referent> has to say? You can ask questions later. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Tifa">Tifa</referent>, I was only...... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Okay <referent name="Cloud">Cloud</referent>, continue. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>It's a reunion of childhood pals! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......I was really surprised with <referent name="Tifa">Tifa</referent>. </sp>
+<sp> <speaker name="unspecified"/><boxstart/><speaker name="Cloud"><referent name="Cloud">Cloud</referent></speaker> (narrating)<boxstart/>...The town was quiet.<boxstart/>Everyone must be staying in their houses, afraid to come out because of the monsters.<boxstart/>No, maybe they're afraid of us... </sp>
+<stage>In the flashback sequence, Sephiroth and Cloud are standing just outside the inn.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>We leave for the reactor at dawn. Make sure you get to sleep early. </sp>
+<sp> He heads for the door, then stops and turns back. </sp>
+<sp> All we need is one lookout, so you others, get some rest.<boxstart/>Oh, that's right...<boxstart/>You may visit your family and friends. </sp>
+<stage>Sephiroth goes inside just as a man runs out of the neighboring house.</stage>
+<sp> <speaker name="Man with Camera">Man with Camera</speaker><boxstart/>I heard Sephiroth was coming and got my camera ready.<boxstart/>I want a shot of <referent name="Sephiroth">Sephiroth</referent> and a monster. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Take my picture.<boxstart/>- Better get back in the house, it's dangerous. </sp>
+
+  Take my picture.
+  <sp> <speaker name="Man with Camera">Man with Camera</speaker><boxstart/>I don't take pictures with nobodys. </sp>
+
+
+  Better get back in the house, it's dangerous.
+  <sp> <speaker name="Man with Camera">Man with Camera</speaker><boxstart/>All right... So big-headed...<boxstart/>Hey? This guy's a real...<boxstart/>You... Are you Cloud?<boxstart/>Really? So that's how it is, huh?<boxstart/>Gosh, <referent name="Cloud">Cloud</referent>, you've grown up to be a nice-looking lad. </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Then take my picture<boxstart/>- It's dangerous, get back in your house </sp>
+  
+    Then take my picture
+    <sp> <speaker name="Man with camera">Man with camera</speaker><boxstart/>Let's do this, <referent name="Cloud">Cloud</referent>. Let me take a picture of you with <referent name="Sephiroth">Sephiroth</referent>. </sp>
+  
+  
+    It's dangerous, get back in your house
+    <sp> <speaker name="Man with Camera">Man with Camera</speaker><boxstart/>OK, OK,...... So big-headed... You're just his assistant </sp>
+  
+
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Man... I'm so nervous. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- How come?<boxstart/>- I'm excited. </sp>
+
+  How come?
+  <sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Look, you never know when a monster's gonna show up, right? </sp>
+
+
+  I'm excited.
+  <sp> <speaker name="Soldier">Soldier</speaker><boxstart/>...That's right. Don't blow your chance to become a hero... </sp>
+
+<stage>Inside the house next to the inn...</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Welcome.<boxstart/>Hey? Aren't you... </sp>
+<stage>Flash of white. The woman disappears.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Have I come here before?<boxstart/>...I don't remember. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Now you're pissin' me off!! This don't matter, so get on with it! </sp>
+<stage>Cloud walks up to the Shinra mansion.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This Mansion...<boxstart/>...No, I'll come here later. </sp>
+<stage>Tifa's father is standing near the mansion.</stage>
+<sp> <speaker name="Tifa's Father">Tifa's Father</speaker><boxstart/>Hmm? You from Shinra? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- That's right!<boxstart/>- Who are you? </sp>
+
+  That's right!
+  <sp> <speaker name="Tifa's Father">Tifa's Father</speaker><boxstart/>Geez... Big-headed young kid. </sp>
+
+
+  Who are you?
+  <sp> <speaker name="Tifa's Father">Tifa's Father</speaker><boxstart/>I'm the town's... ...... ......!?<boxstart/>Aren't you <referent name="Cloud">Cloud</referent>?<boxstart/>Don't you know me? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You're <referent name="Tifa">Tifa</referent>'s... </sp>
+  <sp> <speaker name="Tifa's Father">Tifa's Father</speaker><boxstart/>Right. I'm <referent name="Tifa">Tifa</referent>'s father.<boxstart/>...I want you to stay away from my daughter.<boxstart/>We don't need the Shinra's help to protect our town! </sp>
+
+<stage>Cloud goes to his house across the street.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This is...... my house. It has nothing to do with that incident five years ago. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo wait, I wanna hear. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Me too! It's been a long time, right? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Tell us more!<boxstart/>You saw your family, right? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Don't want to talk about it<boxstart/>- All right...... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Don't want to talk about it </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Well I ain't gonna force ya... </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>All right...... </sp>
+  I don't know if you could call it a 'family'......<boxstart/>My father... died when I was still very young.<boxstart/>That's why my mom...... was living alone in this house.<boxstart/>Yeah, I saw my mom.<boxstart/>My mom... she was a vibrant woman. Hadn't changed at all.<boxstart/>But a few days later, she died...<boxstart/>But when I saw her, she looked fine.
+
+<stage>Back in the flashback, <referent name="Cloud">Cloud</referent> walks farther into his house.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Uh...? </sp>
+<sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>Ye----s? </sp>
+<sp> She runs over. </sp>
+<sp> Cloud!?<boxstart/>Welcome home, <referent name="Cloud">Cloud</referent>! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hi, mom. </sp>
+<stage>Flash of white noise.</stage>
+<sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>Come, come... Let me take a look at you!<boxstart/>Hmmm......<boxstart/>You look so handsome.<boxstart/>So this is a SOLDIER uniform? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......Mom, I... </sp>
+<stage>Flash.</stage>
+<sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>My, how you've grown.<boxstart/>I'll bet the girls never leave you alone. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Not really. </sp>
+<sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>...I'm worried about you.<boxstart/>There are a lot of temptations in the city...<boxstart/>I'd feel a lot better if you just settled down and had a nice girlfriend. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...I'm all right. </sp>
+<sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>You should have...<boxstart/>an older girlfriend, one that'll take care of you.<boxstart/>I think that would be the perfect type for you. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......I'm not interested. </sp>
+<stage>Flash.</stage>
+<sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>Are you eating right? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'm all right. The Company takes care of me. </sp>
+<sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>Is that so?<boxstart/>You can't cook, right?<boxstart/>I was worried sick about how you were doing... </sp>
+<stage>Flash.</stage>
+<sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/><referent name="Cloud">Cloud</referent>...? </sp>
+<stage>Flash.</stage>
+<sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>You know, <referent name="Cloud">Cloud</referent>...... </sp>
+<stage>Flash.</stage>
+<sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>......isn't that right, <referent name="Cloud">Cloud</referent>? </sp>
+<stage>Flash.</stage>
+<sp> <speaker name="Cloud's Mom">Cloud's Mom</speaker><boxstart/>I will always be your mother... </sp>
+<stage>The screen fades to black.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker> (narrating)<boxstart/>......Let's stop this...... </sp>
+<stage>The image returns, with Cloud just outside his house. If he tries to go back inside...</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey...<boxstart/>I can't... remember much else. There's... nothing more to talk about. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That's all right, <referent name="Cloud">Cloud</referent>. </sp>
+<stage>Cloud goes into Tifa's house.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...?<boxstart/>Did you go into my house? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah...<boxstart/>- No... </sp>
+
+  Yeah...
+  I thought you might be home.
+
+
+  No...
+  I remember you weren't there.
+
+<stage>Cloud walks up to Tifa's room.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...?<boxstart/>Did you go into my room? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah......<boxstart/>- No... </sp>
+<stage>He walks to her piano.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Did you play my piano? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- No, I didn't<boxstart/>- Yeah, I jammed on it<boxstart/>- Just a little </sp>
+
+  No, I didn't
+  <stage>Nothing happens.</stage>
+
+
+  Yeah, I jammed on it
+  ...Now how did this go?<boxstart/>- I forgot<boxstart/>- I remember
+  <stage>Cloud plays on the piano a bit. If you play the FF7 main theme, he'll say:</stage>
+  I've heard this melody somewhere before. Managed to play well...
+
+
+  Just a little
+  I can read sheet music too, you know...... Ummm, let's see......<boxstart/>Do... Re... Mi... Ti... La... Do... Re... Mi... So... Fa.. Do.. Re... Do... Forget...
+
+<stage>Cloud walks to Tifa's desk.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The letter... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Did you read it? My letter? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I'd never do that!<boxstart/>- Yeah... </sp>
+
+  I'd never do that!
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Of course! </sp>
+
+
+  Yeah...
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Do you remember what it said...? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I don't remember...<boxstart/>- I remember clearly </sp>
+  
+    I don't remember...
+    <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Then, let's go on with the story about <referent name="Sephiroth">Sephiroth</referent>. </sp>
+  
+  
+    I remember clearly
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I read it...<boxstart/>It was a letter addressed to <referent name="Tifa">Tifa</referent> from the son of the guy that runs the General Store... </sp>
+    <sp> <speaker name="Letter">Letter</speaker><boxstart/><referent name="Tifa">Tifa</referent>, how are you? I just arrived in Midgar eight days ago.<boxstart/>Yesterday, all of Nibelheim got together to welcome me. The only person that we couldn't get a hold of was <referent name="Cloud">Cloud</referent>.<boxstart/>But everyone said he wasn't really that close to us. So even if we asked, he probably wouldn't have come anyway.<boxstart/>Well, enough about him.<boxstart/>Midgar is really something. But to tell the truth, I feel so behind on everything... so out of it.<boxstart/>Even the rooms of people in the slums are clean.<boxstart/>Right now I'm living in the slums, but I plan to move to a really nice room, like the ones I've seen in magazines, once I make some money.<boxstart/>...but, to do that, I guess I have to find a job first. That's right. I still haven't found a job yet.<boxstart/>I lied to my parents and told them I found a great job with Shinra, Inc.<boxstart/>I wonder if it's too late to go back. Sometimes I think I should've taken over my parents' store. </sp>
+    <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... Do you remember all of it? </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- No, that's it<boxstart/>- Yeah, I remember it all </sp>
+    
+      No, that's it
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Then, let's go on with the story about <referent name="Sephiroth">Sephiroth</referent>. </sp>
+    
+    
+      Yeah, I remember it all
+      Because there was some stuff about me...
+      <sp> <speaker name="Letter">Letter</speaker><boxstart/>I just made it here to Midgar but all I think about is Nibelheim.<boxstart/>Hey, Tifa... Is that stupid old water tower still working?<boxstart/>Is the old man at the Inn doing well? Are my parents still at the shop everyday? Have any monsters attacked?<boxstart/>And most of all, how are you, <referent name="Tifa">Tifa</referent>? It feels like I haven't seen you for years.<boxstart/>We were all talking about you last night.<boxstart/>Everyone likes you. But because everyone idolizes you, I couldn't very well stab them in the back.<boxstart/>I always acted cool, but actually, I was just afraid of being jilted.<boxstart/>Wow, if I keep writing like this, this'll become a love letter!<boxstart/>So, I think I'll stop here. Take care. I'll write again.<boxstart/>P.S. Write me back, okay? </sp>
+    
+  
+
+<stage>Cloud walks to the dresser.</stage><boxstart/>
+<sp> Received "Orthopedic Underwear!" </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- It's true<boxstart/>- Just kidding. Don't get mad... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker> (she says the same thing regardless)<boxstart/>...<referent name="Cloud">Cloud</referent>. We're talking about something really important here. </sp>
+<stage>Inside the neighboring house...</stage>
+<sp> <speaker name="Black-haired Woman">Black-haired Woman</speaker><boxstart/>...Oh, you're with the Shinra? Welcome.<boxstart/>Oh, I'm sorry! It's you, <referent name="Cloud">Cloud</referent>! I didn't recognize you. </sp>
+<stage>Two kids come running in.</stage>
+<sp> <speaker name="Girl">Girl</speaker><boxstart/>Shinra----? </sp>
+<sp> <speaker name="Boy">Boy</speaker><boxstart/>Chinra---? </sp>
+<sp> <speaker name="Girl">Girl</speaker><boxstart/>SOLDIER? </sp>
+<sp> <speaker name="Boy">Boy</speaker><boxstart/>Saltza? </sp>
+<sp> <speaker name="Girl">Girl</speaker><boxstart/>Are you going to kill the monsters? </sp>
+<sp> <speaker name="Boy">Boy</speaker><boxstart/>......are you going to? </sp>
+<sp> <speaker name="Girl">Girl</speaker><boxstart/>He's soooo cool!! </sp>
+<sp> <speaker name="Boy">Boy</speaker><boxstart/>Way cool!! </sp>
+<sp> <speaker name="Black-haired Woman">Black-haired Woman</speaker><boxstart/><referent name="Cloud">Cloud</referent>, you've grown to be a strong man. </sp>
+<sp> <speaker name="Boy">Boy</speaker><boxstart/>........................ </sp>
+<sp> <speaker name="Girl">Girl</speaker><boxstart/>Do your best. </sp>
+<sp> <speaker name="Boy">Boy</speaker><boxstart/>Do your best. </sp>
+<stage>Cloud enters the inn.</stage>
+<sp> <speaker name="Gramps">Gramps</speaker><boxstart/>So, what do you need, <referent name="Cloud">Cloud</referent>? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Where's <referent name="Sephiroth">Sephiroth</referent>?<boxstart/>- Give me a room to stay.<boxstart/>- Let me know the situation of the town. </sp>
+
+  Where's Sephiroth?
+  <sp> <speaker name="Gramps">Gramps</speaker><boxstart/>Yeah, he's upstairs. </sp>
+
+
+  Give me a room to stay.
+  <sp> <speaker name="Gramps">Gramps</speaker><boxstart/>It's all reserved for you Shinra people, so I don't mind. But, wouldn't you feel more comfortable staying at home? </sp>
+
+
+  Let me know the situation of the town.
+  <sp> <speaker name="Gramps">Gramps</speaker><boxstart/>Now about the town...<boxstart/>A lot of monsters have been appearing in the last 12 months.<boxstart/>Other than that, there's not much change. Nothing much exciting happens in a little town like this.<boxstart/>It was all right when they were building the reactor.<boxstart/>...while they were still building it.<boxstart/>But once it was completed, it's been bad.<boxstart/>Within a few years, all the trees on the mountain withered away.<boxstart/>I don't know if the reactor was good or bad...<boxstart/>I mean it's easy to say that it was a bad idea now. But now, what can you do about it...?<boxstart/>Anyhow we've got to get rid of the monsters...<boxstart/>Then, we'll all be able to relax a little bit. </sp>
+
+<sp> <speaker name="Zangan">Zangan</speaker><boxstart/>......Hmmmm<boxstart/>Is Shinra here to get rid of the monsters? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>And who are you? </sp>
+<sp> <speaker name="Zangan">Zangan</speaker><boxstart/>I'm Zangan. I travel around the world teaching children martial arts.<boxstart/>I have 128 students all over the world!<boxstart/>In this town, a girl named <referent name="Tifa">Tifa</referent> is my student. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Did you say <referent name="Tifa">Tifa</referent>? </sp>
+<sp> <speaker name="Zangan">Zangan</speaker><boxstart/><referent name="Tifa">Tifa</referent> has good sense. She'll be a powerful fighter.<boxstart/>I want to see some Shinra techniques.<boxstart/>And if you see anything you can use, you might want to incorporate some of my techniques.<boxstart/>Well, good luck. </sp>
+<stage>Cloud goes upstairs to find Sephiroth standing by a window, staring out.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What are you looking at? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...This scenery...... I feel like I know this place. </sp>
+<sp> <speaker name="Soldier 2">Soldier 2</speaker> (inside the room)<boxstart/>We're short one bed... </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>.........<boxstart/>...We have an early start tomorrow. You should get some sleep soon. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- It's still early<boxstart/>- Yeah, let's get some sleep. </sp>
+
+  It's still early
+  <sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...I'm not going to wake you up tomorrow. </sp>
+
+
+  Yeah, let's get some sleep.
+  <sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>I've hired a guide to the Mako reactor.<boxstart/>I've heard she's young, I hope we can rely on her... </sp>
+
+<stage>The next day, Cloud wakes late and runs out to join Sephiroth and the two soldiers at the start of the mountain path, just past the mansion. A few of the townsfolk are hanging around, too.</stage>
+<sp> <speaker name="Man with Camera">Man with Camera</speaker><boxstart/>Think they'd let me take a picture? </sp>
+<sp> <speaker name="Tifa's Father">Tifa's Father</speaker><boxstart/>If I knew this was going to happen, I would've made mountain climbing off limits... </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>I was so nervous. I couldn't get any sleep... </sp>
+<sp> <speaker name="Soldier 2">Soldier 2</speaker><boxstart/>...Late again. </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Once the guide gets here, we're heading out. </sp>
+<sp> <speaker name="Tifa's Father">Tifa's Father</speaker><boxstart/>Listen to me, <referent name="Sephiroth">Sephiroth</referent>. In case something happens... </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...Trust me. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I'll be all right, Dad!<boxstart/>I have two men from SOLDIER with me.<boxstart/>I'm <referent name="Tifa">Tifa</referent>. Nice to meet you! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Tifa">Tifa</referent>! You're the guide? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>That's right.<boxstart/>I just happen to be the number one guide in this town. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It's too dangerous! I can't involve you in something like this! </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Then there's no problem if you protect her.<boxstart/>...Let's go. </sp>
+<sp> <speaker name="Man with Camera">Man with Camera</speaker><boxstart/>Ummm...<boxstart/>Mr. <referent name="Sephiroth">Sephiroth</referent>! Please let me take one picture for a memento!<boxstart/><referent name="Tifa">Tifa</referent>, can you ask him for me too......? </sp>
+<stage>Cloud and Tifa both pose in front of the mansion. Sephiroth reluctantly walks over.</stage>
+<sp> <speaker name="Man with Camera">Man with Camera</speaker><boxstart/>Cheeeeese! </sp>
+<stage>He snaps a picture, and Sephiroth walks away immediately after.</stage>
+<sp> <speaker name="Man with Camera">Man with Camera</speaker><boxstart/>Great, thank you!<boxstart/>I'll give each of you a copy once I get it developed! </sp>
+<stage>They start out up the path to Mt. Nibel...</stage>
+<sp> <speaker name="Cloud">Cloud</speaker> (narrating)<boxstart/>A Mako Reactor was built in Mt. Nibel.<boxstart/>The cold air of the mountains of Nibel. It was no different... </sp>
+<stage>If Cloud runs back to town instead of following Tifa...</stage>
+<sp> <speaker name="Tifa's Father">Tifa's Father</speaker><boxstart/>I hate myself for asking you this, but...<boxstart/>Don't take your eyes off of <referent name="Tifa">Tifa</referent>! Hurry up and go back to her side! </sp>
+<sp> <speaker name="Zangan">Zangan</speaker><boxstart/>Oh? Did you come crying home? </sp>
+<stage>Up on Mount Nibel, Cloud follows Tifa onto a rickety-looking rope bridge.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>It gets harder from here! Follow me! </sp>
+<stage>Cloud and the soldiers start across after her.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Uh... the bridge!! </sp>
+<stage>The bridge creaks and then snaps, and they all fall to the rocks below. Cloud and Tifa land near each other and get up. Sephiroth and one of the soldiers come around the bend to join them.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Everyone seems to be all right. Can we get back to where we were? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>These caves are intertwined, just like an ant farm...<boxstart/>Oh, and <referent name="Sephiroth">Sephiroth</referent>... There seems to be one person missing... </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>It may sound cold, but we've got no time to search for him. We can't go back now, so we must go on. We'll travel together from here. </sp>
+<stage>They continue on, entering some multi-colored caves.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's this? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>A mysteriously colored cave... </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>It must be the Mako energy. This mountain is especially abundant in it. That's why the Mako Reactor was built here. </sp>
+<stage>Coming out of the caves into the light, they find a Mako fountain.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...And what's this? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>A Mako fountain. It's a miracle of nature. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>It's so beautiful... </sp>
+<sp> She walks up to it. </sp>
+<sp> If the Mako Reactor continues to suck up the energy, this fountain will dry up too... </sp>
+<stage>The others walk over to join her.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Materia. When you condense Mako energy, materia is produced.<boxstart/>It's very rare to be able to see materia in its natural state. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>By the way... Why is it that when you use materia you can also use magic too? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>You were in SOLDIER and didn't even know that?<boxstart/>...the knowledge and wisdom of the Ancients is held in the materia.<boxstart/>Anyone with this knowledge can freely use the powers of the Land and the Planet. That knowledge interacts between ourselves and the planet calling up magic...... or so they say. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Magic...... a mysterious power... </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Ha, ha, ha! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Did I say somethin' funny? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>A man once told me never to use an unscientific term such as mysterious power! It shouldn't even be called 'magic'!<boxstart/>I still remember how angry he was. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Who was that? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Hojo of Shinra, Inc. ... An inexperienced man assigned to take over the work of a great scientist.<boxstart/>He was a walking mass of complexes. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>A Mako fountain... So this is where the knowledge of the Ancients is. </sp>
+<stage>They continue on and reach the Mako Reactor.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We finally made it. We sure took the long way though. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Tifa">Tifa</referent>, you wait here. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I'm going inside too! I wanna see! </sp>
+<stage>Cloud shakes his head.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Only authorized people are allowed in. This place is full of Shinra's industrial secrets. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>But! </sp>
+<stage>Sephiroth turns to the soldier.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Take care of the lady. </sp>
+<stage>The soldier nods and moves to block Tifa's way up the stairs as Cloud and Sephiroth go on inside.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Mm, man!<boxstart/>Better take real good care of me then! </sp>
+<stage>Beyond the initial entry over the Mako pit, there is a large chamber. Inside are a number of strange pods, and at the top of some stairs there is a door marked Jenova. Sephiroth is standing before it, shaking his head. Cloud joins him.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This is...... Jenova, right? The lock won't open... </sp>
+<stage>Sephiroth goes down the stairs and Cloud follows.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>This is the reason for the malfunction. This part is broken.<boxstart/><referent name="Cloud">Cloud</referent>, close the valve. </sp>
+<stage>Cloud closes the valve.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Why did it break...? </sp>
+<sp> He pulls himself up to look in the window of one of the pods. </sp>
+...now I see, Hojo.<boxstart/>But, even doing this, will never put you on the same level as Professor Gast.<boxstart/>This is a system that condenses and freezes the Mako energy... that is, when it's working correctly.<boxstart/>Now... what does Mako energy become when it's further condensed?
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Uh, umm...... Oh yeah! It becomes a Materia. </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Right, normally. But Hojo put something else in there. ...Take a look.<boxstart/>Look through the window. </sp>
+<stage>Cloud pulls himself up to look. Upon seeing the monster inside, he falls back.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wh... what is this!? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Normal members of SOLDIER are humans that have been showered with Mako.<boxstart/>You're different from the others, but still human.<boxstart/>But, what are they? They've been exposed to a high degree of Mako, far more than you. </sp>
+<stage>Cloud gets to his feet.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...is this some kind of monster? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Exactly. And it's Hojo of Shinra that produced these monsters.<boxstart/>Mutated living organisms produced by Mako energy. That's what these monster's really are. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Normal members of SOLDIER? You mean you're different? </sp>
+<stage>Sephiroth clutches his head as though in pain.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>H... hey, <referent name="Sephiroth">Sephiroth</referent>! </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>N... no......<boxstart/>...Was I? </sp>
+<stage>He starts slashing at the pods with the Masamune, and Cloud leaps back.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...Was I created this way too?<boxstart/>Am I the same as all these monsters...... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...<referent name="Sephiroth">Sephiroth</referent>. </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>You saw it! All of them... were humans... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Human!? No way! </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...I've always felt since I was small...<boxstart/>That I was different from the others. Special, in some way.<boxstart/>But... not like this... </sp>
+<stage>He twists to look as one of the monsters suddenly bursts out of its pod and lies moaning. The scene fades.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker> (narrating)<boxstart/>Am I...... human?<boxstart/>I didn't quite understand what <referent name="Sephiroth">Sephiroth</referent> was saying at that time.<boxstart/>I was even more surprised by the fact that Shinra was producing monsters. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Damn, Shinra! The more I hear, the more I hate 'em! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......who would have ever thought the Mako Reactor held a secret like that. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>That would seem to explain the increase in the number of monsters recently.<boxstart/>I think we should listen carefully to <referent name="Cloud">Cloud</referent>. Don't you think so <referent name="Barret">Barret</referent>? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>(Why you talkin' to me!?) </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Save game and take a rest<boxstart/>- Keep talking </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Save game and take a rest </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Yeah, mebbe so. Wanna take a breather here? </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Keep talking </sp>
+  <stage>Nothing special happens.</stage>
+
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>......I get it. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Tifa">Tifa</referent>... You were waiting outside then? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......Yes. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We returned to Nibelheim. <referent name="Sephiroth">Sephiroth</referent> confined himself at the inn. He didn't even try to talk to me. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Then all of a sudden he just disappeared, right? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We found him inside the biggest building in Nibelheim. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>The villagers used to call it Shinra mansion. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Long ago, people from Shinra used to live in that mansion... </sp>
+<stage>Flashback scene: <referent name="Cloud">Cloud</referent> and the soldier join Zangan, Tifa, <referent name="Tifa">Tifa</referent>'s father, and the man with the camera at the gate to the Shinra mansion.</stage>
+<sp> <speaker name="Man with Camera">Man with Camera</speaker><boxstart/>What's <referent name="Sephiroth">Sephiroth</referent> doing? </sp>
+<sp> <speaker name="Zangan">Zangan</speaker><boxstart/>There's nothing that'll harm the town, right? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Why...?<boxstart/>- No way! </sp>
+
+  Why...?
+  ...Why do you ask?
+  <sp> <speaker name="Zangan">Zangan</speaker><boxstart/>The Shinra showed up to eliminate any information that could be an embarrassment to the company...<boxstart/>You pick these things up when you travel as much as I do. </sp>
+
+
+  No way!
+  It's Sephiroth. He would never do that.
+  <sp> <speaker name="Zangan">Zangan</speaker><boxstart/>...Oh my. You sure do have faith. </sp>
+
+<sp> <speaker name="Tifa's Father">Tifa's Father</speaker><boxstart/>Until we know that there's no danger, we're not moving. </sp>
+<stage>Cloud goes inside on his own and finds the soldier outside one of the bedrooms.</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>There's no sign of <referent name="Sephiroth">Sephiroth</referent>, but I know I saw him go into this room... </sp>
+<stage>Cloud goes into the room and finds the hidden door that leads down into the basement. At the end of the hall is a library, where he finds Sephiroth, reading.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...an organism that was apparently dead, was found in a 2000 year old geological stratum.<boxstart/>Professor Gast named that organism, Jenova...<boxstart/>X Year, X Month, X Day. Jenova confirmed to be an Ancient...<boxstart/>X Year, X Month, X Day. Jenova Project approved. The use of Mako Reactor 1 approved for use... </sp>
+<sp> Sephiroth stops in the hallway and looks up. </sp>
+<sp> My mother's name is Jenova... Jenova Project... Is this just a coincidence?<boxstart/>Professor Gast... Why didn't you tell me anything? ...Why did you die? </sp>
+<stage>Cloud approaches him.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Let me be alone. </sp>
+<stage>Cloud leaves the library.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker> (narrating)<boxstart/><referent name="Sephiroth">Sephiroth</referent> didn't come out of the Shinra Mansion...<boxstart/>He continued to read as if he were possessed by something, and not once, did the light in the basement go out... </sp>
+<stage>Cloud wakes in another bedroom of the Shinra mansion. He walks across the mansion to the basement entrance.</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent> seems different. </sp>
+<stage>Cloud goes down to the basement and down the hall to the library.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Ha, ha, ha...... </sp>
+<stage>Cloud continues to the study in the back, where he finds Sephiroth seated behind the desk.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Who is it!?<boxstart/>Hmph... traitor. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Traitor? </sp>
+<stage>Sephiroth stands.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>You ignorant traitor. I'll tell you.<boxstart/>This Planet originally belonged to the Cetra. Cetra was a itinerant race. They would migrate in, settle the Planet, then move on...<boxstart/>At the end of their harsh, hard journey, they would find the Promised Land and supreme happiness.<boxstart/>But, those that disliked the journey appeared. Those who stopped their migrations built shelters and elected to lead an easier life.<boxstart/>They took that which the Cetra and the planet had made without giving back one whit in return!<boxstart/>Those are your ancestors. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>... </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Long ago, disaster struck this planet.<boxstart/>Your ancestors escaped... They survived because they hid.<boxstart/>The Planet was saved by sacrificing the Cetra. After that, your ancestors continued to increase.<boxstart/>Now all that's left of the Cetra is in these reports. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What does that have to do with you? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Don't you get it?<boxstart/>An Ancient named Jenova was found in the geological stratum of 2000 years ago.<boxstart/>The Jenova Project.<boxstart/>The Jenova Project wanted to produce people with the powers of the Ancients...... no, the Cetra.<boxstart/>...I am the one that was produced. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Pr... produced!? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Yes.<boxstart/>Professor Gast, leader of the Jenova Project and genius scientist, produced me. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>How... how did he...?<boxstart/>Se... <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Out of my way. I'm going to see my mother. </sp>
+<stage>Sephiroth leaves the library. Cloud runs out of the mansion after him, only to find the village below in flames.</stage>
+<sp> <speaker name="Zangan">Zangan</speaker><boxstart/>Hey it's you! You're still sane, right? </sp>
+<stage>Cloud nods.</stage>
+<sp> <speaker name="Zangan">Zangan</speaker><boxstart/>Then come over here and help me!<boxstart/>I'll check this house. You check that one over there! </sp>
+<sp> <speaker name="Man with Camera">Man with Camera</speaker> (lying on ground)<boxstart/>...Hey,<boxstart/>Ummm... Am I going to die? </sp>
+<sp> <speaker name="Soldier">Soldier</speaker> (lying near Cloud's house)<boxstart/>...Sephi... roth </sp>
+<stage>Cloud runs into his house, but comes out again right after, shaking his head.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Terrible...<boxstart/><referent name="Sephiroth">Sephiroth</referent>... This is too terrible... </sp>
+<stage>Cloud turns to see Sephiroth cutting down villagers with the Masamune. Sephiroth turns and walks away through the flames. Cloud runs after him. He arrives at the Mako reactor to find Tifa kneeling by her father's body. The Masamune lies nearby.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Papa...<boxstart/>Sephiroth!?<boxstart/>Sephiroth did this to you, didn't he!?<boxstart/><referent name="Sephiroth">Sephiroth</referent>... SOLDIER... Mako Reactors... Shinra... Everything!<boxstart/>I hate them all! </sp>
+<stage>She takes up Sephiroth's sword and runs inside. Sephiroth is standing before the door to Jenova's chamber.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Mother, I'm here to see you. Please, open this door. </sp>
+<stage>Tifa approaches with the Masamune.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>How could you do that to papa and all the townspeople? </sp>
+<stage>She climbs the stairs and raises the sword over her head to attack him, but Sephiroth pulls the Masamune from her grasp and slashes her. She falls down the stairs, landing near Cloud as he runs in. The door to Jenova's chamber opens, and Sephiroth turns and enters. Cloud kneels to gather Tifa in his arms.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...You promised... You promised that you'd come...... when I was in trouble... </sp>
+<stage>He carries her to the side and sets her down, then runs inside Jenova's chamber to confront Sephiroth.</stage>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Mother, let's take this planet back together.<boxstart/>I've thought of a great idea. Let's go to the Promised Land. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>...<boxstart/>My family! My hometown! How could you do this to them!? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Ha, ha, ha...... They've come again, mother.<boxstart/>With her superior power, knowledge, and magic, Mother was destined to become the ruler of this Planet.<boxstart/>But they...<boxstart/>Those worthless creatures<boxstart/>are stealing the planet from Mother<boxstart/>But now I'm here with you<boxstart/>so don't worry </sp>
+<stage>He reaches up and tears off the mechanical angel figure from the front of Jenova's glass tank, revealing Jenova itself inside.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What about MY sadness!? My family... friends... The sadness of having my hometown taken away from me!?<boxstart/>It's the same as your sadness! </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Ha, ha, ha... my sadness? What do I have to be sad about?<boxstart/>I am the chosen one. I have been chosen to be the leader of this Planet.<boxstart/>I have orders to take this planet back from you stupid people for the Cetra. What am I supposed to be sad about? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Sephiroth... I trusted you...<boxstart/>No, you're not the <referent name="Sephiroth">Sephiroth</referent> I used to know! </sp>
+<stage>Cloud and Sephiroth face off, and the screen goes white.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......and that's the end of my story. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Wait a damn minute! Ain't there more? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......I don't remember. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What happened to <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>In terms of skill, I couldn't have killed him. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Official records state <referent name="Sephiroth">Sephiroth</referent> is dead. I read it in the newspaper. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Shinra, Inc. owns the paper, so you can't rely on that information. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......I want to know the truth. I want to know what happened then.<boxstart/>I challenged <referent name="Sephiroth">Sephiroth</referent> and lived. Why didn't he kill me? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......I'm alive, too. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Seems like a lot of this doesn't make sense. What about Jenova? It was in the Shinra building, right? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Shinra shipped it from Nibelheim to Midgar. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Did someone else carry it out after that? It was missing from the Shinra building. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>......? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Damn! Don't none of this make sense!<boxstart/>I'm going, going, going, gone!<boxstart/>And I'm leavin' the thinkin' to you!<boxstart/>Yo, <referent name="Cloud">Cloud</referent>! Let's get a move on! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Wait a sec<boxstart/>- Right </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Wait a sec </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Cloud">Cloud</referent>, what's wrong? You just gonna stand there while Sephiroth heads for the Promised Land?<boxstart/>I ain't lettin' <referent name="Sephiroth">Sephiroth</referent> or Shinra get to no Promised Land. If they do, then we're all screwed.<boxstart/>Y'know what I'm sayin'! </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Beautiful, just beautiful!<boxstart/>- Is that all? </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Beautiful, just beautiful </sp>
+    <sp> <speaker name="Barret">Barret</speaker><boxstart/>Y'all jes leave it to me! </sp>
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Is that all? </sp>
+    Oh brother......
+    <sp> <speaker name="Barret">Barret</speaker><boxstart/>Fine! That's good enough. </sp>
+  
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Right </sp>
+  <sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, c'mon let's go! </sp>
+
+<stage>Barret runs down the stairs.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Oh brother...... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>.........<boxstart/><referent name="Cloud">Cloud</referent>...?<boxstart/>How bad was I when <referent name="Sephiroth">Sephiroth</referent> cut me? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I thought you were a goner. ......I was really sad. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......... </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I...<boxstart/>The Ancients...... Cetra...... Jenova...... <referent name="Sephiroth">Sephiroth</referent> and myself...... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Let's go. <referent name="Barret">Barret</referent>'s waiting. </sp>
+<stage>Cloud, Aerith, and Tifa head downstairs.</stage>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>What a fascinating story...... </sp>
+<stage>They all join Barret downstairs.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, <referent name="Cloud">Cloud</referent>. Here. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>. Take this. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh, <referent name="Cloud">Cloud</referent>. Let me give you this. </sp>
+
+<sp> <speaker name="unspecified"/><boxstart/>Received "PHS"! </sp>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>With [PHS], I can see you any time! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Just use [PHS], and you can contact any one of us easy. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>[PHS], will put us in constant contact with each other. </sp>
+
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Awright then, we're outta here. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Well, I'll be going. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I'm going on ahead. </sp>
+
+<stage>Cloud and the others leave the inn.</stage>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Listen to me! Just now, some guy in a black cloak goes walked east towards that grassy field.<boxstart/>And he's got this killer sword, and is looking REAL scary...... </sp>
+<stage>With that as their first clue, Cloud and the others set out across the grasslands.</stage>
+
+
+</scene>

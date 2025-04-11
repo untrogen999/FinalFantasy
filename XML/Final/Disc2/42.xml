@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="CityOfTheAncientsAerith">
+
+
+
+<sp>City of the Ancients - Aerith's Prayer </sp>
+
+<sp>Arrival at the City </sp>
+<sp>Finding the Key </sp>
+<sp>Meanwhile at Shinra HQ </sp>
+<sp>Back on the Highwind </sp>
+
+<stage>Cloud and the others take Bugenhagen into the City of the Ancients and to one of the chambers.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Are you getting something? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Yes...... exactly...<boxstart/>...give me a moment. </sp>
+<stage>Bugenhagen floats up to the structure in the center of the room. Cloud joins him.</stage>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>The knowledge of the Ancients swirling around here is telling me one thing.<boxstart/>The planet's in a crisis...<boxstart/>A crisis beyond human power or endless time.<boxstart/>It says, when the time comes, we must search for 'Holy'. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Holy? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Holy... the ultimate White Magic. Magic that might stand against Meteor. Perhaps our last hope to save the planet from Meteor.<boxstart/>If a soul seeking Holy reaches the planet, it will appear.<boxstart/>Ho Ho Hooo.<boxstart/>Meteor, Weapon, everything will disappear.<boxstart/>Perhaps, even ourselves. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Even us!? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>It is up to the planet to decide.<boxstart/>What is best for the planet. What is bad for the planet.<boxstart/>All that is bad will disappear. That is all.<boxstart/>Ho Ho Hooo.<boxstart/>I wonder which we humans are? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Search for Holy... How do we do it? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Speak to the planet.<boxstart/>Get the White Materia... This will bond the Planet to humans.<boxstart/>Then speak to the planet.<boxstart/>If our wish reaches the planet, the White Materia will begin to glow a pale green. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...This is the end.<boxstart/>Aerith had the White Materia...<boxstart/>But when <referent name="Aerith">Aerith</referent> died, it fell from the altar...<boxstart/>That's why...... this is the end. </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hooo!<boxstart/>Ho Ho Hooo!<boxstart/>Ho Ho Hooo!<boxstart/>Look at this! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>!? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ancient's writing. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Can you read it? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>I can't even make it out!! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>This's no time for jokes... </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>I'm not an Ancient. I can't read this thing!<boxstart/>I may be old, but my eyes aren't completely bad yet. Look closely below the writing. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>There's something written in chalk......... (even sunlight can't reach)...... (Key) </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>It was probably written by a scientist who's been here... He probably used all his energy to make out these two words. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Key......? To what? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>I don't know... But, it probably has something to do with our riddle.<boxstart/>The riddle... then it must have something to do with <referent name="Aerith">Aerith</referent>. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>So this note points to where the key is? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Probably...<boxstart/>Use these words as clues and go find the key.<boxstart/>I'll continue to figure out the Ancients' writing. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>A place (Even sunlight won't reach) is where the (key) is, right? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>When you find the key, or when you can't go any further, come back here.<boxstart/>Maybe I'll understand more from the writing and get some new information for you. </sp>
+<stage>Cloud nods and leaves the city to look for the key.</stage>
+<stage>Searching in the submarine, they find it in an underwater tunnel near the entrance to Lucrecia's cave.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Do you think it's......? </sp>
+<sp><speaker name="unspecified"/><boxstart/>...analysis completed...<boxstart/>...exact date of origin cannot be determined...<boxstart/>...estimated to be several thousand years old... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Key of the Ancients... </sp>
+<sp><speaker name="unspecified"/><boxstart/>Received Key Item "Key to Ancients"! </sp>
+<stage>They return to the City of the Ancients.</stage>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Oh! You've found it!<boxstart/>That Music Box over there. We'll put the key in it.<boxstart/>I'll go use the key. You all wait here.<boxstart/>And watch closely what happens.<boxstart/>Ho Ho Hooo! </sp>
+<stage>He puts the key in the music box, a tune plays, and a waterfall crashes down on the center structure.</stage>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Now, go inside. Hope may be inside... Or...... </sp>
+<stage>Cloud goes to look.</stage>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>This was just a screen to project an image!<boxstart/>Look! Look at the image projected on the screen of the water! </sp>
+<stage>They watch as the screen shows the White Materia at Aerith's death. In the water, it is glowing a pale green.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...It's glowing. </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho Hooo!! It's pale green!! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...Aerith. Aerith has already prayed for Holy.<boxstart/>...After I gave up the Black Materia to Sephiroth...... Aerith' words came into my dreams...<boxstart/>She said, she was the only one who could stop <referent name="Sephiroth">Sephiroth</referent>...... And to do that, there was a secret here...<boxstart/>That was Holy...... That's why, she had the White Materia. Aerith knew about here... and what she had to do.<boxstart/>Aerith has left us great hope. But, it cost her her life... her future...<boxstart/>I'm sorry... Aerith. I should have figured this out sooner.<boxstart/>...You left us without saying a word...... It was all so sudden, so I couldn't think...<boxstart/>That's why it took so long for me to find out... But, Aerith... I understand now.<boxstart/><referent name="Aerith">Aerith</referent>... I'll do the rest. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>You mean, WE... </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>The hope she left us... We've gotta take a chance with it! </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>!? ...you mean WE. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>The big gift the flower girl left for us... it'd be sad if we didn't finish it! </sp>
+<stage>Cloud looks at his companions and nods.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Thank you... Aerith.<boxstart/><referent name="Aerith">Aerith</referent>' voice has already reached the Planet. Just look at the glow of the White Materia.<boxstart/>But...... how about Holy? How come Holy isn't moving?<boxstart/>Why? </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Something's getting in its way. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>......Him......<boxstart/>He's the only one that could do it.<boxstart/>...<referent name="Sephiroth">Sephiroth</referent>. Where are you? </sp>
+<stage>Cloud turns to go, and his PHS rings.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What the? </sp>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Cait Sith"><referent name="Cait Sith">Cait Sith</referent></speaker><boxstart/>whisper... whisper... (sorry I was a little surprised). </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What happened? </sp>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Cait Sith"><referent name="Cait Sith">Cait Sith</referent></speaker><boxstart/>You remember when the Junon Cannon disappeared? Actually, <referent name="Rufus">Rufus</referent> moved it. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Moved it? That big thing......? Where...? Why? </sp>
+<sp><speaker name="unspecified"/><boxstart/><speaker name="Cait Sith"><referent name="Cait Sith">Cait Sith</referent></speaker><boxstart/><referent name="Rufus">Rufus</referent> wants to destroy <referent name="Sephiroth">Sephiroth</referent> with it.<boxstart/>That cannon operates on Huge Materia. But the Huge Materia has already been used in the Rocket Plan.<boxstart/>So since the cannon's useless right now, he decided to move it.<boxstart/>To a place where Materia... no, where Mako is gathered... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>And, where is that!? </sp>
+
+<stage>Cut to Midgar, where the Sister Ray has been moved. At Shinra Headquarters...</stage>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>......That's why, Reeve. It's your job to adjust the reactor's output. </sp>
+<sp><speaker name="Reeve">Reeve</speaker><boxstart/>I see...... </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Hah, hah, hah! Don't worry about adjusting it, Reeve.<boxstart/>Once you open it up all the way everything will go full speed! </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya hah, hah, hah! The President's sure done it this time!<boxstart/>If we can only defeat <referent name="Sephiroth">Sephiroth</referent>, the idea that Meteor will also disappear is based on different objectives! </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Please remember, Mr. President...<boxstart/>It was my idea to fire Mako reactor powered shells. </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>Will the shells really reach the far northern border? </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Ah, hah hah!<boxstart/>Of course!<boxstart/>But Mr. President, please do not call it a Mako cannon.<boxstart/>This new weapon will be called......<boxstart/>The Sister Ray! </sp>
+
+<stage>Back to Cloud, outside Bone Village.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>............?<boxstart/>Wh, what the...!? </sp>
+<stage>Back on the Highwind...</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>What's wrong!? </sp>
+<sp><speaker name="Crew Member">Crew Member</speaker><boxstart/>It's a strange signal! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>From where? </sp>
+<sp><speaker name="Crew Member">Crew Member</speaker> (turning towards Cait Sith)<boxstart/>It's coming from this... person (?) </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Wow!<boxstart/>Hey!<boxstart/>That was a surprise, the controls went crazy.<boxstart/>This ain't good...<boxstart/>Weapon came out of the sea and is heading straight for Midgar. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>The new weapon should stop him, right? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I don't know if it's ready or not... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Hey! What's gonna happen to Marlene!? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Doncha worry none, Marlene's in a safe place. She's with <referent name="Aerith">Aerith</referent>' mama.<boxstart/><referent name="Barret">Barret</referent>!!<boxstart/>What was that scratching just now!?<boxstart/>As long as Marlene is safe, who cares what else happens, right?<boxstart/>I been itchin' to say this to ya fer a while now!<boxstart/>When ya blew the Midgar No. 1 up, how many folks d'ya think died? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>...that was for the life of the planet. Ya gotta expect a few casualties. </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>A few? Whaddya mean 'a few'? What may be a few to y'all is everythin' to them who died......<boxstart/>Protect the planet. Hah! Y'all sure sound good!<boxstart/>Ain't no one that'd go against ya. So ya think ya can do whatever y'all want? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>I don't wanna hear that from no one in Shinra... </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>......nuthin' I can do 'bout that... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Stop it! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cait Sith">Cait Sith</referent>...... <referent name="Barret">Barret</referent>, he knows what he did.<boxstart/>What we did in Midgar can't be forgotten no matter what the reason. </sp>
+<stage>She turns to Barret.</stage>
+<sp><boxstart/>Right? We haven't forgotten, right? </sp>
+<stage>She turns back to Cait Sith.</stage>
+<sp><boxstart/>I know you.<boxstart/>You can't quit the company because you're worried about the people in Midgar, right?<boxstart/>......<referent name="Cloud">Cloud</referent>? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>OK! Let's go! We'll beat Weapon ourselves! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey <referent name="Cloud">Cloud</referent>......<boxstart/>You think we can win against that monster? We got a chance of winnin', right? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>How would I know?<boxstart/>But that's no reason for us to just let him go!<boxstart/>We're goin' to Midgar and fight Weapon! Come on, let's move! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>That damn Weapon... He's one big *&amp;$*&amp;%$...<boxstart/>Even Midgar's gonna be in trouble. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Whether you love it or hate it...<boxstart/>You just can't bring yourself to leave Midgar, can you? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Midgar...<boxstart/>I hated the fact I was caught by Hojo and taken back to the lab where they did all kinds of experiments on me...<boxstart/>But because of that I was able to meet you all...<boxstart/>People you meet... others you don't...... strange isn't it? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, you do your best now, hear!?<boxstart/>I know y'all can't forgive the Shinra, but them poor folks in Midgar ain't done a bit wrong! </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>......we still can't seem to get near <referent name="Sephiroth">Sephiroth</referent>... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>That reminds me, there was a test rocket that landed in the Slums of Midgar long ago.<boxstart/>I remember I was relieved when I heard it never blew up. </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Are you waiting for <referent name="Cloud">Cloud</referent>?<boxstart/>He's flying right now, so you can't get him.<boxstart/>Were you going to force me into the submarine right now?<boxstart/>Quit it! If you want to go, then just leave me behind.<boxstart/>............ooooooh. What're you talking about? I...... </sp>
+<sp><speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Traveling is wonderful, isn't it?...... </sp>
+<sp><speaker name="Learner Pilot (L13)">Learner Pilot (L13)</speaker><boxstart/><referent name="Cloud">Cloud</referent>! I'm going! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Okay<boxstart/>- Excuse me, but could you wait? </sp>
+<stage>Cloud and the others head for Midgar.</stage>
+
+
+</scene>

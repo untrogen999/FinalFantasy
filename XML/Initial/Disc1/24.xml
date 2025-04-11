@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="GoldSaucer2">
+
+
+
+<h1>Gold Saucer - Interrupted by Fireworks</h1>
+
+<h4><a href="#keystone">Getting the Keystone</a></h4>
+<h4><a href="#meeting">A Meeting in Ghost Hotel</a></h4>
+<h4><a href="#Aerith">A Date with Aerith</a> :: <a href="#aevent">Event Square</a> - <a href="#agondola">The Gondola</a></h4>
+<h4><a href="#tifa">A Date with Tifa</a> :: <a href="#tevent">Event Square</a> - <a href="#tgondola">The Gondola</a></h4>
+<h4><a href="#yuffie">A Date with Yuffie</a> :: <a href="#yevent">Event Square</a> - <a href="#ygondola">The Gondola</a></h4>
+<h4><a href="#barret">A Date with Barret</a> :: <a href="#bgondola">The Gondola</a></h4>
+<h4><a href="#cait">Cait Sith the Spy</a></h4>
+<h4><a href="#leaving">Leaving Gold Saucer</a></h4>
+<hr></hr>
+<p class="italic">Cloud and the others pass through North Corel on their way to Gold Saucer.</p>
+<p class="indent"><b>Man</b><br/>A buncha guys called Turks came here sayin' they'd pay 10000 gil for some rock called a 'Keystone'.<br/>When I asked how much they'd pay for a regular rock just layin' around here, they slapped me upside my damn head!!</p>
+<p class="indent"><b>Man 2</b><br/>I'll never understand the rich. I heard some guy named Dio at the Gold Saucer is collectin' rocks!</p>
+<p class="italic">They take the Ropeway up to Gold Saucer.</p>
+<p class="indent"><b>Fortune Telling Machine</b> (at Wonder Square)<br/>What you are looking for is near.</p>
+<p class="italic">Cloud and the others make their way to Battle Square, which has by now reopened.</p>
+<p class="indent"><b>Man</b><br/>I heard that this is the curator's favorite attraction. He likes it so much that he even has his collection displayed in the arena.</p>
+<p class="indent"><b>Woman</b><br/>Are you here for the battle, too?</p>
+<p class="indent"><b>Cloud</b><br/>- That's the idea<br/>- Not interested</p>
+<div class="block"/>
+  <p><span class="highlight">That's the idea</span></p>
+  <p class="indent-nopad"><b>Woman</b><br/>I like fighters. But hate those who're all talk.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Not interested</span></p>
+  <p class="indent-nopad"><b>Woman</b><br/>Is that so.</p>
+
+<p class="italic">Cloud continues on up the steps.</p>
+<p class="indent"><b>Black-haired Man</b><br/>Crap! I still don't have enough points.<br/>Mmm? You're new here, aren't you? Then, you want an explanation of the Battle Arena?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah<br/>- Not interested</p>
+<p class="indent"><b>Black-haired Man</b><br/>You fight here and collect battle points. You can then exchange those points for prizes.<br/>The Battle Game... even though it's a game you still use all your physical abilities. To participate, go to the front and pay yer GP's.<br/>You can fight in up to eight battles. The more you win, the more battle points you get.<br/>But, if you lose, you lose all your points. So it's up to you whether or not to fight after each win.<br/>They also make it harder by givin' out handicaps.<br/>They decide what handicaps there'll be, and you won't know what you're up against until the battle.<br/>Oh yeah, once you leave the Battle area, all your battle points will become useless. So watch it.<br/>Oh, and one other thing. The maximum points you could get is 65000, no more. So if you get that many you should exchange them for something.</p>
+<p class="indent"><b>Large Man</b><br/>Maybe I could've made it a little further. It's so hard to know when to stop...<br/>Man, I knew I should've stopped. But it's so hard to stop...</p>
+<p class="indent"><b>Man Practicing Kicks</b><br/>I'm not going to lose this time!<br/>All right, it should be my turn comin' up here soon.</p>
+<p class="indent"><b>Registration Lady</b><br/>Hey, have you heard? Something awful happened!<br/>Two staff members and some Shinra soldiers were shot.<br/>The soldiers died instantly, but the staff survived.</p>
+<p class="indent"><b>Barret</b><br/>Dyne......</p>
+<p class="indent"><b>Registration Lady</b><br/>Register for battle? The registration fee is 10 GP.</p>
+<p class="indent"><b>Cloud</b><br/>- Let's do it<br/>- Not interested</p>
+<p class="indent"><b>Staff Person</b><br/>Whenever you come to the Gold Saucer, I recommend you visit the owner's museum at least once.</p>
+<p class="italic"><a name="keystone"></a>Cloud enters Dio's Show Room. Various items rest on pedestals around the room, with plaques labeling them.</p>
+<p class="indent"><b>Item Plaques</b><br/>"Star Cup"<br/>"Weekend Clock"<br/>"Laugh Sapling"<br/>"Slayer's Pot"<br/>"Chisa's Mask"<br/>"Dio's Portrait"<br/>"D Type Equipment"<br/>"Zauger's Cup"<br/>"Calling Gourd"</p>
+<p class="italic">In the center display is the Keystone.</p>
+<p class="indent"><b>Cloud</b><br/>It's the Keystone...</p>
+<p class="italic">Dio enters from behind him.</p>
+<p class="indent"><b>Dio</b><br/>Heh, heh, heh. Long time no see, my boy. Hmm? You like that, huh?</p>
+<p class="indent"><b>Cloud</b><br/>Can you let me borrow this?</p>
+<p class="indent"><b>Dio</b><br/>Heh, heh, heh. Sorry, but it's not for rent.<br/>Hmm.<br/>Since you've been good to me in the past, I CAN let you have it on one condition.</p>
+<p class="indent"><b>Cloud</b><br/>One condition?</p>
+<p class="indent"><b>Dio</b><br/>Heh, heh, heh. Entertain me!</p>
+<p class="indent"><b>Cloud</b><br/>- What'd you want me to do?<br/>- Not in the mood</p>
+<div class="block"/>
+  <p><span class="highlight">What'd you want me to do?</span></p>
+  <p class="indent-nopad"><b>Dio</b><br/>Hoo boy!<br/>Heh, heh, heh. It's not something that's really difficult.<br/>This is the Battle Arena. Show me your fighting skills. Just you, my boy. I'm expecting a good fight!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Not in the mood</span></p>
+  <p class="indent-nopad"><b>Dio</b><br/>I see... Then let's pretend that this never happened.</p>
+
+<p class="italic">When Cloud takes him up on the deal, he enters the Battle Arena.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If he completes all 8 battles...</span></p>
+  <p class="indent-nopad"><b>Dio</b><br/>Heh, heh, heh! Well done, young man! All right, as I promised,<br/>you can take it. Oh, and I'll give you this too.</p>
+  <div class="highlight-nopad"/><p>Received "Protect Vest"</p>
+  <div class="highlight-nopad"/><p>Received "Choco Feather"!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If he does fairly well...</span></p>
+  <p class="indent-nopad"><b>Dio</b><br/>Hmm, you did pretty well, young man!<br/>Good, it's a promise, so go ahead and take it. I'll give this to you too.</p>
+  <div class="highlight-nopad"/><p>Received "Protect Vest"</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If he does poorly...</span></p>
+  <p class="indent-nopad"><b>Dio</b><br/>That's the best you could do? Well, a promise is a promise. Go ahead, take it.</p>
+
+<div class="highlight"/><p>Received Key Item "Keystone"!</p>
+<p class="indent"><b>Dio</b><br/>Well then, we shall meet again! Heh, heh, heh.</p>
+<p class="italic">When trying to leave Gold Saucer with the keystone, Cloud is intercepted by a staff member.</p>
+<p class="indent"><b>Staff</b><br/>Excuse me, sir.<br/>I'm sorry. The Tram is out of order right now.</p>
+<p class="indent"><b>Cloud</b><br/>...so?</p>
+<p class="indent"><b>Staff</b><br/>I'm really sorry!<br/>I'm afraid you won't be able to leave until it's fully repaired.</p>
+<p class="italic">If Cait Sith is not in the party, he bounces up to join Cloud now.</p>
+<p class="indent"><b>Cait Sith</b><br/>What's wrong?</p>
+<p class="italic">Cloud explains.</p>
+<p class="indent"><b>Cait Sith</b><br/>Too bad. It happens, though.<br/>I know! Let's stay at the hotel! They know me here. I'll go talk to them.</p>
+<p class="indent"><b>Staff</b><br/>I will let you know once the repairs are completed.</p>
+<p class="italic"><a name="meeting"></a>At the hotel, the entire team gathers in the lobby.</p>
+<p class="indent"><b>Cait Sith</b><br/>We don't usually get the chance to be together like this, huh?<br/>Cloud, how 'bout it? Can you tell us what's happened so far?<br/>I don't really know what's goin' on because I wasn't here in the beginning.</p>
+<p class="indent"><b>Cid</b><br/>Yeah! I'm all for it!</p>
+<p class="indent"><b>Vincent</b><br/>Good idea.</p>
+<p class="indent"><b>Barret</b><br/>I been here since the beginnin', an' I still don't know what the hell's goin' on either.<br/>Cloud, the hell's goin' on? C'mon, tell us!</p>
+<p class="indent"><b>Cloud</b><br/>- I'm tired...<br/>- All right, I'll give it a shot...</p>
+<div class="block"/>
+  <p><span class="highlight">I'm tired...</span></p>
+  <p class="indent-nopad"><b>Cid</b><br/>All we have to do now is sleep! You're still young! What're you complaining about?</p>
+
+<div class="block"/>
+  <p><span class="highlight">All right, I'll give it a shot...</span></p>
+  <p class="italic">Nothing special happens.</p>
+
+<p class="indent"><b>Cloud</b><br/>Phew...<br/>We are going after Sephiroth.<br/>Sephiroth must be in search of the Promised Land.</p>
+<p class="indent"><b>Cid</b><br/>The Promised Land?</p>
+<p class="indent"><b>Cloud</b><br/>A land full of Mako energy. ...or at least that's what the Shinra believe.<br/>I don't know if it actually exists.</p>
+<p class="indent"><b>Aerith</b><br/>The Cetras return to the Promised Land. A land that promises boundless happiness.</p>
+<p class="indent"><b>Barret</b><br/>Cetra? That some kinda disease?</p>
+<p class="indent"><b>Aerith</b><br/>That's what the Ancients call themselves.<br/>Hey, didn't you listen to the elders at Cosmo Canyon?</p>
+<p class="italic">Barret scratches his head.</p>
+<p class="indent"><b>Aerith</b><br/>...You don't 'know' where the Promised Land of the Ancients is.<br/>You search and travel, until you feel it. Like you just know, '...this is the Promised Land.'</p>
+<p class="indent"><b>Cloud</b><br/>Aerith... can you feel it too?</p>
+<p class="indent"><b>Aerith</b><br/>I think so.</p>
+<p class="indent"><b>Tifa</b><br/>So Sephiroth is traveling the world because he's searching for the Promised Land? Is that it?</p>
+<p class="indent"><b>Aerith</b><br/>That, and one other thing he's searching for.</p>
+<p class="indent"><b>Cloud</b><br/>The Black Materia...</p>
+<p class="indent"><b>Cait Sith</b><br/>I heard from Dio that a man in a Black Cape was lookin' for the Black Materia.</p>
+<p class="indent"><b>Tifa</b><br/>I don't even know what the Black Cape is...<br/>How many men with Black Capes and number tattoos are there?</p>
+<p class="indent"><b>Nanaki</b><br/>...you know, of course... My tattoo is number 13.</p>
+<p class="indent"><b>Cloud</b><br/>How did you get that tattoo?</p>
+<p class="indent"><b>Nanaki</b><br/>...Hojo put it on me. Everything else is just war scars, but the number was done by Hojo.</p>
+<p class="indent"><b>Tifa</b><br/>So there are at least 13!?</p>
+<p class="indent"><b>Aerith</b><br/>...You know......<br/>I think Hojo did something to those men in the Black Capes.<br/>But I don't know what it has to do with Sephiroth though...<br/>That's why I think we should just go after Sephiroth himself.</p>
+<p class="indent"><b>Barret</b><br/>Yeah, me too! It's all just too damn confusin'.</p>
+<p class="indent"><b>Aerith</b><br/>And...<br/>I'm sorry, forget it!<br/>I think I'm tired. I'm going to bed now.</p>
+<p class="italic-inline">She runs upstairs.</p>
+<p class="indent"><b>Cait Sith</b><br/>What was that, all of a sudden!?</p>
+<p class="indent"><b>Yuffie</b><br/>What!? That's it? I'm goin' to bed!</p>
+<p class="italic-inline">She runs off after Aerith.</p>
+<p class="indent"><b>Cait Sith</b><br/>Is that all? How 'bout the Black Materia?</p>
+<p class="indent"><b>Cloud</b><br/>You wouldn't understand even if I told you.</p>
+<p class="indent"><b>Barret</b><br/>Now all we gotta do is take action! We're startin' tomorrow!!</p>
+<p class="italic-inline">He runs upstairs.</p>
+<p class="indent"><b>Nanaki</b><br/>Cloud...<br/>I'm number 13. Am I going to go mad too?</p>
+<p class="indent"><b>Tifa</b><br/>I don't know what Hojo did to you, but you've been all right so far, right?</p>
+<p class="indent"><b>Nanaki</b><br/>But...</p>
+<p class="indent"><b>Tifa</b><br/>Be strong.</p>
+<p class="indent"><b>Nanaki</b><br/>But, I...</p>
+<p class="indent"><b>Tifa</b><br/>Stop it, Nanaki! Be strong!</p>
+<p class="indent"><b>Cloud</b><br/>Tifa?</p>
+<p class="indent"><b>Tifa</b><br/>You're not the only one who's worried!</p>
+<p class="indent"><b>Cait Sith</b><br/>I don't know what's goin' on, but we're in a bad situation...</p>
+<p class="indent"><b>Vincent</b><br/>Hey Cid, let's go back to our rooms.</p>
+<p class="indent"><b>Cid</b><br/>...zzzz... zzzz...</p>
+<p class="italic">Cloud retires to his room. There comes a knock on the door.</p>
+<p>[<a href="#Aerith">Aerith enters.</a>]<br/>[<a href="#tifa">Tifa enters.</a>]<br/>[<a href="#yuffie">Yuffie enters.</a>]<br/>[<a href="#barret">Barret enters.</a>]</p>
+<hr></hr>
+<p class="italic"><a name="Aerith"></a>Aerith enters Cloud's room.</p>
+<p class="indent"><b>Aerith</b><br/>Hee, hee!</p>
+<p class="indent"><b>Cloud</b><br/>What's wrong?</p>
+<p class="indent"><b>Aerith</b><br/>You want to go on a date?</p>
+<p class="indent"><b>Cloud</b><br/>What?</p>
+<p class="indent"><b>Aerith</b><br/>A DA-TE! Or haven't you ever gone on one?</p>
+<p class="indent"><b>Cloud</b><br/>- Don't take me for a fool<br/>- Well, not a real one...</p>
+<div class="block"/>
+  <p><span class="highlight">Don't take me for a fool</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Hey...a little touchy, aren't we?</p>
+
+<div class="block"/>
+  <p><span class="highlight">Well, not a real one...</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>No, just a mixed-up kid...</p>
+
+<p class="indent"><b>Aerith</b><br/>Oh well, come on let's go...</p>
+<p class="italic-inline">She runs around behind him and starts pushing him out of the room.</p>
+<p class="indent"><b>Cloud</b><br/>Hey!</p>
+<p class="italic">Upon arriving together at the Station...</p>
+<p class="indent"><b>Man</b><br/>Tonight's Enchantment Night! All the attractions are free.<br/>How 'bout it you two? There's going to be an entertaining show in Event Square!</p>
+<p class="indent"><b>Aerith</b><br/>Come on, let's go.</p>
+<p class="italic"><a name="aevent"></a>The two of them head for Event Square, where they are greeted immediately.</p>
+<p class="indent"><b>Man</b><br/>Congratulations!!<br/>You are our 100th couple today!!<br/>You two will be the leads in tonight's show!!!!</p>
+<p class="indent"><b>Cloud</b><br/>Wha?</p>
+<p class="indent"><b>Man</b><br/>Oh, now, it's not hard. Just play it however you want to and the rest of the cast will cover up for you.<br/>Come this way.</p>
+<p class="indent"><b>Cloud</b><br/>H, hey!</p>
+<p class="indent"><b>Aerith</b><br/>This sounds like fun. Come on Cloud, let's do it.</p>
+<p class="italic">She runs off after the man. Cloud shrugs and follows. The show opens to an empty stage and the narration begins.</p>
+<p class="indent"><b>Narrator</b><br/>Long, long ago...<br/>An evil shadow appeared over the peaceful kingdom of Galdia...<br/>Princess Rosa was just kidnapped by the Evil Dragon King, Valvados. What will become of her?<br/>Just then, the legendary hero, Alfred, appears!!</p>
+<p class="indent"><b>Knight</b><br/>Oh...... You must be the legendary hero...Alfred!</p>
+<p class="italic">Cloud shakes his head, staring out at the audience.</p>
+<p class="indent"><b>Knight</b><br/>Hey, it's your line.</p>
+<p class="italic">Cloud points to himself incredulously.</p>
+<p class="indent"><b>Knight</b><br/>Yeah, you.<br/>Ahem!<br/>Oh...... You must be the legendary hero, Alfred!<br/>I know in my soul. Please... please save Princess Rosa!<br/>Now......Please talk... to the King......!!</p>
+<p class="indent"><b>King</b><br/>Oh...legendery hero, Alfred. You have come to save my beloved Rosa...<br/>Oh the peak of a dangerous mountain...dwells the Evil Dragon King, Valvados... who's kidnapped Princess Rosa...<br/>But... you can't beat the Evil Dragon King now! Talk to the one who can help you......<br/>Who will you talk to?</p>
+<p class="indent"><b>Cloud</b><br/>- <a href="#aknight">The knight</a><br/>- <a href="#awizard">The wizard</a></p>
+<div class="block"/>
+  <a name="aknight"></a><p><span class="highlight">The knight</span></p>
+  <p class="indent-nopad"><b>Knight</b><br/>I am...a lowly...knight. How...can I help you?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#adefeatedk">Defeat the Evil Dragon King</a><br/>- <a href="#adefeatking">Defeat the King</a></p>
+  <div class="block"/>
+    <a name="adefeatedk"></a><p><span class="highlight">Defeat the Evil Dragon King</span></p>
+    <p class="indent-nopad"><b>Narration</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Aerith.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Aerith</b><br/>Please help me...Legendary hero!<br/>psst...... like that?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaah! Here I come, Legendary hero...Alfred!<br/>I already know...your name!</p>
+    <p class="indent-nopad"><b>Knight</b><br/>Uuuuuuurrrrgghh!</p>
+    <p class="italic-inline-nopad">He throws himself at the dragon king, but gets knocked out.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaaaaaaaahh! What now...Legendary hero!?</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#atoprincess">To the Princess</a><br/>- <a href="#atoking">To the King</a><br/>- <a href="#atohome">To home</a></p>
+    <div class="block"/>
+      <a name="atoprincess"></a><p><span class="highlight">To the Princess</span></p>
+      <p class="italic">Cloud goes to Aerith and kisses her hand.</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Cloud... I mean, Alfred...</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud and Aerith follow suit.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Knight</b> (still lying on the stage)<br/>......... Someone...help......</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="atoking"></a><p><span class="highlight">To the King</span></p>
+      <p class="italic">Cloud goes to the king and kisses his hand.</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh......Alfred...! In truth... I too......</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Wh, what is this?<br/>You can't do this!</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="atohome"></a><p><span class="highlight">To home</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Stop it Cloud! What are you doing!?<br/>The play's a disaster! Now I'm getting mad!</p><p class="italic">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Why don't you shut up, Blabbermouth!!</p><p class="italic">She knocks the EDK out, too.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+  
+  <div class="block"/>
+    <a name="adefeatking"></a><p><span class="highlight">Defeat the King</span></p>
+    <p class="indent-nopad"><b>Narrator</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Aerith.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>What ho! Do you dare ignore the Evil Dragon King!?<br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Aerith</b><br/>Please help me...Legendary hero!<br/>psst...... like that?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Who is your enemy...? Say it!</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#aenemyedk">The Evil... Dragon... King...</a><br/>- <a href="#aenemyking">The King</a><br/>- <a href="#aenemyknight">That Knight</a></p>
+    <div class="block"/>
+      <a name="aenemyedk"></a><p><span class="highlight">The Evil... Dragon... King...</span></p>
+      <p class="italic">Cloud runs to the EDK and kisses his hand.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>What...<br/>Urrrrrgh</p><p class="italic">The EDK turns into a black-haired girl.</p>
+      <p class="indent-nopad"><b>Beautiful Girl</b><br/>Thank...you. You've released me...from the spell and I am back to my normal self...</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud follows, leaving Aerith behind.</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Wh, what is this?<br/>You can't do this!</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="aenemyking"></a><p><span class="highlight">The King</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Stop it Cloud! What are you doing!?<br/>The play's a disaster! Now I'm getting mad!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Why don't you shut up, Blabbermouth!!</p>
+      <p class="italic-lineoption">She knocks the EDK out, too.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="aenemyknight"></a><p><span class="highlight">That Knight</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Stop it Cloud! What are you doing!?<br/>The play's a disaster! Now I'm getting mad!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Why don't you shut up, Blabbermouth!!</p>
+      <p class="italic-lineoption">She knocks the EDK out, too.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+  
+
+<div class="block"/>
+  <a name="awizard"></a><p><span class="highlight">The wizard</span></p>
+  <p class="indent-nopad"><b>Wizard</b><br/>I am the great wizard, Vorman. What do you wish to know?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#aedkweakness">The Evil Dragon King's weakness</a><br/>- <a href="#aprincessmeasurements">The Princess' measurements</a></p>
+  <div class="block"/>
+    <a name="aedkweakness"></a><p><span class="highlight">The Evil Dragon King's weakness</span></p>
+    <p class="indent-nopad"><b>Wizard</b><br/>Ahh, the weakness of the Evil Dragon King. It must be, it must be...<br/>Yes, it must be... True Love!<br/>The power of love... Is the only weapon that can withstand the fangs of the EDK...!</p>
+    <p class="indent-nopad"><b>Narrator</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Aerith.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Aerith</b><br/>Please help me...Legendary hero!<br/>psst...... like that?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaah! Here I come, Legendary hero...Alfred!<br/>I already know...your name!</p>
+    <p class="indent-nopad"><b>Wizard</b><br/>And now...Legendary hero...! Here is what will happen...to your beloved......<br/>A kiss! The power of True Love!!</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#akissprincess">Kiss the Princess</a><br/>- <a href="#akissedk">Kiss the Evil Dragon King</a><br/>- <a href="#akissking">Kiss the King</a></p>
+    <div class="block"/>
+      <a name="akissprincess"></a><p><span class="highlight">Kiss the Princess</span></p>
+      <p class="italic">Cloud goes to Aerith and kisses her hand.</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Cloud... I mean, Alfred...</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="action">The cast spins off the stage. Cloud and Aerith follow suit.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="akissedk"></a><p><span class="highlight">Kiss the Evil Dragon King</span></p>
+      <p class="italic">Cloud runs to the EDK and kisses his hand.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>What...<br/>Urrrrrgh</p><p class="italic">The EDK turns into a black-haired girl.</p>
+      <p class="indent-nopad"><b>Beautiful Girl</b><br/>Thank...you. You've released me...from the spell and I am back to my normal self...</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud follows, leaving Aerith behind.</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Wh, what is this?<br/>You can't do this!</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="akissking"></a><p><span class="highlight">Kiss the King</span></p>
+      <p class="italic">Cloud goes to the king and kisses his hand.</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh......Alfred...! In truth... I too......</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Wh, what is this?<br/>You can't do this!</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+  
+  <div class="block"/>
+    <a name="aprincessmeasurements"></a><p><span class="highlight">The Princess' measurements</span></p>
+    <p class="indent-nopad"><b>Narrator</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Aerith.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>What ho! Do you dare ignore the Evil Dragon King!?<br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Aerith</b><br/>Please help me...Legendary hero!<br/>psst...... like that?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Who is your enemy...? Say it!</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#aenemyedk2">The Evil... Dragon... King...</a><br/>- <a href="#aenemyking2">The King</a><br/>- <a href="#aenemyknight2">That Knight</a></p>
+    <div class="block"/>
+      <a name="aenemyedk2"></a><p><span class="highlight">The Evil... Dragon... King...</span></p>
+      <p class="italic">Cloud runs to the EDK and kisses his hand.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>What...<br/>Urrrrrgh</p>
+      <p class="italic">The EDK turns into a black-haired girl.</p>
+      <p class="indent-nopad"><b>Beautiful Girl</b><br/>Thank...you. You've released me...from the spell and I am back to my normal self...</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud follows, leaving Aerith behind.</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Wh, what is this?<br/>You can't do this!</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="aenemyking2"></a><p><span class="highlight">The King</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Stop it Cloud! What are you doing!?<br/>The play's a disaster! Now I'm getting mad!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Why don't you shut up, Blabbermouth!!</p>
+      <p class="italic">She knocks the EDK out, too.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="aenemyknight2"></a><p><span class="highlight">That Knight</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Stop it Cloud! What are you doing!?<br/>The play's a disaster! Now I'm getting mad!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Aerith</b><br/>Why don't you shut up, Blabbermouth!!</p>
+      <p class="italic">She knocks the EDK out, too.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#agondola">Back to the Station.</a>]</p>
+    
+  
+
+<p class="italic"><a name="agondola"></a>After the play is over, Cloud and Aerith return to the Station.</p>
+<p class="indent"><b>Aerith</b><br/>Oh, that was fun. Hey, let's go on the Gondola.</p>
+<p class="italic">At Round Square, Aerith walks up to the ticket booth.</p>
+<p class="indent"><b>Aerith</b><br/>Two, please.</p>
+<p class="indent"><b>Woman at Ticket Booth</b><br/>Here you are, two tickets.<br/>Enjoy the sights of Gold Saucer.</p>
+<p class="italic">Cloud and Aerith get on the gondola.</p>
+<p class="indent"><b>Aerith</b><br/>Wow, how nice.<br/>Oh! Look, Cloud.<br/>It's so pretty.</p>
+<p class="italic-inline">At length, she turns away from the window.</p>
+<p class="block-inline">......it's beautiful, isn't it?<br/>......first off, it bothered me how you looked exactly alike.<br/>Two completely different people, but look exactly the same.<br/>The way you walk, gesture...<br/>I think I must have seen him again, in you...<br/>But you're different.<br/>Things are different.<br/>Cloud...<br/>I'm searching for you.</p>
+<p class="indent"><b>Cloud</b><br/>............?</p>
+<p class="indent"><b>Aerith</b><br/>I want to meet you.</p>
+<p class="indent"><b>Cloud</b><br/>But I'm right here.</p>
+<p class="indent"><b>Aerith</b><br/>(I know, I know...what I mean is...)<br/>I want to meet...you.</p>
+<p class="italic">The gondola returns to Round Square, and they get off.</p>
+<p class="indent"><b>Aerith</b><br/>I had fun tonight. Let's go together again.<br/>You don't like being with me?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah<br/>- That's not it</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Oh, don't tease like that!<br/>Oh, look at the time. We'd better get going.</p>
+
+<div class="block"/>
+  <p><span class="highlight">That's not it</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>I'm glad.<br/>Next time let's take our time and go on more rides.</p>
+
+<p class="indent">[<a href="#cait">Cloud and Aerith return to the Station...</a>]</p>
+<hr></hr>
+<p class="italic"><a name="tifa"></a>Tifa enters Cloud's room.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud...</p>
+<p class="indent"><b>Cloud</b><br/>What's wrong?</p>
+<p class="indent"><b>Tifa</b><br/>......<br/>I thought about what I was going to say, but, it's kinda embarrassing...<br/>Hey, Cloud!<br/>Why don't the two of us sneak out of here and spend some time together?</p>
+<p class="italic-inline">She runs around behind him and starts pushing him out of the room.</p>
+<p class="block-inline">Come on, let's go!</p>
+<p class="indent"><b>Cloud</b><br/>Hey.</p>
+<p class="italic">Upon arriving together at the Station...</p>
+<p class="indent"><b>Man</b><br/>Tonight's Enchantment Night! All the attractions are free.<br/>How 'bout it you two? There's going to be an entertaining show in Event Square!</p>
+<p class="indent"><b>Tifa</b><br/>Come on, let's go.</p>
+<p class="italic"><a name="tevent"></a>The two of them head for Event Square, where they are greeted immediately.</p>
+<p class="indent"><b>Man</b><br/>Congratulations!!<br/>You are our 100th couple today!!<br/>You two will be the leads in tonight's show!!!!</p>
+<p class="indent"><b>Cloud</b><br/>Wha?</p>
+<p class="indent"><b>Man</b><br/>Oh, now, it's not hard. Just play it however you want to and the rest of the cast will cover up for you.<br/>Come this way.</p>
+<p class="indent"><b>Cloud</b><br/>H, hey!</p>
+<p class="indent"><b>Tifa</b><br/>Sounds like fun. Come on Cloud, let's give it a try.</p>
+<p class="italic">She runs off after the man. Cloud shrugs and follows. The show opens to an empty stage and the narration begins.</p>
+<p class="indent"><b>Narrator</b><br/>Long, long ago...<br/>An evil shadow appeared over the peaceful kingdom of Galdia...<br/>Princess Rosa was just kidnapped by the Evil Dragon King, Valvados. What will become of her?<br/>Just then, the legendary hero, Alfred, appears!!</p>
+<p class="indent"><b>Knight</b><br/>Oh...... You must be the legendary hero...Alfred!</p>
+<p class="italic">Cloud shakes his head, staring out at the audience.</p>
+<p class="indent"><b>Knight</b><br/>Hey, it's your line.</p>
+<p class="italic">Cloud points to himself incredulously.</p>
+<p class="indent"><b>Knight</b><br/>Yeah, you.<br/>Ahem!<br/>Oh...... You must be the legendary hero, Alfred!<br/>I know in my soul. Please... please save Princess Rosa!<br/>Now......Please talk... to the King......!!</p>
+<p class="indent"><b>King</b><br/>Oh...legendery hero, Alfred. You have come to save my beloved Rosa...<br/>Oh the peak of a dangerous mountain...dwells the Evil Dragon King, Valvados... who's kidnapped Princess Rosa...<br/>But... you can't beat the Evil Dragon King now! Talk to the one who can help you......<br/>Who will you talk to?</p>
+<p class="indent"><b>Cloud</b><br/>- <a href="#tknight">The knight</a><br/>- <a href="#twizard">The wizard</a></p>
+<div class="block"/>
+  <a name="tknight"></a><p><span class="highlight">The knight</span></p>
+  <p class="indent-nopad"><b>Knight</b><br/>I am...a lowly...knight. How...can I help you?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#tdefeatedk">Defeat the Evil Dragon King</a><br/>- <a href="#tdefeatking">Defeat the King</a></p>
+  <div class="block"/>
+    <a name="tdefeatedk"></a><p><span class="highlight">Defeat the Evil Dragon King</span></p>
+    <p class="indent-nopad"><b>Narration</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Tifa.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Tifa</b><br/>Please help me...Legendary hero!<br/>...Like that?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaah! Here I come, Legendary hero...Alfred!<br/>I already know...your name!</p>
+    <p class="indent-nopad"><b>Knight</b><br/>Uuuuuuurrrrgghh!</p>
+    <p class="italic-inline-nopad">He throws himself at the dragon king, but gets knocked out.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaaaaaaaahh! What now...Legendary hero!?</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#ttoprincess">To the Princess</a><br/>- <a href="#ttoking">To the King</a><br/>- <a href="#ttohome">To home</a></p>
+    <div class="block"/>
+      <a name="ttoprincess"></a><p><span class="highlight">To the Princess</span></p>
+      <p class="italic">Cloud goes to Tifa and kisses her hand.</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Cloud... I mean, Alfred...</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud and Tifa follow suit.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Knight</b> (still lying on the stage)<br/>......... Someone...help......</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="ttoking"></a><p><span class="highlight">To the King</span></p>
+      <p class="italic">Cloud goes to the king and kisses his hand.</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh......Alfred...! In truth... I too......</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>H, hey, what is it?<br/>That can't be the end!!</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="ttohome"></a><p><span class="highlight">To home</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Cloud!! Be serious!! You really don't want to be in the play that much!?<br/>Now I'm mad!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Shut up!!</p>
+      <p class="italic-inline-nopad">She knocks the EDK out with a kick.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+  
+  <div class="block"/>
+    <a name="tdefeatking"></a><p><span class="highlight">Defeat the King</span></p>
+    <p class="indent-nopad"><b>Narrator</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Tifa.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>What ho! Do you dare ignore the Evil Dragon King!?<br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Tifa</b><br/>Please help me...Legendary hero!<br/>...Like that?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Who is your enemy...? Say it!</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#tenemyedk">The Evil... Dragon... King...</a><br/>- <a href="#tenemyking">The King</a><br/>- <a href="#tenemyknight">That Knight</a></p>
+    <div class="block"/>
+      <a name="tenemyedk"></a><p><span class="highlight">The Evil... Dragon... King...</span></p>
+      <p class="italic">Cloud runs to the EDK and kisses his hand.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>What...<br/>Urrrrrgh</p>
+      <p class="italic-inline-nopad">The EDK turns into a black-haired girl.</p>
+      <p class="indent-nopad"><b>Beautiful Girl</b><br/>Thank...you. You've released me...from the spell and I am back to my normal self...</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud follows, leaving Tifa behind.</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>H, hey, what is it?<br/>That can't be the end!!</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="tenemyking"></a><p><span class="highlight">The King</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Cloud!! Be serious!! You really don't want to be in the play that much!?<br/>Now I'm mad!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Shut up!!</p>
+      <p class="italic-inline-nopad">She knocks the EDK out with a kick.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="tenemyknight"></a><p><span class="highlight">That Knight</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Cloud!! Be serious!! You really don't want to be in the play that much!?<br/>Now I'm mad!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Shut up!!</p>
+      <p class="italic-inline-nopad">She knocks the EDK out with a kick.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+  
+
+<div class="block"/>
+  <a name="twizard"></a><p><span class="highlight">The wizard</span></p>
+  <p class="indent-nopad"><b>Wizard</b><br/>I am the great wizard, Vorman. What do you wish to know?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#tedkweakness">The Evil Dragon King's weakness</a><br/>- <a href="#tprincessmeasurements">The Princess' measurements</a></p>
+  <div class="block"/>
+    <a name="tedkweakness"></a><p><span class="highlight">The Evil Dragon King's weakness</span></p>
+    <p class="indent-nopad"><b>Wizard</b><br/>Ahh, the weakness of the Evil Dragon King. It must be, it must be...<br/>Yes, it must be... True Love!<br/>The power of love... Is the only weapon that can withstand the fangs of the EDK...!</p>
+    <p class="indent-nopad"><b>Narrator</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Tifa.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Tifa</b><br/>Please help me...Legendary hero!<br/>...Like that?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaah! Here I come, Legendary hero...Alfred!<br/>I already know...your name!</p>
+    <p class="indent-nopad"><b>Wizard</b><br/>And now...Legendary hero...! Here is what will happen...to your beloved......<br/>A kiss! The power of True Love!!</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#tkissprincess">Kiss the Princess</a><br/>- <a href="#tkissedk">Kiss the Evil Dragon King</a><br/>- <a href="#tkissking">Kiss the King</a></p>
+    <div class="block"/>
+      <a name="tkissprincess"></a><p><span class="highlight">Kiss the Princess</span></p>
+      <p class="italic">Cloud goes to Tifa and kisses her hand.</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Cloud... I mean, Alfred...</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="action">The cast spins off the stage. Cloud and Tifa follow suit.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="tkissedk"></a><p><span class="highlight">Kiss the Evil Dragon King</span></p>
+      <p class="italic">Cloud runs to the EDK and kisses his hand.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>What...<br/>Urrrrrgh</p><p class="italic">The EDK turns into a black-haired girl.</p>
+      <p class="indent-nopad"><b>Beautiful Girl</b><br/>Thank...you. You've released me...from the spell and I am back to my normal self...</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud follows, leaving Tifa behind.</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>H, hey, what is it?<br/>That can't be the end!!</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="tkissking"></a><p><span class="highlight">Kiss the King</span></p>
+      <p class="italic">Cloud goes to the king and kisses his hand.</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh......Alfred...! In truth... I too......</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>H, hey, what is it?<br/>That can't be the end!!</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+  
+  <div class="block"/>
+    <a name="tprincessmeasurements"></a><p><span class="highlight">The Princess' measurements</span></p>
+    <p class="indent-nopad"><b>Narrator</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Tifa.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>What ho! Do you dare ignore the Evil Dragon King!?<br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Tifa</b><br/>Please help me...Legendary hero!<br/>...Like that?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Who is your enemy...? Say it!</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#tenemyedk2">The Evil... Dragon... King...</a><br/>- <a href="#tenemyking2">The King</a><br/>- <a href="#tenemyknight2">That Knight</a></p>
+    <div class="block"/>
+      <a name="tenemyedk2"></a><p><span class="highlight">The Evil... Dragon... King...</span></p>
+      <p class="italic">Cloud runs to the EDK and kisses his hand.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>What...<br/>Urrrrrgh</p><p class="italic">The EDK turns into a black-haired girl.</p>
+      <p class="indent-nopad"><b>Beautiful Girl</b><br/>Thank...you. You've released me...from the spell and I am back to my normal self...</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud follows, leaving Tifa behind.</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Wh, what is this?<br/>You can't do this!</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="tenemyking2"></a><p><span class="highlight">The King</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Cloud!! Be serious!! You really don't want to be in the play that much!?<br/>Now I'm mad!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Shut up!!</p>
+      <p class="italic-inline-nopad">She knocks the EDK out with a kick.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="tenemyknight2"></a><p><span class="highlight">That Knight</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Cloud!! Be serious!! You really don't want to be in the play that much!?<br/>Now I'm mad!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Shut up!!</p>
+      <p class="italic-inline-nopad">She knocks the EDK out, too.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#tgondola">Back to the Station.</a>]</p>
+    
+  
+
+<p class="italic"><a name="tgondola"></a>After the play is over, Cloud and Tifa return to the Station.</p>
+<p class="indent"><b>Tifa</b><br/>Hmm, that was funny. Hey, let's go on the Gondola next.</p>
+<p class="italic">At Round Square, Tifa walks up to the ticket booth.</p>
+<p class="indent"><b>Tifa</b><br/>Two, please.</p>
+<p class="indent"><b>Woman at Ticket Booth</b><br/>Here you are, two tickets.<br/>Enjoy the sights of Gold Saucer.</p>
+<p class="italic">Cloud and Tifa get on the gondola.</p>
+<p class="indent"><b>Tifa</b><br/>Oh, how pretty.<br/>Look, Cloud.<br/>Oh, Cloud.</p>
+<p class="italic-inline">At length, she turns away from the window.</p>
+<p class="block-inline">...it's really pretty, isn't it?<br/>Ok, I'm going to just go ahead and say it...</p>
+<p class="indent"><b>Cloud</b><br/>...what?</p>
+<p class="indent"><b>Tifa</b><br/>Aerith would be able to just come out and say it, probably.<br/>Cloud...?<br/>Sometimes being old friends is hard.<br/>I mean, timing is everything.</p>
+<p class="indent"><b>Cloud</b><br/>Yeah...</p>
+<p class="indent"><b>Tifa</b><br/>Cloud...?<br/>I......<br/>........................</p>
+<p class="italic">The gondola returns to Round Square, and they get off.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud I really had fun tonight.</p>
+<p class="indent"><b>Cloud</b><br/>By the way, What did you want to say a minute ago...?</p>
+<p class="indent"><b>Tifa</b><br/>N, nothing!<br/>Nothing...</p>
+<p class="indent"><b>Cloud</b><br/>?</p>
+<p class="indent"><b>Tifa</b><br/>Oh, look at the time. We should be getting back.</p>
+<p class="indent">[<a href="#cait">Cloud and Tifa return to the Station...</a>]</p>
+<hr></hr>
+<p class="italic"><a name="yuffie"></a>Yuffie enters Cloud's room.</p>
+<p class="indent"><b>Yuffie</b><br/>Cloud you up?</p>
+<p class="indent"><b>Cloud</b><br/>What's wrong?</p>
+<p class="indent"><b>Yuffie</b><br/>Would you...... keep me company for a bit.</p>
+<p class="indent"><b>Cloud</b><br/>? Keep you company where?</p>
+<p class="italic">Yuffie runs around and starts pushing him out of the room.</p>
+<p class="indent"><b>Yuffie</b><br/>Just come on.</p>
+<p class="indent"><b>Cloud</b><br/>Hey.</p>
+<p class="italic">Upon arriving together at the Station...</p>
+<p class="indent"><b>Man</b><br/>Tonight's Enchantment Night! All the attractions are free.<br/>How 'bout it you two? There's going to be an entertaining show in Event Square!</p>
+<p class="indent"><b>Yuffie</b><br/>Cloud, let's go.</p>
+<p class="italic"><a name="yevent"></a>The two of them head for Event Square, where they are greeted immediately.</p>
+<p class="indent"><b>Man</b><br/>Congratulations!!<br/>You are our 100th couple today!!<br/>You two will be the leads in tonight's show!!!!</p>
+<p class="indent"><b>Cloud</b><br/>Wha?</p>
+<p class="indent"><b>Man</b><br/>Oh, now, it's not hard. Just play it however you want to and the rest of the cast will cover up for you.<br/>Come this way.</p>
+<p class="indent"><b>Cloud</b><br/>H, hey!</p>
+<p class="indent"><b>Yuffie</b><br/>I don't know what it's all about but sounds kind of cool. Wanna try it, Cloud?</p>
+<p class="italic">She runs off after the man. Cloud shrugs and follows. The show opens to an empty stage and the narration begins.</p>
+<p class="indent"><b>Narrator</b><br/>Long, long ago...<br/>An evil shadow appeared over the peaceful kingdom of Galdia...<br/>Princess Rosa was just kidnapped by the Evil Dragon King, Valvados. What will become of her?<br/>Just then, the legendary hero, Alfred, appears!!</p>
+<p class="indent"><b>Knight</b><br/>Oh...... You must be the legendary hero...Alfred!</p>
+<p class="italic">Cloud shakes his head, staring out at the audience.</p>
+<p class="indent"><b>Knight</b><br/>Hey, it's your line.</p>
+<p class="italic">Cloud points to himself incredulously.</p>
+<p class="indent"><b>Knight</b><br/>Yeah, you.<br/>Ahem!<br/>Oh...... You must be the legendary hero, Alfred!<br/>I know in my soul. Please... please save Princess Rosa!<br/>Now......Please talk... to the King......!!</p>
+<p class="indent"><b>King</b><br/>Oh...legendery hero, Alfred. You have come to save my beloved Rosa...<br/>Oh the peak of a dangerous mountain...dwells the Evil Dragon King, Valvados... who's kidnapped Princess Rosa...<br/>But... you can't beat the Evil Dragon King now! Talk to the one who can help you......<br/>Who will you talk to?</p>
+<p class="indent"><b>Cloud</b><br/>- <a href="#yknight">The knight</a><br/>- <a href="#ywizard">The wizard</a></p>
+<div class="block"/>
+  <a name="yknight"></a><p><span class="highlight">The knight</span></p>
+  <p class="indent-nopad"><b>Knight</b><br/>I am...a lowly...knight. How...can I help you?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#ydefeatedk">Defeat the Evil Dragon King</a><br/>- <a href="#ydefeatking">Defeat the King</a></p>
+  <div class="block"/>
+    <a name="ydefeatedk"></a><p><span class="highlight">Defeat the Evil Dragon King</span></p>
+    <p class="indent-nopad"><b>Narration</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Yuffie.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Yuffie</b><br/>Please help me...Legendary hero!<br/>...Was that good?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaah! Here I come, Legendary hero...Alfred!<br/>I already know...your name!</p>
+    <p class="indent-nopad"><b>Knight</b><br/>Uuuuuuurrrrgghh!</p>
+    <p class="italic-inline-nopad">He throws himself at the dragon king, but gets knocked out.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaaaaaaaahh! What now...Legendary hero!?</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#ytoprincess">To the Princess</a><br/>- <a href="#ytoking">To the King</a><br/>- <a href="#ytohome">To home</a></p>
+    <div class="block"/>
+      <a name="ytoprincess"></a><p><span class="highlight">To the Princess</span></p>
+      <p class="italic">Cloud goes to Yuffie and kisses her hand.</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Cloud... I mean, Alfred...</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud and Yuffie follow suit.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Knight</b> (still lying on the stage)<br/>......... Someone...help......</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="ytoking"></a><p><span class="highlight">To the King</span></p>
+      <p class="italic">Cloud goes to the king and kisses his hand.</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh......Alfred...! In truth... I too......</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>What...?<br/>...That's it?</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="ytohome"></a><p><span class="highlight">To home</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Come on, Cloud!! I'm tryin' to be serious here and you...<br/>Ok, now I'm pissed!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Just shut up!!</p>
+      <p class="italic-inline-nopad">She punches the EDK off stage.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+  
+  <div class="block"/>
+    <a name="ydefeatking"></a><p><span class="highlight">Defeat the King</span></p>
+    <p class="indent-nopad"><b>Narrator</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Yuffie.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>What ho! Do you dare ignore the Evil Dragon King!?<br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Yuffie</b><br/>Please help me...Legendary hero!<br/>...Was that good?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Who is your enemy...? Say it!</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#yenemyedk">The Evil... Dragon... King...</a><br/>- <a href="#yenemyking">The King</a><br/>- <a href="#yenemyknight">That Knight</a></p>
+    <div class="block"/>
+      <a name="yenemyedk"></a><p><span class="highlight">The Evil... Dragon... King...</span></p>
+      <p class="italic">Cloud runs to the EDK and kisses his hand.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>What...<br/>Urrrrrgh</p>
+      <p class="italic">The EDK turns into a black-haired girl.</p>
+      <p class="indent-nopad"><b>Beautiful Girl</b><br/>Thank...you. You've released me...from the spell and I am back to my normal self...</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud follows, leaving Yuffie behind.</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>What...?<br/>...That's it?</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="yenemyking"></a><p><span class="highlight">The King</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Come on, Cloud!! I'm tryin' to be serious here and you...<br/>Ok, now I'm pissed!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Just shut up!!</p>
+      <p class="italic-inline-nopad">She punches the EDK off stage.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="yenemyknight"></a><p><span class="highlight">That Knight</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Come on, Cloud!! I'm tryin' to be serious here and you...<br/>Ok, now I'm pissed!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Just shut up!!</p>
+      <p class="italic-inline-nopad">She punches the EDK off stage.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+  
+
+<div class="block"/>
+  <a name="ywizard"></a><p><span class="highlight">The wizard</span></p>
+  <p class="indent-nopad"><b>Wizard</b><br/>I am the great wizard, Vorman. What do you wish to know?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#yedkweakness">The Evil Dragon King's weakness</a><br/>- <a href="#yprincessmeasurements">The Princess' measurements</a></p>
+  <div class="block"/>
+    <a name="yedkweakness"></a><p><span class="highlight">The Evil Dragon King's weakness</span></p>
+    <p class="indent-nopad"><b>Wizard</b><br/>Ahh, the weakness of the Evil Dragon King. It must be, it must be...<br/>Yes, it must be... True Love!<br/>The power of love... Is the only weapon that can withstand the fangs of the EDK...!</p>
+    <p class="indent-nopad"><b>Narrator</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Yuffie.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Yuffie</b><br/>Please help me...Legendary hero!<br/>...Was that good?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaah! Here I come, Legendary hero...Alfred!<br/>I already know...your name!</p>
+    <p class="indent-nopad"><b>Wizard</b><br/>And now...Legendary hero...! Here is what will happen...to your beloved......<br/>A kiss! The power of True Love!!</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#ykissprincess">Kiss the Princess</a><br/>- <a href="#ykissedk">Kiss the Evil Dragon King</a><br/>- <a href="#ykissking">Kiss the King</a></p>
+    <div class="block"/>
+      <a name="ykissprincess"></a><p><span class="highlight">Kiss the Princess</span></p>
+      <p class="italic">Cloud goes to Yuffie and kisses her hand.</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Cloud... I mean, Alfred...</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="action">The cast spins off the stage. Cloud and Yuffie follow suit.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="ykissedk"></a><p><span class="highlight">Kiss the Evil Dragon King</span></p>
+      <p class="italic">Cloud runs to the EDK and kisses his hand.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>What...<br/>Urrrrrgh</p><p class="italic">The EDK turns into a black-haired girl.</p>
+      <p class="indent-nopad"><b>Beautiful Girl</b><br/>Thank...you. You've released me...from the spell and I am back to my normal self...</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud follows, leaving Yuffie behind.</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>What...?<br/>...That's it?</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="ykissking"></a><p><span class="highlight">Kiss the King</span></p>
+      <p class="italic">Cloud goes to the king and kisses his hand.</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh......Alfred...! In truth... I too......</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Arrggaahhh!! Curses......The power of...love!!</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>What...?<br/>...That's it?</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+  
+  <div class="block"/>
+    <a name="yprincessmeasurements"></a><p><span class="highlight">The Princess' measurements</span></p>
+    <p class="indent-nopad"><b>Narrator</b><br/>Oh what is going to happen next...! Oh...Legendary hero...look!</p>
+    <p class="italic">The Evil Dragon King enters carrying Yuffie.</p>
+    <p class="indent-nopad"><b>EDK</b><br/>What ho! Do you dare ignore the Evil Dragon King!?<br/>Gaaaaaaaah!<br/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you!</p>
+    <p class="indent-nopad"><b>Yuffie</b><br/>Please help me...Legendary hero!<br/>...Was that good?</p>
+    <p class="indent-nopad"><b>EDK</b><br/>Who is your enemy...? Say it!</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- <a href="#yenemyedk2">The Evil... Dragon... King...</a><br/>- <a href="#yenemyking2">The King</a><br/>- <a href="#yenemyknight2">That Knight</a></p>
+    <div class="block"/>
+      <a name="yenemyedk2"></a><p><span class="highlight">The Evil... Dragon... King...</span></p>
+      <p class="italic">Cloud runs to the EDK and kisses his hand.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>What...<br/>Urrrrrgh</p>
+      <p class="italic">The EDK turns into a black-haired girl.</p>
+      <p class="indent-nopad"><b>Beautiful Girl</b><br/>Thank...you. You've released me...from the spell and I am back to my normal self...</p>
+      <p class="indent-nopad"><b>King</b><br/>Oh...look! Love has...triumphed!<br/>Now let's all return... And celebrate.</p>
+      <p class="indent-nopad"><b>Wizard</b><br/>Yes let's...yes let's...!</p>
+      <p class="italic">The cast spins off the stage. Cloud follows, leaving Yuffie behind.</p>
+      <p class="indent-nopad"><b>Narration</b><br/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after.</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>What...?<br/>...That's it?</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="yenemyking2"></a><p><span class="highlight">The King</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Come on, Cloud!! I'm tryin' to be serious here and you...<br/>Ok, now I'm pissed!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Just shut up!!</p>
+      <p class="italic-inline-nopad">She punches the EDK off stage.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+    <div class="block"/>
+      <a name="yenemyknight2"></a><p><span class="highlight">That Knight</span></p>
+      <p class="indent-nopad"><b>King</b><br/>Come on! No more!</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Come on, Cloud!! I'm tryin' to be serious here and you...<br/>Ok, now I'm pissed!</p>
+      <p class="italic-inline-nopad">She slaps Cloud and he falls over.</p>
+      <p class="indent-nopad"><b>EDK</b><br/>Gaaaaaahh! You dare ignore me!!</p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Just shut up!!</p>
+      <p class="italic-inline-nopad">She punches the EDK off stage.</p>
+      <p class="indent-nopad"><b>Narrator</b><br/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after.</p>
+      <p class="block-inline-nopad">[<a href="#ygondola">Back to the Station.</a>]</p>
+    
+  
+
+<p class="italic"><a name="ygondola"></a>After the play is over, Cloud and Yuffie return to the Station.</p>
+<p class="indent"><b>Yuffie</b><br/>I didn't get it. Cloud, let's go on the Gondola next.</p>
+<p class="italic">At Round Square, Yuffie walks up to the ticket booth.</p>
+<p class="indent"><b>Yuffie</b><br/>There will be two of us.</p>
+<p class="indent"><b>Woman at Ticket Booth</b><br/>Here you are, two tickets.<br/>Enjoy the sights of Gold Saucer.</p>
+<p class="italic">Cloud and Yuffie get on the gondola.</p>
+<p class="indent"><b>Yuffie</b> (sitting backwards to lean out the window)<br/>Wow!<br/>Geez!!<br/>Cloud!</p>
+<p class="italic-inline">She turns around.</p>
+<p class="block-inline">Cloud......?</p>
+<p class="italic-inline">She gets up and kisses him on the cheek.</p>
+<p class="indent"><b>Cloud</b><br/>............</p>
+<p class="indent"><b>Yuffie</b> (scratching her head)<br/>I just felt like doing that.</p>
+<p class="indent"><b>Cloud</b><br/>............</p>
+<p class="indent"><b>Yuffie</b><br/>That's all.</p>
+<p class="indent"><b>Cloud</b><br/>............</p>
+<p class="indent"><b>Yuffie</b><br/>H, hey!! Say something, why don't you!!</p>
+<p class="indent"><b>Cloud</b><br/>............</p>
+<p class="indent"><b>Yuffie</b><br/>......gawd, I could just die.</p>
+<p class="indent"><b>Cloud</b><br/>............</p>
+<p class="indent"><b>Yuffie</b><br/>Say something, PLEASE!</p>
+<p class="indent"><b>Cloud</b><br/>...................something.</p>
+<p class="italic">Yuffie slaps him.</p>
+<p class="italic">The gondola returns to Round Square, and they get off.</p>
+<p class="indent"><b>Yuffie</b><br/>I'll think I'll sleep really well tonight.<br/>Thanks... for coming with me.</p>
+<p class="italic">Cloud nods.</p>
+<p class="indent"><b>Yuffie</b><br/>You wanna go back, Cloud?</p>
+<p class="indent">[<a href="#cait">Cloud and Yuffie return to the Station...</a>]</p>
+<hr></hr>
+<p class="italic"><a name="barret"></a>Barret enters Cloud's room.</p>
+<p class="indent"><b>Barret</b><br/>Yo, Cloud. You still up?</p>
+<p class="indent"><b>Cloud</b><br/>What's wrong?</p>
+<p class="indent"><b>Barret</b><br/>Uh, I was jes thinkin' of goin' for a walk...</p>
+<p class="indent"><b>Cloud</b><br/>What, just the two of us?</p>
+<p class="indent"><b>Barret</b><br/>What's wrong with that!? Don't gimme no lip!! I say we go!</p>
+<p class="italic">He turns to leave. Cloud shrugs and follows him out. Upon arriving together at the Station...</p>
+<p class="indent"><b>Man</b><br/>Tonight's Enchantment Night! All the attractions are free.<br/>How 'bout it you two? There's going to be an entertaining show in Event Square!</p>
+<p class="indent"><b>Barret</b><br/>Cloud, wanna take a peek?</p>
+<p class="italic">The two of them head for Event Square, where they are greeted immediately.</p>
+<p class="indent"><b>Man</b><br/>Congratulations!!<br/>You are our 100th couple today...... Oh, wait...... no you're not...... Sorry.</p>
+<p class="italic"><a name="bgondola"></a>Cloud and Barret return to the Station.</p>
+<p class="indent"><b>Barret</b><br/>Let's go somewhere where we can talk, in private.</p>
+<p class="italic">They arrive at Round Square.</p>
+<p class="indent"><b>Barret</b><br/>Hey! You mean just the two of us are gettin' on...? ...yeah, I guess that's cool.</p>
+<p class="italic-inline">He walks up to the ticket booth.</p>
+<p class="block-inline">Yo. Two.</p>
+<p class="indent"><b>Woman at Ticket Booth</b><br/>Here you are, two tickets.<br/>Enjoy the sights of Gold Saucer.</p>
+<p class="italic">Cloud and Barret get on the gondola. They sit for a while without talking, Barret tapping his foot and both with their arms folded.</p>
+<p class="indent"><b>Barret</b><br/>Hey foo. What you wanna see fireworks with me for?</p>
+<p class="indent"><b>Cloud</b><br/>Not having fun?</p>
+<p class="indent"><b>Barret</b><br/>You should've asked one or the other!</p>
+<p class="indent"><b>Cloud</b><br/>Which would you have asked?</p>
+<p class="indent"><b>Barret</b><br/>Oh man, there just ain't no choice!<br/>Tifa, Aerith.<br/>Ah, Yuffie?</p>
+<p class="indent"><b>Cloud</b><br/>(hoo boy)</p>
+<p class="indent"><b>Barret</b><br/>What the hell's that supposed to mean?<br/>Hey, you don't mean... Marlene?<br/>NO WAY! Forget it!<br/>There ain't no way I'm lettin' a wacko like you anywhere near my little Marlene!<br/>She's my baby. My prized possession.<br/>......Marlene.<br/>Wish I could've brought Marlene here. She'd love the fireworks.<br/>Why the hell do I gotta be here with a foo like you...<br/>Shit... the more I think 'bout it the madder I get!<br/>Damn fireworks anyways.</p>
+<p class="italic-inline">He fires his gun arm.</p>
+<p class="block-inline">Shut up!!</p>
+<p class="italic">The gondola returns to Round Square, and they get off.</p>
+<p class="indent"><b>Barret</b><br/>Oh man I'm beat. Let's head back.</p>
+<p class="indent">[<a href="#cait">Cloud and Barret return to the Station...</a>]</p>
+<hr></hr>
+<p class="italic"><a name="cait"></a>When Cloud and his date reach the Station, they see Cait Sith there, looking furtive.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>Hey? What's Cait Sith doing?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>That's...... Cait Sith. He seems strange.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Hey, isn't that Cait Sith? What's he doing?</p>
+	<p class="indent-nopad"><b>Barret</b><br/>...it's Cait Sith. What's he doin' so quietly?</p>
+</blockquote>
+<p class="italic">Cait Sith pulls out the Keystone.</p>
+<p class="indent"><b>Cloud</b><br/>!!<br/>Is that the... Keystone?<br/>Hey! Cait Sith!</p>
+<p class="italic">Cait jumps and runs. If Cloud attempts to do anything besides give chase, his date will stop him. Trying to buy tickets at Speed Square...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>We've got no time for this! Let's go after Cait Sith!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>We've got no time to relax. Let's go after Cait Sith!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Is it all right to relax like that? Aren't we going after Cait Sith?</p>
+	<p class="indent-nopad"><b>Barret</b><br/>What're ya doin'? We're goin' after Cait Sith!</p>
+</blockquote>
+<p class="italic">Trying to buy tickets at Round Square...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>We don't have time for this! We've got to go after Cait Sith.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>There's no time to be riding this. Let's hurry after Cait Sith!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Can we be wasting time like this? Aren't we going after Cait Sith?</p>
+	<p class="indent-nopad"><b>Barret</b><br/>The hell you doin'!? We gotta go after Cait Sith!</p>
+</blockquote>
+<p class="italic">Trying to make reservations at Ghost Square...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>here's no time for this! We have to go after Cait Sith.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>There's no time to waste. Let's hurry and go after Cait Sith!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Should we be wasting time like this? Aren't we going after Cait Sith?</p>
+	<p class="indent-nopad"><b>Barret</b><br/>The hell're you doin'!? We're goin' after Cait Sith!</p>
+</blockquote>
+<p class="italic">Trying to register at Battle Square...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>We don't have time for that!? Let's hurry and go after Cait Sith!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>There's no time to waste. Let's hurry after Cait Sith!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Should we be doing that? We've got to go after Cait Sith?</p>
+	<p class="indent-nopad"><b>Barret</b><br/>Whacha doin!? We're goin' after Cait Sith!</p>
+</blockquote>
+<p class="italic">Trying to enter the game area at Wonder Square...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>There's no time for that!! Let's hurry and go after Cait Sith!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>We got no time to relax. Let's hurry and go after Cait Sith!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>You got time to fool around like that? Aren't you goin' after Cait Sith?</p>
+	<p class="indent-nopad"><b>Barret</b><br/>What the hell are you doing!? We gotta go after that damn cat!</p>
+</blockquote>
+<p class="italic">Trying to board the Ropeway...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>There's no time for this, right!? Let's hurry after Cait Sith!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>There's no time to relax. Let's hurry after Cait Sith!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Should we be this laid back? Aren't we going after Cait Sith?</p>
+	<p class="indent-nopad"><b>Barret</b><br/>What the hell are you doing! Let's get Cait Sith!</p>
+</blockquote>
+<p class="italic">Cloud and his date chase after Cait Sith. Eventually they wind up at Chocobo Square.</p>
+<p class="indent"><b>Lady at Entrance</b><br/>Sir, we can't have you doing that!</p>
+<p class="indent"><b>Bystanders</b><br/>What?</p>
+<p class="italic">Cait Sith runs past Cloud and down the steps of Chocobo Square, where Tseng arrives in a helicopter.</p>
+<p class="indent"><b>Cait Sith</b><br/>Hey! Over here! The Keystone!</p>
+<p class="italic-inline">He throws Tseng the Keystone.</p>
+<p class="indent"><b>Tseng</b><br/>Well done.</p>
+<p class="italic">The helicopter flies off as Cloud and his date catch up to Cait Sith.</p>
+<p class="indent"><b>Cloud</b><br/>Hey!</p>
+<p class="indent"><b>Cait Sith</b><br/>W, wait a second. I won't run or hide.<br/>Yes, I was a spy. I was hired by the Shinra.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>...I trusted you. I can't believe you!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Don't mess with us!</p>
+	<p class="indent-nopad"><b>Cloud</b><br/>You think I'm jokin'!?</p>
+	<p class="indent-nopad"><b>Barret</b><br/>Ya dirty &amp;*$*%$!</p>
+</blockquote>
+<p class="indent"><b>Cait Sith</b><br/>I couldn't help it.<br/>How 'bout if we continue like nothing ever happened?</p>
+<p class="indent"><b>Cloud</b><br/>No way, cat! You gotta lot of guts acting like a friend but being a spy!</p>
+<p class="indent"><b>Cait Sith</b><br/>Then, what are you goin' to do? Kill me?<br/>You'd just be wastin' your time if you tried. This body's just a toy anyway.<br/>My real body's at Shinra Headquarters in Midgar. I'm controlin' this toy cat from there.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>So you're from Shinra. Who? Who are you! Tell me!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>So you're from Shinra. Who are you?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Part of the Shinra! Who the *&amp;$# are you!?</p>
+	<p class="indent-nopad"><b>Barret</b><br/>The hell are ya!? What's your real name!?</p>
+</blockquote>
+<p class="indent"><b>Cait Sith</b><br/>Whoa, I can't tell you my name.</p>
+<p class="indent"><b>Cloud</b><br/>We're not gettin' anywhere.</p>
+<p class="indent"><b>Cait Sith</b><br/>See? I told you! Talking won't do any good, so can't we just continue our journey?</p>
+<p class="indent"><b>Cloud</b><br/>You think I'm jokin'!?</p>
+<p class="indent"><b>Cait Sith</b><br/>...Alright, yes, I am a Shinra employee.<br/>But we're not entirely enemies.<br/>...Something bothers me. I think it's your way of life.<br/>You don't get paid. You don't get praised. Yet, you still risk your lives and continue on your journey. Seeing that makes me...<br/>It just makes me think about my life. I don't think I'd feel too good if things ended the way they are now.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>......And so on, and so on...</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>You're lying again.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Sounds fishy---</p>
+	<p class="indent-nopad"><b>Barret</b><br/>Hmph! You ain't foolin' us this time!</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>He'll never tell the truth. Once a spy, always a spy.<br/>We can't go on with someone like that. C'mon get real!!</p>
+<p class="indent"><b>Cait Sith</b><br/>...just as I thought. Talking won't make a bit of difference.<br/>But I prepared something in case this happened.<br/>Why don't you listen to this?</p>
+<div class="highlight"/><p class="indent-nopad"><b>Marlene</b><br/>Papa! Tifa!</p>
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Aerith is Cloud's date...</span></p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Hey! That's Marlene!</p>
+	<div class="highlight-nopad"/><p class="indent-nopad"><b>Marlene</b><br/>Hey! It's the flower lady! Flower lady...</p>
+
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Tifa is Cloud's date...</span></p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Marlene!</p>
+	<div class="highlight-nopad"/><p class="indent-nopad"><b>Marlene</b><br/>Hey! It's Tifa! Tifa! Help, I'm-</p>
+
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Yuffie is Cloud's date...</span></p>
+	<p class="indent-nopad"><b>Cloud</b><br/>...Marlene?</p>
+	<div class="highlight-nopad"/><p class="indent-nopad"><b>Marlene</b><br/>Hey! It's Cloud!</p>
+
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Barret is Cloud's date...</span></p>
+	<p class="indent-nopad"><b>Barret</b><br/>Ma......Marlene!?</p>
+	<div class="highlight-nopad"/><p class="indent-nopad"><b>Marlene</b><br/>Hey! It's Dad! Dad! It's me, Marlene!</p>
+
+<p class="indent"><b>Cait Sith</b><br/>...So, you have to do as I say.</p>
+<p class="indent"><b>Cloud</b><br/>...you're the lowest...</p>
+<p class="indent"><b>Cait Sith</b><br/>I didn't want to do this... using dirty tricks and taking hostages...<br/>But this is how it is... no compromises. So why don't we continue on as we did?</p>
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Cloud has learned what the Keystone is for...</span></p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Tomorrow is the Temple of the Ancients, right? I know where it is so I'll tell you later.<br/>Of course, we'll get there after the Shinra, but you'll have to deal with that.</p>
+
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Cloud hasn't learned about the Keystone...</span></p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Oh, you didn't seem to know this, but...<br/>The Keystone is the key to the Temple of the Ancients. Even so, you're all going, right?<br/>I know where it is, so I'll show you later.<br/>The Shinra have already been there, but I guess you have to deal with that.</p>
+
+<p class="indent"><b>Cloud</b><br/>...Well, we're stuck... We'll have to do what he says.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>I wonder if Marlene is all right... I wonder what happened to Mom.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>......Marlene.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Uh, yup.</p>
+	<p class="indent-nopad"><b>Barret</b><br/>Sorry, Cloud.</p>
+</blockquote>
+<hr></hr>
+<p class="italic"><a name="leaving"></a>Cloud and the others spend the night at Gold Saucer. In the morning, they again gather in the lobby. Cloud is the last to arrive.</p>
+<p class="indent"><b>Cait Sith</b><br/>What took you so long, Cloud?<br/>Oh yeah, about the Temple of the Ancients. I think if we take the Tiny Bronco East towards the sea, we should be able to find it.<br/>Well then, shall we get goin'? Who's gonna go?</p>
+<p class="indent"><b>Aerith</b><br/>I want to go! I'm going for sure!</p>
+<p class="indent"><b>Barret</b><br/>Yo! I'm goin' too, Cloud! Gotta keep movin'!!</p>
+<p class="indent"><b>Tifa</b><br/>You know...... no, forget it. Let's go.</p>
+<p class="indent"><b>Nanaki</b><br/>I'm so excited, my tail's starting to tingle. Let's go, Cloud!</p>
+<p class="indent"><b>Yuffie</b><br/>I'm startin' to get nervous.</p>
+<p class="indent"><b>Cait Sith</b><br/>The Temple of the Ancients is to the east. Shall we go?</p>
+<p class="indent"><b>Vincent</b><br/>The Temple of the Ancients... This might be pretty interesting...</p>
+<p class="indent"><b>Cid</b><br/>I don't care what's goin' on let's just go!</p>
+<p class="italic">Cloud and his chosen party head for the door.</p>
+<p class="indent"><b>Cait Sith</b><br/>Then see you later.</p>
+<p class="indent"><b>Fortune Telling Machine</b> (at Wonder Square)<br/>What you search for is in the Southeast</p>
+<p class="italic">Cloud and the others leave Gold Saucer to search out the Temple of the Ancients.</p>
+
+</scene>

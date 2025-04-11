@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="GoldSaucerCaitSith">
+
+<h1>Gold Saucer - Meeting Cait Sith</h1>
+
+<h4><a href="#arrival">Arrival at Gold Saucer</a></h4>
+<h4><a href="#explore">Exploring Gold Saucer</a></h4>
+<h4><a href="#cait">Meeting Cait Sith</a></h4>
+<h4><a href="#battle">Battle Square</a></h4>
+<hr></hr>
+<p class="italic"><a name="arrival"></a>Cloud and the others take the Ropeway from North Corel up to Gold Saucer.</p>
+<p class="indent"><b>Chocobo Mascot</b><br/>Welcome to the Gold Saucer.</p>
+<p class="italic">If Cloud attempts to enter without paying, he's stopped by the admissions lady.</p>
+<p class="indent"><b>Admissions Lady</b><br/>Please buy your ticket here.</p>
+<p class="indent"><b>Admissions Lady</b><br/>Welcome to the Gold Saucer.<br/>Are you together? A single pass is 3000 gil, or you can purchase a lifetime pass for 30000 gil.</p>
+<p class="indent"><b>Cloud</b><br/>- Pay 3000 gil<br/>- Pay 30000 gil<br/>- Don't pay</p>
+<div class="block"/>
+  <p><span class="highlight">Pay 3000 gil</span></p>
+  <p class="indent-nopad"><b>Admissions Lady</b><br/>Thank you very much.<br/>If you leave Gold Saucer, your tickets become invalid.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Pay 30000 gil</span></p>
+  <p class="indent-nopad"><b>Admissions Lady</b><br/>Thank you very much.<br/>If you have a Gold Ticket, you can come and go freely into the park... as long as you don't lose it.</p>
+
+<p class="indent"><b>Admissions Lady</b><br/>Here at the Gold Saucer, there are many places where you must pay with GP.<br/>Just think of 'GP' as money that you can only use at the Gold Saucer.<br/>GP can only be redeemed at the games in Wonder Square and at the Chocobo Races.<br/>Your GP limit is 10000, so please be careful.<br/>Please enjoy yourselves.</p>
+<p class="italic">Moving on through the entrance, they find themselves in the central hub of Gold Saucer, called the Station.</p>
+<p class="indent"><b>Aerith</b><br/>Wow! Let's have fun!<br/>I know this isn't the right time to do this.<br/>Hey, Barret, cheer up!</p>
+<p class="indent"><b>Barret</b><br/>......I ain't in no cheery mood. So jes' leave me alone.</p>
+<p class="indent"><b>Aerith</b><br/>Really? That's too bad.</p>
+<p class="italic-inline">She runs over to Cloud and grabs his arm.</p>
+<p class="block-inline">Let's go!</p>
+<p class="indent"><b>Tifa</b><br/>....whisper... whisper... (Wasn't that a little harsh, Aerith!?)</p>
+<p class="indent"><b>Aerith</b><br/>...whisper... whisper... (Just act normal when this happens)</p>
+<p class="indent"><b>Tifa</b><br/>...whisper... (You think so...?)</p>
+<p class="indent"><b>Aerith</b><br/>Of course!</p>
+<p class="italic-inline">She runs back over to Barret.</p>
+<p class="block-inline">We're gonna go play...</p>
+<p class="indent"><b>Barret</b><br/>So PLAY! ...messin' round #@^%$!<br/>Don't forget we're after Sephiroth!</p>
+<p class="italic-inline">He runs over and jumps down the tube leading to Wonder Square.</p>
+<p class="indent"><b>Aerith</b><br/>...I think he's mad.</p>
+<p class="indent"><b>Tifa</b><br/>He'll be fine. He seems to be doing a little better now.</p>
+<p class="indent"><b>Aerith</b><br/>I wish we could just forget everything and have fun!</p>
+<p class="indent"><b>Tifa</b><br/>We'd better be careful, Sephiroth might be around.</p>
+<p class="indent"><b>Red XIII</b><br/>......You want to go with me?</p>
+<p class="indent"><b>Yuffie</b><br/>With me!?</p>
+<p class="italic">If Cloud tries to leave the Station alone, one of them will run up to him...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>Cloud!<br/>Don't go alone, go with me!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Cloud!<br/>I'll go with you.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Cloud!<br/>Don't go by yourself...</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Cloud!<br/>Let's go together, Cloud!</p>
+</blockquote>
+<p class="indent"><b>Info Board inside the Station</b><br/>Welcome to Gold Saucer!<br/>Many attractions await you here at Gold Saucer.<br/>You will be moved and excited, thrilled and terrified! Led from one zone to another...<br/>unlike anything you've ever experienced! Make your memories... today.<br/>Shinra<br/>"Now in: Gold Gate" Let's access all of the Attractions!<br/>"Event Square" An entertaining show is awaiting you.<br/>"Chocobo Square" Chocobo Racing takes you into the world of Virtual Reality! Wark! Wark!<br/>"Ghost Square" Please come and stay at the hotel..... Ha ha ha...<br/>"Battle Square" Go to the limits in heated battles! Try your hand at the special Gold Attack!!<br/>"Round Square" Take a tour of the Park and see the beautiful night scenery of Gold Saucer...<br/>"Speed Square" A Shooting Roller Coaster is waiting to take you into the world of excitement.<br/>"Wonder Square" A number of Games await you here. Collect GP at Wonder Square and play some more!</p>
+<p class="italic"><a name="explore"></a>Cloud chooses one member of the group to accompany him, and they set off to explore Gold Saucer. At Chocobo Square... A bunch of Shinra soldiers are gathered on the steps.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>What happened?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>What?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>What happened?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>What is it?</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>Sh...!<br/>Shinra soldiers... Even here...</p>
+<p class="indent"><b>Soldier</b><br/>Attention! Dismissed!!</p>
+<p class="italic">The soldiers disperse to different areas of the Gold Saucer, and after a moment Cloud heads up the stairs.</p>
+<p class="indent"><b>Lady at Entrance</b><br/>Welcome to Chocobo Racing.</p>
+<p class="indent"><b>Man Betting</b><br/>I... I lost...</p>
+<p class="italic-inline">Or, sometimes:</p>
+<p class="block-inline">Yeahh! This is why I can't seem to quit.</p>
+<p class="indent"><b>Man</b><br/>You can only buy up to 3 tickets. Think before you buy. For example, you could select half of the Chocobos and buy 3 boxes.</p>
+<p class="indent"><b>Cloud</b><br/>- Boxes?<br/>- Not interested</p>
+<p class="indent"><b>Man</b><br/>A box is buying 3 combinations of 2 chocobos.<br/>For example, if you select Chocobo 1, 3, and 5, you can purchase combinations, such as 1-3, 1-5, 3-5.<br/>You can also play the limited wheel by selecting a Chocobo.</p>
+<p class="indent"><b>Cloud</b><br/>- Limited wheel?<br/>- Not interested</p>
+<p class="indent"><b>Man</b><br/>Playing a 'Limited wheel' means you select a Chocobo and use it in all of your combinations.<br/>For example, if you have Chocobo 1, then you buy 1-2, 1-3, 1-4.<br/>No matter how you make your bet, you win some and you lose some. It all comes down to insight and luck.</p>
+<p class="indent"><b>Security</b> (near Jockey Lounge)<br/>I'm sorry, but this is for authorized personnel only.</p>
+<p class="indent"><b>Blond Man</b><br/>We usually buy tickets for the B rank and C rank races, right?</p>
+<p class="indent"><b>Cloud</b><br/>- Rank?<br/>- Not interested</p>
+<p class="indent"><b>Blond Man</b><br/>In other words, 'rank' means the Chocobo's 'strength'. A is highest and C's the lowest.<br/>When you become a Free Chocobo jockey, you'll be able to buy A rank tickets.<br/>Of course, the higher the rank, the better your item ticket. Hey, maybe I'll become a Chocobo jockey!?</p>
+<p class="indent"><b>Cloud</b><br/>- How DO you become one?<br/>- Not interested</p>
+<p class="indent"><b>Blond Man</b><br/>You can become one if you own a Chocobo... and have some connections. But Chocobo's are pretty hard to catch and I don't have any connections.</p>
+<p class="indent"><b>Woman</b><br/>Hey, what's that Chocobo on the odds sheet?</p>
+<p class="indent"><b>Redhead</b><br/>That's how you can find out a Chocobo's condition and strengths.</p>
+<p class="indent"><b>Woman</b><br/>Hmm, If you can tell which ones are the strongest, then it's easy...</p>
+<p class="indent"><b>Redhead</b><br/>Well, not as easy as you think. It's not just a matter of the Chocobo's strength,<br/>but it also depends on the jockey and the Chocobo's personality.<br/>If these are bad, they may use too much stamina, and affect other things.</p>
+<p class="indent"><b>Lady at the Ticket Desk</b><br/>Welcome. Would you like to buy some Chocobo tickets?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah<br/>- Ask how to buy<br/>- Explain it to me<br/>- Not interested</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah</span></p>
+  <p class="indent-nopad"><b>Lady at the Ticket Desk</b><br/>Registration fees are 200 gil. Is that all right?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Yeahhh!<br/>- No way!</p>
+  <p class="indent-nopad"><b>Lady at the Ticket Desk</b><br/>Which rank would you like to select?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- C (1BET 1 0 0 gil)<br/>- B (1BET 2 0 0 gil)<br/>- Quit</p>
+
+<div class="block"/>
+  <p><span class="highlight">Ask how to buy</span></p>
+  <p class="indent-nopad"><b>Lady at the Ticket Desk</b><br/>You are allowed a maximum of 3 bets on your Chocobo ticket.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Explain it to me</span></p>
+  <p class="indent-nopad"><b>Lady at the Ticket Desk</b><br/>This Chocobo Race has Virtual devices on the course.<br/>They show natural scenery during the race that really doesn't exist.<br/>You pick which Chocobo will finish first and second here,<br/>And then buy the appropriate tickets.<br/>And if the ticket you purchased is a winner, you'll receive a ticket for an item that will be listed on the panel.<br/>You can exchange your tickets for items or GP at the Exchange counter to the right of the entrance.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Not interested</span></p>
+  <p class="italic">Nothing happens.</p>
+
+<p class="italic">At Battle Square, there is a staff woman standing in front of the stairs.</p>
+<p class="indent"><b>Woman</b><br/>I'm sorry, we're currently renovating. Please come again.</p>
+<p class="italic">At Ghost Square, a zombie greets Cloud as he enters the hotel.</p>
+<p class="indent"><b>Zombie</b><br/>Welcome. Thank you for coming to the Ghost Hotel.<br/>Uuuuuuuuuuugh......<br/>For reservations, please step up to the counter.<br/>Uuuuuuuuuuugh......</p>
+<p class="italic">Cloud steps up to the counter, and a man in a noose drops down with a scream.</p>
+<p class="indent"><b>Receptionist</b><br/>It's our most popular employee, Mr. Hangman.</p>
+<p class="indent"><b>Mr. Hangman</b><br/>Welcome!<br/>It's 5 GP a night. Would you like to stay?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah, all right<br/>- No thanks</p>
+<p class="indent"><b>Flyer</b><br/>[Turtle's Paradise]<br/>No. 3<br/>Forget the bad times with a nice drink...<br/>Only thing missing in Gold Saucer is......<br/>A pub with good drinks and a great atmosphere!<br/>Stop in the "Turtle's Paradise"!</p>
+<p class="italic">If Cloud attempts to go upstairs without paying...</p>
+<p class="indent"><b>Mr. Hangman</b><br/>Sir... Please register at the counter!!</p>
+<p class="italic">At Round Square...</p>
+<p class="indent"><b>Woman at Ticket Booth</b><br/>Welcome. This attraction is 3 GP.<br/>Shall you be riding this evening?</p>
+<p class="indent"><b>Cloud</b><br/>- Yes, I shall<br/>- No, I shan't</p>
+<div class="block"/>
+	<p><span class="highlight">Yes, I shall</span></p>
+	<p class="indent-nopad"><b>Woman at Ticket Booth</b><br/>Would this be your first time riding with us?</p>
+	<p class="indent-nopad"><b>Cloud</b><br/>- Yes, it would<br/>- No, it would not</p>
+	<div class="block"/>
+		<p><span class="highlight">Yes, it would</span></p>
+		<p class="indent-nopad"><b>Woman at Ticket Booth</b><br/>You will be able to see all the different areas of Gold Saucer on this ride.<br/>So please just sit back and enjoy a lovely view you won't see anywhere else.<br/>This attraction can only ccommodate 2 passengers, so one of you please wait over there.</p>
+	
+	<div class="block"/>
+		<p><span class="highlight">No, it would not</span></p>
+		<p class="indent-nopad"><b>Woman at Ticket Booth</b><br/>This attraction can only ccommodate 2 passengers, so one of you please wait over there.</p>
+	
+	<p class="indent-nopad"><b>Cloud</b><br/>Who should I ride with...</p>
+	<p class="italic">Cloud selects a companion.</p>
+	<p class="indent-nopad"><b>Woman at Ticket Booth</b><br/>Enjoy the sights of Gold Saucer.</p>
+	<p class="italic">Cloud and his companion ride the gondola.</p>
+	<blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Aerith</b><br/>Wow, how nice.<br/>Oh! Look, Cloud.<br/>It's so pretty.<br/>Cloud!<br/>Wow!</p>
+		<p class="indent-nopad"><b>Tifa</b><br/>Oh, how pretty.<br/>Look, Cloud.<br/>Oh, Cloud.<br/>Look, look.<br/>Look, there.</p>
+		<p class="indent-nopad"><b>Yuffie</b><br/>Wow!<br/>Geez!!<br/>Cloud!<br/>Oh my gawd!<br/>Geez!</p>
+	</blockquote>
+
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Cloud does not have enough GP to pay.</span></p>
+	<p class="indent-nopad"><b>Woman at Ticket Booth</b><br/>Um, I'm very sorry, but you do not have enough GP.</p>
+
+<p class="italic">At Speed Square, a muscular man addresses Cloud when he arrives.</p>
+<p class="indent"><b>Man</b><br/>Hey boy.</p>
+<p class="indent"><b>Cloud</b><br/>Boy...</p>
+<p class="indent"><b>Man</b><br/>How is it? You having fun?<br/>Mmm, so, you ARE having fun. Well, good, good for you boy.</p>
+<p class="indent"><b>Cloud</b><br/>My name's Cloud. And stop calling me boy.</p>
+<p class="indent"><b>Dio</b><br/>Mmm? Me? I'm the owner of the Gold Saucer. The name's Dio.<br/>Just call me 'Dio'.</p>
+<p class="indent"><b>Cloud</b><br/>...... (Not even listening)</p>
+<p class="indent"><b>Dio</b><br/>By the way, boy, do you know what a 'Black Materia' is?</p>
+<p class="indent"><b>Cloud</b><br/>- I know what it is<br/>- What is it?</p>
+<div class="block"/>
+  <p><span class="highlight">I know what it is</span></p>
+  <p class="indent-nopad"><b>Dio</b><br/>Oh, so you do know.</p>
+
+<div class="block"/>
+  <p><span class="highlight">What is it?</span></p>
+  <p class="indent-nopad"><b>Dio</b><br/>Ha ha ha...... that, I say, that's a good one, boy! But it's not good to lie. You can't fool me.</p>
+
+<p class="indent"><b>Cloud</b><br/>Why d'you ask me?</p>
+<p class="indent"><b>Dio</b><br/>Well, a while back, a boy your age came in and asked me if I had a 'Black Materia.'<br/>I thought you might know who he was, seein' as how you're both about the same age.</p>
+<p class="indent"><b>Cloud</b><br/>Did he happen to have... a Black Cape...</p>
+<p class="indent"><b>Dio</b><br/>Why yes, yes indeed. And a tattoo on his hand that said '1'.</p>
+<p class="indent"><b>Cloud</b><br/>Where did he go!?</p>
+<p class="indent"><b>Dio</b><br/>Ha ha ha, I have no idea.<br/>Well then.<br/>I say, stop by the Battle Arena if you like, boy.<br/>You'll probably like it. Many of my collections are on display there.<br/>Ha, ha ha.</p>
+<p class="italic-inline">He leaves.</p>
+<p class="indent"><b>Person</b><br/>We have to be careful of these steps.<br/>What...? A lot of things...</p>
+<p class="indent"><b>Redhead</b><br/>First, I gotta memorize the order it comes out, and then guess on the attacks...... mumble, mumble......</p>
+<p class="italic">Onward to the roller coaster. If Cloud tries to get on without buying a ticket...</p>
+<p class="indent"><b>Ticket Person</b><br/>This way, Sir, to register.</p>
+<p class="indent"><b>Ticket Person</b><br/>Is this your first time? First, listen to the explanation of the game over there.</p>
+<p class="indent"><b>Lady</b><br/>Hear the rules for this attraction?</p>
+<p class="indent"><b>Cloud</b><br/>- Yes<br/>- Not interested</p>
+<p class="indent"><b>Lady</b><br/>This attraction, Shooting Coaster is<br/>While your ride's going ZOOM, you're going BANG BANG, and things are going PHEW PHEW and you destroy them with a big BOOM. Pretty simple, isn't it?<br/>Oh, to shoot, hit the O Button. And, the Bar that's shown on the left side of the screen is the Power Meter.<br/>When it's full, it'll go BROOOOOM and when it's empty, it'll only go BRM and become weak. So be careful.<br/>Also, if you're in the Top 3 you'll get on the Wall of Fame.</p>
+<p class="indent"><b>Ticket Person</b><br/>This attraction costs 10 GP.</p>
+<p class="indent"><b>Cloud</b><br/>- Pay<br/>- Changed my mind</p>
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Cloud does not have enough GP to pay.</span></p>
+	<p class="indent-nopad"><b>Ticket Person</b><br/>......... You don't have enough GP</p>
+
+<div class="block"/>
+	<p class="italic"><span class="highlight">Otherwise</span></p>
+	<p class="indent-nopad"><b>Ticket Person</b><br/>Thank you.</p>
+
+<p class="italic">Cloud and the others ride the coaster.</p>
+<p class="indent"><b>Wall of Fame Staffer</b><br/>Your score is x points.</p>
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Cloud scored 3000-4999 points...</span></p>
+	<div class="highlight-nopad"/><p>As a price, Received "Super Sweeper/Masamune Blade/1/35 soldier"!!</p>
+
+<div class="block"/>
+	<p class="italic"><span class="highlight">If Cloud scored 5000+ points...</span></p>
+	<div class="highlight-nopad"/><p>As a price, Received "Umbrella"!!</p>
+
+<p class="italic">Sometimes after coming off the roller coaster, Cloud will walk to the side and hang his head.</p>
+<p class="indent"><b>Cloud</b><br/>Ugh...</p>
+<p class="indent"><b>Wall of Fame Staffer</b><br/>Would you like to see the Wall of Fame?</p>
+<p class="indent"><b>Cloud</b><br/>- Yes<br/>- Not interested</p>
+<p class="italic">Cloud's current 3 high scores are displayed.</p>
+<p class="indent"><b>Wall of Fame Staffer</b><br/>You'll receive a prize if you get more than 3000 Points. So good luck.</p>
+<p class="italic">Stepping back into the hallway, Cloud may encounter a couple standing there.</p>
+<p class="indent"><b>Man</b><br/>Hey, I finally got 5000 points.</p>
+<p class="indent"><b>Woman</b><br/>Wow!! You're so wonderful!!</p>
+<p class="indent"><b>Man</b><br/>Man, I finally got a prize...</p>
+<p class="italic">The next time Cloud sees the couple...</p>
+<p class="indent"><b>Man</b><br/>Hey, I got 5000 points again.</p>
+<p class="indent"><b>Woman</b><br/>Wow!! You're so wonderful!!</p>
+<p class="indent"><b>Man</b><br/>Well, I guess I'll go and get some more GP.</p>
+<p class="italic">Sometimes a pair of children will appear running towards the coaster.</p>
+<p class="indent"><b>Little Girl</b><br/>Eyyaaaaaa!</p>
+<p class="indent"><b>Little Boy</b><br/>Yaaay----!!</p>
+<p class="indent"><b>Man</b><br/>Come on now, no running.</p>
+<p class="italic">At Event Square, the stands are empty except for some staff members and two couples sitting around.</p>
+<p class="indent"><b>Security</b><br/>Sorry but there's no show now.</p>
+<p class="indent"><b>Staffer</b><br/>We put on a really unusual show here. It's not on today, but come back again sometime and see it.</p>
+<p class="indent"><b>Couple</b><br/>What's your problem? Can't you see we wanna be alone?</p>
+<p class="indent"><b>Couple 2</b><br/>Geez, you're a real bummer. Why don't you just leave us alone?</p>
+<p class="italic"><a name="cait"></a>At Wonder Square, Cloud and his companion are approached by a black cat toy riding a giant stuffed moogle.</p>
+<p class="indent"><b>Cait Sith</b><br/>Hey you!! What're you lookin' so down for!?<br/>How 'bout it? Want me to read your fortune!? A bright future! A happy future!<br/>Oh, but don't hold it against me if it's not a great prediction!<br/>Oh, so sorry! I'm a fortune telling machine. The name's...<br/>Cait Sith.</p>
+<p class="indent"><b>Cloud</b><br/>You can only read the future?</p>
+<p class="indent"><b>Cait Sith</b><br/>You kidding!? I can find missing things, missing people, anything!</p>
+<p class="indent"><b>Cloud</b><br/>Then can you tell me where a man named Sephiroth is?</p>
+<p class="indent"><b>Cait Sith</b><br/>Sephiroth, right!?<br/>Okay, here goes!!</p>
+<p class="italic">He shakes about on his moogle, and it then hands Cloud a fortune.</p>
+<p class="indent"><b>Cloud</b><br/>...Ordinary luck. It will be an active fortune.<br/>Give into the good will of others, and something big'll happen after summer. ...wait... what's this?</p>
+<p class="indent"><b>Cait Sith</b><br/>Huh? Let me try again.</p>
+<p class="indent"><b>Cloud</b><br/>Be careful of forgetfulness. Your lucky color is... blue?<br/>...Forget it.</p>
+<p class="indent"><b>Cait Sith</b><br/>Wait, wait give me another chance!<br/>Wait! Let me try it again!</p>
+<p class="indent"><b>Cloud</b><br/>...What the!?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>What?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>What does it say?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Read it out loud, Cloud.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>What is it! Tell us!</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>What you pursue will be yours. But you will lose something dear.</p>
+<p class="indent"><b>Cait Sith</b><br/>I don't know if it's good OR bad...<br/>This's the first time I ever got something like THIS.<br/>Then shall we?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>What are you talking about?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Excuse me?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>To where?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Huh?</p>
+</blockquote>
+<p class="indent"><b>Cait Sith</b><br/>As a fortune teller, I can't help but think about this.<br/>If I don't see what it leads to, I won't be able to relax. That's why I'm going with you!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>What are we going to do, Cloud?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Is it all right, Cloud?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Cloud, it's all right with you?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>He's weird! Cloud, don't let him come!</p>
+</blockquote>
+<p class="indent"><b>Cait Sith</b><br/>I'm comin' with you no matter WHAT you say!</p>
+<p class="indent"><b>Cloud</b><br/>H... hey!</p>
+<p class="indent"><b>Man in Overalls</b><br/>They probably told you at the entrance, but most of the attractions at Gold Saucer only take 'GP'.<br/>They don't sell GP. You can only get 'em from the Wonder Square games or at the Chocobo Races.</p>
+<p class="indent"><b>Chocobo Mascots</b><br/>Let's get lotsa GP at Wonder Square and have some fun!</p>
+<p class="indent"><b>People Playing Wonder Catcher</b><br/>All...... most......<br/>Crap!<br/>no cigar...<br/>You sure do need a lot of money here.<br/>Please...... don't...... talk to me...... right now.<br/>I get so caught up in these......<br/>Back there...</p>
+<p class="indent"><b>Guy on Motorcycle Game</b><br/>Hyuuuuu, BAM, BAM, BAM...<br/>Oh man, I just gotta shout.</p>
+<p class="indent"><b>Guy on Snowboard Game</b><br/>Nope, I'm not quitting until I clear this!<br/>I'm gonna be the wind again today!</p>
+<p class="indent"><b>Guy Near Submarine Game</b><br/>Whew, I'm tired. Oh this? It seems to be out of order.</p>
+<p class="indent"><b>Guy Near Mog Game</b><br/>...... Don't worry 'bout me. Go ahead and play.</p>
+<p class="italic">Cloud plays Mog House.</p>
+<p class="indent"><b>Narration</b><br/>This is Mog's house. It's in Mog Forest on Mt. Mog.<br/>The beginning of another day in the life of a Mog.<br/>This year, Mog is pipapopupo years old. ...that's 28 in human years. He's at that age when he should be looking for a mate.<br/>But before Mog can become an adult, he first needs to learn how to fly.<br/>Even though Mog trains hard everyday... He still can't seem to get off the ground...</p>
+<p class="italic">Mog tries to fly and falls on his face.</p>
+<p class="indent"><b>Narration</b><br/>Looks like he's still got a long way to go...<br/>Here's where you come in. Help Mog learn how to fly by pushing O button and feeding him his favorite Kupo nut.<br/>But don't overfeed him. He won't be able to fly if he's too fat.</p>
+<p class="italic">Cloud feeds Mog Kupo nuts, and he hops up again.</p>
+<p class="indent"><b>Narration</b><br/>Oh? It seems like Mog's decided to take another shot at it.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud fed him the wrong number of nuts...</span></p>
+  <p class="italic">He falls flat on his face again.</p>
+  <p class="indent-nopad"><b>Narration</b><br/>Poor Mog. It looks like he'll have to wait some time for a mate.<br/>Poor Mog, seems like he'll be alone for a while.</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud fed him the right number of nuts...</span></p>
+  <p class="italic">Mog takes off and makes a few circuits around the screen.</p>
+  <p class="indent-nopad"><b>Narration</b><br/>He did it! He's flying! Now, he's finally become a full-fledged Mog.</p>
+  <p class="italic">Mog lands and returns to his house, taking a bow before going inside.</p>
+  <p class="indent-nopad"><b>Narration</b><br/>Tired but relaxed, our little Mog turns out the lights early and goes to bed. Good night, and sweet dreams......</p>
+  <p class="italic">A pink moogle appears.</p>
+  <p class="indent-nopad"><b>Narration</b><br/>Oh?... What's this? Here comes a female Mog!</p>
+  <p class="italic">She approaches Mog's house and knocks. Mog comes out and chirps.</p>
+  <p class="indent-nopad"><b>Narration</b><br/>Seems he likes her too...<br/>Now, will Mog be able to fly gracefully in front of her? Help him out with a few kupo nuts.</p>
+  <p class="italic">Cloud feeds Mog Kupo nuts, and he hops up again.</p>
+  <p class="indent-nopad"><b>Narration</b><br/>Oh? It seems like Mog's decided to take another shot at it.</p>
+  <div class="block"/>
+    <p class="italic"><span class="highlight">If Cloud fed Mog the wrong number of nuts...</span></p>
+    <p class="italic">He falls on his face again.</p>
+    <p class="indent-nopad"><b>Narration</b><br/>Unfortunately, he didn't make it. Poor Mog'll have to wait some time for a bride.<br/>Poor Mog, seems like he'll be alone for a while.</p>
+  
+  <div class="block"/>
+    <p class="italic"><span class="highlight">If Cloud fed him the right number of nuts...</span></p>
+    <p class="italic">Mog takes off and makes a few circuits around the screen.</p>
+    <p class="indent-nopad"><b>Narration</b><br/>He's flying!! Mog was able to do it!<br/>She must have fallen for his graceful flying form.</p>
+    <p class="italic">The screen goes dark.</p>
+    <p class="block-grey">Sometime later...</p>
+    <p class="italic">Mog steps out of his house.</p>
+    <p class="indent-nopad"><b>Narration</b><br/>Looks like things are going good with his new Mog-friend. Time for a quiet date in the forest.<br/>Her name is Mag. She is a good-natured Mog.</p>
+    <p class="italic">Mog and Mag leave the house and walk off screen.</p>
+    <p class="indent-nopad"><b>Narration</b><br/>Best of luck to the both of you, Mog and Mag. May you have lots and lots of healthy Mogs!</p>
+    <p class="italic">No fewer than 12 baby moogles exit the house. The last one trips and falls on his face. One of the others comes back for him and they run off.</p>
+    <p class="indent-nopad"><b>Narration</b><br/>Uh...no worries there, I guess...</p>
+    <p class="block-grey">~FIN~</p>
+    <p class="italic">The game ends.</p>
+    <p class="indent-nopad"><b>Guy Near Mog Game</b><br/>Hmm... I'm impressed... Thanks for showing me it.<br/>Here, take this.</p>
+    <div class="highlight-nopad"/><p>Received 30 GP!!</p>
+  
+
+<p class="indent"><b>Fortune Telling Machine</b><br/>1 fortune 50 gil</p>
+<p class="indent"><b>Cloud</b><br/>- Try it<br/>- Not interested</p>
+<p class="indent"><b>Fortune Telling Machine</b><br/>Use caution in relationships</p>
+<p class="italic">If Cloud tries to leave Gold Saucer via the Ropeway...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>Are you thinking of just us going back?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Hey, Cloud, Are we going back without the others?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Are we leaving the others?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Cloud! Are we just going to leave the others?</p>
+</blockquote>
+<p class="italic"><a name="battle"></a>Returning to Battle Square, Cloud and the others arrive to find a Shinra soldier standing in front of the stairs.</p>
+<p class="indent"><b>Cloud</b><br/>!!</p>
+<p class="italic">The soldier collapses, and Cloud goes over to investigate.</p>
+<p class="indent"><b>Cloud</b><br/>Mm!?<br/>Dead......</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>What!? Why?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>What!?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>What the...</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Wh... why?</p>
+</blockquote>
+<p class="italic">Cloud runs off up the stairs.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>Cloud!? Where are you going?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Wa... wait Cloud!</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Hey, Cloud!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Don't, don't just leave me!</p>
+</blockquote>
+<p class="italic">The others follow him up to the battle arena, where four more soldiers lie dead, and the staff members are slumped at their counters.</p>
+<p class="indent"><b>Cloud</b><br/>Did Sephiroth do this!?<br/>No... it's not him... They're all shot... Sephiroth would never use a gun...</p>
+<p class="italic">One of the Gold Saucer staffers stirs.</p>
+<p class="indent"><b>Woman</b><br/>Ugh, ugggh.</p>
+<p class="italic">Cloud and the others run over to her.</p>
+<p class="indent"><b>Cloud</b><br/>Hey, what happened!</p>
+<p class="indent"><b>Woman</b><br/>Ugh... ugh... a man with a gun... on his arm......</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>It can't be!?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>A gun on his arm!?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>...did he!?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Wow, that's somethin!!</p>
+</blockquote>
+<p class="indent"><b>Security</b><br/>Hold it right there! And stay quiet!!</p>
+<p class="italic">Dio enters with two security guards.</p>
+<p class="indent"><b>Dio</b><br/>Did you guys do this!?</p>
+<p class="indent"><b>Cloud</b><br/>N... no, it wasn't us!</p>
+<p class="indent"><b>Dio</b> (if you spoke earlier)<br/>I must've been wrong...</p>
+<p class="indent"><b>Cait Sith</b><br/>Hurry and run, it's gonna get ugly.</p>
+<p class="italic-inline">He runs for the arena.</p>
+<p class="indent"><b>Cloud</b><br/>He...... hey!</p>
+<p class="indent"><b>Dio</b><br/>Hold them!</p>
+<p class="italic">Cloud follows Cait Sith into the arena.</p>
+<p class="indent"><b>Dio</b><br/>That's as far as you go.</p>
+<p class="indent"><b>Cloud</b><br/>Wait, listen to...</p>
+<p class="indent"><b>Cait Sith</b><br/>Cloud...</p>
+<p class="italic">Robots approach them from three sides, and Dio blocks the way back out... The scene changes to where Cloud is being held by one of the robots. Before him is a hatch labeled "Gateway to heaven."</p>
+<p class="indent"><b>Dio</b><br/>One more to go.</p>
+<p class="indent"><b>Security</b><br/>Yes</p>
+<p class="indent"><b>Cloud</b><br/>Hey! Pay attention!!</p>
+<p class="indent"><b>Dio</b><br/>There's no need to listen. Pay for your crime down below!!<br/>Do it!</p>
+<p class="indent"><b>Security</b><br/>Yes</p>
+<p class="italic">The hatch opens, and the robot jumps in, carrying Cloud with it.</p>
+
+</scene>

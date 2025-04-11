@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="Mideel2">
+
+
+
+<h1>Mideel - Inside Cloud's Mind</h1>
+
+<h4><a href="#clinic">At the Clinic</a></h4>
+<h4><a href="#cloud">Inside Cloud's Mind</a> :: <a href="#nibelheim">Nibelheim</a> - <a href="#mountain">Beyond the Mountain</a> - <a href="#truth">The Truth</a></h4>
+<h4><a href="#lifestream">Out of the Lifestream</a></h4>
+<h4><a href="#aftermath">The Aftermath in Mideel</a></h4>
+<hr></hr>
+<p class="indent"><b>Old Man at Entrance</b><br/>Ahoy! This here's Mideel. A quiet Hot Springs town... At least it used to be...<br/>Lately the sea's been in a tizzy. Lifestream has been mixin' things up at the bottom of the ocean.<br/>I think the planet's pretty angry too. We've pretty much done whatever we've wanted to the planet up till now.</p>
+<p class="indent"><b>Woman</b><br/>It's bad enough with earthquakes and Meteor, but on top of all that now the Lifestream has become active again, too.<br/>I hope it doesn't blow and cause a panic like it did before. That was really bad, I tell ya.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If you obtained and used the Beat-up Useless Old Key as Tifa...</span></p>
+  <p class="italic">In the Weapons Shop, Cid inspects the door.</p>
+  <p class="indent-nopad"><b>Cid</b><br/>Damn, why the hell did they make something tricky like this?</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If you did not obtain the Beat-up Useless Old Key...</span></p>
+  <p class="italic">Walking over the key, there is a clinking noise.</p>
+  <p class="indent-nopad"><b>Cid</b><br/>Huh...? The hell's this?<br/>Looks like a key but it's stuck way down inside, and I can't get it out.<br/>Well, what the hell? That's life...</p>
+  <p class="italic">In the Weapons Shop, Cid kicks the door.</p>
+  <p class="indent-nopad"><b>Cid</b><br/>No good... Someone must've locked it.</p>
+  <p class="italic">He returns to the key.</p>
+  <p class="indent-nopad"><b>Cid</b><br/>Okay, there's gotta be a way to get it out.<br/>Maybe if I move this a bit...... and push that over...... HAH! Gotcha!</p>
+  <p class="italic-inline-nopad">Or, if he didn't notice the key earlier:</p>
+  <p class="block-inline-nopad">Hey......what's that? Looks like a key but it's stuck way down inside and</p>
+  <div class="highlight-nopad"/><p>Received a "Beat-up Useless Old Key"!</p>
+	<p class="italic">Back to the Weapons Shop, Cid again inspects the door...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Hey, I know what'll do it... Let's try that beat up old key!<br/>- Use the beat up old key!<br/>- Forget it</p>
+	<div class="block"/>
+	  <p><span class="highlight">Use the beat up old key!</span></p>
+	  <p>Yeah, this is it.<br/>Huh? Wha...? Won't turn...<br/>Wha......!?<br/>Hoo, *&amp;%$^% Busted it... Can't get the damn thing out...</p>
+	  <p class="indent-nopad"><b>Shopkeeper</b><br/>Is something wrong......?</p>
+	  <p class="indent-nopad"><b>Cid</b><br/>Ulp!!<br/>Oh, uh, no, uh I......<br/>Damn, this's bad...<br/>- What the hell... lie!<br/>- Just apologize and get it over with!</p>
+	  <div class="block"/>
+		<p><span class="highlight">What the hell... lie!</span></p>
+		<p>Er, nothin'. Hah, hah. That's one nice door you got there, y'know.</p>
+		<p class="indent-nopad"><b>Shopkeeper</b><br/>Oh... why, thank you very much.</p>
+		<p class="indent-nopad"><b>Cid</b><br/>Phew... that was a close one. But I kinda feel a little bad about that one......</p>
+		<p class="italic-inline-nopad">Cid looks at the door.</p>
+		<p class="block-inline-nopad">............ The key's broken off inside, and I can't get to it......<br/>............ I don't know a thing about it...</p>
+	  
+	  <div class="block"/>
+		<p><span class="highlight">Just apologize and get it over with!</span></p>
+		<p>Mmm..., sorry! I twisted the ^%$#^ and broke it.</p>
+		<p class="indent-nopad"><b>Shopkeeper</b><br/>Huh? Key? You mean the one to that door?</p>
+		<p class="italic">Cid nods.</p>
+		<p class="indent-nopad"><b>Shopkeeper</b><br/>Hah, hah, hah! That's a good one!</p>
+		<p class="indent-nopad"><b>Cid</b><br/>???</p>
+		<p class="indent-nopad"><b>Shopkeeper</b><br/>Of course there's no key. It's a wall. We just painted a door on it.</p>
+		<p class="indent-nopad"><b>Cid</b><br/>Say what? You drew that door on the wall?</p>
+		<p class="indent-nopad"><b>Shopkeeper</b><br/>That's right. We drew it on there to make it feel like you could pass through it to another world.<br/>Sorry to have surprised you. It's not much of an apology, but please take this.</p>
+		<p class="indent-nopad"><b>Cid</b><br/>Oh, uh... well Thanks.</p>
+		<div class="highlight-nopad"/><p>Cid and the others received "Cursed Ring"!</p>
+		<p class="indent-nopad"><b>Shopkeeper</b><br/>If possible, we're hoping to pass through a dream door like that one into another world<br/>I got the feeling that you all might be able to make my dreams come true in my place. Weird, isn't it?</p>
+	  
+	
+	<div class="block"/>
+	  <p><span class="highlight">Forget it</span></p>
+	  <p>Naw, forget it... It doesn't even look like it fits.</p>
+	
+
+<p class="italic">Inside a house...</p>
+<p class="indent"><b>Old Man Playing with Dog</b><br/>I gotta feelin' something bad's gonna happen. Is it gonna be okay?<br/>I'm all right. I've lived a long, full life.<br/>But I'm worried about my son and his family living in that far-off town...<br/>I hope they're safe...</p>
+<p class="italic">Cid takes the elixir on his bed and starts for the door.</p>
+<p class="indent"><b>Old Man Playing with Dog</b><br/>Wait a minute.<br/>Did you take something just now?</p>
+<p class="italic">Cid jumps.</p>
+<p class="indent"><b>Cid</b><br/>Uh, oh. I'm......<br/>- Yeah, I took it old man!<br/>- Don't know nothin' 'bout it!</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah, I took it old man!</span></p>
+  <p>Hey, it's mine now! An' I'll make good use of it, believe-you-me!</p>
+  <p class="indent-nopad"><b>Old Man Playing with Dog</b><br/>Heh, heh. What an oddball. We'll let him use it.</p>
+  <p class="indent-nopad"><b>Cid</b><br/>Hey thanks. It'll help, pops!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Don't know nothin' 'bout it!</span></p>
+  <p>Wh, wh-huh...? I don't know nuthin' about that.</p>
+  <p class="indent-nopad"><b>Old Man Playing with Dog</b><br/>What the hell happened to the rotten old elixir I was gonna throw out?<br/>If someone took that by mistake it'll do more than make them sick...<br/>Well, if you don't know then I guess you don't know.</p>
+  <p class="indent-nopad"><b>Cid</b><br/>...............</p>
+
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Old Man</b><br/>So how is the boy? Poor kid. He sure got the worst of whatever it was......<br/>Sure hope he gets better soon. Right now is when he really needs to hold on and not give up.</p>
+<p class="indent"><b>Bald Man</b><br/>It's amazing he recovered. When they carried him here after they first discovered him, I thought for sure he was a goner.<br/>That boy must have one powerful guardian angel watchin' over him.</p>
+<p class="italic"><a name="clinic"></a>At the clinic...</p>
+<p class="indent"><b>Doctor</b><br/>I'm sorry...... But your friend's condition remains unchanged......<br/>You'll have to be patient and wait this out. These things take time. Just like fine wine, time is of the essence.</p>
+<p class="indent"><b>Nurse</b> (after the North Corel mission)<br/>Oh, hello. She always stays right by his side. She must really love him.<br/>Remember, even at a time like this you can never give up hope. You've got to be strong like her.</p>
+<p class="indent"><b>Nurse</b> (after the Fort Condor mission)<br/>She's finally beginning to look a little tired... I hope she's all right.<br/>No change in his condition, and still she stays there doing her best. It must be tough on her.<br/>If she keeps this up she'll probably get sick......</p>
+<p class="indent"><b>Nurse</b><br/>Well anyhow...... Hey, you all look terrible. Why don't you rest up for a while?</p>
+<p class="italic-inline">Cid and the others rest whether they want to or not.</p>
+<p class="block-inline">OK! Perfect! Well then, take care.</p>
+<p class="indent"><b>Cloud</b><br/>uh...... a...... aah......<br/>.........What...... What number...... am I?<br/>Uh...... aaa......?<br/>A billion mirror fragments...... small...... light......<br/>taken...... angel's...... singing voices............ zeno...... gias......<br/>Uh...... aaa......?</p>
+<p class="indent"><b>Tifa</b> (after the North Corel mission)<br/>Cloud...... I don't understand a word he's saying......<br/>I'm such a fool...... I thought there was something that I could do for him......</p>
+<p class="indent"><b>Tifa</b> (after the Fort Condor mission)<br/>......it's no use...... I don't understand a thing, Cloud.<br/>What should I do......? What if you never recover for the rest of your life?</p>
+<p class="italic">The ground starts shaking and Tifa falls down.</p>
+<p class="indent"><b>Tifa</b><br/>Eyaaah!?</p>
+<p class="indent"><b>Cloud</b><br/>......They're...... They're...... coming......!!</p>
+<p class="indent"><b>Cid</b><br/>What did you say, Cloud!?</p>
+<p class="indent"><b>Cloud</b><br/>Uh...... aaa......?</p>
+<p class="indent"><b>Cid</b><br/>Damn. What the hell's goin' on!?</p>
+<p class="indent"><b>Tifa</b><br/>No way...... Is this......!?</p>
+<p class="indent"><b>Doctor</b><br/>This isn't good!! It's big!</p>
+<p class="indent"><b>Nurse</b><br/>Eyaaah! I hate earthquakes!!</p>
+<p class="italic">Cid goes outside.</p>
+<p class="indent"><b>Cid</b><br/>What's this...!?<br/>The Lifestream is gushing up from below the surface of the earth!<br/>Damn, that's......!? This is bad......!!</p>
+<p class="indent"><b>Tifa</b> (at the door)<br/>Cid......!? What's wrong?</p>
+<p class="indent"><b>Cid</b><br/>N, nothin'!! You and Cloud get inside quick!!</p>
+<p class="indent"><b>Tifa</b><br/>But I......!?</p>
+<p class="indent"><b>Cid</b><br/>Hey, don't worry about a thing. I ain't about to die that easily.</p>
+<p class="indent"><b>Tifa</b><br/>Be careful...!</p>
+<p class="indent"><b>Cid</b><br/>Okay, here I go! Watch this!!</p>
+<p class="italic">Cid and the others get ready to fight.</p>
+<p class="indent"><b>Cid</b><br/>Damn!! That &amp;%$^%$ Weapon!!<br/>Of all the times to show up......!<br/>OK then, come on!! You &amp;$^%$!</p>
+<p class="italic">Ultima Weapon flies down to meet them. After a short battle, it flies off again.</p>
+<p class="indent"><b>Cid</b><br/>You &amp;^$#&amp;$#! You tryin' to escape?</p>
+<p class="italic">The quaking abates, and they all relax.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Damn, man. Just a little bit more an' I woulda smashed him......</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Just a little more and I would have beaten him.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>I swear, next time, that guy's dead meat!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>No matter how many lives I get, it ain't enough!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Hmm...... Looks like escape is their best skill.</p>
+</blockquote>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Looks like the Lifestream's settled down now too.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>It looks like the Lifestream has settled as well.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Well at least the Lifestream's back to normal.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Looks like the Lifestream's back under control too.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>And the Lifestream also appears to be normal.</p>
+</blockquote>
+<p class="italic">The quaking starts up again.</p>
+<p class="indent"><b>Cid</b><br/>Damn, you gotta be kiddin'......!!<br/>Th, this's bad......! The main stream is kickin' up!!<br/>Somethin' way bigger than that last one is on its way!!<br/>No good!! Get outta here......!!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Nanaki</b><br/>But what about Tifa and Cloud!?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>But what about Tifa and Cloud......!?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>But what about Cloud and the others......!?</p>
+</blockquote>
+<p class="indent"><b>Cid</b><br/>Goddammit!!<br/>You don't have time to worry about anyone other than yourself! You don't know when that stream'll blow......<br/>Whoa!!<br/>There's no time, hurry!!</p>
+<p class="italic">They run off. Cid turns back momentarily.</p>
+<p class="indent"><b>Cid</b><br/>Tifa!! Cloud!! Get outta here!!</p>
+<p class="italic">Back to Tifa in the clinic...</p>
+<p class="indent"><b>Tifa</b><br/>This is bad...... The tremors are getting worse.<br/>Wait a minute, Cloud.<br/>Doctor! Shouldn't we move him somewhere rather than stay here...?</p>
+<p class="indent"><b>Doctor</b><br/>Hmm...... It might be safer to take refuge in a wide open space.</p>
+<p class="indent"><b>Tifa</b><br/>Don't you worry about a thing, Cloud......<br/>I'll see to it that you get somewhere safe!</p>
+<p class="indent"><b>Doctor</b><br/>No! The structure can't take it!! Hurry!</p>
+<p class="indent"><b>Tifa</b><br/>Yes!<br/>Ready Cloud? We're leaving now!!</p>
+<p class="italic"><a name="cloud"></a>She pushes Cloud out of the clinic on the wheelchair as the ground lifts up and falls into the Lifestream behind them. She isn't fast enough, and she and Cloud both fall into the Lifestream. Tifa wakes, sitting alone in the middle of a black nothing.</p>
+<p class="indent"><b>Tifa</b><br/>Wh, where am I......? what's happening? I......?</p>
+<p class="italic-inline">She gets to her feet and looks around.</p>
+<p class="block-inline">Where's Cloud......!? Cloud, where are you!?</p>
+<p class="italic">Faint noises start up in the background, like static on a radio.</p>
+<p class="indent"><b>Tifa</b><br/>Huh...... what......? Who......?<br/>Who is it......? I can't hear......</p>
+<p class="italic-inline">Suddenly she turns around.</p>
+<p class="block-inline">Wait a minute......! I don't know anything about that!<br/>No! It's not me......! I'd never do anything like that!!</p>
+<p class="italic-inline">She puts her hands to her head.</p>
+<p class="block-inline">No! Stop it......!! Stay back!</p>
+<p class="italic-inline">She starts running.</p>
+<p class="block-inline">Somebody...... help! Please!!</p>
+<p class="italic">The sounds grow louder and she falls to her knees.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud, help me!!<br/>Eyaaaaghh......!!</p>
+<p class="italic">Tifa comes to in a sort of nexus with three branches. An image of Cloud sits at the entrance to each of them.</p>
+<p class="indent"><b>Tifa</b><br/>............ Where am I......?</p>
+<p class="italic">She looks up to where there is another Cloud clutching his head and writhing in pain.</p>
+<p class="block-inline">Cloud!?<br/>What is it, Cloud? What is this......!?<br/>Is this the inside of your dreams? Or is it...... your...... subconscious......?<br/>You're searching, aren't you Cloud?<br/>Searching...... for yourself......<br/>I can help too. We'll work together to try and get the real you back!<br/>But...... Where do we start......?</p>
+<p class="italic"><a name="nibelheim"></a>Tifa walks up to the Cloud near the gates to Nibelheim.</p>
+<p class="indent"><b>Cloud</b><br/>The gates of Nibelheim... Five years ago, Sephiroth passed through these gates......<br/>And...... That's how it all started......</p>
+<p class="indent"><b>Tifa</b><br/>It connects...... to Nibelheim......?<br/>That's right... It's probably best to start from there......<br/>Let's go have a look, Cloud. I know it's not easy...... But I'll be right with you......</p>
+<p class="italic">Tifa walks up to Nibelheim.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud... look.<br/>Here's the well...<br/>And that's Gramps' Inn, too.<br/>The only truck in town. It's been here since we were little kids, right?<br/>This is the Nibelheim you remember, right?<br/>It's the same as my Nibelheim. That's why this place is...... our Nibelheim.</p>
+<p class="italic">Cloud appears sitting near the truck.</p>
+<p class="indent"><b>Tifa</b><br/>Five Years ago... two men from SOLDIER came...<br/>Sephiroth and...... a young and vibrant soldier.<br/>Can you tell me again what happened?</p>
+<div class="highlight"/><p class="italic">Sephiroth appears and turns to talk to someone behind him.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>How does it feel?</p>
+<p class="indent"><b>Tifa</b><br/>Five Years ago... I saw the real Sephiroth for the very first time.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>It's your first time back to your hometown in a long time, right?<br/>So how does it feel?<br/>I wouldn't know because I don't have a hometown...</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Ummm... how 'bout your parents?</p>
+<p class="indent"><b>Tifa</b><br/>So this is... the Great Sephiroth.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>My mother is Jenova. She died right after she gave birth to me. My father...</p>
+<p class="indent"><b>Tifa</b><br/>But to tell you the truth, I thought he was very cold.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>What does it matter...?<br/>All right, let's go.</p>
+<p class="indent"><b>Tifa</b><br/>I remember, I felt a foreboding about him.</p>
+<p class="italic">She watches as Cloud and the two soldiers enter the village. The Cloud-image moves to stand with his flashback self. Tifa shakes her head.</p>
+<p class="indent"><b>Tifa</b><br/>No, Cloud.<br/>I've been hiding it for some time, afraid that if I told you... something terrible might happen.<br/>But, I'm not going to hide anything anymore.</p>
+<p class="italic">Sephiroth and the soldiers disappear.</p>
+<p class="indent"><b>Tifa</b><br/>You weren't here. Cloud did not come to Nibelheim five years ago.</p>
+<p class="italic">A flash. A 15-year-old Tifa sits waiting just past the gate.</p>
+<p class="indent"><b>Tifa</b><br/>I... waited. But, Cloud... never came.<br/>The two that were ordered here were Sephiroth and another person...</p>
+<p class="italic">The young Tifa gets up to see who's coming. She shakes her head and runs off.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>All right, let's go.</p>
+<p class="italic">The two soldiers enter, along with Zack. Fade to white.</p>
+<p class="indent"><b>Cloud</b><br/>You mean that member of SOLDIER who came with Sephiroth wasn't...... Cloud......?</p>
+<p class="indent"><b>Tifa</b><br/>There's nothing...... I can say......<br/>You must find the answer yourself......<br/>If you can't...... Then you......<br/>Take your time, Cloud. Slowly...... little by little, okay?</p>
+<p class="italic">The Cloud-image sits down. Tifa walks to the second Cloud, who sits in front of the well.</p>
+<p class="indent"><b>Cloud</b><br/>That starry night at the well...... And our promise that night... What if the memory was just a lie?</p>
+<p class="indent"><b>Tifa</b><br/>Don't hurry, Cloud...... Don't answer too quickly.<br/>Just keep checking all those small emotions and it'll come back...... Slowly...... little by little.......<br/>Right... like the sky that night...... the heavens were filled with stars......</p>
+<p class="italic">Fade to black.</p>
+<p class="indent"><b>Tifa</b><br/>From the beginning... OK?</p>
+<p class="italic">A starlit Nibelheim fades into view. Cloud and Tifa stand on the well.</p>
+<p class="indent"><b>Tifa</b><br/>Try and remember, Cloud.</p>
+<p class="italic">A young Cloud and Tifa appear sitting at the well.</p>
+<p class="indent"><b>Tifa</b><br/>Right, I was wearing these clothes.<br/>That's you, too. You were so small then......</p>
+<p class="italic-inline">She sits down beside her younger self and looks over at Cloud.</p>
+<p class="block-inline">...and cute.<br/>Sephiroth once said...<br/>Cloud made up his memories by listening to my stories...<br/>Did you imagine this sky? No, you remembered it.<br/>That night the stars were gorgeous. It was just Cloud and I. We talked at the well...<br/>That's why I continued to believe that you were the real Cloud.<br/>I still believe you're the Cloud from Nibelheim...<br/>But you don't believe in yourself...<br/>These memories aren't enough.</p>
+<p class="italic">Fade to white. They return to the nexus.</p>
+<p class="indent"><a name="mountain"></a><b>Tifa</b><br/>Cloud, what about your other memories?<br/>No, not memories.<br/>A memory is something that has to be consciously recalled, right?<br/>That's why sometimes it can be mistaken and a different thing......<br/>But it's different from a memory locked deep within your heart......<br/>That's why it must be a fake. If he could recall up that memory......<br/>That's it! What about some memory that has to do with me?<br/>I say something and you don't remember it......<br/>But you say something, and I remember it, too... Then we'll know that's our memory......<br/>Talk to me. About anything, some important memory to you...<br/>Now that you mention it, why did you want to join SOLDIER in the first place?<br/>I always thought it was a sudden decision you made......</p>
+<p class="block-grey">......I was devastated. ......I wanted to be noticed.</p>
+<p class="indent"><b>Cloud</b><br/>......I was devastated. ......I wanted to be noticed.<br/>I thought if I got stronger I could get someone to notice......</p>
+<p class="indent"><b>Tifa</b><br/>Someone to notice you...? ......who?</p>
+<p class="block-grey">Who......? ......You know who! ......You, that's who.</p>
+<p class="indent"><b>Cloud</b><br/>You......</p>
+<p class="indent"><b>Tifa</b><br/>......Me? Why!?</p>
+<p class="indent"><b>Little Cloud</b><br/>Tifa...... did you forget...... about those days?</p>
+<p class="italic">Tifa turns to look as a much younger Cloud appears.</p>
+<p class="indent"><b>Tifa</b><br/>Look...... I......<br/>I'm sorry...... But what are you talking about?</p>
+<p class="indent"><b>Little Cloud</b><br/>No...... it's all right. You were having a hard time back then.<br/>You were so busy with your own things, it's only natural you don't remember me back then.</p>
+<p class="italic">Tifa walks over to join him.</p>
+<p class="indent"><b>Tifa</b><br/>'Back then'?</p>
+<p class="indent"><b>Little Cloud</b><br/>It's important to me...... I hate to say it but... It's a very important memory......<br/>Do you want to see it?<br/>Come on, hurry.</p>
+<p class="italic">Tifa goes over to talk to the third and final Cloud.</p>
+<p class="indent"><b>Cloud</b><br/>......a sealed up secret...... wish......<br/>Tender memories...... no one can ever know......</p>
+<p class="italic">He steps aside to let Tifa and little Cloud pass.</p>
+<p class="indent"><b>Little Cloud</b><br/>Do you know where this window goes to, Tifa?<br/>Fine...... I'll go.</p>
+<p class="italic">They look through the window into Tifa's room.</p>
+<p class="indent"><b>Tifa</b><br/>My room?</p>
+<p class="indent"><b>Cloud</b><br/>It was my first time there.</p>
+<p class="indent"><b>Tifa</b><br/>Was... it?</p>
+<p class="indent"><b>Cloud</b><br/>I only used to look up at it from outside.</p>
+<div class="highlight"/><p class="italic">A flash, and a young Tifa is sitting in the corner with a trio of boys around her.</p>
+<p class="indent-nopad"><b>Boy</b><br/>Hey, look!<br/>Cloud's coming!</p>
+<p class="italic">Out the window, they see Cloud approach the house.</p>
+<p class="indent-nopad"><b>Boy</b><br/>You think he wants to come in?</p>
+<p class="italic">Tifa looks up and shakes her head.</p>
+<p class="indent"><b>Tifa</b><br/>Was that the first day you came into my room?<br/>...that's right.<br/>We lived next to each other.<br/>But I really didn't know you that well.<br/>I've known you since we were children and always thought we were close...<br/>Now that you mention it... I don't recall you ever being in my room...</p>
+<p class="indent"><b>Cloud</b><br/>Tifa always used to be with this three-some.</p>
+<p class="indent"><b>Tifa</b><br/>...That's right.</p>
+<p class="indent"><b>Cloud</b><br/>I used to think... they were all stupid.</p>
+<p class="indent"><b>Tifa</b><br/>What!?</p>
+<p class="indent"><b>Cloud</b><br/>You were all childish, laughing at every little stupid thing.</p>
+<p class="indent"><b>Tifa</b><br/>But we were children, back then.</p>
+<p class="indent"><b>Cloud</b><br/>...I know. I'm the one that was stupid.<br/>I really wanted to play with everyone, but I was never allowed into the group.<br/>Then later... I began to think I was different...<br/>That I was different from those immature kids.<br/>That then... maybe...</p>
+<p class="block-grey">Just maybe, they would invite me in.<br/>I thought that might happen, so I hung around...</p>
+<p class="indent"><b>Cloud</b><br/>I was so prejudiced. And... weak.</p>
+<p class="block-grey">That night I called Tifa out to the well...<br/>I thought to myself Tifa would never come... that she hated me.</p>
+<p class="indent"><b>Tifa</b><br/>Yeah... it was so sudden. I was... a bit surprised.<br/>But...<br/>It's true that we weren't THAT close, but...<br/>After you left town, I really thought about you a lot.<br/>I used to wonder how Cloud was doing.<br/>I wonder if Cloud was able to get into SOLDIER?<br/>I started reading the newspapers, thinking that there might be an article about you.</p>
+<p class="indent"><b>Cloud</b><br/>Thanks, Tifa.<br/>Tell him what you told me, later. He'll probably be so happy.</p>
+<p class="indent"><b>Tifa</b><br/>OK!<br/>Huh?<br/>What happened on this day? Was it a special day?</p>
+<p class="indent"><b>Cloud</b><br/>This was the day...</p>
+<p class="block-grey">Tifa's mother...</p>
+<p class="italic">Fade to white.</p>
+<p class="indent"><b>Tifa</b><br/>The day Mom died...</p>
+<p class="italic">Back to the young Tifa in the corner.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>I want... to see... mom...</p>
+<p class="italic-inline-nopad">She gets to her feet, leaves her house, and runs to the base of Mt. Nibel.</p>
+<p class="block-inline-nopad">...I wonder if there's anything beyond that mountain?</p>
+<p class="indent-nopad"><b>Boys</b><br/>Mt. Nibel is scary. Many people have died there.<br/>No one crosses that mountain alive...</p>
+<p class="indent-nopad"><b>Tifa</b><br/>How 'bout those that died?<br/>Did mama pass through the mountains?</p>
+<p class="italic-inline-nopad">She starts down the path.</p>
+<p class="block-inline-nopad">I'm going!</p>
+<p class="italic">The three boys watch her. Two start after her, but the third runs back down the path. Cloud runs up in time to watch him go, then starts after Tifa. When the kids reach the bridge, the other two run back. Cloud steps aside to let them past, then follows Tifa across the bridge. Later... Young Tifa and Cloud lie on the ground, having fallen from the mountain.</p>
+<p class="indent"><b>Cloud</b><br/>I don't remember the path I walked.<br/>Tifa missed her step. I ran to her... but didn't make it in time.<br/>Both of us fell off the cliff.<br/>Back then, I only scarred my knees but......</p>
+<p class="italic">Tifa's father and another man run up to the pair. The other man gathers Tifa while Tifa's father stands over Cloud shaking a finger.</p>
+<p class="indent-nopad"><b>Tifa's Father</b><br/>Cloud! Why'd you bring Tifa to a place like this!<br/>What the hell's the matter with you!?<br/>What if she dies!?</p>
+<p class="italic">Everyone walks off, leaving Cloud behind.</p>
+<p class="indent"><b>Cloud</b><br/>Tifa was in a coma for seven days.<br/>We all thought she wouldn't make it.<br/>If only I could've saved her...<br/>I was so angry... Angry at myself for my weakness.<br/>Ever since then, I felt Tifa blamed me...<br/>I got out of control... I'd get into fights not even caring who it was.</p>
+<p class="italic">Fade to black.</p>
+<p class="indent"><b>Cloud</b><br/>That was the first time I heard about Sephiroth.<br/>If I got strong like Sephiroth, then everyone might...</p>
+<p class="italic">They return to the nexus.</p>
+<p class="indent"><b>Cloud</b><br/>If I could just get stronger...... Then even Tifa would have to notice me......</p>
+<p class="indent"><b>Tifa</b><br/>So that was it......<br/>Sorry, Cloud.<br/>If I had only remembered more clearly what happened, I could have done something sooner......</p>
+<p class="indent"><b>Cloud</b><br/>It's not your fault, Tifa.</p>
+<p class="indent"><a name="truth"></a><b>Tifa</b><br/>But, I remember back when we were eight!<br/>That's it! Now I know!<br/>You weren't created five years ago.<br/>My childhood memories weren't all made up!<br/>Hang in there Cloud! Just a little longer! You've almost found the real you!<br/>Let's go back to Nibelheim again......!</p>
+<p class="italic">Cloud runs off to the gates of Nibelheim and Tifa follows.</p>
+<p class="indent"><b>Cloud</b><br/>The truth is right there. We almost have the answer right in the palm of our hands.</p>
+<p class="italic">They run through Nibelheim. Tifa stops as they pass Cloud's house.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud, wait.<br/>Where are you going?</p>
+<p class="indent"><b>Cloud</b><br/>......The reactor......?<br/>To the reactor! The Mako reactor of five years ago!</p>
+<div class="highlight"/><p class="italic">In the reactor, Tifa attacks Sephiroth. He cuts her and she flies back down the stairs just as Zack runs in.</p>
+<p class="indent"><b>Tifa</b><br/>Hey! It's Cloud!</p>
+<p class="italic">Sephiroth turns into the Jenova chamber.</p>
+<p class="indent"><b>Cloud</b><br/>Za...... ck...... Zac......k. Zack...</p>
+<p class="indent"><b>Tifa</b><br/>You remembered!!</p>
+<p class="italic">Zack runs after Sephiroth.</p>
+<p class="indent"><b>Tifa</b><br/>That's right! It was Zack who came to Nibelheim with Sephiroth!<br/>Then, where were you, Cloud?</p>
+<p class="italic">Zack flies back out of Jenova's chamber, slamming into one of the pods and not moving.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud... Did you... see it all?</p>
+<p class="indent"><b>Cloud</b><br/>I saw... everything...</p>
+<p class="italic">A masked soldier runs in and takes Zack's sword. He runs up the steps to the Jenova chamber, goes up to Sephiroth and stabs him from behind.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Aaarrrgh...... who... who are you?</p>
+<p class="indent-nopad"><b>Soldier</b><br/>Mom... Tifa...... my town... give it back...<br/>I had so much respect for you... I admired you...</p>
+<p class="indent"><b>Tifa</b><br/>Cloud!?</p>
+<p class="italic">After backing down from Jenova, the soldier pulls off his mask to reveal spiky blond hair.</p>
+<p class="indent"><b>Tifa</b><br/>That's what happened...<br/>...You were there.<br/>You were watching me.<br/>Yeah, I remember.<br/>Hmm... so it was you.</p>
+<p class="italic">The scene cuts to the truck heading for Nibelheim. Rain pounds outside.</p>
+<p class="indent-nopad"><b>Zack</b><br/>Hey Cloud, if you're feeling sick, why don't you take that mask off?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Yeah......</p>
+<p class="indent"><b>Cloud</b><br/>Yeah. This is... me.<br/>I... never made it as a member of SOLDIER.<br/>I even left my hometown telling everyone I was going to join, but...<br/>I was so embarrassed. I didn't want to see anyone.</p>
+<p class="italic">Entering Nibelheim, Cloud sees Tifa, and turns away to put his mask back on. Zack looks at him sympathetically. Tifa stands up, not seeing Cloud, shakes her head, and runs away.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>How does it feel?<br/>It's your first time back to your hometown in a long time, right?</p>
+<p class="indent"><b>Cloud</b><br/>I'm...</p>
+<p class="italic">While Nibelheim is burning, the soldier lying on the ground twitches and struggles to get up. At the reactor, Cloud runs from Jenova's chamber to help Tifa.</p>
+<p class="indent"><b>Tifa</b><br/>You came. You kept your promise.<br/>So you really did come when I was in trouble!</p>
+<p class="indent"><b>Cloud</b><br/>Sorry... I didn't get there... fast enough...</p>
+<p class="indent"><b>Tifa</b><br/>It's all right... Cloud.</p>
+<p class="italic">Sephiroth comes out of Jenova's chamber, sword in one hand, Jenova's head in the other.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Just like you.</p>
+<p class="italic">He limps down the stairs, pauses to look at Jenova's head, and continues out of the reactor's main chamber. Cloud gets up and starts after him.</p>
+<p class="indent-nopad"><b>Zack</b><br/>Cloud... Kill Sephiroth...</p>
+<p class="italic">Cloud runs off, confronting Sephiroth on the bridge over the Mako pit.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Sephiroth!!</p>
+<p class="italic">Sephiroth turns smoothly and impales him on the Masamune.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Don't... push... your luck.</p>
+<p class="italic">He lifts Cloud on the sword. Cloud looks down and grabs the end of the blade.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>...It can't be!</p>
+<p class="italic">Cloud manages to get his feet back on the platform, lifts up Sephiroth, and flings him aside into the Mako pit.</p>
+<p class="italic">Cloud and Tifa return to the nexus.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud......</p>
+<p class="indent"><b>Cloud</b><br/>Then... this is goodbye, Tifa. Until we meet again......</p>
+<p class="italic">All the Clouds get to their feet.</p>
+<p class="indent"><b>Tifa</b><br/>............!?</p>
+<p class="italic">The Clouds meet in the center of the nexus and join one by one. The writhing Cloud comes down from above to join them. Cloud falls to the ground, and Tifa crouches next to him.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud!!</p>
+<p class="indent"><b>Cloud</b><br/>Uh...... Ah, Uh......!</p>
+<p class="italic-inline">He solidifies and sits up.</p>
+<p class="block-inline">Uh...... Tifa......</p>
+<p class="indent"><b>Tifa</b><br/>Oh, Cloud......! It's really you, isn't it?</p>
+<p class="indent"><b>Cloud</b><br/>Yeah...... Tifa...... We finally...... meet again......</p>
+<p class="italic">They both get to their feet.</p>
+<p class="indent"><b>Tifa</b><br/>You stupid jerk!! You had us all worried sick!!</p>
+<p class="italic">Cloud collapses again, clutching his head.</p>
+<p class="indent"><b>Cloud</b><br/>Krgh......!</p>
+<p class="indent"><b>Tifa</b><br/>Cloud!? Are you all right!?</p>
+<p class="indent"><b>Cloud</b><br/>V, voice...... Their......</p>
+<p class="indent"><b>Tifa</b><br/>I see. We're... in the Lifestream aren't we?<br/>Everyone's waiting.<br/>Let's go back, Cloud. Back to everyone......</p>
+<p class="indent"><b>Cloud</b><br/>Yeah, I guess so... Come on, Tifa. Let's go home......</p>
+<p class="italic">Together they swim upward out of the Lifestream.</p>
+<p class="italic"><a name="lifestream"></a>Tifa comes to just outside what used to be Mideel. Everyone is gathered around her and Cloud.</p>
+<p class="indent"><b>Barret</b><br/>Yo! You awright!? Tifa!?</p>
+<p class="indent"><b>Tifa</b><br/>u... unn......?</p>
+<p class="italic-inline">She props herself up on an arm.</p>
+<p class="block-inline">Barret... You came back. I......<br/>Cloud... Where is he?</p>
+<p class="indent"><b>Barret</b><br/>Don't worry about him. He's a tough one.</p>
+<p class="indent"><b>Tifa</b><br/>Barret...... I...... When I was in the Lifestream I saw the real Cloud.<br/>I mean, I didn't really find him. Cloud found himself on his own...</p>
+<p class="indent"><b>Barret</b><br/>Awright, I know... I shouldn't have doubted him.<br/>But I can't win against you. You're some kinda lady.</p>
+<p class="italic">Tifa lies back.</p>
+<p class="indent"><b>Tifa</b><br/>People have so many things pent up inside of themselves...<br/>And they can forget so many things......<br/>Strange...... isn't it............</p>
+<p class="indent"><b>Barret</b><br/>Yo, Tifa! Snap outta it!!<br/>Tifa......!?</p>
+<p class="italic">Back on the Highwind, everyone is gathered in the Operations Room.</p>
+<p class="indent"><b>Cloud</b><br/>Everyone...... I'm sorry. I don't know what to say......</p>
+<p class="indent"><b>Nanaki</b><br/>Don't say anything, Cloud. All you've been doing is apologizing.</p>
+<p class="indent"><b>Cloud</b><br/>I never was in SOLDIER.<br/>I made up the stories about what happened to me five years ago, about being in SOLDIER.<br/>I left my village looking for glory, but never made it in to SOLDIER......<br/>I was so ashamed of being so weak; then I heard this story from my friend Zack...<br/>And I created an illusion of myself made up of what I had seen in my life......<br/>And I continued to play the charade as if it were true.</p>
+<p class="indent"><b>Barret</b><br/>Illusion, huh...? Pretty damn strong for a 'lusion, I'd say.</p>
+<p class="indent"><b>Cloud</b><br/>I'm physically built like someone in SOLDIER.<br/>Hojo's plan to clone Sephiroth wasn't that difficult.<br/>It was just the same procedure they use when creating members of SOLDIER.<br/>You see, someone in SOLDIER isn't simply exposed to Mako energy.<br/>Their bodies are actually injected with Jenova cells......<br/>For better or worse, only the strong can enter SOLDIER.<br/>It has nothing to do with the Jenova Reunion.<br/>But weak people...... like me, get lost in the whole thing.<br/>The combination of Jenova cells, Sephiroth's strong will, and my own weakness are what created me.<br/>Everyone knew that. I'm...... Cloud.<br/>......the master of my own illusionary world.<br/>But I can't remain trapped in an illusion any more......<br/>I'm going to live my life without pretending.</p>
+<p class="indent"><b>Tifa</b><br/>You're sure messed up, Cloud!</p>
+<p class="indent"><b>Barret</b><br/>That means there ain't no difference from before!</p>
+<p class="italic">Cloud scratches his head.</p>
+<p class="indent"><b>Cait Sith</b><br/>By the way, Cloud. What are you going to do now?<br/>Don't tell me you're going to leave the ship?</p>
+<p class="indent"><b>Cloud</b><br/>......I'm the reason why Meteor is falling towards us.<br/>That's why I have to do everything in my power to fight this thing.</p>
+<p class="indent"><b>Barret</b><br/>Good!! Then you're gonna keep fightin' to save the planet!?</p>
+<p class="indent"><b>Cloud</b><br/>It's like you always told me, Barret.</p>
+<p class="indent"><b>Barret</b><br/>Oh, uh, you mean that!</p>
+<p class="indent"><b>Nanaki</b><br/>What? I don't understand!</p>
+<p class="indent"><b>Cloud</b><br/>There ain't no gettin' offa this train we on!</p>
+<p class="indent"><b>Tifa</b><br/>There ain't no gettin' offa this train we on!</p>
+<p class="indent"><b>Barret</b><br/>The train we on don't make no stops!</p>
+<p class="italic">Everyone laughs and runs out, Barret chasing after them, leaving Cloud behind.</p>
+<p class="indent"><b>Crew Member</b><br/>Oh...... oh...... Cloud......</p>
+<p class="italic">Cloud turns for the door.</p>
+<p class="indent"><b>Crew Member</b><br/>Cloud, I was deeply moved by your story!<br/>I'm really a weak person and so I could really understand how you feel, Cloud!<br/>No one knows when fighting will begin. But let's get ready!</p>
+<p class="italic">On the bridge...</p>
+<p class="indent"><b>Cait Sith</b><br/>Listen, Cloud.<br/>We're right in the middle of the mission for the Huge Materia, right?<br/>I know this's kinda outta the blue, but there's a underwater reactor at Junon.<br/>As far as I can see, that's the only one left.<br/>That's that. Let's go!</p>
+<p class="indent"><b>Barret</b><br/>C'mon, Cloud! Don't #&amp;$* around!<br/>We're goin' to Junon, boyeee!!</p>
+<p class="indent"><b>Tifa</b><br/>Let's do our best, Cloud!</p>
+<p class="indent"><b>Nanaki</b><br/>I'm glad you're back with us!</p>
+<p class="indent"><b>Cait Sith</b><br/>This's kinda on the spur o' the moment, but shouldn't we oughta get to Junon!?</p>
+<p class="indent"><b>Vincent</b><br/>Escape from a world of illusions... Hmph... I wonder which is better...?</p>
+<p class="indent"><b>Cid</b><br/>I know how tough it is bein' a leader, because I've been one.<br/>I always forget who has what materia.</p>
+<p class="indent"><b>Yuffie</b><br/>Huh?<br/>How would you even know? You don't know how tough it is... getting sick on boats and rides......<br/>So, please...... just leave me alone.</p>
+<p class="indent"><b>Cloud</b><br/>......I really do understand, Yuffie. When I get sick on a flight, it's a real killer.<br/>When I was in SOLDIER, I completely forgot about my motion sickness.</p>
+<p class="indent"><b>Yuffie</b><br/>Oh......<br/>Isn't there any way to prevent this?</p>
+<p class="indent"><b>Cloud</b><br/>Well, according to my research......<br/>First off, if you're nervous a lot, you won't get sick.<br/>But you can't always be nervous.<br/>With this much space, your best bet is to move around while you're riding.<br/>It also might be a good idea to stretch sometimes, too.<br/>But in SOLDIER, we spent a lot of time in trucks.<br/>That sucked!......<br/>And there's one thing you mustn't do when riding.<br/>And that is......<br/>Read!<br/>Once you get sick, there's nothing anyone can do.<br/>I know it's tough......</p>
+<p class="indent"><b>Yuffie</b><br/>......so you're a little better off than me.<br/>But I don't feel...... well.<br/>Where's the next stop? Can't you get there any quicker?<br/>Cloud, put me in your party, so I can get off this ship.</p>
+<p class="indent"><b>Learner Pilot (L8)</b><br/>Wanna Go?</p>
+<p class="indent"><b>Cloud</b><br/>- Yes<br/>- No</p>
+<p class="italic"><a name="aftermath"></a>Going back to Mideel in ruins...</p>
+<p class="indent"><b>Old Man at Entrance</b><br/>Ahoy! This here's Mideel. As you can see, this used to be a quiet hot springs town.<br/>Everything's gone now but in a way, I'm kinda glad everything's cleaned out. Feels better this way, ho, ho.</p>
+<p class="indent"><b>Bald Man</b><br/>Hey, you feelin' all better now? That's good, real good.<br/>Now don't overdo yourself like that again, hear?</p>
+<p class="italic-inline">He turns to survey what's left of the town.</p>
+<p class="block-inline">But isn't the Lifestream a strange thing?<br/>When I die, I wonder if I'll flow along in the middle of a warm gentle stream like this......?</p>
+<p class="indent"><b>Shopper</b><br/>Hee, hee. Welcome. It's here. The day's finally come! Your day to shop!!<br/>Do we have items and weapons!? Well, I should say so. And here's a bargain! What would you say to 50% off everything?<br/>Just kidding. Even I wouldn't do something like that. Now what can I do for you today?<br/>Thank you. Come again!</p>
+<p class="indent"><b>Doctor</b><br/>Hmphf? You...!? How did you recover from your Mako poisoning?<br/>This is absolutely amazing...... I am so glad for you! Looks like your friends' wishes came true.<br/>You can see for yourself what things look like, but at least no one was seriously hurt. We're just very unhappy now.</p>
+<p class="indent"><b>Nurse</b><br/>You probably don't remember, but you know that girl that watched over you for so long when you were sick?<br/>You'd better take care of her. If you don't, you'll be sorry. Believe you me!<br/>Well anyhow...... Hey, you all look terrible. Why don't you rest up for a while?</p>
+<p class="italic-inline">Cloud and the others rest.</p>
+<p class="block-inline">OK! Perfect! Well then, take care.</p>
+<p class="indent"><b>Item Shopkeeper</b><br/>Welcome! We always welcome cash! What can I do for you today?<br/>I'm sorry. Our stock isn't so great now... But that's just the way it is here.<br/>If you're looking for other items, why don't you check out the other stores?</p>
+<p class="indent"><b>Girl in Blue</b><br/>Have you seen my husband? He disappeared during the big earthquake and I haven't seen him since.<br/>I thought he'd be in the store......<br/>You don't think he got through that door and went to another country on the other side, do you?<br/>That's all just a dream...... Nothing like that could ever really happen. Heh...</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>Welcome. Just what you need at time like this--a shop of rest and relaxation. What you want?<br/>Thank you! We don't have many goods but you coming again, please.</p>
+<p class="indent"><b>Girl</b><br/>Oh great. Now I've got to find another job......<br/>I guess I might as well make my side job as an accessory seller into my regular job.<br/>Well, since you're already here, why don't you buy something to take back with you?<br/>Thank you. Stop by again.</p>
+
+</scene>

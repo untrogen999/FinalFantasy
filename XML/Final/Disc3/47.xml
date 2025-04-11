@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="TheWorldFinal">
+
+
+
+<sp> The World - Before the End </sp>
+
+<sp> Midgar: Sector 5 </sp>
+<sp> Midgar: Sector 6 </sp>
+<sp> Kalm </sp>
+<sp> Junon </sp>
+
+<stage>At Midgar...</stage>
+<stage>In Aerith's church...</stage>
+<sp> <speaker name="Boy">Boy</speaker><boxstart/>They're purty! </sp>
+<sp> <speaker name="Girl">Girl</speaker><boxstart/>Hey! Where's the flower lady? </sp>
+<stage>Elsewhere in Sector 5...</stage>
+<sp> <speaker name="Person Outside the Pipe">Person Outside the Pipe</speaker><boxstart/>These folks went wobbling off somewhere...<boxstart/>They said something about the 'Reunion starting'... sounded almost like a chant. Wonder what the heck that meant. </sp>
+<sp> <speaker name="Woman Walking Around">Woman Walking Around</speaker><boxstart/>I'm not going to look up or down! From now on I'm just going to look straight ahead.<boxstart/>Maybe not. I'm just flapping my gums. I really wonder how things will turn out. </sp>
+<sp> <speaker name="Person in Blue">Person in Blue</speaker><boxstart/>What's going on with the world? When it's all said and done, we're all gonna wind up dead. </sp>
+<sp> <speaker name="Man in Straw Hat">Man in Straw Hat</speaker><boxstart/>Yeah, that's right! But, even so, where could we move to now...? </sp>
+<sp> <speaker name="Person in Blue">Person in Blue</speaker><boxstart/>...You've been talking like that for sometime now. </sp>
+<sp> <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>And I just got together enough money to get out of this place...<boxstart/>Now it doesn't matter where I go! Ho, ho, ho... </sp>
+<stage>Inside a house...</stage>
+<sp> <speaker name="TV">TV</speaker><boxstart/>......ga...... g, ga ga.............. </sp>
+<sp> <speaker name="Kid">Kid</speaker><boxstart/>SOLDIER? What about them!?<boxstart/>Damn! If they really were from SOLDIER, they would be doing something about all this!! </sp>
+<sp> <speaker name="Man Upstairs">Man Upstairs</speaker><boxstart/>The trick to bein' a real man, is not to fart around, but to let everyone know where you stand, right off! </sp>
+<stage>Sector 6, the Honey Bee Inn...</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Heee, ...... The Shinra have occupied this shop! </sp>
+<stage>Elsewhere...</stage>
+<sp> <speaker name="Cat Kid">Cat Kid</speaker><boxstart/>I wish I could live with a real cat. </sp>
+<sp> <speaker name="Punk">Punk</speaker><boxstart/>We're not leavin' this city no matter what happens. </sp>
+<sp> <speaker name="Man Outside Restaurant">Man Outside Restaurant</speaker><boxstart/>It's a weird world we live in, so eat up and work hard. </sp>
+<sp> <speaker name="Man Cooking Outside">Man Cooking Outside</speaker><boxstart/>I don't know what's gonna happen next, But first, you gatta fill your stomach. </sp>
+<sp> <speaker name="Man Outside Dress Shop">Man Outside Dress Shop</speaker><boxstart/>Seems like everything has frills on it. </sp>
+<sp> <speaker name="Weapons Owner">Weapons Owner</speaker><boxstart/>Oh, so you're back? I got something good for you. Why don't you buy it? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You probably just found it lying around somewhere, right? </sp>
+<sp> <speaker name="Weapons Owner">Weapons Owner</speaker><boxstart/>I'll admit that I found it, but you may never be able to get another one like it again.<boxstart/>How 'bout 129,000 Gil for it? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...What kind of price is that?<boxstart/>- Oh, all right... I'll buy it<boxstart/>- No, I don't want it </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Oh, all right... I'll buy it </sp>
+  <sp> <speaker name="Weapons Owner">Weapons Owner</speaker><boxstart/>Hey, much obliged. You'll never regret it! </sp>
+  Received "Sneak Glove"!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>No, I don't want it </sp>
+  <sp> <speaker name="Weapons Owner">Weapons Owner</speaker><boxstart/>Hmm, that's too bad. This's really something. </sp>
+
+
+<stage>At Kalm...</stage>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Hey, listen to me! I heard the barrier protecting <referent name="Sephiroth">Sephiroth</referent> is gone!<boxstart/>But with <referent name="Rufus">Rufus</referent> dead, the Shinra troops don't know what to do. Heidegger and Scarlet don't have what it takes to lead the troops......<boxstart/>I really thought something was finally going to get done, but everything's the same... not a damn thing's changed! </sp>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>Ah, youth... You really believe that big meteor filling up the sky's going to fall here?<boxstart/>If Shinra, Inc was our last hope, and they've been beaten by terrorists...... Are we all going to die? </sp>
+<stage>Inside the first house...</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Dear, can you believe it!? They say that Shinra's gone under!!<boxstart/>This world is coming to an end all because those terrorists called AVALANCHE stuck their noses in the wrong place! </sp>
+<stage>Inside the second house...</stage>
+<sp> <speaker name="Old Man">Old Man</speaker><boxstart/>If something ever happened to President <referent name="Rufus">Rufus</referent>, That'd be the end of Shinra, Inc...... and the rest of the world, too. </sp>
+<stage>Back outside...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>The North Crater barrier's been demolished?<boxstart/>So now's the time to defeat <referent name="Sephiroth">Sephiroth</referent>. </sp>
+<stage>In the bar...</stage>
+<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>They say the remaining members of AVALANCHE broke Shinra's resistance and destroyed the Mako cannon at Midgar.<boxstart/>What's going to happen to the world...? </sp>
+<sp> <speaker name="Person in Blue">Person in Blue</speaker><boxstart/>I heard the remaining members of AVALANCHE smashed the Shinra troops at Midgar.<boxstart/>Lately, there's been a number of scary incidents. I hate it. Just hate it! </sp>
+<stage>Inside the fourth house...</stage>
+<sp> <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>OH! It's "Guidebook"! Wanna trade it for this Underwater Materia?<boxstart/>How about it? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Trade<boxstart/>- Don't trade </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Trade </sp>
+  <sp> <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>Ok then, it's a done deal! </sp>
+  He goes over to retrieve the materia.
+  It's Underwater Materia. Go on, it's yours!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Don't trade </sp>
+  I dunno......
+
+<sp> <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>OH! It's "Desert Rose"! Wanna trade it for that Chocobo over there?<boxstart/>How about it? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Trade </sp>
+<sp> <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>Ok then, it's a done deal! </sp>
+<stage>He snaps his fingers and a gold chocobo appears.</stage>
+<sp> <boxstart/>It's a Chocobo. Take it, it's yours! </sp>
+<sp> <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>OH! It's the Earth Harp! Wanna trade it for some Master Materia?<boxstart/>I'm not bein' stingy either! I'll give you all three of 'em!<boxstart/>How about it? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Trade </sp>
+  <sp> <speaker name="Old Man Upstairs">Old Man Upstairs</speaker><boxstart/>Ok then, it's a done deal!<boxstart/>It's a 3-piece Master Materia set... and it's all yours!<boxstart/>I guess it's time to go on a journey for the souls of my departed friends......</sp>
+  <stage>He walks out of the room.</stage>
+
+<stage>In Upper Junon...</stage>
+<sp> <speaker name="Soldier on the Path to the Airport">Soldier on the Path to the Airport</speaker><boxstart/>I finally got orders to join the Great <referent name="Sephiroth">Sephiroth</referent> Plan. I even get to go on the Gelnika too...<boxstart/>But, I'm just gonna ignore them. I wanna live to see the end of the world.<boxstart/>If I'm lucky... There'll be a good place for me in the New World. </sp>
+
+</scene>

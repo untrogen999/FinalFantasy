@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="JunonExecution">
+
+
+
+<sp>Junon - A Public Execution </sp>
+
+<sp>Tifa Dreaming </sp>
+<sp>Captive in Junon </sp>
+<sp>A Public Execution </sp>
+<sp>Shinra Fights Weapon </sp>
+<sp>Tifa's Escape </sp>
+<sp>Not Enough Crew </sp>
+
+<stage>The screen is pitch black. Cloud sits in the distance.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Cloud...<boxstart/><referent name="Cloud">Cloud</referent>... </sp>
+<stage>Cloud gets up and starts walking away. Tifa runs after him.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>......I didn't know what to do. I was always like that... </sp>
+<stage>Flashback to the Sector 7 train station, before the events of the game. <referent name="Cloud">Cloud</referent> is lying near the steps and the train man and a dog are nearby.</stage>
+<sp><speaker name="Station Man">Station Man</speaker><boxstart/>What's the matter? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>ohhh... </sp>
+<sp><speaker name="Station Man">Station Man</speaker><boxstart/>......poor kid. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Ooouugh...... </sp>
+<stage>Tifa runs over.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Are you all right? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>oo... uh... agh </sp>
+<sp>Flash. </sp>
+<sp>Uh... uh... Tifa...?<boxstart/><referent name="Tifa">Tifa</referent>...? </sp>
+<sp>He gets to his feet. </sp>
+<sp>Tifa! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>...............?<boxstart/>Oh, <referent name="Cloud">Cloud</referent>! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>That's right. I'm <referent name="Cloud">Cloud</referent>. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Is it really you, <referent name="Cloud">Cloud</referent>? I never thought I'd find you here! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Yeah, it's been a while. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>What happened to you? You don't look well. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>......Yeah? It's nothing. I'm okay. </sp>
+<stage>She turns away and he clutches his head for a moment. She turns back.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>How long has it been? </sp>
+<stage>Flash.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Five years. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>............ </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What is it? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>...it's really been a long time. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Actually, it's been seven years.<boxstart/>You got your wish and joined SOLDIER, quit after the <referent name="Sephiroth">Sephiroth</referent> incident, and now you're a mercenary...<boxstart/>You told me a lot about what happened after you left Nibelheim...<boxstart/>But...<boxstart/>...Something's wrong. I felt there was something strange about the things you talked about.<boxstart/>All the things you didn't know that you should, And other things you shouldn't know that you did...<boxstart/>I wanted to make sure...<boxstart/>But then I heard... you were going far away...<boxstart/>And I didn't want that...<boxstart/>...I didn't know what to do. So, I thought I needed more time.<boxstart/>And that's why I told you about the AVALANCHE job. I wanted to be with you, watch you. </sp>
+<stage>Tifa wakes in Junon base to bright lights overhead.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>...ding...... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Huh? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>The glare... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>You'll be better soon. You've been asleep for a long time. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I'm...... hungry.... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Hey, why don't you ask? </sp>
+<sp><boxstart/>About him. </sp>
+<stage>The glare fades and Tifa sits up.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>...Because I'm scared. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Don't worry. I don't know what happened to <referent name="Cloud">Cloud</referent> either.<boxstart/>Guess I shouldn't tell you not to worry...<boxstart/>None of them know if he's all right either. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>He's still... alive, right? </sp>
+<stage>Barret nods.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>How long... was I asleep? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Lessee now...... Must've been about 7 days. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>What about <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>You ain't over it yet. Remember that huge light, in the Northern Cave?<boxstart/>Since then, the crater's been surrounded by a huge barrier of light.<boxstart/>Everyone knows <referent name="Sephiroth">Sephiroth</referent> sleeps in that big hole, protected by the barrier.<boxstart/>We can't do a damn thing about it. We just gotta wait till he wakes up.<boxstart/>An' on topa that, some huge monster called Weapon's been on a rampage. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>...Weapon? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Remember that huge monster that was with <referent name="Sephiroth">Sephiroth</referent>, at the bottom of the crater?<boxstart/>Well it's up here now. They say it's some legendary monster from the past. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Weapon... is protecting <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Dunno. But he's up here goin' around tearin' shit up.<boxstart/>Right now <referent name="Rufus">Rufus</referent>' fightin' it. I hate to say it, but he's got guts.<boxstart/>We shoulda been the ones to destroy it, but we ain't got no time... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Time...<boxstart/>...Hey! How about Meteor? </sp>
+<stage>Barret opens the blinds to a large window as Tifa walks to look outside. Meteor hangs there in the sky.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Do we have to give up? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>...Dunno. </sp>
+<stage>The door opens and Rufus enters.</stage>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>I thought Cloud would show up to save you all...<boxstart/>Professor Hojo wanted to check up on <referent name="Cloud">Cloud</referent>, too. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>What are you going to do to <referent name="Cloud">Cloud</referent>? </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>'s alter ego...<boxstart/>Meteor has been summoned... Essentially, it's all but over now.<boxstart/>So, there's no need for you now.<boxstart/>No, maybe there is an important task for you... </sp>
+<stage>Heidegger enters.</stage>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>President! Preparations for the public execution are complete. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Execution!?<boxstart/>What're ya gonna get by executin' us? </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>You are to be executed for causing this situation.<boxstart/>People are ignorant. They'll feel better as long as someone is punished. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>I take back what little praise I had for this damn jackass! </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>Well, enjoy your last moments together. </sp>
+<stage>He walks out.</stage>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>I'll tie your arms now. </sp>
+<stage>Barret and Tifa are escorted down to the press room, where Scarlet waits with the media.</stage>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Is everyone here? These are the ones who brought this madness into the world! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>The hell are these people? </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>We will be broadcasting your miserable deaths live on national television. </sp>
+<sp><speaker name="Large Man">Large Man</speaker><boxstart/>Scarlet, why a public execution in this day and age? </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>With the chaos resulting from the Meteor reports, we desperately need to rally public support... it's better that we punish somebody, anybody. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>You make me sick... </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>ha, ha, ha, ha!<boxstart/>They'll never admit it, but everyone loves this stuff!<boxstart/>We'll start with this girl. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>If you've gotta do it... do me first! </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Camera, this way! Make sure you get this, the audience just eats up tearful goodbyes! </sp>
+<stage>A soldier brings Tifa into the gas chamber, and Scarlet pushes her towards the chair.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>What are you doing!? </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>This is my special gas chamber. Take your time, and enjoy a slow painful death. </sp>
+<stage>She shoves Tifa into the chair.</stage>
+<sp><boxstart/>Stuck up ^%$#&amp;!! </sp>
+<stage>She slaps Tifa.</stage>
+<stage>Scarlet and the soldier walk out, the soldier dropping a key on the way.</stage>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Well now, the show's about to begin. Ha, ha, ha! </sp>
+<sp><speaker name="unspecified"/><boxstart/>Emergency! Emergency!<boxstart/>Weapon's approaching! Attention all military personnel: take your positions! </sp>
+<sp><speaker name="Press Representatives">Press Representatives</speaker><boxstart/>Oh no! It's Weapon!<boxstart/>Run! </sp>
+<stage>They all flee the press room except for the large man.</stage>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Hey, hey, all of you!<boxstart/>Damn! Why now? </sp>
+<sp><speaker name="Large Man">Large Man</speaker><boxstart/>How does it feel now, Scarlet? </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Hmm, so you didn't run? I'm impressed. How do I feel? Right now......<boxstart/>Nngaaaaaahhhh! </sp>
+<stage>She collapses.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Huh!? Sleeping gas? </sp>
+<stage>The large man reveals himself to be Cait Sith in disguise.</stage>
+<sp><speaker name="Soldiers">Soldiers</speaker><boxstart/>Weirdo!! </sp>
+<stage>Cait Sith and Barret dispatch the soldiers.</stage>
+<sp><speaker name="Cait Sith">Cait Sith</speaker> (untying Barret's arms)<boxstart/>I'm here to help! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Why you......? Ain't you part of Shinra? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Let's just say I'm against capital punishment. Besides... I hate this broad. Come on, we gotta help <referent name="Tifa">Tifa</referent>.<boxstart/>I'll keep watch at the entrance. </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>......Fools...... I've already pushed... the switch... </sp>
+<stage>Barret tugs at the door to the gas chamber.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>It won't open! </sp>
+
+<stage>Meanwhile, in the command room, Rufus and Heidegger stand before a broad window overlooking the ocean.</stage>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>It's Weapon. </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>There's been so many attacks lately. Can we handle it? </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>I believe so. Your orders? </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>No need to ask. </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>We'll give it a shot from our big cannon.<boxstart/>Open cannon doors!! Activate cannon. Target: Weapon!! </sp>
+<sp><speaker name="Sailor">Sailor</speaker><boxstart/>Preparations complete! </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>The cannon...<boxstart/>Fire----!!! </sp>
+<stage>The cannon fires a shot across the water. A moment of silence descends.</stage>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>Did we get 'em? </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>Seems so... </sp>
+<sp><speaker name="unspecified"/><boxstart/>Weapon approaching!<boxstart/>Speed, 50 Knots!<boxstart/>It's heading right toward us! </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>It can't be! We hit it dead on! </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>How about the cannon? </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>It'll take time to reload. </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>Then use regular fire power in the mean time! </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>Yes sir! Open all artillery doors! Target: Weapon! Don't let it land! </sp>
+<sp><speaker name="unspecified"/><boxstart/>Speed, 70 Knots!<boxstart/>Weapon, closing in!!<boxstart/>Not good! It's attacking! </sp>
+
+<stage>Back at the gas chamber, the gas turns on and Tifa starts squirming.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Gas!!<boxstart/><referent name="Barret">Barret</referent>, help!! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Hold your breath! Hold on as long as you can! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Come on! I can't hold on forever! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Shi-!<boxstart/>The Gas Room's probably locked from a different room! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hmm, we gotta go with a different plan. Let's get out of this room first. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/><referent name="Tifa">Tifa</referent>! I'll help you, I promise! </sp>
+<stage>They leave the press room, and the door locks behind them.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>No! They locked this too! </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker> (from inside)<boxstart/>Fools. Now, you can't save the girl.<boxstart/>Ha, ha, ha, ha!! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Goddammit......!! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>OK, OK time for Plan B. Let's run to the airport! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Why the airport? An' leave <referent name="Tifa">Tifa</referent> there? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Trust me, trust me. We gotta take a chance. </sp>
+<stage>If Barret goes the wrong way...</stage>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Where you goin'? The airport's the other way. </sp>
+<stage>They run outside and run across Yuffie dressed as a reporter.</stage>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>I know you're in a hurry! But, please if I could have a word...... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Shu'up!! I'm in a hurry! </sp>
+<sp>Kiiiiin... </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Don't make so much noise...... It's me, ME! <referent name="Yuffie">Yuffie</referent>! </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>The hell you doin' here!? </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>I'll explain later! Now we gotta get to the airport! </sp>
+<stage>They arrive at the airport.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Yo! You sure this is the right way? It's a dead end! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Uh oh? Did I make a wrong turn? </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>You damn cat......! What the hell're we gonna do now? They all be comin' soon!<boxstart/>Yo, better watch my back till the end... partner! </sp>
+
+<stage>Back in the gas chamber, Tifa manages to grab the dropped key with her feet and free herself from the chair.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Which button stops the gas...? </sp>
+<stage>She turns off the gas and then tries to tug open the door.</stage>
+<sp><boxstart/>Open it---...... </sp>
+<stage>There is an explosion as Weapon blasts a hole in the ceiling above her.</stage>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>What d'you do? Hey! Open it! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>First you lock me in this weird place, and now you're telling me to come out? Make up your mind! </sp>
+<stage>She climbs out the opening, down the outside of the base, and runs out across the cannon. Scarlet follows and they face off near the end of the cannon.</stage>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Our little game of hide and seek ends here.<boxstart/>The execution may have been unsuccessful, but your death by falling from here and crashing into the water below still might be pretty exciting. </sp>
+<stage>Slap.</stage>
+<sp><boxstart/>Stuck up to the end! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Quit slapping me! You old wench!!! </sp>
+<stage>A slapping fight ensues, and Scarlet falls to her knees.</stage>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>God! I can't stand it!<boxstart/>Take her away.<boxstart/>Now it's time to pay up. I'll really drop you if you don't settle down!<boxstart/>Ha, ha, ha, ha! </sp>
+<sp>Run...<boxstart/>Run to the end of the Cannon!! </sp>
+<stage>Tifa runs to the end of the cannon as the airship, the Highwind, comes up from below and hovers nearby. Barret is out on deck, and he throws Tifa a rope. She jumps from the cannon and catches the rope as the Highwind flies away from Junon.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>You okay? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>My cheeks hurt a bid.<boxstart/>Forget about that, what's all this about? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Well, I'll catch the details later.<boxstart/>In any case, the Airship, Highwind, is now yours. </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker> (lying on deck)<boxstart/>Ha! Ha! ......urk!<boxstart/>Well...... I'm glad you're safe.<boxstart/>I'm going to stay up here a little longer.<boxstart/>......Urk! ......I can't ride ships either in the air or water. </sp>
+<stage>Tifa goes inside.</stage>
+<sp><speaker name="Crew Member">Crew Member</speaker><boxstart/>My hands are full, so I'll excuse myself here! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>- Fly Airship<boxstart/>- Chew the fat </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>Fly Airship </sp>
+  <sp><speaker name="Crew Member">Crew Member</speaker><boxstart/>So things have come to this... When you want to take off, just tell the pilot on the bridge. </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>Chew the fat </sp>
+  <sp><speaker name="Crew Member">Crew Member</speaker><boxstart/>......Well......... Um, what should I talk about?<boxstart/>Wanna hear why we rebelled?<boxstart/>Working on the Highwind, we spent every day slaving under Heidegger.<boxstart/>Whenever he got yelled at by the President, he'd immediately take it out on the crew.<boxstart/>We put up with this all the time. Even when he beat us.<boxstart/>I mean, I finally made it on the crew of the famous Highwind, and there's no way I was going to quit over him.<boxstart/>Let's see, it must've been a week ago... it was my shift and we were heading towards the North Cave.<boxstart/>Everyone, including the President and Scarlet, got on.<boxstart/>And with them, I saw Cid, a legendary pilot!<boxstart/>And he was looking around the inside of the ship looking really, y'know, nostalgic......<boxstart/>He even talked to us.<boxstart/>I couldn't believe it! I was so impressed! He was every bit as warmhearted as we'd always heard.<boxstart/><referent name="Cid">Cid</referent> said that if he had the Highwind, things would be a lot easier.<boxstart/>And now here we are off to save the planet. It's true. He really overwhelmed me.<boxstart/>And that's why we decided to help.<boxstart/>After the North Cave, we went to Junon, and I started screaming 'Fire! Fire!'<boxstart/>In the middle of all the commotion, we stole this ship from the Shinra.<boxstart/>That's how it happened. .......Just a minor mutiny against our leaders.<boxstart/>But <referent name="Barret">Barret</referent> and you were captured by Heidegger......<boxstart/>We waited seven days for a chance to rescue you guys, before we finally could.<boxstart/>So thanks to our successful mission, we were able to see you again.<boxstart/>I hope I didn't bore you too much with that long story. </sp>
+
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Dammit! Why didn't ya tell me you could fly an airship!?<boxstart/>I thought...... <referent name="Tifa">Tifa</referent> was gone for good. </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Sorry, but I had to do something to trick the enemy.<boxstart/>Come on! Everyone is waiting! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Everyone? Everyone's here? </sp>
+<stage>Tifa runs to the bridge.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Welcome to my airship--the Highwind! </sp>
+<stage>Tifa looks around.</stage>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>What's wrong!? You should be more excited than that! </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cid">Cid</referent>...... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Yeah...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Not enough crew. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>What's that sad face for? </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Well, it takes all kinds. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Do you think we aren't strong enough without <referent name="Cloud">Cloud</referent>?<boxstart/>Do you think we can't save the Planet alone? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Meteor is coming, and Weapon is on the rampage......<boxstart/>At a time like this, I don't know what I'm supposed to do......<boxstart/>No idea at all...... </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Get a hold of yourself <referent name="Tifa">Tifa</referent>! C'mon, let's think about this!<boxstart/>No way we can get offa this train we're on! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>......If only Cloud was here, everything would be fine.<boxstart/><referent name="Cloud">Cloud</referent> would......<boxstart/>Stand that cocky little way he did, and tell us what to do.<boxstart/>He'd say, 'Everything's under control, <referent name="Tifa">Tifa</referent>.' </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/><referent name="Tifa">Tifa</referent>! When'd you become such a wimp! </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I'm sorry <referent name="Barret">Barret</referent>.<boxstart/>I'm kind of shocked myself. I'm so depressed. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>And <referent name="Tifa">Tifa</referent>...... the reason why we all thought it was <referent name="Cloud">Cloud</referent> was because...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>......I know.<boxstart/>That's why I want to make sure. That's why I have to see him again. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Cheer up, <referent name="Tifa">Tifa</referent>...... </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>......So glad you're all right <referent name="Tifa">Tifa</referent>. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>What? Does <referent name="Cloud">Cloud</referent> always gotta be around?.......<boxstart/>We did fine without him in the beginning......<boxstart/>Right? An' what happened to tough girl I used to know? Where'd she go to? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Tifa">Tifa</referent>, I'll give you information Shinra.<boxstart/>Ask me if there's anything you don't understand. </sp>
+<sp><speaker name="Crew Member 2">Crew Member 2</speaker><boxstart/>Whenever anyone talks to me, I get all nervous and mess things up! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey you! What the hell are you doin'!? </sp>
+<sp><speaker name="Crew Member 3">Crew Member 3</speaker><boxstart/>All we have to do is just pilot. They don't have to talk to us. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>I want you to know that I didn't dislike him.<boxstart/>Gotta admit he was a strange dude.<boxstart/>Just when you thought he was cool, he'd go and do some damn fool thing.<boxstart/>And when you thought he was smart, he'd show how stupid he was.<boxstart/>Everything about him from his movements to his speech were kinda odd.<boxstart/>Knowin' what I do now, I can see why he was that way.<boxstart/>Well, as long as you stay alive, you just might see him again someday, so cheer up, sis. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>......I'll be able to see him someday. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>If we can find out where he is, the Highwind'll get us there in no time. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>......Maybe<boxstart/><referent name="Cloud">Cloud</referent> is still stuck deep in the North Crater, where the ground cracked and swallowed him up......<boxstart/>Buried in the depths of the underground...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Deep within the earth...... are you talking about the Lifestream? </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>The Lifestream sometimes gushes out the the surface from cracks in the ocean floor.<boxstart/>I've heard that such a place exists.<boxstart/>Maybe, just maybe <referent name="Cloud">Cloud</referent>'s...... </sp>
+<sp><speaker name="Pilot in Training (LV3)">Pilot in Training (LV3)</speaker><boxstart/>Waaaaah! Captain <referent name="Cid">Cid</referent>! </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Tifa, sorry, but I've gotta show this moron how to land the ship.<boxstart/>Don't worry, it'll be done in a minute.<boxstart/>Oh, and <referent name="Tifa">Tifa</referent>......<boxstart/>No matter what your goal is, you've got to be prepared.<boxstart/>Go to your room and get ready for our operation.<boxstart/>I put a lot of things for the operation in your room, so put them in order. </sp>
+<stage>Tifa goes to the Operations Room.</stage>
+<sp><speaker name="Crew Member 4">Crew Member 4</speaker><boxstart/><referent name="Tifa">Tifa</referent>, thank you for a job well done! </sp>
+<stage>Back on the bridge...</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Whenever I think of <referent name="Cloud">Cloud</referent>, everything gets all jumbled up.<boxstart/>No matter how powerful Shinra or Hojo is, I can't believe they can create humans.<boxstart/>But because of them, we know that Meteor is heading towards us......<boxstart/>Y'know, even if I saw him, I don't have a damn idea what I'd do...... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>There appears to be a small island near the Lifestream......<boxstart/>They said the Lifestream sometimes suddenly gushes out at the south island.<boxstart/>I remember hearing about this from Seto when I was a child, but I don't remember much else......<boxstart/>I'm sorry...... <referent name="Tifa">Tifa</referent>. </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Everything appears calm right now at Shinra.<boxstart/>So now's the time to look for Cloud.<boxstart/>I'm worried about him, too.<boxstart/>I wonder where <referent name="Cloud">Cloud</referent> is. Or could he already be...... </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Too much hope is the opposite of despair.<boxstart/>An overpowering love may consume you in the end...... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>OK! You just signal when you're ready to fly full speed. </sp>
+<sp><speaker name="Pilot in Training (LV4)">Pilot in Training (LV4)</speaker><boxstart/>Eaggggh! Are we going? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>- We're going<boxstart/>- We're staying put </sp>
+<sp><speaker name="Pilot in Training (LV4)">Pilot in Training (LV4)</speaker><boxstart/>Eagggggh! We're off! </sp>
+
+</scene>

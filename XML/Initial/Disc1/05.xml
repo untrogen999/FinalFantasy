@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="WallMarket">
+
+
+
+<h1>Sector 6 - Wall Market</h1>
+
+<h4><a href="#playground">The Sector 6 Playground</a></h4>
+<h4><a href="#explore">Exploring Wall Market</a></h4>
+<h4><a href="#plan">Aerith Hatches a Plan</a></h4>
+<h4><a href="#honeybee">The Honey Bee Inn</a></h4>
+<h4><a href="#becoming">Becoming Miss Cloud</a></h4>
+<h4><a href="#misscloud">Walking Around as Miss Cloud</a></h4>
+<h4><a href="#mansion">Don Corneo's Mansion</a></h4>
+<hr></hr>
+<p class="italic"><a name="playground"></a>Aerith and Cloud head through Sector 6 and arrive at the playground.</p>
+<p class="indent"><b>Aerith</b><br/>The gate to Sector 7's in there.</p>
+<p class="indent"><b>Cloud</b><br/>Thanks. I guess this is goodbye. You gonna be all right going home?</p>
+<p class="indent"><b>Aerith</b><br/>Oh no! 'What ever will I do!?' ...isn't that what you want me to say?</p>
+<p class="indent"><b>Cloud</b><br/>- See her home<br/>- Take her to Sector 7</p>
+<div class="block"/>
+  <p><span class="highlight">See her home</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Isn't that a little out of the way?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Yeah, I guess so.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Take her to Sector 7</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>I could do that. But won't I be in your way?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>What do you mean in the way?</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Nothing!</p>
+
+<p class="indent"><b>Aerith</b><br/>Can we take a break?</p>
+<p class="italic-inline">She wanders into the playground and stops by the slide with a cat's face.</p>
+<p class="block-inline">I can't believe it's still here.</p>
+<p class="italic-inline">She runs around and climbs up on top of it.</p>
+<p class="block-inline">Cloud, over here!</p>
+<p class="italic">Cloud shrugs and joins her.</p>
+<p class="indent"><b>Aerith</b><br/>What rank were you?</p>
+<p class="indent"><b>Cloud</b><br/>Rank?</p>
+<p class="indent"><b>Aerith</b><br/>You know, in SOLDIER.</p>
+<p class="indent"><b>Cloud</b><br/>Oh, I was...</p>
+<p class="italic-inline">Flash.</p>
+<p class="block-inline">First Class.</p>
+<p class="indent"><b>Aerith</b><br/>Just the same as him.</p>
+<p class="indent"><b>Cloud</b><br/>The same as who?</p>
+<p class="indent"><b>Aerith</b><br/>My first boyfriend.</p>
+<p class="indent"><b>Cloud</b><br/>You were... serious?</p>
+<p class="indent"><b>Aerith</b><br/>No. But I liked him for a while.</p>
+<p class="indent"><b>Cloud</b><br/>I probably knew him. What was his name?</p>
+<p class="indent"><b>Aerith</b><br/>It doesn't really matter.</p>
+<p class="italic">The gate to Sector 7 opens, and a chocobo-drawn carriage comes out. Tifa is riding in back, wearing a revealing blue dress. Cloud jumps to his feet.</p>
+<p class="indent"><b>Cloud</b><br/>Huh? Hey, back there......<br/>Tifa!?</p>
+<p class="italic">The carriage pulls past them and into Wall Market.</p>
+<p class="indent"><b>Aerith</b><br/>That girl in the cart was Tifa? Where was she going? She looked kind of odd...</p>
+<p class="italic">Aerith jumps off the slide and runs after the carriage.</p>
+<p class="indent"><b>Cloud</b><br/>Wait!<br/>I'll go on alone! You go on home!</p>
+<p class="italic"><a name="explore"></a>He sighs and follows her into Wall Market.</p>
+<p class="indent"><b>Aerith</b><br/>This place is scary in a lot of ways. Especially for a girl. So we've got to find Tifa fast.</p>
+<p class="indent"><b>Man outside Honey Bee Inn</b><br/>I just can't make up my mind... Mmm.<br/>Huh? About what?<br/>Hmmm, don't make me say it... It's the shop down on the right.</p>
+<p class="italic">On to the Honey Bee Inn, a brothel outside of which a number of guys are hanging around.</p>
+<p class="indent"><b>Johnny</b><br/>Man... Should I go...... or not?<br/>...I get so mental at times like this. I'm hopeless!!<br/>Hey!! Aren't you...?<br/>What!! You mean you're... too?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah, me too.<br/>- Don't bring me down to your level</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah, me too.</span></p>
+  <p class="indent-nopad"><b>Johnny</b><br/>You're Tifa's childhood friend, and you brought a new girlfriend to a place like this!?<br/>What kind of guy are you!!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Don't bring me down to your level</span></p>
+  <p class="indent-nopad"><b>Johnny</b><br/>What... Me too. I decided this after a lot of deep thought. My last memories of Midgar... you know.<br/>But... That guy over there kinda scares me.</p>
+
+<p class="indent"><b>Punk</b><br/>What the hell!! You *%^&amp;!! This ain't no #$*&amp;^% show!! I'm busy right now!!<br/>I'm feelin' like there's gonna be a fight!!</p>
+<p class="indent"><b>Shinra Soldier</b><br/>Urrrrgh... no way...... I can't go on.<br/>Things aren't working out.<br/>Between our differences and my pay, it just isn't cutting it.</p>
+<p class="indent"><b>Older Man</b><br/>Welcome!! Even unpopular dweebs, like you may meet their destiny here!!<br/>You looking for a girlfriend too?</p>
+<p class="indent"><b>Cloud</b><br/>- You know a girl named Tifa?<br/>- This place doesn't interest me.</p>
+<div class="block"/>
+  <p><span class="highlight">You know a girl named Tifa?</span></p>
+  <p class="indent-nopad"><b>Older Man</b><br/>Hey, you're pretty fast. Tifa's our newest girl.<br/>But, unfortunately, she's having an interview right now.<br/>Here at the Honey Bee Inn, it's customary for all the new girls to be taken to Don Corneo's mansion.<br/>Don Corneo's a famous dilettante. Now he wants to settle down and is in the market for a bride.</p>
+
+<div class="block"/>
+  <p><span class="highlight">This place doesn't interest me.</span></p>
+  <p class="indent-nopad"><b>Older Man</b><br/>Hmm... Seems to like it just fine. Good for you.</p>
+
+<p class="indent"><b>Redhead in Suit</b><br/>The Honey Bee Inn is a private club. Only members can go in. Shoo, shoo.</p>
+<p class="italic">Back to the main streets...</p>
+<p class="indent"><b>Kid by Cat Statue</b><br/>Aren't cats great? This one's a little big, huh?</p>
+<p class="indent"><b>Punk</b><br/>Hey boy! You shore got a good lookin' heifer there!<br/>Take her to the Don's place, and you'll make a mint.</p>
+<p class="indent"><b>Man Cooking Outside</b><br/>It's a little early to start eating. Come back in a bit.</p>
+<p class="italic">Inside the Materia Shop...</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>...We're closed now.</p>
+<p class="indent"><b>Man Outside Dress Shop</b><br/>Oh... what should I do... Should I just buy it......?</p>
+<p class="italic">Inside the dress shop...</p>
+<p class="indent"><b>Customer</b><br/>Don't push! Hooligan!</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>Welcome. Please take your time.</p>
+<p class="italic">Back outside again...</p>
+<p class="indent"><b>Man</b><br/>All this trash. Can't we do anything with it?</p>
+<p class="indent"><b>Man 2</b><br/>All this, belongs to the owner of the Weapons Shop. He keeps picking things up and saving them here.</p>
+<p class="indent"><b>Man</b><br/>Oh, you mean the owner who even has a tank in his shop.</p>
+<p class="indent"><b>Man 2</b><br/>But no matter how you look at it, it's just trash...</p>
+<p class="italic">Inside the gym...</p>
+<p class="indent"><b>Man Using Punching Bag</b><br/>Join the club.<br/>Try it with us.</p>
+<p class="indent"><b>Beautiful Bro</b><br/>Oh dear. I've gained weight again.</p>
+<p class="indent"><b>Men Doing Squats</b><br/>All right... 1, 2, 3. Squats are all in the rhythm.<br/>I'm doing my best, bro'!<br/>How's... this!?</p>
+<p class="italic">Inside the bar...</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>Whew, times are bad.</p>
+<p class="indent"><b>Redhead</b><br/>...And then...</p>
+<p class="indent"><b>Redhead 2</b><br/>Hmm, hmmm, oh really?</p>
+<p class="indent"><b>Barkeeper</b><br/>Yes? If you want to order, do it at the counter.</p>
+<p class="indent"><b>Man Waiting Outside Bathroom</b><br/>Hey, could you do somethin' for me? Someone's been in there all day and they're not comin' out. I can't hold it anymore!</p>
+<p class="indent"><b>Redhead in Bathroom</b><br/>HEY... someone's IN here... Don't look!<br/>Got any medicine on you? I'm too hyper... and...... ugh......</p>
+<p class="italic">Inside the weapon shop...</p>
+<p class="indent"><b>Weapon Shop Owner</b><br/>You want somethin'? I don't wanna hear any complaints 'bout how things look.</p>
+<p class="italic"><a name="plan"></a>At Don Corneo's mansion...</p>
+<p class="indent"><b>Doorman</b><br/>This is the mansion of Don Corneo, the most powerful man in Wall Market.<br/>Look, the Don's not into men. So don't let me catch you around here again...<br/>Hey, and you got another cute one with you!</p>
+<p class="italic">Aerith and Cloud step aside to talk.</p>
+<p class="indent"><b>Aerith</b><br/>Hey, this look's like the Don's mansion. I'll go take a look.<br/>I'll tell Tifa about you.</p>
+<p class="italic-inline">She starts for the door.</p>
+<p class="indent"><b>Cloud</b><br/>No!! You can't!!</p>
+<p class="indent"><b>Aerith</b><br/>Why?</p>
+<p class="indent"><b>Cloud</b><br/>You DO know... what kind of... place this is, don't you?</p>
+<p class="indent"><b>Aerith</b><br/>Then what am I supposed to do? You want to go in with me?</p>
+<p class="indent"><b>Cloud</b><br/>Well being a man, that'll be pretty hard. Besides if I bust in there, it'll cause too much commotion.<br/>But, I just can't let you go in alone... Oh, man......</p>
+<p class="italic-inline">At this point, Aerith starts laughing, but Cloud continues without noticing.</p>
+<p class="block-inline">First... we need to find out if Tifa's alright...<br/>What's so funny, Aerith?</p>
+<p class="indent"><b>Aerith</b><br/>Cloud, why don't you dress up like a girl? It's the only way.</p>
+<p class="indent"><b>Cloud</b><br/>WHAT!?</p>
+<p class="italic">Aerith runs over to the doorman before he can protest further.</p>
+<p class="indent"><b>Aerith</b><br/>Just wait. I've got a cute friend I want to bring.</p>
+<p class="indent"><b>Cloud</b><br/>Aerith! I can't......</p>
+<p class="indent"><b>Aerith</b><br/>You ARE worried about Tifa, aren't you? Them come on, hurry!</p>
+<p class="indent"><b>Doorman</b><br/>A friend, huh...? Sounds pretty good to me.<br/>That'll make the Don happy, too. Who knows, maybe I can...... heeee, hee hee.</p>
+<hr></hr>
+<p class="italic"><a name="honeybee"></a>Now that they know where Tifa is, it becomes possible to enter the Honey Bee Inn.</p>
+<p class="indent"><b>Man outside Honey Bee Inn</b><br/>Nope, I just can't make up my mind. Here, you take this. You won't be able to get in without it.</p>
+<div class="highlight"/><p>Received Key Item "Member's Card"</p>
+<p class="indent"><b>Older Man</b><br/>Mmm! Please, please!</p>
+<p class="indent"><b>Redhead in Suit</b><br/>Hey! Is that a "Member's Card" I see shining in your hot little hand?<br/>Please, come in.</p>
+<p class="indent"><b>Cloud</b><br/>...Hmm. That's how you'll fool them.</p>
+<p class="indent"><b>Aerith</b><br/>.........Hmmmmmmm. So that's how you fooled them.</p>
+<p class="indent"><b>Cloud</b><br/>Let's go!!</p>
+<p class="italic">Cloud runs inside, leaving Aerith behind. Inside, all the women are dressed in bee costumes.</p>
+<p class="indent"><b>Lady</b><br/>Poo, I uh, mean, Sir...<br/>Hurry...<br/>Please choose a room. (Gosh, he's so weird... but then again, they all are.)</p>
+<ul>
+  <li><a href="#queen">The Queen's Room</a></li>
+  <li><a href="#lovers">The Lovers' Room</a></li>
+  <li><a href="#dressing">The dressing room</a></li>
+  <li><a href="#bleep">The &amp;$#% Room</a></li>
+  <li><a href="#group">The Group Room</a></li>
+  <li><a href="#leaving">Leaving the Honey Bee Inn</a></li>
+</ul>
+<p class="italic"><a name="queen"></a>The Queen's Room.</p>
+<p class="indent"><b>Cloud</b><br/>Looks like this room's being used.<br/>- Take a listen<br/>- Take a peek</p>
+<div class="block"/>
+  <p><span class="highlight">Take a listen</span></p>
+  <p class="indent-nopad"><b>Cloud</b><br/>............</p>
+  <p class="italic">There is a wind blowing and ominous thunder.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Take a peek</span></p>
+  <p class="indent-nopad"><b>Cloud</b><br/>......Wooo... ow!!</p>
+  <p class="block-grey">......The wind's calm now......<br/>It's the curse of the resurrected Satan... Our beloved Queen does not awaken...<br/>The time is ripe...<br/>A legend has been passed on through generations...</p>
+  <p class="indent-nopad"><b>First Speaker</b><br/>Psst...... (Hey, shouldn't we stop him soon?)</p>
+  <p class="indent-nopad"><b>Second Speaker</b><br/>...whisper... whisper... (We have a luncheon with President Shinra...)</p>
+  <p class="indent-nopad"><b>First Speaker</b><br/>Psst...... (You tell him......)</p>
+  <p class="indent-nopad"><b>Second Speaker</b><br/>Psst...... (I can't tell him......)</p>
+  <p class="indent-nopad"><b>First Speaker</b><br/>Psst...... (Come on!! Oh, well......)</p>
+  <p class="block-grey">A legend has been passed on through generations...</p>
+  <p class="indent-nopad"><b>Second Speaker</b><br/>Psst...... (I'm so disgusted with the President.)</p>
+  <p class="block-grey">......the sought after Promised Land......</p>
+  <p class="indent-nopad"><b>First Speaker</b><br/>Psst...... (It's like this every time we have a business trip to Midgar.)</p>
+  <p class="block-grey">......One with Blue Eyes...</p>
+  <p class="indent-nopad"><b>First Speaker</b><br/>(We come all the way to Midgar, just for this...)</p>
+  <p class="block-grey">......and a Great White Sword on his back......</p>
+  <p class="indent-nopad"><b>Second Speaker</b><br/>Psst... (What're you complaining about. You're just holding the lights. I've gotta wear this heavy armor!)</p>
+  <p class="block-grey">......Will not lead to the Promised Land......</p>
+  <p class="indent-nopad"><b>First Speaker</b><br/>Psst...... (I know, I know... but it's all part of the job.)<br/>Psst...... (Oh yeah, did you hear? The President's wife found out about this little hobby of his.)</p>
+  <p class="indent-nopad"><b>Second Speaker</b><br/>Psst...... (Ha, ha...... No way, that's the first I've heard of it.)</p>
+  <p class="indent-nopad"><b>First Speaker</b><br/>Psst...... (Oh, looks like he's done. Man, I'm glad!!)</p>
+  <p class="indent-nopad"><b>Second Speaker</b><br/>Geez!! Mr. President!! I mean, Your Majesty......</p>
+  <p class="italic">There are slapping noises.</p>
+  <p class="indent-nopad"><b>Second Speaker</b><br/>Ohhh...... I'm sorry. Please remove the ancient curse!</p>
+
+<p class="italic"><a name="lovers"></a>The Lover's Room.</p>
+<p class="indent"><b>Cloud</b><br/>Looks like this room's being used.<br/>- Take a listen<br/>- Take a peek</p>
+<div class="block"/>
+  <p><span class="highlight">Take a listen</span></p>
+  <p class="indent-nopad"><b>Cloud</b><br/>............</p>
+  <p class="italic">There are odd sort of snoring sounds.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Take a peek</span></p>
+  <p class="indent-nopad"><b>Cloud</b><br/>......Wooo...ow!!</p>
+  <p class="indent-nopad"><b>Old Man</b><br/>...wheez...<br/>Phew...</p>
+  <p class="indent-nopad"><b>Old Woman</b><br/>What's wrong, Grandpa? You keep sighing.</p>
+  <p class="indent-nopad"><b>Old Man</b><br/>...wheez... puff... You know, Grandma...</p>
+  <p class="indent-nopad"><b>Old Woman</b><br/>You talking about this room?</p>
+  <p class="indent-nopad"><b>Old Man</b><br/>...whew... I know our son rented this for us and all, but...<br/>It's too nice for us. Big round bed, gorgeous tub, I just can't get comfortable.</p>
+  <p class="indent-nopad"><b>Old Woman</b><br/>Don't worry about it. It's a high class neighborhood, in the Big City.<br/>You keep complainin' and we'll get in trouble.</p>
+  <p class="indent-nopad"><b>Old Man</b><br/>...wheez...</p>
+
+<p class="italic"><a name="dressing"></a>In the dressing room, three women sit in front of vanity mirrors.</p>
+<p class="indent"><b>Woman</b><br/>Hmm, hmm, hmm......<br/>Ohhh, I just can't seem to lose weight. Hmm, hmm, hmm...<br/>Sir!! You can't come in here.<br/>(Yuk...... a pervert...)<br/>Oh my!! (...You're still here? Oh well, good timing anyway.)<br/>Hey, what do you think about me?</p>
+<p class="indent"><b>Cloud</b><br/>- Not interested<br/>- Whatever...</p>
+<div class="block"/>
+  <p><span class="highlight">Not interested</span></p>
+  <p class="indent-nopad"><b>Woman</b><br/>NO WAY! I'M SO SHOCKED!!<br/>Hmm, hmm, hmm, hmm...... Hmm, hmm, hmm, hmm... Hmm, hmm, hmm, hmm...<br/>Phew...... ...it's so tiring.<br/>Oh!!<br/>Is something the matter?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Not yet......<br/>- ......Not really</p>
+  <div class="block"/>
+    <p><span class="highlight">Not yet......</span></p>
+    <p class="indent-nopad"><b>Woman</b><br/>OH......!!</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">......Not really</span></p>
+    <p class="indent-nopad"><b>Woman</b><br/>Hmph......!! Listen you, not that it matters, but you sure do know how to make people mad.</p>
+  
+
+<div class="block"/>
+  <p><span class="highlight">Whatever...</span></p>
+  <p class="indent-nopad"><b>Woman</b><br/>Oh my!! Are you embarrassed? (Man!! Why are you so moody...)</p>
+
+<p class="indent"><b>Woman 2</b><br/>Eyaaah!<br/>Don't watch!!<br/>Eyaaah!<br/>Don't!</p>
+<p class="indent"><b>Woman 3</b><br/>Paste, paste, paste...<br/>(Oh God... here's another one of those guys. You know, the delicate type. Just ignore him, just ignore him.)<br/>Fluff, fluff, fluff...<br/>(Hmm...! I guess he doesn't realize his position. I feel sorry for him. Just ignore him, just ignore him.)<br/>Pita, pita, pita...<br/>(God, what a pest! All right, get out of here! You dog...)<br/>(That's it, I'll name him 'pooch'.)<br/>Mix, mix, mix......<br/>(What should I do... Is he following me? Really? What if he follows me home...?)<br/>(Poochy'll do it, I'm sure of it...)<br/>Shake, shake, shake...<br/>(You think he's after me? Really? This guy makes me sick... And his eyes are weird too...)<br/>(Yeah, don't hurt these guys' feelings. Let's at least say 'hi' to him.)<br/>Uhh...... Hel... Hello.<br/>What a nice day, today.</p>
+<p class="indent"><b>Cloud</b><br/>- Introduce yourself<br/>- Say Goodbye</p>
+<div class="block"/>
+  <p><span class="highlight">Introduce yourself</span></p>
+  <p>By the way, I haven't introduced myself yet.<br/>I'm Cloud, a jack of all trades.</p>
+  <p class="indent-nopad"><b>Woman 3</b><br/>Oh, yeah...? Welcome, Cloud.<br/>(Gross! Don't get carried away, remember your name is 'Pooch!')<br/>Take care... Cloud.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Say Goodbye</span></p>
+  <p class="indent-nopad"><b>Woman 3</b><br/>BYE!! (Phew - I'm safe now...)</p>
+
+<p class="italic"><a name="bleep"></a>The &amp;$#% Room.</p>
+<p class="indent"><b>Cloud</b><br/>Looks like it's unoccupied.<br/>- I guess I'll take this one<br/>- Hold ground</p>
+<p class="indent"><b>Cloud</b><br/>I'll take this room.</p>
+<p class="indent"><b>Lady</b><br/>All right. Now all we have to do is enter the room.<br/>You're not going to have a change of heart, are you?</p>
+<p class="indent"><b>Cloud</b><br/>- Don't make me repeat myself<br/>- I'm still trying to decide</p>
+<div class="block"/>
+  <p><span class="highlight">Don't make me repeat myself</span></p>
+  <p class="indent-nopad"><b>Lady</b><br/>Oh, don't be angry with me... (Geez... this one's probably the violent type...)<br/>All right, please.</p>
+  <p class="italic">Cloud enters the room.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I'm still trying to decide</span></p>
+  <p class="indent-nopad"><b>Lady</b><br/>There you are. Enjoy yourself (You moody creepo!)</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>............</p>
+
+<p class="italic">Inside the room, there's a translucent Cloud crouching in the corner.</p>
+<p class="indent-grey"><b>Cloud</b><br/>Hmm......? You......?</p>
+<p class="block-grey">What are you doing in a place like this?</p>
+<p class="italic">Cloud starts clutching his head in pain.</p>
+<p class="block-grey">That's what I want to ask you. Should you be foolin' around here?<br/>You think problems will just go away just thinkin' about them?</p>
+<p class="italic">Cloud collapses.</p>
+<p class="indent"><b>Lady</b><br/>Oh no!<br/>Help! Someone...! Hurry!</p>
+<p class="block-grey">You can't change anything by just sitting back and looking at it.</p>
+<p class="indent-grey"><b>Cloud</b><br/>What are you saying?</p>
+<p class="block-grey">It's started moving.</p>
+<p class="indent-grey"><b>Cloud</b><br/>What has?</p>
+<p class="block-grey">Wake up!</p><br/>
+<p class="block-inline">rub, rub, rub... rub, rub, rub, rub...<br/>thump... pound... thump... pound...<br/>poik... poik... ...squish.</p>
+<p class="indent"><b>Cloud</b><br/>Uh... OW...!!</p>
+<div class="highlight"/><p>Cloud's HP/MP Restored!</p>
+<p class="block-grey">Wake up!!</p>
+<p class="italic">Cloud wakes up to find a mustached man slapping him.</p>
+<p class="indent"><b>Mukki</b><br/>Wake up!!<br/>Phew, I'm so relieved.<br/>Bubby!! I heard you collapsed.<br/>No, no, no.<br/>Don't get so uptight.</p>
+<p class="indent"><b>Cloud</b><br/>- Huh...?<br/>- Ugh...?</p>
+<p class="indent"><b>Mukki</b> (he says the same thing regardless)<br/>Hmm...? They say youth is so long but so short.<br/>Let's give this next one your best shot.</p>
+<p class="italic-inline">He gets up.</p>
+<p class="block-inline">Time's up. Bye, bubby.</p>
+<p class="italic">Cloud gets up.</p>
+<p class="indent"><b>Mukki</b><br/>Don't get depressed over a thing like this.<br/>It happens to me all the time.</p>
+<p class="indent"><b>Lady</b><br/>I'm so sorry... There's a lot of 'adult' things going on...<br/>For your inconvenience, Please take this, okay?</p>
+<div class="highlight"/><p>Received Key Item "Lingerie"!</p>
+<p class="indent"><b>Cloud</b><br/>What, this rag? For me!? I just don't get it.</p>
+<p class="italic"><a name="group"></a>The Group Room.</p>
+<p class="indent"><b>Cloud</b><br/>Looks like it's unoccupied.<br/>- I guess I'll take this one<br/>- Hold ground</p>
+<p class="indent"><b>Cloud</b><br/>I'll take this room.</p>
+<p class="indent"><b>Lady</b><br/>All right. Now all we have to do is enter the room.<br/>You're not going to have a change of heart, are you?</p>
+<p class="indent"><b>Cloud</b><br/>- Don't make me repeat myself<br/>- I'm still trying to decide</p>
+<div class="block"/>
+  <p><span class="highlight">Don't make me repeat myself</span></p>
+  <p class="indent-nopad"><b>Lady</b><br/>Oh, don't be angry with me... (Geez... this one's probably the violent type...)<br/>All right, please.</p>
+  <p class="italic">Cloud enters the room.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I'm still trying to decide</span></p>
+  <p class="indent-nopad"><b>Lady</b><br/>There you are. Enjoy yourself (You moody creepo!)</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>............</p>
+
+<p class="indent"><b>Lady</b><br/>This way, please.<br/>Shall we begin?<br/>I guess since you chose this room, that would mean you...<br/>Hate being lonely?</p>
+<p class="indent"><b>Cloud</b><br/>- I'm used to being alone<br/>- Cut the small talk</p>
+<div class="block"/>
+  <p><span class="highlight">I'm used to being alone</span></p>
+  <p>I'm always alone.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Cut the small talk</span></p>
+  <p>I don't want to talk right now.</p>
+
+<p class="indent"><b>Lady</b><br/>All right, all right. (...geez, you're so moody!)<br/>Come on, everyone's waiting.</p>
+<p class="indent"><b>Cloud</b><br/>- Everyone...?<br/>- What am I doing?</p>
+<p class="indent"><b>Lady</b><br/>Here they are.<br/>All right, everyone.</p>
+<p class="indent"><b>Men</b><br/>One, two!! One, two!!</p>
+<p class="italic">A group of maybe fifteen men runs in.</p>
+<p class="indent"><b>Men</b><br/>Yeah!!<br/>One, two!! One, two!!<br/>One, two!! One, two!!</p>
+<p class="indent"><b>Mukki</b><br/>Wassup!!<br/>(Smile, smile, smile...)</p>
+<p class="indent"><b>Cloud</b><br/>Oh man...<br/>What should I do...?<br/>- I'm outta here.<br/>- This could be dangerous...</p>
+<div class="block"/>
+  <p><span class="highlight">I'm outta here.</span></p>
+  <p>I've got no time to mess around with you.<br/>Outta my way!</p>
+
+<div class="block"/>
+  <p><span class="highlight">This could be dangerous...</span></p>
+  <p>Looks like I'm always going to be facing crises all my life...</p>
+
+<p class="indent"><b>Mukki</b><br/>...heave... pant...<br/>Don't be so embarrassed! Loosen up, bubby!<br/>...heave... pant...<br/>Let's wash off all our sweat and dirt together!<br/>Wassup!!</p>
+<p class="italic">The men advance on Cloud, and the camera raises above their heads.</p>
+<p class="indent"><b>Mukki</b><br/>You're the intimate type, huh!!<br/>...heave... pant... Wow!! Would ya look at that!</p>
+<p class="italic">Somehow they all get into the tub, and the camera lowers again.</p>
+<p class="indent"><b>Mukki</b><br/>Isn't bathing great...?<br/>It soothes your heart.<br/>How is it, bubby!?<br/>Feels good, huh?</p>
+<p class="indent"><b>Cloud</b><br/>- ......<br/>- It hurts</p>
+<div class="block"/>
+  <p><span class="highlight">......</span></p>
+  <p>I don't feel good. Let me out...</p>
+
+<div class="block"/>
+  <p><span class="highlight">It hurts</span></p>
+  <p>Too stuffy in here...</p>
+
+<p class="indent"><b>Mukki</b><br/>You'll get used to it. Try counting to ten.</p>
+<p class="indent"><b>Cloud</b><br/>Ten...<br/>Nine...</p>
+<p class="indent"><b>Mukki</b><br/>Hey bubby, how old are you?</p>
+<p class="indent"><b>Cloud</b><br/>Eight...<br/>Twenty one... </p>
+<p class="indent"><b>Mukki</b><br/>You're less than half my age. I'm so jealous.<br/>So how 'bout it...?<br/>Do you wanna join my "Young bubby's" group?</p>
+<p class="indent"><b>Cloud</b><br/>- Not interested<br/>- ............</p>
+<div class="block"/>
+  <p><span class="highlight">Not interested</span></p>
+  <p>Seven...<br/>Six...<br/>Maybe in another life.</p>
+
+<div class="block"/>
+  <p><span class="highlight">............</span></p>
+  <p>Seven...<br/>Six...<br/>Not to be rude or anything, but could you go do someone else?</p>
+
+<p class="indent"><b>Mukki</b><br/>Well, if that's how you feel... too bad.<br/>We have a trip planned at a cabin out in the country.</p>
+<p class="indent"><b>Cloud</b><br/>Five...<br/>Four...<br/>Three...<br/>Two...<br/>One...<br/>Alright, that's ten. I'm gettin' out.</p>
+<p class="indent"><b>Mukki</b><br/>Why don't you stick around and play a bit?<br/>Daddy's so lonely...</p>
+<p class="italic">They all get back out of the tub.</p>
+<p class="indent"><b>Mukki</b><br/>Bubby!! This is important to me.<br/>Here's a memento of our time together!</p>
+<div class="highlight"/><p>Received Key Item "Bikini briefs"!</p>
+<p class="indent"><b>Mukki</b><br/>Hope we meet again!</p>
+<p class="italic">The men all run out.</p>
+<p class="indent"><b>Cloud</b><br/>This is SOME underwear... I'm supposed to wear this...?<br/>Well, if it's to save Tifa... I guess there's no way around.</p>
+<p class="italic">Cloud gets up and shrugs.<br/><br/><a name="leaving"></a>If Cloud walks back into the dressing room...</p>
+<p class="indent"><b>Woman 3</b><br/>.............</p>
+<p class="indent"><b>Cloud</b><br/>If I were to dress up like a woman... Then I've got to really prepare carefully.<br/>Seems like I could put makeup on here.<br/>- Have them put makeup on<br/>- Don't do it</p>
+<p class="indent"><b>Cloud</b><br/>I have a favor to ask of you. Can you put makeup on me too?</p>
+<p class="indent"><b>Woman 3</b> (turning around to face him)<br/>...paste, paste, paste......<br/>Oh... my......</p>
+<p class="indent"><b>Women</b><br/>...............oh my......</p>
+<p class="italic">Cloud leaves the dressing room and exits the Honey Bee Inn. Outside, Aerith is surrounded by the men hanging around, but they scatter when Cloud steps out.</p>
+<p class="indent"><b>Older Man</b><br/>Uh, sir!! It's almost closing time...<br/>So, please remember any personal belongings.</p>
+<p class="indent"><b>Shinra Soldier</b><br/>Uuuuuuuh! I want flowers too! But, I get so nervous in front of cute girls...<br/>It just seems natural to get cautious...</p>
+<p class="indent"><b>Aerith</b><br/>Hey!! Cloud!!</p>
+<p class="italic-inline">She runs over to join him.</p>
+<p class="indent"><b>Johnny</b><br/>Aerith...... Thanks for the flower and 1 gil.<br/>I'll treasure this! I'm going to dry it and keep it for good luck.</p>
+<p class="indent"><b>Redhead in Suit</b><br/>I bought some pretty flowers from Aerith.<br/>500 gil, a little expensive. Well, at least I got her name.</p>
+<p class="indent"><b>Punk</b><br/>I asked Aerith for a date...<br/>And she said not even if I paid her 1,000,000 gil.<br/>Her flowers cost 300 gil, too... She's a good business woman.</p>
+<hr></hr>
+<p class="italic"><a name="becoming"></a>Back on the main quest. Aerith and Cloud head to the dress shop.</p>
+<p class="indent"><b>Aerith</b><br/>Excuse me! I'd like to get a dress.</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>Umm, it might take a little time. Will that be all right?</p>
+<p class="indent"><b>Aerith</b><br/>What's the problem?</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>Well, my father, the owner, has been in a slump lately. You see, he makes all the dresses.</p>
+<p class="indent"><b>Aerith</b><br/>And, where is your father?</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>He's probably plastered at the bar.</p>
+<p class="indent"><b>Aerith</b><br/>So... You're saying we can't get a dress unless we do something about your father?</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>Yes, I'm sorry. He's caused so much trouble.<br/>!<br/>You'd help me bring him back?</p>
+<p class="indent"><b>Aerith</b><br/>Well, if we don't do something, we don't get a dress, right?</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>Really!? Please help my crazy old dad. I just don't know what to do anymore...</p>
+<p class="indent"><b>Aerith</b><br/>All right, we'll do something. Let's go, Cloud!</p>
+<p class="italic">On talking to her again:</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>So how did it go?</p>
+<p class="indent"><b>Cloud</b><br/>We couldn't find him yet.</p>
+<p class="italic">Heading on over to the bar, they approach a man slouched at the counter.</p>
+<p class="indent"><b>Aerith</b><br/>Excuse us, are you the father of the girl at the Clothing Store?</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>I own the Clothes Shop... but I ain't your father.</p>
+<p class="indent"><b>Aerith</b><br/>I didn't say that......</p>
+<p class="indent"><b>Cloud</b><br/>Make me some clothes.</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>I don't make men's clothes. And I don't feel like makin' anything right now.</p>
+<p class="indent"><b>Aerith</b><br/>Cloud, you wait over there for a second. I'll try and talk to him.<br/>Why don't you go over there and have something to drink.</p>
+<p class="italic">Cloud turns away.</p>
+<p class="indent"><b>Aerith</b><br/>You know, Mister.<br/>He always said that just once, he'd like to dress up like a girl.<br/>So, that's why I wanted a cute dress for him...</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>What!? A tough lookin guy like that?</p>
+<p class="indent"><b>Aerith</b><br/>So, how 'bout it? Will you make him one?</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>...might be interesting. I was gettin' a little bored just makin' regular clothes.</p>
+<p class="indent"><b>Aerith</b><br/>Then you'll do it for us?</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>Yeah, all right. What kind of dress you want?</p>
+<p class="indent"><b>Aerith</b><br/>Something...<br/>- That feels clean<br/>- That feels soft<br/>And something...<br/>- shiny<br/>- that shimmers</p>
+<p class="italic">Depending on her answers, the clothing shop owner makes either a silk or a cotton dress.</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>Hmm, got it. Y'know I got a friend that has the same taste as him. I'll go talk to him.<br/>Hey, hold on. Wait till I get an image in my head. Gulp... ummm, that's good.</p>
+<p class="italic">Cloud and Aerith return to the dress shop, the owner having preceded them.</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>Looks like everything went well. He's been making the dress ever since he came back.</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>Oh, you're here. It's ready. Go try it on.</p>
+<div class="highlight"/><p>Received Key Item "Cotton/Silk Dress"!</p>
+<p class="italic">Cloud goes into the changing room, and after a few moments of shuffling--</p>
+<p class="indent"><b>Cloud</b><br/>How...... do you put this on?</p>
+<p class="italic">Aerith walks over, peers in, and shakes her head.</p>
+<p class="indent"><b>Cloud</b><br/>Whoa! What are you doing!</p>
+<p class="indent"><b>Aerith</b><br/>It's still not right. A wig! That's what you need!</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>Umm, I thought you might, so I talked to my friend about getting one.<br/>You know the gym? You'll find a lot of people there like you. Go and talk to them.</p>
+<p class="italic">Cloud comes out of the dressing room in his usual attire.</p>
+<p class="indent"><b>Cloud</b><br/>...'like you'? Aerith, what did you tell him?</p>
+<p class="indent"><b>Aerith</b><br/>Does it matter? Anyhow, we got a pretty dress!</p>
+<p class="italic">Off to the gym...</p>
+<p class="indent"><b>Beautiful Bro</b><br/>You the one...... Who wants to be cute?</p>
+<p class="indent"><b>Cloud</b><br/>Cute?</p>
+<p class="indent"><b>Aerith</b><br/>Right.<br/>And about the wig...</p>
+<p class="indent"><b>Beautiful Bro</b><br/>Yeah, I heard. But it'll cost ya.</p>
+<p class="indent"><b>Black Man</b><br/>Urrrrgh!!!<br/>Big Bro!! The only way you're gonna get cuter is if you can beat Big Bro!!</p>
+<p class="indent"><b>Other Guys</b><br/>That's right!<br/>So, you've got to compete with us!</p>
+<p class="indent"><b>Beautiful Bro</b><br/>You're right. Let's do squats.<br/>All right! We'll beat you out of this gym!</p>
+<p class="indent"><b>Cloud</b><br/>Are you...?</p>
+<p class="indent"><b>Aerith</b><br/>THE beautiful Bro?</p>
+<p class="indent"><b>Beautiful Bro</b><br/>What? You didn't know? Always running around here sayin' Big Bro' this, Big Bro' that...<br/>Never mind that, come over here.<br/>No, I'll explain the rules.<br/>From the ready position, push [] Button to squat, push X Button to get up, and push O Button to go back to the ready position.<br/>So it's [] Button, X Button, O Button in that order.<br/>Got it?</p>
+<p class="indent"><b>Cloud</b><br/>- Don't have it<br/>- Got it</p>
+<p class="indent"><b>Beautiful Bro</b><br/>Whoever has the most squats after 30 seconds gets the wig.</p>
+<p class="indent"><b>Black Man</b><br/>I'm not going to lose.<br/>Big Bro's wig is MINE!!</p>
+<p class="indent"><b>Beautiful Bro</b><br/>Just be quiet...<br/>It's not fair for you to start right away, So, you want some practice?</p>
+<p class="indent"><b>Cloud</b><br/>- A little<br/>- Don't need to practice</p>
+<p class="indent"><b>Beautiful Bro</b><br/>Now let's begin the real thing. Start!</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud wins...</span></p>
+  <p class="indent-nopad"><b>Beautiful Bro</b><br/>He had 13 squats and you had 19 squats.<br/>You're really something. Okay, I'm a man of my word, here you are.</p>
+  <div class="highlight-nopad"/><p>Received Key Item "Blonde Wig"!</p>
+  <p class="indent-nopad"><b>Black man</b><br/>Big Bro I'm so mad I'm so so so---mad!</p>
+  <p class="italic">The Beautiful Bro kicks him across the room.</p>
+  <p class="indent-nopad"><b>Beautiful Bro</b><br/>Shut up! Don't cry, just because you lost!</p>
+  <p class="indent-nopad"><b>Black Man</b><br/>Uuuuhh, Bro's fists of steel cut to the bone!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If the two tie...</span></p>
+  <p class="indent-nopad"><b>Beautiful Bro</b><br/>He had 16 squats and you had 16 squats.<br/>Good job. Here's a hand-me-down.</p>
+  <div class="highlight-nopad"/><p>Received Key Item "Dyed Wig"!</p>
+  <p class="indent-nopad"><b>Black Man</b><br/>Hey, Bro. I... I was supposed to get that.</p>
+  <p class="italic">The Beautiful Bro kicks him across the room.</p>
+  <p class="indent-nopad"><b>Beautiful Bro</b><br/>Shut up! You have no room to talk, tying with a beginner like him!!</p>
+  <p class="indent-nopad"><b>Black Man</b><br/>Uuuuhh, Bro's fists of steel cut to the bone!</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Cloud loses...</span></p>
+  <p class="indent-nopad"><b>Beautiful Bro</b><br/>He had 17 squats and you had 13 squats.<br/>Sorry You lose.<br/>Since the old man from the clothing store asked me, I can't keep it from you, so...<br/>Oh, now where did I put it?<br/>All right then.</p>
+  <p class="italic">The black man pulls it out from... somewhere and hands it to Cloud. Beautiful Bro punches him.</p>
+  <p class="indent-nopad"><b>Beautiful Bro</b><br/>Stupid! What kinda place is that to hide it in!?</p>
+  <p class="indent-nopad"><b>Black Man</b><br/>Uuuuhh, Bro's fists of steel cut to the bone!</p>
+  <p class="indent-nopad"><b>Beautiful Bro</b><br/>Sorry... you should still be able to use it if you disinfect it first.</p>
+  <div class="highlight-nopad"/><p>Received Key Item "Wig"!</p>
+
+<p class="italic">Just the wig will do to get Cloud into Don Corneo's mansion, but other supplies make the disguise more convincing, so he and Aerith can continue to wander Wall Market in search of them...</p>
+<p class="indent"><b>Man Outside Restaurant</b><br/>Please come in. Here's a free 'Pharmacy Coupon' if you enter now.</p>
+<p class="italic">Inside the restaurant...</p>
+<p class="indent"><b>Waitress</b><br/>Welcome! Sit wherever you like!</p>
+<p class="italic">There is only one empty seat.</p>
+<p class="indent"><b>Waitress</b><br/>Have a seat over here.</p>
+<p class="indent"><b>Cloud</b><br/>- Sit down<br/>- Don't sit down</p>
+<p class="indent"><b>Waitress</b><br/>Yes, what will you have?</p>
+<p class="indent"><b>Cloud</b><br/>Hmm...<br/>- Korean B.B.Q. Plate<br/>- Sushi Plate<br/>- Today's Special</p>
+<p class="indent"><b>Waitress</b><br/>One [dish name].</p>
+<p class="indent"><b>Cook</b><br/>Comin' up!</p>
+<p class="indent"><b>Waitress</b><br/>In this store, you pay first. It'll be 70 Gil.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If you don't have enough money...</span></p>
+  <p class="indent-nopad"><b>Waitress</b><br/>Hey! Cancel that last order!<br/>Excuse me! You can't come in here and order things without any money. Come again... when you have money.</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If you do have the money...</span></p>
+  <p class="indent-nopad"><b>Waitress</b><br/>Thank you. Just a second.<br/>There you go. Enjoy.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- .........<br/>- It was all right<br/>- I've had better dog food</p>
+  <p class="italic">Nothing happens unless he says "It was all right." On subsequent visits after obtaining the pharmacy coupon, the waitress will say "Thank you very much" no matter what Cloud tells her.</p>
+  <p class="indent-nopad"><b>Waitress</b><br/>Thank you. Here's an item coupon for the Pharmacy.<br/>You can exchange it for one item there.<br/>We're out of coupons, so we stopped giving them away. Watch out for our NEXT promotion!</p>
+  <div class="highlight-nopad"/><p>Received Key Item "Pharmacy Coupon"!</p>
+
+<p class="indent"><b>Tanned Man</b><br/>Umf... grunt... smack... Don't sneak up on me like that!</p>
+<p class="indent"><b>Redhead</b><br/>I'm gonna get another Pharmacy Coupon today.</p>
+<p class="indent"><b>Dark-haired Man</b><br/>It's thanks to the Don that we can eat like this.</p>
+<p class="indent"><b>Person in Blue</b><br/>I always get the Special.</p>
+<p class="indent"><b>Man in Hat</b><br/>umf... scarf... glub...</p>
+<p class="italic">Cloud leaves the restaurant and heads to the pharmacy. It takes a moment for the shopkeeper to notice him.</p>
+<p class="indent"><b>Pharmacy Owner</b><br/>Whoa!<br/>Why don't you say something, if you're standing there?<br/>Oh, you have a coupon. Then please select any one medicine you like.</p>
+<p class="indent"><b>Cloud</b><br/>- Disinfectant<br/>- Deodorant<br/>- Digestive</p>
+<div class="highlight"/><p>Received Key Item "Disinfectant/Deodorant/Digestive"!</p>
+<p class="italic">Either the disinfectant or the digestive can yield a more useful item if Cloud heads back to the bar...</p>
+<p class="indent"><b>Redhead in Bathroom</b><br/>HEY!! Someone's IN here... Don't look!<br/>What...... urk......</p>
+<p class="indent"><b>Cloud</b><br/>- Give her medicine<br/>- Don't give her it</p>
+<div class="block"/>
+  <p><span class="highlight">Give her medicine</span></p>
+  <p class="indent-nopad"><b>Redhead in Bathroom</b><br/>Huh? You'll really give me some? Thanks.</p>
+  <div class="block"/>
+    <p class="italic"><span class="highlight">If Cloud gives her the Disinfectant...</span></p>
+    <p class="indent-nopad"><b>Redhead in Bathroom</b><br/>What is this...? Oh well.<br/>It didn't do a thing, but thanks anyways. Here, this is for your kindness.</p>
+    <div class="highlight-nopad"/><p>Received Key Item "Cologne"!</p>
+    <p class="italic">She leaves the bathroom and the man waiting runs in.</p>
+  
+  <div class="block"/>
+    <p class="italic"><span class="highlight">If Cloud gives her the Digestive...</span></p>
+    <p class="indent-nopad"><b>Redhead in Bathroom</b><br/>Phew, I feel better now. This is for your kindness.</p>
+    <div class="highlight-nopad"/><p>Received Key Item "Sexy Cologne"!</p>
+    <p class="italic">She leaves the bathroom and the man waiting runs in.</p>
+  
+
+<div class="block"/>
+  <p><span class="highlight">Don't give her it</span></p>
+  <p class="italic">Nothing happens.</p>
+
+<p class="italic">One last item can be obtained in the materia shop...</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>Hey man. Got a minute? I need to talk... man to man.</p>
+<p class="indent"><b>Cloud</b><br/>......<br/>- What is it<br/>- Not interested</p>
+<div class="block"/>
+  <p><span class="highlight">What is it</span></p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>Really! I really appreciate it.<br/>......I'm sorry but, young lady? Would you turn the other way, for a second?</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Why......?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>......Aerith.</p>
+  <p class="indent-nopad"><b>Aerith</b> (turning away)<br/>Gosh!</p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>I'm sorry, lady.<br/>Now here's the thing. Do you know that vending machine in the Inn?<br/>I'm itchin' to know what they're selling in it. I just can't ask a girl to go get it.<br/>What? Why don't I buy it myself? Well to tell you the truth, I got in a fight with the guy at the Inn and can't go there anymore. Come on, so how 'bout it?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>......<br/>- I'll go<br/>- Not interested</p>
+  <div class="block"/>
+    <p><span class="highlight">I'll go</span></p>
+    <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>Good, thanks. I'll be waitin' here when you're done.</p>
+    <p class="indent-nopad"><b>Aerith</b><br/>Finished?</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">Not interested</span></p>
+    <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>Sorry about that. Just forget it.</p>
+    <p class="indent-nopad"><b>Aerith</b><br/>Finished?</p>
+  
+
+<div class="block"/>
+  <p><span class="highlight">Not interested</span></p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>Sorry about that. Just forget it.</p>
+
+<p class="italic">Off to the inn...</p>
+<p class="indent"><b>Guy Outside</b><br/>Hey, you two. Why don't you get some rest?<br/>We have a beautiful room, how 'bout it?</p>
+<p class="italic">Cloud gets a room, and during his stay, he walks out to the vending machine.</p>
+<p class="indent"><b>Cloud</b><br/>He means this?<br/>- Don't buy it<br/>- Buy the one for 200 Gil<br/>- Buy the one for 100 Gil<br/>- Buy the one for 50 Gil</p>
+<div class="block"/>
+  <p><span class="highlight">Don't buy it</span></p>
+  <p class="italic">Back to the materia shop...</p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>How was it?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Not yet.</p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>Hmm, I'm countin' on you.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Buy the one for 200</span></p>
+  <p class="italic">Back to the materia shop...</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>I got it.</p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>Oh, really!! Hey!</p>
+  <p class="italic">Aerith turns away again.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Geez.</p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>And what was it?<br/>A protein drink set. That jerk. I'm gonna do so much more business than him, his head'll spin.<br/>Thanks, bud. I'm motivated now. Take this, it's not much......</p>
+  <div class="highlight-nopad"/><p>Received Key Item "Diamond Tiara"!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Buy the one for 100</span></p>
+  <p class="italic">Back to the materia shop...</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>I got it.</p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>Oh, really!! Hey!</p>
+  <p class="italic">Aerith turns away again.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Geez.</p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>And what was it?<br/>A Stamina Drink Set. That jerk. I'm gonna do so much more business than him, his head'll spin.<br/>Thanks, bud. I'm motivated now. Take this, it's not much......</p>
+  <div class="highlight-nopad"/><p>Received Key Item "Ruby Tiara"!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Buy the one for 50</span></p>
+  <p class="italic">Back to the materia shop...</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>I got it.</p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>Oh, really!! Hey!</p>
+  <p class="italic">Aerith turns away again.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Geez.</p>
+  <p class="indent-nopad"><b>Materia Shopkeeper</b><br/>And what was it?<br/>A Muscle Relaxing Cream Set. That jerk. I'm gonna do so much more business than him, his head'll spin.<br/>Thanks, bud. I'm motivated now. Take this, it's not much......</p>
+  <div class="highlight-nopad"/><p>Received Key Item "Glass Tiara"!</p>
+
+<p class="indent"><b>Materia Shopkeeper</b><br/>Come by again. I'll still be here doin' business.</p>
+<p class="italic"><a name="misscloud"></a>All items obtained, there is nothing for it but to return to the dress shop...</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>Looks like you're all set. Now try it on, and let's see how it fits.</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>Looks like you got it. So try it on for size.</p>
+<p class="indent"><b>Aerith</b><br/>Aren't you going to change?</p>
+<p class="indent"><b>Cloud</b><br/>- Okay... I'm ready<br/>- Not now</p>
+<p class="italic">Cloud changes in the dressing room and steps out.</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>Hmm, not bad. This may be a new business for me.</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>Yeah, you're right. Should we try it?<br/>Thanks for showing us something new. My father's got his motivation back now, So the dress is on the house.</p>
+<p class="indent"><b>Aerith</b><br/>Walk more nicely like... this. Miss Cloud.</p>
+<p class="indent"><b>Cloud</b><br/>...What do you mean 'nicely'?</p>
+<p class="italic">Cloud walks primly around the room.</p>
+<p class="indent"><b>Aerith</b><br/>Oh you're so cute, Miss Cloud.<br/>Aaah, I want one. Do you have one that'll look good on me too?</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>How's this?</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>How about that one?</p>
+<p class="indent"><b>Shopkeeper's Daughter</b><br/>Father, what are you talking about? This one's much better.</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>No, what are you saying? This one.</p>
+<p class="indent"><b>Aerith</b><br/>...I want THIS one.</p>
+<p class="indent"><b>Shopkeeper's Daughter + Clothing Shop Owner</b><br/>Huh?</p>
+<p class="indent"><b>Aerith</b><br/>I'm going to go change.</p>
+<p class="italic-inline">She walks to the dressing room, then turns to look at everyone.</p>
+<p class="block-inline">......No peeking!</p>
+<p class="italic">Everyone stares at the curtain while she changes, and after a few moments she emerges in a red dress with her hair down.</p>
+<p class="indent"><b>Aerith</b><br/>So? How do I look?</p>
+<p class="italic">Cloud just shakes his head.</p>
+<p class="indent"><b>Aerith</b><br/>Oh, you're no fun!</p>
+<p class="indent"><b>Shopkeeper's Daughter</b> (to Cloud)<br/>...Hmm. It's REALLY somethin'.</p>
+<p class="indent"><b>Customer</b><br/>You're...<br/>Weird.</p>
+<p class="indent"><b>Clothing Shop Owner</b><br/>Hmm, good. It looks good on you.</p>
+<p class="italic">They leave the dress shop and can now wander around a bit without being recognized. If Cloud tries to leave Wall Market, Aerith hangs back.</p>
+<p class="indent"><b>Cloud</b><br/>What's wrong, Aerith?</p>
+<p class="indent"><b>Aerith</b><br/>...What is it? Are you going outside like that? I mean, that's okay with me, but...</p>
+<p class="indent"><b>Cloud</b><br/>...Oh, yeah.</p>
+<p class="indent"><b>Aerith</b><br/>Get a hold of yourself, Ms. Cloud.</p>
+<p class="indent"><b>Punk</b><br/>Hey! Pretty lady. Let me tell you about a good job!<br/>Go to the Don's place. You'll make a small fortune!</p>
+<p class="italic">Outside the Honey Bee Inn...</p>
+<p class="indent"><b>Men</b><br/>Yeow!! Hey, Princess!!</p>
+<p class="italic">All the men run over.</p>
+<p class="indent"><b>Johnny</b><br/>Uh... ummm I, I......<br/>Uh... ummm....<br/>I'm... Jo...... Johnny... Nice to meet you.</p>
+<p class="indent"><b>Redhead in Suit</b><br/>Yeah, I only talk to the pretty ones.<br/>Mmmm, you're the one. You're just great.</p>
+<p class="indent"><b>Punk</b><br/>That's funny. A hard, spiky hairstyle! Looks kinda familiar...</p>
+<p class="indent"><b>Older Man</b><br/>Ummm, young girls... soft skin. Ummm, OK, I'm refreshed now!<br/>...Mmmm? Pretty hard. You work out?</p>
+<p class="italic">At the restaurant...</p>
+<p class="indent"><b>Waitress</b><br/>Sorry! But we're completely full! Please come again!</p>
+<p class="indent"><b>Man Cooking Outside</b><br/>What? Are you ladies going to eat too?</p>
+<p class="italic">At the Materia shop...</p>
+<p class="indent"><b>Materia Shopkeeper</b><br/>I'm sorry, we're sold out and I've got nothing for you.</p>
+<p class="italic">At the gym...</p>
+<p class="indent"><b>Beautiful Bro</b><br/>Ummm, not quite there.</p>
+<p class="italic-inline">Or:</p>
+<p class="block-inline">Hmm, pretty good.</p>
+<p class="italic"><a name="mansion"></a>And finally... off to Don Corneo's mansion...</p>
+<p class="indent"><b>Doorman</b><br/>Damn!! Your friend's hot, too!<br/>Come in, come in!!<br/>Two ladies coming through!!</p>
+<p class="italic">The door opens, and Cloud and Aerith walk through.</p>
+<p class="indent"><b>Redhead in Suit</b><br/>Hey, ladies.<br/>I'll go and let the Don know you're here. Wait here. Don't go wandering around...</p>
+<p class="indent"><b>Aerith</b><br/>Now's our chance. Let's find Tifa.</p>
+<p class="italic">Of two doors upstairs, one is closed, and the other reads "Office of The Don Corneo Keep Out!" Aerith and Cloud go down a long set of stairs to the basement, where they find Tifa. When Cloud sees her, he turns away. Aerith goes over to talk to her alone.</p>
+<p class="indent"><b>Aerith</b><br/>...Tifa?<br/>Nice to meet you. I'm Aerith.<br/>Cloud's told me a lot about you.</p>
+<p class="indent"><b>Tifa</b><br/>...And you are?<br/>Hey you're the one with Cloud in the park...</p>
+<p class="indent"><b>Aerith</b><br/>Right, with Cloud.</p>
+<p class="indent"><b>Tifa</b><br/>Oh......</p>
+<p class="indent"><b>Aerith</b><br/>Don't worry. We just met. It's nothing.</p>
+<p class="indent"><b>Tifa</b><br/>What do you mean, 'Don't worry'... about what?<br/>No, don't misunderstand.<br/>Cloud and I grew up together. Nothing more.</p>
+<p class="indent"><b>Aerith</b><br/>Poor Cloud, having to stand here and listen to both of us call him nothing.<br/>Right, Cloud?</p>
+<p class="indent"><b>Tifa</b><br/>Cloud?</p>
+<p class="italic">If Cloud tries to run away upstairs, Aerith comes after him.</p>
+<p class="indent"><b>Aerith</b><br/>Embarrassed? Come on, speak up!</p>
+<p class="italic">Cloud walks up to Tifa, head down.</p>
+<p class="indent"><b>Tifa</b><br/>????</p>
+<p class="italic-inline">She peers at him and then jumps several feet in the air.</p>
+<p class="block-inline">Cloud!?<br/>Why are you dressed like that!? And what are you doing here!?<br/>Forget that, what happened to you after the fall!? Are you hurt!?</p>
+<p class="indent"><b>Cloud</b><br/>Hey, give me a chance to answer.<br/>I'm dressed like this...... because there was no other way to get in here.<br/>I'm all right. Aerith helped me out.</p>
+<p class="indent"><b>Tifa</b><br/>Oh, Aerith did...</p>
+<p class="indent"><b>Cloud</b><br/>Tifa, explain. What are you doing in a place like this?</p>
+<p class="indent"><b>Tifa</b><br/>Yeah, ummm......</p>
+<p class="indent"><b>Aerith</b><br/>Ahem!! I'll just plug my ears.</p>
+<p class="italic-inline">She walks a short distance away and puts her hands to her ears.</p>
+<p class="block-inline">Please, go on with your private conversation.</p>
+<p class="indent"><b>Tifa</b><br/>...I'm glad you're OK.</p>
+<p class="indent"><b>Cloud</b><br/>Thanks. What happened?</p>
+<p class="indent"><b>Tifa</b><br/>When we got back from the Number 5 reactor, there was this weird man.<br/>So Barret caught him and squeezed some information out of him.</p>
+<p class="indent"><b>Cloud</b><br/>That's when the Don's name popped up.</p>
+<p class="indent"><b>Tifa</b><br/>Right, Don Corneo.<br/>Barret told me to leave the lech alone...<br/>But something's been bothering me.</p>
+<p class="indent"><b>Cloud</b><br/>I see. So you wanted to get the story straight from Corneo's mouth.</p>
+<p class="indent"><b>Tifa</b><br/>So I made it here, but now I'm in a bind.<br/>Corneo is looking for a bride.<br/>Everyday, he gets three girls, chooses one of them, and then... ...and, well......<br/>Anyway, I have to be the girl... or I'm out for tonight.</p>
+<p class="indent"><b>Aerith</b><br/>Sorry... but I overheard...<br/>If you know the three girls, there's no problem, right?</p>
+<p class="indent"><b>Tifa</b><br/>I guess so, but...</p>
+<p class="indent"><b>Aerith</b><br/>We have two here, right?</p>
+<p class="indent"><b>Cloud</b><br/>No, Aerith! I can't have you get involved.</p>
+<p class="indent"><b>Aerith</b><br/>Oh? So it's all right for Tifa to be in danger?</p>
+<p class="indent"><b>Cloud</b><br/>No, I don't want Tifa in...</p>
+<p class="indent"><b>Tifa</b><br/>Is it all right?</p>
+<p class="indent"><b>Aerith</b><br/>I grew up in the slums... I'm used to danger.<br/>Do you trust me?</p>
+<p class="indent"><b>Tifa</b><br/>Yes. Thanks, Ms. Aerith.</p>
+<p class="indent"><b>Aerith</b><br/>Call me Aerith.</p>
+<p class="indent"><b>Redhead in Suit</b><br/>He---y!!<br/>It's time, ladies. The Don is waiting!<br/>I told you not to wander around... I tell ya, women nowadays...<br/>Hurry up, will ya!</p>
+<p class="indent"><b>Cloud</b><br/>I probably don't need to ask but the other girl is......<br/>Me...... right?</p>
+<p class="indent"><b>Tifa</b><br/>You're right, there was no need...</p>
+<p class="indent"><b>Aerith</b><br/>...to ask.</p>
+<p class="indent"><b>Tifa</b><br/>Ha ha... You know, if you look closely, you're not so bad...<br/>I wonder what Barret would say if he could see you now...</p>
+<p class="indent"><b>Aerith</b><br/>They're going to get suspicious if we don't hurry.</p>
+<p class="italic">The three of them head back upstairs.</p>
+<p class="indent"><b>Redhead in Suit</b><br/>The Don's waiting in his room... Ha ha ha...</p>
+<p class="italic">They enter Don Corneo's office, where he is seated at his desk, flanked by two lackeys.</p>
+<p class="indent"><b>Kotch</b><br/>All right, ladies!<br/>Line up in front of the Don!</p>
+<p class="italic">Cloud, Aerith, and Tifa line up in front of the desk, and Corneo jumps up.</p>
+<p class="indent"><b>Don Corneo</b><br/>Hmmm! Good, splendid!<br/>Now, let's see... Which girl should I choose? Hmm---hmm---!</p>
+<p class="italic-inline">He walks to Cloud, who turns his head.</p>
+<p class="block-inline">This one?</p>
+<p class="italic-inline">He walks to Tifa.</p>
+<p class="block-inline">Or this one?<br/>Woo-hoo, I've made up my mind!!<br/>My choice for tonight is......</p>
+<p class="italic">Depending on the items collected for Cloud's disguise, Don Corneo will choose one of the three.</p>
+<ul>
+  <li><a href="#tifa">Tifa</a></li>
+  <li><a href="#Aerith">Aerith</a></li>
+  <li><a href="#cloud">Cloud</a></li>
+</ul>
+<p class="italic"><a name="tifa"></a>Corneo walks to Tifa.</p>
+<p class="indent"><b>Don Corneo</b><br/>This little beauty!</p>
+<p class="indent"><b>Tifa</b><br/>Fu, fu, fu... Be nice, Don.</p>
+<p class="italic">Corneo turns to his lackeys.</p>
+<p class="indent"><b>Don Corneo</b><br/>You can have the other ones!</p>
+<p class="indent"><b>Kotch + Scotch</b><br/>Yes, sir! Thank you sir!</p>
+<p class="indent"><b>Don Corneo</b><br/>Well then, shall we go my pretty!?</p>
+<p class="italic">He starts for his bedroom and Tifa follows. After a scene change, Cloud ends up in the basement with a bunch of guys.</p>
+<p class="indent"><b>Scotch</b><br/>Hey guys! We've got guests.<br/>We'll take REAL good care of you.<br/>This is all thanks to the big boss, Don Corneo!</p>
+<p class="indent"><b>Men</b><br/>Heeey!! Three cheers for Don Corneo!!</p>
+<p class="indent"><b>Scotch</b><br/>Heh, heh... Well ladies, are we, uh, all ready?<br/>...leer...snicker...</p>
+<p class="indent"><b>Redhead in Suit</b> (by the door)<br/>Whoa!<br/>Slow down, what's the hurry? Why don't you stick around... We'll treat you real nice!</p>
+<p class="italic">The men crowd around Cloud with arms outstretched like zombies.</p>
+<p class="indent"><b>Men</b><br/>Oh your eyes. They seem to... glow. I'm all yours, baby!<br/>Come on, baby!<br/>Woo-hoo! I gots ants in my pants wanna do a dance, gotta take a chance and mebbe find romance!<br/>Come on, dance with me, beautiful. They say if two people dance together, their hearts will become one, also...<br/>Hey... you're in pretty good shape. Lookit your tight little bod......<br/>No, it's more like... muscles...</p>
+<p class="indent"><b>Scotch</b><br/>Hey... what's wrong? You want me to keep you company?</p>
+<p class="indent"><b>Cloud</b><br/>No... I'm flattered, but no thanks.<br/>Because...</p>
+<p class="indent"><b>Scotch</b><br/>Because......?</p>
+<p class="indent"><b>Cloud</b><br/>Because...<br/>I ain't INTERESTED in a buncha scrubs like you!!</p>
+<p class="italic">Cloud takes off the dress, revealing his usual uniform underneath.</p>
+<p class="indent"><b>Scotch</b><br/>Wha... a MAN!???<br/>God damn it! You think you can get away with this! Get him! Knock the crap out of him!!</p>
+<p class="italic">Cloud fights off three of Corneo's lackeys.</p>
+<p class="indent"><b>Scotch</b><br/>Grr! C'mon, what's the matter with you good for nothings!?<br/>All right now, COME ON! I'll show you how it's done!!</p>
+<p class="italic">Cloud dispatches Scotch and the other two lackeys. He then hurries back towards the other basement room, where Kotch is chasing Aerith around.</p>
+<p class="indent"><b>Aerith</b><br/>No---!!</p>
+<p class="indent"><b>Kotch</b><br/>Ha ha ha... Wait you!!</p>
+<p class="italic">Aerith runs up the steps towards Cloud, then turns around to give Kotch a shove.</p>
+<p class="indent"><b>Aerith</b><br/>I'm so sorry!!</p>
+<p class="indent"><b>Kotch</b><br/>oh, oh, oh......</p>
+<p class="italic-inline">He falls down the stairs.</p>
+<p class="block-inline">heh, heh, heh...!!</p>
+<p class="indent"><b>Cloud</b><br/>Aerith!!<br/>- You all right?<br/>- We gotta help Tifa!</p>
+<div class="block"/>
+  <p><span class="highlight">You all right?</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>I told you. I'm used to danger.<br/>To tell you the truth, my heart was pounding!</p>
+
+<div class="block"/>
+  <p><span class="highlight">We gotta help Tifa!</span></p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Ye... yes, you're right... ......let's hurry!</p>
+
+<p class="indent"><b>Kotch</b> (lying at the bottom of the stairs)<br/>C'mon... just once... I won't tell... I promise!<br/>I just wanted to act like I got a cute girl...<br/>Cute!!</p>
+<p class="italic">In Corneo's room, Tifa is sitting on the edge of his bed while he sits leering at her.</p>
+<p class="indent"><b>Don Corneo</b><br/>Woo-hoo!<br/>Come, come, don't be so shy...</p>
+<p class="indent"><b>Tifa</b><br/>I know......<br/>But you know, Don Corneo, I'd like you to explain something before we start...</p>
+<p class="indent"><b>Don Corneo</b><br/>Hm? Oh, you mean about THAT?<br/>Don't worry. I'm single. There, feel better now?</p>
+<p class="indent"><b>Tifa</b><br/>No... I'm not asking about that......<br/>Wa... wait a minute! No, not yet!!</p>
+<p class="indent"><b>Don Corneo</b><br/>Come! Come!<br/>Aooooooooh!! I can't wait any longer! Here comes papa!!</p>
+<p class="italic">Cloud and Aerith run in.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud!!</p>
+<p class="italic">Tifa jumps up as Corneo leaps for her, and he lands on his face.</p>
+<p class="indent"><b>Don Corneo</b><br/>Wha... what the hell? Who goes there!?</p>
+<p class="indent"><b>Tifa</b><br/>You still don't get it do you, Don Corneo?</p>
+<p class="indent"><b>Don Corneo</b><br/>Get what?</p>
+<p class="indent">[<a href="#interrogation">skip to the interrogation</a>]</p>
+<hr></hr>
+<p class="italic"><a name="Aerith"></a>Corneo walks to Aerith.</p>
+<p class="indent"><b>Don Corneo</b><br/>This slender little girl!</p>
+<p class="indent"><b>Aerith</b><br/>Don, you've got great taste.</p>
+<p class="italic">Corneo turns to his lackeys.</p>
+<p class="indent"><b>Don Corneo</b><br/>You can have the other ones!</p>
+<p class="indent"><b>Kotch + Scotch</b><br/>Yes, sir! Thank you sir!</p>
+<p class="indent"><b>Don Corneo</b><br/>Well then, shall we go my pretty!?</p>
+<p class="italic">He starts for his room and Aerith follows. After a scene change, Cloud ends up in the basement with a bunch of guys.</p>
+<p class="indent"><b>Scotch</b><br/>Hey guys! We've got guests.<br/>We'll take REAL good care of you.<br/>This is all thanks to the big boss, Don Corneo!</p>
+<p class="indent"><b>Men</b><br/>Heeey!! Three cheers for Don Corneo!!</p>
+<p class="indent"><b>Scotch</b><br/>Heh, heh... Well ladies, are we, uh, all ready?<br/>...leer...snicker...</p>
+<p class="indent"><b>Redhead in Suit</b> (by the door)<br/>Whoa!<br/>Slow down, what's the hurry? Why don't you stick around... We'll treat you real nice!</p>
+<p class="italic">The men crowd around Cloud with arms outstretched like zombies.</p>
+<p class="indent"><b>Men</b><br/>Oh your eyes. They seem to... glow. I'm all yours, baby!<br/>Come on, baby!<br/>Woo-hoo! I gots ants in my pants wanna do a dance, gotta take a chance and mebbe find romance!<br/>Come on, dance with me, beautiful. They say if two people dance together, their hearts will become one, also...<br/>Hey... you're in pretty good shape. Lookit your tight little bod......<br/>No, it's more like... muscles...</p>
+<p class="indent"><b>Scotch</b><br/>Hey... what's wrong? You want me to keep you company?</p>
+<p class="indent"><b>Cloud</b><br/>No... I'm flattered, but no thanks.<br/>Because...</p>
+<p class="indent"><b>Scotch</b><br/>Because......?</p>
+<p class="indent"><b>Cloud</b><br/>Because...<br/>I ain't INTERESTED in a buncha scrubs like you!!</p>
+<p class="italic">Cloud takes off the dress, revealing his usual uniform underneath.</p>
+<p class="indent"><b>Scotch</b><br/>Wha... a MAN!???<br/>God damn it! You think you can get away with this! Get him! Knock the crap out of him!!</p>
+<p class="italic">Cloud fights off three of Corneo's lackeys.</p>
+<p class="indent"><b>Scotch</b><br/>Grr! C'mon, what's the matter with you good for nothings!?<br/>All right now, COME ON! I'll show you how it's done!!</p>
+<p class="italic">Cloud dispatches Scotch and the other two lackeys. He then hurries back to the other basement room and meets Tifa as she's running out.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud!!</p>
+<p class="indent"><b>Cloud</b><br/>Tifa!!<br/>- You all right?<br/>- We've gotta help Aerith!!</p>
+<div class="block"/>
+  <p><span class="highlight">You all right?</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Of course! If you take me lightly, you're gonna pay for it!!</p>
+
+<div class="block"/>
+  <p><span class="highlight">We've gotta help Aerith!!</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Hey, don't you even care about how I am? ......never mind, let's go!</p>
+
+<p class="indent"><b>Kotch</b> (lying at the bottom of the stairs)<br/>C'mon... just once... I won't tell... I promise!<br/>I just wanted to act like I got a cute girl...<br/>Cute!!</p>
+<p class="italic">In Corneo's room, Aerith is sitting on the edge of his bed while he sits leering at her.</p>
+<p class="indent"><b>Don Corneo</b><br/>Woo-hoo!<br/>Come, come, don't be so shy...</p>
+<p class="indent"><b>Aerith</b><br/>Ye...yes...<br/>But Mr. Don. I'd like you to explain something to me first...</p>
+<p class="indent"><b>Don Corneo</b><br/>Of course, my dear. I'll take you through it slowly, step by step. So come on!</p>
+<p class="indent"><b>Aerith</b><br/>No, that's not what I meant!<br/>NO, STOP! Just, just wait a second!!</p>
+<p class="indent"><b>Don Corneo</b><br/>Come! Come!<br/>Aooooooooh!! I can't wait any longer! Here comes papa!!</p>
+<p class="italic">Cloud and Tifa run in.</p>
+<p class="indent"><b>Aerith</b><br/>Cloud!!</p>
+<p class="italic">Aerith jumps up as Corneo leaps for her, and he lands on his face.</p>
+<p class="indent"><b>Don Corneo</b><br/>Wha... what the hell? Who goes there!?</p>
+<p class="indent"><b>Aerith</b><br/>I'm sorry, Don.</p>
+<p class="indent"><b>Don Corneo</b><br/>Get what?</p>
+<p class="indent">[<a href="#interrogation">skip to the interrogation</a>]</p>
+<hr></hr>
+<p class="italic"><a name="cloud"></a>Corneo walks to Cloud.</p>
+<p class="indent"><b>Don Corneo</b><br/>This healthy-looking girl!</p>
+<p class="indent"><b>Cloud</b><br/>Wa, wait a sec! I mean, uh, please wait a moment!</p>
+<p class="indent"><b>Don Corneo</b><br/>Woo-hoo!<br/>I love chickies who play hard-to-get! Yeowza!</p>
+<p class="italic">Corneo turns to his lackeys.</p>
+<p class="indent"><b>Don Corneo</b><br/>You can have the other ones!</p>
+<p class="indent"><b>Kotch + Scotch</b><br/>Yes, sir! Thank you sir!</p>
+<p class="indent"><b>Don Corneo</b><br/>Well then, shall we go my pretty!?</p>
+<p class="italic">After exchanging glances with Aerith and Tifa, Cloud reluctantly follows Corneo into his room.</p>
+<p class="indent"><b>Don Corneo</b><br/>Ahh, we're finally alone...<br/>All right, pussycat... Come to daddy!!</p>
+<p class="italic">If Cloud tries to run away...</p>
+<p class="indent"><b>Don Corneo</b><br/>Woo-hoo!<br/>Don't be shy. We're all alone now...<br/>You're so cute, I never get tired of looking at you.<br/>Do you... like me, too?</p>
+<p class="indent"><b>Cloud</b><br/>- Of course!<br/>- Ummm......</p>
+<div class="block"/>
+  <p><span class="highlight">Of course!</span></p>
+  <p class="indent-nopad"><b>Don Corneo</b><br/>You sure do know how to make a guy feel good!<br/>Then, wh... what do you want to DO?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Whatever YOU want, daddy<br/>- Don't really care......</p>
+  <div class="block"/>
+    <p><span class="highlight">Whatever YOU want, daddy</span></p>
+    <p class="indent-nopad"><b>Don Corneo</b><br/>Oh man! I can't stand it! All right, then......<br/>Give me a kiss!! A KISS!!</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- All right......<br/>- Nope, can't do that......</p>
+    <div class="block"/>
+      <p><span class="highlight">All right......</span></p>
+      <p class="italic">Cloud walks over and leans forward to kiss Corneo, not quite touching lips. He shakes his head and tries again.</p>
+      <p class="indent-nopad"><b>Aerith or Tifa</b><br/>Ju---st a minute!!</p>
+      <p class="indent-nopad"><b>Don Corneo</b><br/>Wha... what the hell? Who goes there!?</p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Cloud...<br/>Were you really......</p>
+      <p class="italic">Cloud shakes his head violently and takes off the dress.</p>
+      <p class="indent-nopad"><b>Don Corneo</b><br/>A man!? What's goin' on?</p>
+    
+    <div class="block"/>
+      <p><span class="highlight">Nope, can't do that......</span></p>
+      <p class="indent-nopad"><b>Corneo</b><br/>Why? WHY? WHY?</p>
+      <p class="indent-nopad"><b>Cloud</b><br/>Because...<br/>Because I'm gonna have to use that mouth of yours to give me some information!!</p>
+      <p class="italic">Cloud takes off the dress.</p>
+      <p class="indent-nopad"><b>Don Corneo</b><br/>A man!? You tricked me!!<br/>Somebody get in here NOW!!</p>
+      <p class="indent-nopad"><b>Tifa or Aerith</b><br/>Unfortunately, no one'll be comin' to help.</p>
+      <p class="indent-nopad"><b>Don Corneo</b><br/>You're the ones from before! Wh... what the hell's going on?</p>
+    
+  
+  <div class="block"/>
+    <p><span class="highlight">Don't really care......</span></p>
+    <p class="indent-nopad"><b>Don Corneo</b><br/>You don't like me?<br/>There... there isn't someone else, is there?</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- No, only you<br/>- Yes, his name's Barret...</p>
+    <div class="block"/>
+      <p><span class="highlight">No, only you</span></p>
+      <p class="indent-nopad"><b>Corneo</b><br/>You sure do know how to make a guy feel good!<br/>Then, wh... what do you want to DO?</p>
+      <p class="indent-nopad"><b>Cloud</b><br/>- Whatever YOU want, daddy<br/>- Don't really care......</p>
+    
+    <div class="block"/>
+      <p><span class="highlight">Yes, his name's Barret</span></p>
+      <p class="indent-nopad"><b>Corneo</b><br/>No way!<br/>Hmm? Barret? That sounds familiar...</p>
+      <p class="indent-nopad"><b>Cloud</b><br/>You know, he's one of the ones you were trying to find out about. You know, AVALANCHE...?</p>
+      <p class="indent-nopad"><b>Don Corneo</b><br/>Oh, yeah, yeah. In Sector 7 in the slum...<br/>...and how do YOU know that!?</p>
+      <p class="italic">Cloud takes off the dress.</p>
+      <p class="indent-nopad"><b>Don Corneo</b><br/>A man!? You tricked me!!<br/>Somebody get in here NOW!!</p>
+      <p class="indent-nopad"><b>Tifa or Aerith</b><br/>Unfortunately, no one'll be comin' to help.</p>
+      <p class="indent-nopad"><b>Don Corneo</b><br/>You're the ones from before! Wh... what the hell's going on?</p>
+    
+  
+
+<div class="block"/>
+  <p><span class="highlight">Ummm......</span></p>
+  <p class="indent-nopad"><b>Don Corneo</b><br/>You don't like me?<br/>There... there isn't someone else, is there?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- No, only you<br/>- Yes, his name's Barret...</p>
+
+<p class="indent"><a name="interrogation"></a><b>Tifa</b><br/>Shut up, we're asking the questions now...<br/>What did your assistants find out? Talk! If you don't tell us...</p>
+<p class="indent"><b>Cloud</b><br/>...I'll chop them off.</p>
+<p class="indent"><b>Don Corneo</b><br/>No! Not that! I'll talk! I'll tell you everything!</p>
+<p class="indent"><b>Tifa</b><br/>So... talk.</p>
+<p class="indent"><b>Don Corneo</b><br/>...I made 'em find out where the man with the gun-arm was. But that's what I was ordered to do.</p>
+<p class="indent"><b>Tifa</b><br/>By who?</p>
+<p class="indent"><b>Don Corneo</b><br/>No--! If I told you that, I'd be killed!</p>
+<p class="indent"><b>Tifa</b><br/>Talk! If you don't tell us...</p>
+<p class="indent"><b>Aerith</b><br/>...I'll rip them off.</p>
+<p class="indent"><b>Don Corneo</b><br/>Waaaaaaaaaaaah--! It was Heidegger of Shinra!<br/>Heidegger, the head of Public Safety Maintenance!</p>
+<p class="indent"><b>Cloud</b><br/>The head of Public Safety Maintenance!?</p>
+<p class="indent"><b>Tifa</b><br/>Did you say the Shinra!? What are they up to!? Talk!<br/>If you don't tell us...<br/>...I'll smash them.</p>
+<p class="indent"><b>Don Corneo</b><br/>...You're serious, aren't you... ...ohboy, ohbooy, ohboy.<br/>...I'm not fooling around here either, you know.<br/>Shinra's trying to crush a small rebel group called AVALANCHE, and want to infiltrate their hideout.<br/>And they're really going to crush them... literally,<br/>By breaking the support holding up the plate above them.</p>
+<p class="indent"><b>Tifa</b><br/>Break the support!?</p>
+<p class="indent"><b>Don Corneo</b><br/>You know what's going to happen? The plate'll go PING<br/>and everything's gonna go BAMMM!! I heard their hideout's in the Sector 7 Slums...<br/>I'm just glad it's not here in Sector 6.</p>
+<p class="indent"><b>Tifa</b><br/>They're going to wipe out the Sector 7 Slums!?<br/>Cloud, will you come with me to Sector 7?</p>
+<p class="indent"><b>Cloud</b><br/>Of course, Tifa.</p>
+<p class="italic">They all start for the door.</p>
+<p class="indent"><b>Don Corneo</b><br/>Just a second!</p>
+<p class="indent"><b>Cloud</b><br/>Shut up!</p>
+<p class="indent"><b>Don Corneo</b><br/>No wait, it'll only take a second.<br/>How do you think scum like me feels when they babble on about the truth?</p>
+<p class="indent"><b>Cloud</b><br/>- They've pretty much given up on life<br/>- They're sure they'll win<br/>- They don't know what the hell's going on</p>
+<div class="block"/>
+  <p><span class="highlight">They've pretty much given up on life</span></p>
+  <p class="indent-nopad"><b>Don Corneo</b><br/>Buuzzzzz! Wrong!</p>
+
+<div class="block"/>
+  <p><span class="highlight">They're sure they'll win</span></p>
+  <p class="indent-nopad"><b>Don Corneo</b><br/>Woo-hoo! Right!</p>
+
+<div class="block"/>
+  <p><span class="highlight">They don't know what the hell's going on</span></p>
+  <p class="indent-nopad"><b>Don Corneo</b><br/>Close, but no cigar!</p>
+
+<p class="italic">Corneo hits a switch and Cloud and the others fall through a trap door into the sewer.</p>
+
+
+</scene>

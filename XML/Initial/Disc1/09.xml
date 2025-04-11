@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="Kalm">
+
+
+
+<h1>Kalm - Cloud's Story</h1>
+
+<h4><a href="#explore">Exploring Kalm</a></h4>
+<h4><a href="#beginning">Cloud Begins His Story</a></h4>
+<h4><a href="#arrival">Arrival at Nibelheim</a></h4>
+<h4><a href="#nibelheim">The Town of Nibelheim: Visiting Family &amp; Friends</a></h4>
+<h4><a href="#mtnibel">Setting Out for the Reactor</a></h4>
+<h4><a href="#reactor">The Reactor</a></h4>
+<h4><a href="#snap">Sephiroth Snaps</a></h4>
+<h4><a href="#end">The End of Cloud's Story</a></h4>
+<hr></hr>
+<p class="italic">Cloud and his party arrive in Kalm.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>This is Kalm.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>We've reached Kalm.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>So this is Kalm?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>......looks like we've reached Kalm.</p>
+</blockquote>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Yo, I'll be waitin' at the inn... Hurry up and get your butt over there!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>I wonder if everyone's there already. Let's hurry over to the inn!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Everyone's waiting at the inn. Let's go Cloud.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>We're supposed to meet at the inn. ......Shall we go?</p>
+</blockquote>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Get over here!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Well then, I'll go on ahead.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Let's go Cloud.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Let's go Cloud.</p>
+</blockquote>
+<p class="italic"><a name="explore"></a>The others all go inside, but Cloud has the opportunity to explore the town before joining them.</p>
+<p class="indent"><b>Redhead</b><br/>Aw, c'mon! listen to me! Got anything interesting to say?......</p>
+<p class="indent"><b>Old Man</b><br/>Thanks to Shinra, Inc. developing Mako energy for us, everything's more convenient now.<br/>Maybe a little too convenient.</p>
+<p class="indent"><b>Black-haired Man</b><br/>Tourists, huh?<br/>There are some things you should know that'll come in handy when you travel around the world......<br/>Want me to tell you what they are?</p>
+<p class="indent"><b>Cloud</b><br/>- Tell me<br/>- I already know</p>
+<div class="block"/>
+  <p><span class="highlight">Tell me</span></p>
+  <p class="indent-nopad"><b>Black-haired Man</b><br/>Then let me explain how to use the world map.<br/>Well then, what do you want to know?</p>
+  <p class="italic">A tutorial menu opens.</p>
+  <p class="indent-nopad"><b>Black-haired Man</b><br/>Well then, bon voyage!</p>
+
+<div class="block"/>
+  <p><span class="highlight">I already know</span></p>
+  <p class="indent-nopad"><b>Black-haired Man</b><br/>Is that so? Well, that's that. Have a nice trip.</p>
+
+<p class="italic">Inside the first house...</p>
+<p class="indent"><b>Woman</b><br/>Thanks to Mako energy, life's pretty darn convenient. Thanks to Shinra.<br/>Don't you think?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah, maybe<br/>- You're full of it</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah, maybe</span></p>
+  <p class="indent-nopad"><b>Woman</b><br/>See!? How would we get by without Mako energy?</p>
+
+<div class="block"/>
+  <p><span class="highlight">You're full of it</span></p>
+  <p class="indent-nopad"><b>Woman</b><br/>Hmmn. But I'd hate to think of what life'd be like without Mako energy.</p>
+
+<p class="indent"><b>Woman</b><br/>Yeah, Mako energy's made our lives much easier. And it's all thanks to Shinra, Inc.</p>
+<p class="indent"><b>Girl Upstairs</b><br/>Mako energy's made things a lot more convenient......<br/>But seems like a lot of plants and animals have been disappearing at a rapid pace.<br/>I think the old life was better.<br/>Don't you think so?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah, maybe<br/>- No way</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah, maybe</span></p>
+  <p class="indent-nopad"><b>Girl Upstairs</b><br/>Yeah, sure I'm right! You think so, don't you?</p>
+
+<div class="block"/>
+  <p><span class="highlight">No way</span></p>
+  <p class="indent-nopad"><b>Girl Upstairs</b><br/>That sounds just like what my mom says.</p>
+
+<p class="indent"><b>Girl Upstairs</b><br/>I thought things were better when I was able to play with animals......</p>
+<p class="italic">Inside the second house...</p>
+<p class="indent"><b>Old Man</b><br/>Did you say you came from Midgar?<br/>I used to live there, too. But I hear they got lots of troubles lately.</p>
+<p class="italic">Inside the third house...</p>
+<p class="indent"><b>Woman</b><br/>There was a suspicious-looking man in a black cloak! He was carrying a wicked-looking sword.<br/>Why doesn't anyone believe me? I'm all alone...</p>
+<p class="italic">Upstairs, a boy is running around while a little girl watches him.</p>
+<p class="indent"><b>Girl</b><br/>......My older brother's so stupid. He's so embarrassing I could just puke!</p>
+<p class="indent"><b>Boy</b><br/>When I grow up I'm gonna be in SOLDIER. That's why I'm training hard now!!<br/>Hyah, hayah, eagghh!</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Man in Blue</b><br/>I hear that the natural resources near the reactors are being sucked dry.<br/>We're better off with them bringing in the Mako energy.</p>
+<p class="indent"><b>Man</b><br/>I heard President Shinra was killed. And his son Rufus, the new president, was badly hurt.<br/>Hey, I bet that's news to you?</p>
+<p class="indent"><b>Cloud</b><br/>- Hey you're pretty clued!!<br/>- Don't care...</p>
+<div class="block"/>
+  <p><span class="highlight">Hey you're pretty clued!!</span></p>
+  <p class="indent-nopad"><b>Man</b><br/>Heh, heh, heh...... This is just between us. I heard it was that there Ava-whaddya call-ums that attacked the President Shinra and his son.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Don't care...</span></p>
+  <p class="indent-nopad"><b>Man</b><br/>Don't care? If you're going to travel, you'd best keep an eye on what Shinra's doing.</p>
+
+<p class="indent"><b>Man</b><br/>Shinra is leading the world around by the nose, and you guys are just gonna sit back and take it?</p>
+<p class="indent"><b>Woman</b><br/>The famous floating city, Midgar... Just once I'd love to see it in person.<br/>South of this town past the Mythril Mine and far to the west is a Shinra harbor called Junon.<br/>They say there's a reactor and many tall buildings there. I hope to see it someday.</p>
+<p class="italic">Inside the fourth house...</p>
+<p class="indent"><b>Woman</b><br/>Is it true that Shinra made a Monster?</p>
+<p class="indent"><b>Cloud</b><br/>- It's true<br/>- Just a rumor</p>
+<p class="indent"><b>Woman</b> (she says the same thing regardless)<br/>Yeah, well either way, as long as we're using the reactor, we can't stand up to Shinra.</p>
+<p class="indent"><b>Kalm Traveler</b><br/>The world's at peace... all's well.<br/>I got my health, and enough to eat... all's well.</p>
+<p class="indent"><b>Kid outside Bar</b><br/>My old man was a miner, but he couldn't go to work after monsters started appearing in the Mythril Mine.<br/>Now all he does is sit around getting drunk in the bar...</p>
+<p class="italic">Inside the bar...</p>
+<p class="indent"><b>Person in Blue</b><br/>I heard terrorists bombed a Midgar reactor...<br/>There sure have been a lot of dangerous accidents recently. I hate it, just hate it.</p>
+<p class="indent"><b>Man</b><br/>Me? I used to work in a coal mine down south called Mythril Mine.<br/>But, right around then, monsters started appearing.<br/>After that, business went to pot and now I spend the days here drinking.<br/>Urrrp! ...hic... I'm stinking drunk!!</p>
+<p class="indent"><b>Bartender</b><br/>It seems there was this group called AVALANCHE runnin' around, but I guess they finally got wiped out by SOLDIER.<br/>Shinra is trying to eliminate anyone, who stands up to them.<br/>It don't matter if we like it or not. Shinra's taken over, and we gotta live with it!</p>
+<p class="indent"><b>Cook</b><br/>Stay out of the kitchen.</p>
+<p class="italic">If Cloud tries to leave Kalm...</p>
+<p class="indent"><b>Cloud</b><br/>Barret and the others are waiting for us at the inn.</p>
+<p class="italic">His exploration of the town exhausted, Cloud goes to the inn.</p>
+<p class="indent"><b>Innkeeper</b><br/>Mr...... Cloud? Your party is waiting for you on the 2nd floor.</p>
+<p class="italic"><a name="beginning"></a>Cloud heads upstairs to find everyone waiting.</p>
+<p class="indent"><b>Aerith</b><br/>Cloud, you're late!</p>
+<p class="indent"><b>Barret</b><br/>Yo man, you're late!</p>
+<p class="indent"><b>Cloud</b><br/>Sorry to keep you waiting.</p>
+<p class="indent"><b>Aerith</b><br/>Guess everyone's here now.</p>
+<p class="indent"><b>Barret</b><br/>So let's hear your story......<br/>You know, the one about Sephiroth and the crisis facing the planet.<br/>Let's hear it all.</p>
+<p class="indent"><b>Cloud</b><br/>......I used to want to be like Sephiroth, so I joined SOLDIER.<br/>After working with Sephiroth on several missions, we became friends.</p>
+<p class="indent"><b>Barret</b><br/>You call that a friend?</p>
+<p class="indent"><b>Cloud</b><br/>Yeah, well......<br/>He's older than me, and he hardly ever talked about himself.</p>
+<p class="indent"><b>Tifa</b><br/>.........</p>
+<p class="indent"><b>Cloud</b><br/>So I guess you'd call him a war buddy...... We trusted each other. Until one day......</p>
+<p class="indent"><b>Aerith</b><br/>...one day?</p>
+<p class="indent"><b>Cloud</b><br/>After the war it was SOLDIER's duty to put down any resistance against the Shinra.<br/>......that was 5 years ago.<br/>I was 16......</p>
+<div class="highlight"/><p class="italic">A flashback sequence begins. Cloud and Sephiroth are riding in the back of a truck with two Shinra infantrymen.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>It sure is raining hard.</p>
+<p class="italic-inline-nopad">He walks to one of the infantrymen.</p>
+<p class="block-inline-nopad">Hey, how are you doing?</p>
+<p class="indent-nopad"><b>Soldier</b><br/>I'm all right.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>I wouldn't know...<br/>I've never had motion sickness.</p>
+<p class="italic-inline-nopad">He walks to the other infantrymen.</p>
+<p class="block-inline-nopad">Everything okay?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Hey.<br/>Settle down.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>They gave me some new Materia.<br/>I can't wait to use it.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>...just like a kid.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>You going to brief us about this mission?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>...this isn't a typical mission.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Good!</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Why do you say that?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>I joined SOLDIER so I could be like you.<br/>But by the time I made First Class, the war was already over.<br/>My big hopes of becoming a hero like you ended with the war.<br/>That's why I always sign up whenever there's a big mission. Kind of a way to prove myself.<br/>Say, how do you feel, MISTER Sephiroth?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>...I thought you wanted a briefing?</p>
+<p class="italic">Cloud scratches his head.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Our mission is to investigate an old Mako reactor.<br/>There have been reports of it malfunctioning, and producing brutal creatures.<br/>First, we will dispose of those creatures. Then, we'll locate the problem and neutralize it.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Brutal creatures... Where?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>The Mako Reactor at Nibelheim.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Nibelheim...<br/>That's where I'm from.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Hmm... hometown...</p>
+<p class="italic">There is a loud thud.</p>
+<p class="indent-nopad"><b>Driver</b><br/>Sir... s, something strange just crashed into our truck!</p>
+<p class="italic">Sephiroth stands.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>That would be our Monster...</p>
+<p class="italic">Sephiroth and Cloud go outside to fight the green dragon that attacked the truck. Sephiroth kills it in a few hits.</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth's strength is unreal. He is far stronger in reality than any story you might have heard about him.</p>
+<p class="indent"><b>Aerith</b><br/>So... Where do you come in?</p>
+<p class="indent"><b>Cloud</b><br/>Me? I was mesmerized by the way Sephiroth fought.</p>
+<p class="indent"><b>Tifa</b><br/>.........</p>
+<p class="indent"><b>Cloud</b><br/>......and then we reached Nibelheim.</p>
+<div class="highlight"/><a name="arrival"></a><p class="italic">Another flashback sequence opens: Sephiroth approaches the gate to Nibelheim, then turns around to face the others, who are still off-screen behind him.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>How does it feel?<br/>It's your first time back to your hometown in a long time, right?<br/>So how does it feel?<br/>I wouldn't know because I don't have a hometown...</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Ummm... how 'bout your parents?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>My mother is Jenova. She died right after she gave birth to me. My father...</p>
+<p class="italic-inline-nopad">He laughs and shakes his head.</p>
+<p class="block-inline-nopad">What does it matter...?<br/>All right, let's go.</p>
+<p class="italic">The others approach and stop before the gate.</p>
+<p class="indent-nopad"><b>Soldier 2</b><br/>Psst... (You keep wandering around here and you'll get in trouble.)</p>
+<p class="indent-nopad"><b>Soldier</b><br/>It's so boring, being on watch.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- You want to do what we always do?<br/>- Just sit tight, it's your job, right?</p>
+<div class="block"/>
+  <p><span class="highlight-white">You want to do what we always do?</span></p>
+  <p>Shall we practice?</p>
+  <p class="indent-nopad"><b>Soldier</b><br/>Practice... oh, you mean practice my pose.<br/>Does someone in SOLDIER always have to be careful about what other people think?<br/>...How did it go?</p>
+  <p class="italic-inline-nopad">He strikes a pose.</p>
+  <p class="block-inline-nopad">...Was it like this?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Good job!</p>
+  <p class="indent-nopad"><b>Soldier</b><br/>I really don't want to be in SOLDIER.</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">Just sit tight, it's your job, right?</span></p>
+  <p>I'll come and talk to you once in a while. Just stick with it.</p>
+
+<p class="indent-nopad"><b>Sephiroth</b><br/>The Mako smell is pretty bad here.</p>
+<p class="indent"><b>Barret</b><br/>You wait a minute!!<br/>Isn't that, um...? The name of Sephiroth's mother...<br/>I remember Jenova. That's that damn headless spook livin' in the Shinra building.</p>
+<p class="indent"><b>Cloud</b><br/>That's right.</p>
+<p class="indent"><b>Tifa</b><br/>Barret, would you please let us hear what Cloud has to say? You can ask questions later.</p>
+<p class="indent"><b>Barret</b><br/>Tifa, I was only......</p>
+<p class="indent"><b>Tifa</b><br/>Okay Cloud, continue.</p>
+<p class="indent"><b>Aerith</b><br/>It's a reunion of childhood pals!</p>
+<p class="indent"><b>Cloud</b><br/>......I was really surprised with Tifa.</p>
+<div class="highlight"/><a name="nibelheim"></a><p class="indent-nopad"><b>Cloud</b> (narrating)<br/>...The town was quiet.<br/>Everyone must be staying in their houses, afraid to come out because of the monsters.<br/>No, maybe they're afraid of us...</p>
+<p class="italic">In the flashback sequence, Sephiroth and Cloud are standing just outside the inn.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>We leave for the reactor at dawn. Make sure you get to sleep early.</p>
+<p class="italic-inline-nopad">He heads for the door, then stops and turns back.</p>
+<p class="block-inline-nopad">All we need is one lookout, so you others, get some rest.<br/>Oh, that's right...<br/>You may visit your family and friends.</p>
+<p class="italic">Sephiroth goes inside just as a man runs out of the neighboring house.</p>
+<p class="indent-nopad"><b>Man with Camera</b><br/>I heard Sephiroth was coming and got my camera ready.<br/>I want a shot of Sephiroth and a monster.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- Take my picture.<br/>- Better get back in the house, it's dangerous.</p>
+<div class="block"/>
+  <p><span class="highlight-white">Take my picture.</span></p>
+  <p class="indent-nopad"><b>Man with Camera</b><br/>I don't take pictures with nobodys.</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">Better get back in the house, it's dangerous.</span></p>
+  <p class="indent-nopad"><b>Man with Camera</b><br/>All right... <font color="#856b5c">So big-headed...</font><br/>Hey? <font color="#856b5c">This guy's a real...</font><br/>You... Are you Cloud?<br/>Really? So that's how it is, huh?<br/>Gosh, Cloud, you've grown up to be a nice-looking lad.</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Then take my picture<br/>- It's dangerous, get back in your house</p>
+  <div class="block"/>
+    <p><span class="highlight-white">Then take my picture</span></p>
+    <p class="indent-nopad"><b>Man with camera</b><br/>Let's do this, Cloud. Let me take a picture of you with Sephiroth.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight-white">It's dangerous, get back in your house</span></p>
+    <p class="indent-nopad"><b>Man with Camera</b><br/>OK, OK,...... <font color="#856b5c">So big-headed... You're just his assistant</font></p>
+  
+
+<p class="indent-nopad"><b>Soldier</b><br/>Man... I'm so nervous.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- How come?<br/>- I'm excited.</p>
+<div class="block"/>
+  <p><span class="highlight-white">How come?</span></p>
+  <p class="indent-nopad"><b>Soldier</b><br/>Look, you never know when a monster's gonna show up, right?</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">I'm excited.</span></p>
+  <p class="indent-nopad"><b>Soldier</b><br/>...That's right. Don't blow your chance to become a hero...</p>
+
+<p class="italic">Inside the house next to the inn...</p>
+<p class="indent-nopad"><b>Woman</b><br/>Welcome.<br/>Hey? Aren't you...</p>
+<p class="italic">Flash of white. The woman disappears.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>...Have I come here before?<br/>...I don't remember.</p>
+<p class="indent-nopad"><b>Barret</b><br/>Now you're pissin' me off!! This don't matter, so get on with it!</p>
+<p class="italic">Cloud walks up to the Shinra mansion.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>This Mansion...<br/>...No, I'll come here later.</p>
+<p class="italic">Tifa's father is standing near the mansion.</p>
+<p class="indent-nopad"><b>Tifa's Father</b><br/>Hmm? You from Shinra?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- That's right!<br/>- Who are you?</p>
+<div class="block"/>
+  <p><span class="highlight-white">That's right!</span></p>
+  <p class="indent-nopad"><b>Tifa's Father</b><br/>Geez... Big-headed young kid.</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">Who are you?</span></p>
+  <p class="indent-nopad"><b>Tifa's Father</b><br/>I'm the town's... ...... ......!?<br/>Aren't you Cloud?<br/>Don't you know me?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>You're Tifa's...</p>
+  <p class="indent-nopad"><b>Tifa's Father</b><br/>Right. I'm Tifa's father.<br/>...I want you to stay away from my daughter.<br/>We don't need the Shinra's help to protect our town!</p>
+
+<p class="italic">Cloud goes to his house across the street.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>This is...... my house. It has nothing to do with that incident five years ago.</p>
+<p class="indent"><b>Barret</b><br/>Yo wait, I wanna hear.</p>
+<p class="indent"><b>Aerith</b><br/>Me too! It's been a long time, right?</p>
+<p class="indent"><b>Barret</b><br/>Tell us more!<br/>You saw your family, right?</p>
+<p class="indent"><b>Cloud</b><br/>- Don't want to talk about it<br/>- All right......</p>
+<div class="block"/>
+  <p><span class="highlight">Don't want to talk about it</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>Well I ain't gonna force ya...</p>
+
+<div class="block"/>
+  <p><span class="highlight">All right......</span></p>
+  <p>I don't know if you could call it a 'family'......<br/>My father... died when I was still very young.<br/>That's why my mom...... was living alone in this house.<br/>Yeah, I saw my mom.<br/>My mom... she was a vibrant woman. Hadn't changed at all.<br/>But a few days later, she died...<br/>But when I saw her, she looked fine.</p>
+
+<div class="highlight"/><p class="italic">Back in the flashback, Cloud walks farther into his house.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Uh...?</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>Ye----s?</p>
+<p class="italic-inline-nopad">She runs over.</p>
+<p class="block-inline-nopad">Cloud!?<br/>Welcome home, Cloud!</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Hi, mom.</p>
+<p class="italic">Flash of white noise.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>Come, come... Let me take a look at you!<br/>Hmmm......<br/>You look so handsome.<br/>So this is a SOLDIER uniform?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>......Mom, I...</p>
+<p class="italic">Flash.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>My, how you've grown.<br/>I'll bet the girls never leave you alone.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>...Not really.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>...I'm worried about you.<br/>There are a lot of temptations in the city...<br/>I'd feel a lot better if you just settled down and had a nice girlfriend.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>...I'm all right.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>You should have...<br/>an older girlfriend, one that'll take care of you.<br/>I think that would be the perfect type for you.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>......I'm not interested.</p>
+<p class="italic">Flash.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>Are you eating right?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>I'm all right. The Company takes care of me.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>Is that so?<br/>You can't cook, right?<br/>I was worried sick about how you were doing...</p>
+<p class="italic">Flash.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>Cloud...?</p>
+<p class="italic">Flash.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>You know, Cloud......</p>
+<p class="italic">Flash.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>......isn't that right, Cloud?</p>
+<p class="italic">Flash.</p>
+<p class="indent-nopad"><b>Cloud's Mom</b><br/>I will always be your mother...</p>
+<p class="italic">The screen fades to black.</p>
+<p class="indent-nopad"><b>Cloud</b> (narrating)<br/>......Let's stop this......</p>
+<p class="italic">The image returns, with Cloud just outside his house. If he tries to go back inside...</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Hey...<br/>I can't... remember much else. There's... nothing more to talk about.</p>
+<p class="indent-nopad"><b>Aerith</b><br/>That's all right, Cloud.</p>
+<p class="italic">Cloud goes into Tifa's house.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>Cloud...?<br/>Did you go into my house?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- Yeah...<br/>- No...</p>
+<div class="block"/>
+  <p><span class="highlight-white">Yeah...</span></p>
+  <p>I thought you might be home.</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">No...</span></p>
+  <p>I remember you weren't there.</p>
+
+<p class="italic">Cloud walks up to Tifa's room.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>Cloud...?<br/>Did you go into my room?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- Yeah......<br/>- No...</p>
+<p class="italic">He walks to her piano.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>Did you play my piano?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- No, I didn't<br/>- Yeah, I jammed on it<br/>- Just a little</p>
+<div class="block"/>
+  <p><span class="highlight-white">No, I didn't</span></p>
+  <p class="italic">Nothing happens.</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">Yeah, I jammed on it</span></p>
+  <p>...Now how did this go?<br/>- I forgot<br/>- I remember</p>
+  <p class="italic">Cloud plays on the piano a bit. If you play the FF7 main theme, he'll say:</p>
+  <p class="block-inline-nopad">I've heard this melody somewhere before. Managed to play well...</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">Just a little</span></p>
+  <p>I can read sheet music too, you know...... Ummm, let's see......<br/>Do... Re... Mi... Ti... La... Do... Re... Mi... So... Fa.. Do.. Re... Do... Forget...</p>
+
+<p class="italic">Cloud walks to Tifa's desk.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>The letter...</p>
+<p class="indent-nopad"><b>Tifa</b><br/>Did you read it? My letter?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- I'd never do that!<br/>- Yeah...</p>
+<div class="block"/>
+  <p><span class="highlight-white">I'd never do that!</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Of course!</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">Yeah...</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Do you remember what it said...?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- I don't remember...<br/>- I remember clearly</p>
+  <div class="block"/>
+    <p><span class="highlight-white">I don't remember...</span></p>
+    <p class="indent-nopad"><b>Tifa</b><br/>Then, let's go on with the story about Sephiroth.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight-white">I remember clearly</span></p>
+    <p class="indent-nopad"><b>Cloud</b><br/>I read it...<br/>It was a letter addressed to Tifa from the son of the guy that runs the General Store...</p>
+    <p class="indent-nopad"><b>Letter</b><br/>Tifa, how are you? I just arrived in Midgar eight days ago.<br/>Yesterday, all of Nibelheim got together to welcome me. The only person that we couldn't get a hold of was Cloud.<br/>But everyone said he wasn't really that close to us. So even if we asked, he probably wouldn't have come anyway.<br/>Well, enough about him.<br/>Midgar is really something. But to tell the truth, I feel so behind on everything... so out of it.<br/>Even the rooms of people in the slums are clean.<br/>Right now I'm living in the slums, but I plan to move to a really nice room, like the ones I've seen in magazines, once I make some money.<br/>...but, to do that, I guess I have to find a job first. That's right. I still haven't found a job yet.<br/>I lied to my parents and told them I found a great job with Shinra, Inc.<br/>I wonder if it's too late to go back. Sometimes I think I should've taken over my parents' store.</p>
+    <p class="indent-nopad"><b>Tifa</b><br/>Cloud... Do you remember all of it?</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- No, that's it<br/>- Yeah, I remember it all</p>
+    <div class="block"/>
+      <p><span class="highlight-white">No, that's it</span></p>
+      <p class="indent-nopad"><b>Tifa</b><br/>Then, let's go on with the story about Sephiroth.</p>
+    
+    <div class="block"/>
+      <p><span class="highlight-white">Yeah, I remember it all</span></p>
+      <p>Because there was some stuff about me...</p>
+      <p class="indent-nopad"><b>Letter</b><br/>I just made it here to Midgar but all I think about is Nibelheim.<br/>Hey, Tifa... Is that stupid old water tower still working?<br/>Is the old man at the Inn doing well? Are my parents still at the shop everyday? Have any monsters attacked?<br/>And most of all, how are you, Tifa? It feels like I haven't seen you for years.<br/>We were all talking about you last night.<br/>Everyone likes you. But because everyone idolizes you, I couldn't very well stab them in the back.<br/>I always acted cool, but actually, I was just afraid of being jilted.<br/>Wow, if I keep writing like this, this'll become a love letter!<br/>So, I think I'll stop here. Take care. I'll write again.<br/>P.S. Write me back, okay?</p>
+    
+  
+
+<p class="italic">Cloud walks to the dresser.</p><br/>
+<p><span class="highlight-white">Received "Orthopedic Underwear!"</span></p>
+<p class="indent-nopad"><b>Tifa</b><br/>Cloud!!!</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- It's true<br/>- Just kidding. Don't get mad...</p>
+<p class="indent-nopad"><b>Tifa</b> (she says the same thing regardless)<br/>...Cloud. We're talking about something really important here.</p>
+<p class="italic">Inside the neighboring house...</p>
+<p class="indent-nopad"><b>Black-haired Woman</b><br/>...Oh, you're with the Shinra? Welcome.<br/>Oh, I'm sorry! It's you, Cloud! I didn't recognize you.</p>
+<p class="italic">Two kids come running in.</p>
+<p class="indent-nopad"><b>Girl</b><br/>Shinra----?</p>
+<p class="indent-nopad"><b>Boy</b><br/>Chinra---?</p>
+<p class="indent-nopad"><b>Girl</b><br/>SOLDIER?</p>
+<p class="indent-nopad"><b>Boy</b><br/>Saltza?</p>
+<p class="indent-nopad"><b>Girl</b><br/>Are you going to kill the monsters?</p>
+<p class="indent-nopad"><b>Boy</b><br/>......are you going to?</p>
+<p class="indent-nopad"><b>Girl</b><br/>He's soooo cool!!</p>
+<p class="indent-nopad"><b>Boy</b><br/>Way cool!!</p>
+<p class="indent-nopad"><b>Black-haired Woman</b><br/>Cloud, you've grown to be a strong man.</p>
+<p class="indent-nopad"><b>Boy</b><br/>........................</p>
+<p class="indent-nopad"><b>Girl</b><br/>Do your best.</p>
+<p class="indent-nopad"><b>Boy</b><br/>Do your best.</p>
+<p class="italic">Cloud enters the inn.</p>
+<p class="indent-nopad"><b>Gramps</b><br/>So, what do you need, Cloud?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- Where's Sephiroth?<br/>- Give me a room to stay.<br/>- Let me know the situation of the town.</p>
+<div class="block"/>
+  <p><span class="highlight-white">Where's Sephiroth?</span></p>
+  <p class="indent-nopad"><b>Gramps</b><br/>Yeah, he's upstairs.</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">Give me a room to stay.</span></p>
+  <p class="indent-nopad"><b>Gramps</b><br/>It's all reserved for you Shinra people, so I don't mind. But, wouldn't you feel more comfortable staying at home?</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">Let me know the situation of the town.</span></p>
+  <p class="indent-nopad"><b>Gramps</b><br/>Now about the town...<br/>A lot of monsters have been appearing in the last 12 months.<br/>Other than that, there's not much change. Nothing much exciting happens in a little town like this.<br/>It was all right when they were building the reactor.<br/>...while they were still building it.<br/>But once it was completed, it's been bad.<br/>Within a few years, all the trees on the mountain withered away.<br/>I don't know if the reactor was good or bad...<br/>I mean it's easy to say that it was a bad idea now. But now, what can you do about it...?<br/>Anyhow we've got to get rid of the monsters...<br/>Then, we'll all be able to relax a little bit.</p>
+
+<p class="indent-nopad"><b>Zangan</b><br/>......Hmmmm<br/>Is Shinra here to get rid of the monsters?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>And who are you?</p>
+<p class="indent-nopad"><b>Zangan</b><br/>I'm Zangan. I travel around the world teaching children martial arts.<br/>I have 128 students all over the world!<br/>In this town, a girl named Tifa is my student.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Did you say Tifa?</p>
+<p class="indent-nopad"><b>Zangan</b><br/>Tifa has good sense. She'll be a powerful fighter.<br/>I want to see some Shinra techniques.<br/>And if you see anything you can use, you might want to incorporate some of my techniques.<br/>Well, good luck.</p>
+<p class="italic">Cloud goes upstairs to find Sephiroth standing by a window, staring out.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>What are you looking at?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>...This scenery...... I feel like I know this place.</p>
+<p class="indent-nopad"><b>Soldier 2</b> (inside the room)<br/>We're short one bed...</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>.........<br/>...We have an early start tomorrow. You should get some sleep soon.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- It's still early<br/>- Yeah, let's get some sleep.</p>
+<div class="block"/>
+  <p><span class="highlight-white">It's still early</span></p>
+  <p class="indent-nopad"><b>Sephiroth</b><br/>...I'm not going to wake you up tomorrow.</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">Yeah, let's get some sleep.</span></p>
+  <p class="indent-nopad"><b>Sephiroth</b><br/>I've hired a guide to the Mako reactor.<br/>I've heard she's young, I hope we can rely on her...</p>
+
+<p class="italic"><a name="mtnibel"></a>The next day, Cloud wakes late and runs out to join Sephiroth and the two soldiers at the start of the mountain path, just past the mansion. A few of the townsfolk are hanging around, too.</p>
+<p class="indent-nopad"><b>Man with Camera</b><br/>Think they'd let me take a picture?</p>
+<p class="indent-nopad"><b>Tifa's Father</b><br/>If I knew this was going to happen, I would've made mountain climbing off limits...</p>
+<p class="indent-nopad"><b>Soldier</b><br/>I was so nervous. I couldn't get any sleep...</p>
+<p class="indent-nopad"><b>Soldier 2</b><br/>...Late again.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Once the guide gets here, we're heading out.</p>
+<p class="indent-nopad"><b>Tifa's Father</b><br/>Listen to me, Sephiroth. In case something happens...</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>...Trust me.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>I'll be all right, Dad!<br/>I have two men from SOLDIER with me.<br/>I'm Tifa. Nice to meet you!</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Tifa! You're the guide?</p>
+<p class="indent-nopad"><b>Tifa</b><br/>That's right.<br/>I just happen to be the number one guide in this town.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>It's too dangerous! I can't involve you in something like this!</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Then there's no problem if you protect her.<br/>...Let's go.</p>
+<p class="indent-nopad"><b>Man with Camera</b><br/>Ummm...<br/>Mr. Sephiroth! Please let me take one picture for a memento!<br/>Tifa, can you ask him for me too......?</p>
+<p class="italic">Cloud and Tifa both pose in front of the mansion. Sephiroth reluctantly walks over.</p>
+<p class="indent-nopad"><b>Man with Camera</b><br/>Cheeeeese!</p>
+<p class="italic">He snaps a picture, and Sephiroth walks away immediately after.</p>
+<p class="indent-nopad"><b>Man with Camera</b><br/>Great, thank you!<br/>I'll give each of you a copy once I get it developed!</p>
+<p class="italic">They start out up the path to Mt. Nibel...</p>
+<p class="indent-nopad"><b>Cloud</b> (narrating)<br/>A Mako Reactor was built in Mt. Nibel.<br/>The cold air of the mountains of Nibel. It was no different...</p>
+<p class="italic">If Cloud runs back to town instead of following Tifa...</p>
+<p class="indent-nopad"><b>Tifa's Father</b><br/>I hate myself for asking you this, but...<br/>Don't take your eyes off of Tifa! Hurry up and go back to her side!</p>
+<p class="indent-nopad"><b>Zangan</b><br/>Oh? Did you come crying home?</p>
+<p class="italic">Up on Mount Nibel, Cloud follows Tifa onto a rickety-looking rope bridge.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>It gets harder from here! Follow me!</p>
+<p class="italic">Cloud and the soldiers start across after her.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>Uh... the bridge!!</p>
+<p class="italic">The bridge creaks and then snaps, and they all fall to the rocks below. Cloud and Tifa land near each other and get up. Sephiroth and one of the soldiers come around the bend to join them.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Everyone seems to be all right. Can we get back to where we were?</p>
+<p class="indent-nopad"><b>Tifa</b><br/>These caves are intertwined, just like an ant farm...<br/>Oh, and Sephiroth... There seems to be one person missing...</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>It may sound cold, but we've got no time to search for him. We can't go back now, so we must go on. We'll travel together from here.</p>
+<p class="italic">They continue on, entering some multi-colored caves.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>What's this?</p>
+<p class="indent-nopad"><b>Tifa</b><br/>A mysteriously colored cave...</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>It must be the Mako energy. This mountain is especially abundant in it. That's why the Mako Reactor was built here.</p>
+<p class="italic">Coming out of the caves into the light, they find a Mako fountain.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>...And what's this?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>A Mako fountain. It's a miracle of nature.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>It's so beautiful...</p>
+<p class="italic-inline-nopad">She walks up to it.</p>
+<p class="block-inline-nopad">If the Mako Reactor continues to suck up the energy, this fountain will dry up too...</p>
+<p class="italic">The others walk over to join her.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Materia. When you condense Mako energy, materia is produced.<br/>It's very rare to be able to see materia in its natural state.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>By the way... Why is it that when you use materia you can also use magic too?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>You were in SOLDIER and didn't even know that?<br/>...the knowledge and wisdom of the Ancients is held in the materia.<br/>Anyone with this knowledge can freely use the powers of the Land and the Planet. That knowledge interacts between ourselves and the planet calling up magic...... or so they say.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Magic...... a mysterious power...</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Ha, ha, ha!</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Did I say somethin' funny?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>A man once told me never to use an unscientific term such as mysterious power! It shouldn't even be called 'magic'!<br/>I still remember how angry he was.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Who was that?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Hojo of Shinra, Inc. ... An inexperienced man assigned to take over the work of a great scientist.<br/>He was a walking mass of complexes.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>A Mako fountain... So this is where the knowledge of the Ancients is.</p>
+<p class="italic"><a name="reactor"></a>They continue on and reach the Mako Reactor.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>We finally made it. We sure took the long way though.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Tifa, you wait here.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>I'm going inside too! I wanna see!</p>
+<p class="italic">Cloud shakes his head.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Only authorized people are allowed in. This place is full of Shinra's industrial secrets.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>But!</p>
+<p class="italic">Sephiroth turns to the soldier.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Take care of the lady.</p>
+<p class="italic">The soldier nods and moves to block Tifa's way up the stairs as Cloud and Sephiroth go on inside.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>Mm, man!<br/>Better take real good care of me then!</p>
+<p class="italic">Beyond the initial entry over the Mako pit, there is a large chamber. Inside are a number of strange pods, and at the top of some stairs there is a door marked Jenova. Sephiroth is standing before it, shaking his head. Cloud joins him.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>This is...... Jenova, right? The lock won't open...</p>
+<p class="italic">Sephiroth goes down the stairs and Cloud follows.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>This is the reason for the malfunction. This part is broken.<br/>Cloud, close the valve.</p>
+<p class="italic">Cloud closes the valve.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Why did it break...?</p>
+<p class="italic-inline-nopad">He pulls himself up to look in the window of one of the pods.</p>
+<p class="block-inline-nopad">...now I see, Hojo.<br/>But, even doing this, will never put you on the same level as Professor Gast.<br/>This is a system that condenses and freezes the Mako energy... that is, when it's working correctly.<br/>Now... what does Mako energy become when it's further condensed?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Uh, umm...... Oh yeah! It becomes a Materia.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Right, normally. But Hojo put something else in there. ...Take a look.<br/>Look through the window.</p>
+<p class="italic">Cloud pulls himself up to look. Upon seeing the monster inside, he falls back.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Wh... what is this!?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Normal members of SOLDIER are humans that have been showered with Mako.<br/>You're different from the others, but still human.<br/>But, what are they? They've been exposed to a high degree of Mako, far more than you.</p>
+<p class="italic">Cloud gets to his feet.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>...is this some kind of monster?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Exactly. And it's Hojo of Shinra that produced these monsters.<br/>Mutated living organisms produced by Mako energy. That's what these monster's really are.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Normal members of SOLDIER? You mean you're different?</p>
+<p class="italic">Sephiroth clutches his head as though in pain.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>H... hey, Sephiroth!</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>N... no......<br/>...Was I?</p>
+<p class="italic">He starts slashing at the pods with the Masamune, and Cloud leaps back.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>...Was I created this way too?<br/>Am I the same as all these monsters......</p>
+<p class="indent-nopad"><b>Cloud</b><br/>...Sephiroth.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>You saw it! All of them... were humans...</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Human!? No way!</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>...I've always felt since I was small...<br/>That I was different from the others. Special, in some way.<br/>But... not like this...</p>
+<p class="italic">He twists to look as one of the monsters suddenly bursts out of its pod and lies moaning. The scene fades.</p>
+<p class="indent-nopad"><b>Cloud</b> (narrating)<br/>Am I...... human?<br/>I didn't quite understand what Sephiroth was saying at that time.<br/>I was even more surprised by the fact that Shinra was producing monsters.</p>
+<p class="indent"><b>Barret</b><br/>Damn, Shinra! The more I hear, the more I hate 'em!</p>
+<p class="indent"><b>Tifa</b><br/>......who would have ever thought the Mako Reactor held a secret like that.</p>
+<p class="indent"><b>Red XIII</b><br/>That would seem to explain the increase in the number of monsters recently.<br/>I think we should listen carefully to Cloud. Don't you think so Barret?</p>
+<p class="indent"><b>Barret</b><br/>(Why you talkin' to me!?)</p>
+<p class="indent"><b>Cloud</b><br/>- Save game and take a rest<br/>- Keep talking</p>
+<div class="block"/>
+  <p><span class="highlight">Save game and take a rest</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>Yeah, mebbe so. Wanna take a breather here?</p>
+
+<div class="block"/>
+  <p><span class="highlight">Keep talking</span></p>
+  <p class="italic">Nothing special happens.</p>
+
+<p class="indent"><b>Barret</b><br/>......I get it.</p>
+<p class="indent"><b>Aerith</b><br/>Tifa... You were waiting outside then?</p>
+<p class="indent"><b>Tifa</b><br/>......Yes.</p>
+<p class="indent"><b>Cloud</b><br/>We returned to Nibelheim. Sephiroth confined himself at the inn. He didn't even try to talk to me.</p>
+<p class="indent"><b>Tifa</b><br/>Then all of a sudden he just disappeared, right?</p>
+<p class="indent"><b>Cloud</b><br/>We found him inside the biggest building in Nibelheim.</p>
+<p class="indent"><b>Tifa</b><br/>The villagers used to call it Shinra mansion.</p>
+<p class="indent"><b>Cloud</b><br/>Long ago, people from Shinra used to live in that mansion...</p>
+<div class="highlight"/><p class="italic">Flashback scene: Cloud and the soldier join Zangan, Tifa, Tifa's father, and the man with the camera at the gate to the Shinra mansion.</p>
+<p class="indent-nopad"><b>Man with Camera</b><br/>What's Sephiroth doing?</p>
+<p class="indent-nopad"><b>Zangan</b><br/>There's nothing that'll harm the town, right?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>- Why...?<br/>- No way!</p>
+<div class="block"/>
+  <p><span class="highlight-white">Why...?</span></p>
+  <p>...Why do you ask?</p>
+  <p class="indent-nopad"><b>Zangan</b><br/>The Shinra showed up to eliminate any information that could be an embarrassment to the company...<br/>You pick these things up when you travel as much as I do.</p>
+
+<div class="block"/>
+  <p><span class="highlight-white">No way!</span></p>
+  <p>It's Sephiroth. He would never do that.</p>
+  <p class="indent-nopad"><b>Zangan</b><br/>...Oh my. You sure do have faith.</p>
+
+<p class="indent-nopad"><b>Tifa's Father</b><br/>Until we know that there's no danger, we're not moving.</p>
+<p class="italic">Cloud goes inside on his own and finds the soldier outside one of the bedrooms.</p>
+<p class="indent-nopad"><b>Soldier</b><br/>There's no sign of Sephiroth, but I know I saw him go into this room...</p>
+<p class="italic">Cloud goes into the room and finds the hidden door that leads down into the basement. At the end of the hall is a library, where he finds Sephiroth, reading.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>...an organism that was apparently dead, was found in a 2000 year old geological stratum.<br/>Professor Gast named that organism, Jenova...<br/>X Year, X Month, X Day. Jenova confirmed to be an Ancient...<br/>X Year, X Month, X Day. Jenova Project approved. The use of Mako Reactor 1 approved for use...</p>
+<p class="italic-inline-nopad">Sephiroth stops in the hallway and looks up.</p>
+<p class="block-inline-nopad">My mother's name is Jenova... Jenova Project... Is this just a coincidence?<br/>Professor Gast... Why didn't you tell me anything? ...Why did you die?</p>
+<p class="italic">Cloud approaches him.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Let me be alone.</p>
+<p class="italic">Cloud leaves the library.</p>
+<p class="indent-nopad"><b>Cloud</b> (narrating)<br/>Sephiroth didn't come out of the Shinra Mansion...<br/>He continued to read as if he were possessed by something, and not once, did the light in the basement go out...</p>
+<p class="italic"><a name="snap"></a>Cloud wakes in another bedroom of the Shinra mansion. He walks across the mansion to the basement entrance.</p>
+<p class="indent-nopad"><b>Soldier</b><br/>Sephiroth seems different.</p>
+<p class="italic">Cloud goes down to the basement and down the hall to the library.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Ha, ha, ha......</p>
+<p class="italic">Cloud continues to the study in the back, where he finds Sephiroth seated behind the desk.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Who is it!?<br/>Hmph... traitor.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Traitor?</p>
+<p class="italic">Sephiroth stands.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>You ignorant traitor. I'll tell you.<br/>This Planet originally belonged to the Cetra. Cetra was a itinerant race. They would migrate in, settle the Planet, then move on...<br/>At the end of their harsh, hard journey, they would find the Promised Land and supreme happiness.<br/>But, those that disliked the journey appeared. Those who stopped their migrations built shelters and elected to lead an easier life.<br/>They took that which the Cetra and the planet had made without giving back one whit in return!<br/>Those are your ancestors.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Sephiroth...</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Long ago, disaster struck this planet.<br/>Your ancestors escaped... They survived because they hid.<br/>The Planet was saved by sacrificing the Cetra. After that, your ancestors continued to increase.<br/>Now all that's left of the Cetra is in these reports.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>What does that have to do with you?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Don't you get it?<br/>An Ancient named Jenova was found in the geological stratum of 2000 years ago.<br/>The Jenova Project.<br/>The Jenova Project wanted to produce people with the powers of the Ancients...... no, the Cetra.<br/>...I am the one that was produced.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Pr... produced!?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Yes.<br/>Professor Gast, leader of the Jenova Project and genius scientist, produced me.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>How... how did he...?<br/>Se... Sephiroth?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Out of my way. I'm going to see my mother.</p>
+<p class="italic">Sephiroth leaves the library. Cloud runs out of the mansion after him, only to find the village below in flames.</p>
+<p class="indent-nopad"><b>Zangan</b><br/>Hey it's you! You're still sane, right?</p>
+<p class="italic">Cloud nods.</p>
+<p class="indent-nopad"><b>Zangan</b><br/>Then come over here and help me!<br/>I'll check this house. You check that one over there!</p>
+<p class="indent-nopad"><b>Man with Camera</b> (lying on ground)<br/>...Hey,<br/>Ummm... Am I going to die?</p>
+<p class="indent-nopad"><b>Soldier</b> (lying near Cloud's house)<br/>...Sephi... roth</p>
+<p class="italic">Cloud runs into his house, but comes out again right after, shaking his head.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Terrible...<br/>Sephiroth... This is too terrible...</p>
+<p class="italic">Cloud turns to see Sephiroth cutting down villagers with the Masamune. Sephiroth turns and walks away through the flames. Cloud runs after him. He arrives at the Mako reactor to find Tifa kneeling by her father's body. The Masamune lies nearby.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>Papa...<br/>Sephiroth!?<br/>Sephiroth did this to you, didn't he!?<br/>Sephiroth... SOLDIER... Mako Reactors... Shinra... Everything!<br/>I hate them all!</p>
+<p class="italic">She takes up Sephiroth's sword and runs inside. Sephiroth is standing before the door to Jenova's chamber.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Mother, I'm here to see you. Please, open this door.</p>
+<p class="italic">Tifa approaches with the Masamune.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>How could you do that to papa and all the townspeople?</p>
+<p class="italic">She climbs the stairs and raises the sword over her head to attack him, but Sephiroth pulls the Masamune from her grasp and slashes her. She falls down the stairs, landing near Cloud as he runs in. The door to Jenova's chamber opens, and Sephiroth turns and enters. Cloud kneels to gather Tifa in his arms.</p>
+<p class="indent-nopad"><b>Tifa</b><br/>...You promised... You promised that you'd come...... when I was in trouble...</p>
+<p class="italic">He carries her to the side and sets her down, then runs inside Jenova's chamber to confront Sephiroth.</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Mother, let's take this planet back together.<br/>I've thought of a great idea. Let's go to the Promised Land.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Sephiroth...<br/>My family! My hometown! How could you do this to them!?</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Ha, ha, ha...... They've come again, mother.<br/>With her superior power, knowledge, and magic, Mother was destined to become the ruler of this Planet.<br/>But they...<br/>Those worthless creatures<br/>are stealing the planet from Mother<br/>But now I'm here with you<br/>so don't worry</p>
+<p class="italic">He reaches up and tears off the mechanical angel figure from the front of Jenova's glass tank, revealing Jenova itself inside.</p>
+<p class="indent-nopad"><b>Cloud</b><br/>What about MY sadness!? My family... friends... The sadness of having my hometown taken away from me!?<br/>It's the same as your sadness!</p>
+<p class="indent-nopad"><b>Sephiroth</b><br/>Ha, ha, ha... my sadness? What do I have to be sad about?<br/>I am the chosen one. I have been chosen to be the leader of this Planet.<br/>I have orders to take this planet back from you stupid people for the Cetra. What am I supposed to be sad about?</p>
+<p class="indent-nopad"><b>Cloud</b><br/>Sephiroth... I trusted you...<br/>No, you're not the Sephiroth I used to know!</p>
+<p class="italic">Cloud and Sephiroth face off, and the screen goes white.</p>
+<p class="indent"><a name="end"></a><b>Cloud</b><br/>......and that's the end of my story.</p>
+<p class="indent"><b>Barret</b><br/>Wait a damn minute! Ain't there more?</p>
+<p class="indent"><b>Cloud</b><br/>......I don't remember.</p>
+<p class="indent"><b>Aerith</b><br/>What happened to Sephiroth?</p>
+<p class="indent"><b>Cloud</b><br/>In terms of skill, I couldn't have killed him.</p>
+<p class="indent"><b>Tifa</b><br/>Official records state Sephiroth is dead. I read it in the newspaper.</p>
+<p class="indent"><b>Aerith</b><br/>Shinra, Inc. owns the paper, so you can't rely on that information.</p>
+<p class="indent"><b>Cloud</b><br/>......I want to know the truth. I want to know what happened then.<br/>I challenged Sephiroth and lived. Why didn't he kill me?</p>
+<p class="indent"><b>Tifa</b><br/>......I'm alive, too.</p>
+<p class="indent"><b>Aerith</b><br/>Seems like a lot of this doesn't make sense. What about Jenova? It was in the Shinra building, right?</p>
+<p class="indent"><b>Cloud</b><br/>Shinra shipped it from Nibelheim to Midgar.</p>
+<p class="indent"><b>Aerith</b><br/>Did someone else carry it out after that? It was missing from the Shinra building.</p>
+<p class="indent"><b>Tifa</b><br/>Sephiroth......?</p>
+<p class="indent"><b>Barret</b><br/>Damn! Don't none of this make sense!<br/>I'm going, going, going, gone!<br/>And I'm leavin' the thinkin' to you!<br/>Yo, Cloud! Let's get a move on!</p>
+<p class="indent"><b>Cloud</b><br/>- Wait a sec<br/>- Right</p>
+<div class="block"/>
+  <p><span class="highlight">Wait a sec</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>Cloud, what's wrong? You just gonna stand there while Sephiroth heads for the Promised Land?<br/>I ain't lettin' Sephiroth or Shinra get to no Promised Land. If they do, then we're all screwed.<br/>Y'know what I'm sayin'!</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Beautiful, just beautiful!<br/>- Is that all?</p>
+  <div class="block"/>
+    <p><span class="highlight">Beautiful, just beautiful</span></p>
+    <p class="indent-nopad"><b>Barret</b><br/>Y'all jes leave it to me!</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">Is that all?</span></p>
+    <p>Oh brother......</p>
+    <p class="indent-nopad"><b>Barret</b><br/>Fine! That's good enough.</p>
+  
+
+<div class="block"/>
+  <p><span class="highlight">Right</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>Yo, c'mon let's go!</p>
+
+<p class="italic">Barret runs down the stairs.</p>
+<p class="indent"><b>Cloud</b><br/>Oh brother......</p>
+<p class="indent"><b>Tifa</b><br/>.........<br/>Cloud...?<br/>How bad was I when Sephiroth cut me?</p>
+<p class="indent"><b>Cloud</b><br/>I thought you were a goner. ......I was really sad.</p>
+<p class="indent"><b>Tifa</b><br/>.........</p>
+<p class="indent"><b>Aerith</b><br/>I...<br/>The Ancients...... Cetra...... Jenova...... Sephiroth and myself......</p>
+<p class="indent"><b>Tifa</b><br/>Let's go. Barret's waiting.</p>
+<p class="italic">Cloud, Aerith, and Tifa head downstairs.</p>
+<p class="indent"><b>Red XIII</b><br/>What a fascinating story......</p>
+<p class="italic">They all join Barret downstairs.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Yo, Cloud. Here.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Cloud. Take this.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Oh, Cloud. Let me give you this.</p>
+</blockquote>
+<div class="highlight"/><p>Received "PHS"!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>With [PHS], I can see you any time!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Just use [PHS], and you can contact any one of us easy.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>[PHS], will put us in constant contact with each other.</p>
+</blockquote>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Awright then, we're outta here.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Well, I'll be going.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>I'm going on ahead.</p>
+</blockquote>
+<p class="italic">Cloud and the others leave the inn.</p>
+<p class="indent"><b>Redhead</b><br/>Listen to me! Just now, some guy in a black cloak goes walked east towards that grassy field.<br/>And he's got this killer sword, and is looking REAL scary......</p>
+<p class="italic">With that as their first clue, Cloud and the others set out across the grasslands.</p>
+
+
+</scene>

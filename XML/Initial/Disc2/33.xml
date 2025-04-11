@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="Mideel">
+
+
+
+<h1>Mideel - Finding Cloud</h1>
+
+<h4><a href="#search">Searching Mideel</a></h4>
+<h4><a href="#cloud">Finding Cloud</a></h4>
+<h4><a href="#materia">Shinra's Huge Materia Plan</a></h4>
+<h4><a href="#leader">A New Leader</a></h4>
+<hr></hr>
+<p class="italic"><a name="search"></a>Tifa leads the way into Mideel.</p>
+<p class="indent"><b>Old Man at Entrance</b><br/>Ahoy! Hey ain't you a beaut. This here's Mideel. It's a quiet little Hot Springs town.<br/>Just the perfect place for old folks like us to live out our lives.<br/>I hear that things ain't so peaceful on the outside. But here it's still nice and quiet.</p>
+<p class="italic">In the Item Shop...</p>
+<p class="indent"><b>Shopper</b><br/>But anyhow, that overgrown moon is going to fall down on us isn't it?<br/>This's no joke! We've got to start stocking up on supplies before they're all gone!<br/>Outta the way! Hey, move it, move it!</p>
+<p class="indent"><b>Shopkeeper</b><br/>Welcome! We always welcome cash! Now, about where you want to go...<br/>I'm afraid other customers have already booked it up. There's nothing left.<br/>......just kidding! Just a little joke. Now what can I do for you?<br/>Thank you! Come again!</p>
+<p class="indent"><b>Girl in Blue Outside</b><br/>Gather 'round, gather 'round, this is a bargain!!<br/>We've got the best armor and weapons, the likes of which you won't find anywhere else.<br/>But it's first come first served, so get yours now!<br/>Step right up! You there, don't just stand around outside.<br/>Go on in! Come on! Don't be shy, step right up!<br/>I'll never know why he wanted to open a store in a dead town like this. What's up with him......? ...sigh......</p>
+<p class="italic">On the upper platform at the far left...</p>
+<p class="indent"><b>Man</b><br/>Everything must come to an end. And someday it's gonna be your turn. Even the world's gotta end sometime.<br/>Everybody leaves at one time or another. And everyone gets left also. That's just fate...<br/>It's sad, but there's nothing that can be done about it. So that's why I'm prayin' like this for all of you.</p>
+<p class="italic">As she walks past him, there is a clinking noise.</p>
+<p class="indent"><b>Tifa</b><br/>Huh......? What could that be?<br/>There's something stuck deep inside that looks like a key... It's hard to get out.<br/>Well, I'll just let it go for now......</p>
+<p class="italic">In the Weapons Shop...</p>
+<p class="indent"><b>Shopper</b><br/>You again! You aren't here hoarding up goods too are you?<br/>Don't reach in front of me! Everything in this store is mine!<br/>I've got money to burn! I've been saving it like mad just for a time like this!<br/>C'mon, outta the way! Move, will you? Move!</p>
+<p class="indent"><b>Shopkeeper</b><br/>Welcome to the charity store, a store of love and courage! What can I get you today?<br/>Thank you very much! Please come again.</p>
+<p class="italic">In the back of the store is a door. Tifa knocks on it.</p>
+<p class="indent"><b>Tifa</b><br/>No good... I wonder if it's locked?</p>
+<p class="italic">She returns to the key.</p>
+<p class="indent"><b>Tifa</b><br/>I wonder if there isn't some way to get this outta here...?<br/>If I just move this...... And push that...... Okay! I got it out!</p>
+<p class="italic-inline">Or, if she didn't notice the key earlier:</p>
+<p class="block-inline">There's something stuck deep inside that looks like an old key...</p>
+<div class="highlight"/><p>Received a "Beat-up Useless Old Key"!</p>
+<p class="italic">Inside the nearby house...</p>
+<p class="indent"><b>Woman</b><br/>You say you don't know when the stars are gonna fall outta the sky? Is that for real?<br/>I still don't believe it! How could this be happen?</p>
+<p class="indent"><b>Old Man</b><br/>Ancient Weapon? End of the world? I don't know nothing about that! I'm gonna live to be a hundred!<br/>There's tons of stuff I still gotta do! This's just the beginning.<br/>And what have Shinra and SOLDIER done about it? Tell me! They're a waste!!</p>
+<p class="indent"><b>Girl</b><br/>Actually, I'm a beautiful maid. I just work here in the accessory store part-time.<br/>Everything here can compare with the best goods anywhere. So, how about one?<br/>Thank you. Stop by again.</p>
+<p class="italic">Back to the Weapons Shop, Tifa again inspects the door...</p>
+<p class="indent"><b>Tifa</b><br/>Oh yeah, shall I try that old beat up key?<br/>- Use the beat up old key!<br/>- Forget it</p>
+<div class="block"/>
+  <p><span class="highlight">Use the beat up old key!</span></p>
+  <p>Okay, this is it.<br/>hmm. Huh...? This is pretty tight...<br/>Eyaaah...!?<br/>Oh no! ......it broke. Now I can't get it out...</p>
+  <p class="indent-nopad"><b>Shopkeeper</b><br/>Is something wrong......?</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Ulp!?<br/>Huh? Uh, no......<br/>What am I gonna do......?<br/>- Lie your butt off!<br/>- Tell them the truth!</p>
+  <div class="block"/>
+    <p><span class="highlight">Lie your butt off!</span></p>
+    <p>Nothing! I was just thinking how nice that door was, that's all.</p>
+    <p class="indent-nopad"><b>Shopkeeper</b><br/>Oh... why, thank you very much.</p>
+    <p class="indent-nopad"><b>Tifa</b><br/>Whew... that was close. But that was kind of bad...</p>
+    <p class="italic-inline-nopad">Tifa looks at the door.</p>
+    <p class="block-inline-nopad">...... The key's broken off inside, and I can't get to it...<br/>...... I don't know anything about it.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">Tell them the truth!</span></p>
+    <p>I'm... sorry! I forced the key and it broke!</p>
+    <p class="indent-nopad"><b>Shopkeeper</b><br/>Huh? Key? You mean the one to that door?</p>
+    <p class="italic">Tifa nods.</p>
+    <p class="indent-nopad"><b>Shopkeeper</b><br/>Hah, hah, hah! That's a good one!</p>
+    <p class="indent-nopad"><b>Tifa</b><br/>???</p>
+    <p class="indent-nopad"><b>Shopkeeper</b><br/>Of course there's no key. It's a wall. We just painted a door on it.</p>
+    <p class="indent-nopad"><b>Tifa</b><br/>What!? It's not a real door?</p>
+    <p class="indent-nopad"><b>Shopkeeper</b><br/>That's right. We drew it on there to make it feel like you could pass through it to another world.<br/>Sorry to have surprised you. It's not much of an apology, but please take this.</p>
+    <p class="indent-nopad"><b>Tifa</b><br/>Really? Thank you.</p>
+    <div class="highlight-nopad"/><p>Tifa and the others received "Cursed Ring"!</p>
+    <p class="indent-nopad"><b>Shopkeeper</b><br/>If possible, we're hoping to pass through a dream door like that one into another world<br/>I got the feeling that you all might be able to make my dreams come true in my place. Weird, isn't it?</p>
+  
+
+<div class="block"/>
+  <p><span class="highlight">Forget it</span></p>
+  <p>I'd better not. It doesn't look like it even fits.</p>
+
+<p class="indent"><b>Woman</b><br/>Huh? Never seen you here before. You from outta town? How're things on the outside?<br/>Between the earthquakes and Meteor...... It just might be the end of the world like everyone's been sayin'...<br/>Oh, how depressing! What a miserable world this is......</p>
+<p class="italic">In the Materia shop...</p>
+<p class="indent"><b>Shopper</b><br/>Oh...... there's not much time left!! You never know when that moon is gonna come crashing down!!<br/>When it all comes down to it, this world's about money and material things!<br/>If you got 'em, you can get by whenever, wherever!<br/>Gotta buy!! Gotta buy, buy, buy!! I'm gonna shop till I drop!!</p>
+<p class="indent"><b>Shopkeeper</b><br/>Ah, welcome to you! What I get you to-day?<br/>Thank very much! You come 'gain.</p>
+<p class="italic"><a name="cloud"></a>Outside, Tifa comes across a lone dog.</p>
+<p class="indent"><b>Tifa</b><br/>What's the matter? Are you all alone?</p>
+<p class="italic-inline">She kneels down in front of it as it whines.</p>
+<p class="block-inline">You got lost didn't you? Separated from someone you love......? Silly thing...</p>
+<p class="indent"><b>Bald Man</b><br/>......guess it's been about a week now since he washed up here on the shore... Poor pokey-headed young thing...</p>
+<p class="indent"><b>Old Man</b><br/>It was really sad...... but weird. he was holding this really long sword.<br/>I dunno. The whole thing feels unlucky to me. But the amazing thing was those weird blue eyes......</p>
+<p class="indent"><b>Tifa</b><br/>Wha!?</p>
+<p class="italic-inline">She jumps up.</p>
+<p class="block-inline">Wh...... wait a minute!! What did you just say!?</p>
+<p class="italic-inline">She runs over to the two men.</p>
+<p class="block-inline">Excuse me! That young person you were just talking about......</p>
+<p class="indent"><b>Bald Man</b><br/>Yeah... a villager found him a little ways down the coast... It was about a week ago I think.</p>
+<p class="indent"><b>Old Man</b><br/>Yeah, poor kid...... He must've drifted from somewhere pretty far away...</p>
+<p class="indent"><b>Tifa</b><br/>Cloud!! It must be!! It's Cloud!!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>You sure!?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Over here!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>BINGO!!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Jackpot!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>You've found him.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Heh, good job, Tifa.</p>
+</blockquote>
+<p class="indent"><b>Tifa</b><br/>So where is he? Is he safe!? Where is he now......?</p>
+<p class="indent"><b>Bald Man</b><br/>Yeah... up ahead here... At the, uh, clinic......</p>
+<p class="indent"><b>Tifa</b><br/>He's alive...!<br/>Cloud...... Cloud's alive!!</p>
+<p class="italic-inline">She runs off towards the clinic.</p>
+<p class="block-inline">Cloud......!!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Uh...!? Yo, Tifa!</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Halt!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Hey!!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Wait up!</p>
+</blockquote>
+<p class="italic">Tifa runs into the clinic.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud!?</p>
+<p class="indent"><b>Doctor</b><br/>Here now. The way you're running around here, you'd think Meteor fell or something.</p>
+<p class="indent"><b>Tifa</b><br/>I'm sorry, but I heard that a friend of mine was being taken care of here......</p>
+<p class="indent"><b>Doctor</b><br/>A friend...?<br/>Oh yeah......! That young fellow!?<br/>Don't worry. Your friend is next door. But I'm afraid his condition is...</p>
+<p class="indent"><b>Tifa</b><br/>Here?<br/>Over here.</p>
+<p class="italic-inline">She runs into the next room, where Cloud is sitting in a wheelchair with a nurse near him.</p>
+<p class="block-inline">Cloud...!?</p>
+<p class="italic">The nurse steps aside and lowers her head. The doctor comes to the doorway as the others run into the clinic.</p>
+<p class="indent"><b>Tifa</b><br/>Oh... Cloud!! I'm so glad you're safe!?<br/>......!?<br/>Cloud......?</p>
+<p class="indent"><b>Cloud</b><br/>Uh...... aaa......?</p>
+<p class="indent"><b>Tifa</b><br/>Wh...... what's wrong...... Cloud......?</p>
+<p class="indent"><b>Cloud</b><br/>A...... Gurk......?</p>
+<p class="indent"><b>Tifa</b><br/>Cloud! What happened to you......!?</p>
+<p class="indent"><b>Doctor</b><br/>Mako poisoning...... Quite an advanced case......<br/>It appears this young man's been exposed to a high level of Mako energy for a protracted period of time.<br/>He probably has no idea who or where he is now......<br/>Poor fellow, his voice doesn't even work. He is literally miles away from us.<br/>Some place far away where no one's ever been... All alone......</p>
+<p class="indent"><b>Tifa</b><br/>Doctor......!!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>That's bad......</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>How horrible......</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>You lyin' or what!?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>That's terrible......</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>.........</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Damn...... that's evil.</p>
+</blockquote>
+<p class="italic">Tifa drops to her knees before Cloud.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud......</p>
+<p class="indent"><b>Doctor</b><br/>Ahem! Let us excuse ourselves.<br/>Listen, would you all mind...... waiting outside?</p>
+<p class="indent"><b>Barret</b><br/>......</p>
+<p class="italic">Everyone files outside, leaving Tifa alone with Cloud.</p>
+<p class="indent"><b>Tifa</b><br/>Why......? What do you want me to do?<br/>Please, Cloud...... Talk to me......<br/>Tell me you see me, that you can hear me...... Tell me, please......<br/>I came this far believing in the memories we have together...<br/>This isn't happening......! This is too cruel......<br/>Oh, Cloud......! I............</p>
+<p class="italic">Meanwhile, outside...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>So what about him? You know...... Cloud?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Tell me doctor, is Cloud all right? I mean will he heal?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Hey doc, is he okay? Is he gonna heal?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Hey doctor, is Cloud all right? Is he gonna get better? Come on, tell us the truth.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Listen Doc, why don't you tell us the truth.<br/>What about Cloud? Is he all right?</p>
+</blockquote>
+<p class="indent"><b>Doctor</b><br/>I'll say it again, he's got Mako poisoning. I've never seen a case this bad...<br/>An immense amount of Mako-drenched knowledge was put into his brain all at once......<br/>No normal human could have survived it...... It's a miracle he did!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>No wonder...... After fallin' in the Lifestream an' bein' washed up here......</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>No wonder. He fell into the Lifestream and was washed up here......</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>No lie. After fallin' head first into the Lifestream.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>No wonder. After falling into the Lifestream......</p>
+	<p class="indent-nopad"><b>Cid</b><br/>No wonder...... After all he fell into the Lifestream and was carried down here.</p>
+</blockquote>
+<p class="indent"><b>Doctor</b><br/>But remember, the light of hope can be found anywhere.<br/>Listen, if you give up hope... What will happen to him?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Nanaki</b><br/>Hmm, I know he'll recover! Cloud was a strong member of SOLDIER.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Yeah, that's right. Besides, WE'RE here for him. He's gotta get better!</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Yeah! I know Cloud'll get better!<br/>With friends like us worrying about him He can't go wrong.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>......... Hope............<br/>I guess that's all that's left for us now......</p>
+</blockquote>
+<p class="indent"><b>Barret</b><br/>......hope......<br/>Hey, but honestly, man...... Do I really want him to come back?<br/>What did he do for the world? What can he do for us from here on out? He may be nothing more than Sephiroth's shadow......</p>
+<p class="indent"><b>Doctor</b><br/>Is something wrong?</p>
+<p class="indent"><b>Barret</b><br/>No, nothin'. Nothin' at all, doc.</p>
+<p class="italic">Tifa steps outside.</p>
+<p class="indent"><b>Tifa</b><br/>.........</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>You okay?</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Are you all right, Tifa?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>You okay, Tifa?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>You all right?</p>
+	<p class="indent-nopad"><b>Cid</b><br/>You okay?</p>
+</blockquote>
+<p class="indent"><b>Tifa</b><br/>Yes...... I'm sorry I had you all worried.<br/>And I have something I want to tell you all......</p>
+<p class="italic">She turns back inside and the others follow.</p>
+<p class="indent"><b>Tifa</b><br/>I don't care about anything else, only Cloud......<br/>I...... want to be by his side......</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Yeah, that's probably best......<br/>For Cloud...... an' for you......</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Yes, that's best!</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>You gotta do it then. You gotta live true to yourself.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>If Tifa was my nurse, I'd switch places with Cloud any day!</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Do what you wish.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Yeah. Right. Hang in there, Tifa.</p>
+</blockquote>
+<p class="indent"><b>Tifa</b><br/>I'm sorry, everyone... At a time like this......</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Why you apologizin'? We'll come back again an' check on ya.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>That's all right. We'll be by again.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>No big, no big. I'll pop in again later.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>What're you talkin' about? Not even. We'll stop in again.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Don't worry. We'll return and check on him later.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Don't worry. I'll stop by again sometime.</p>
+</blockquote>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>You take care now, Tifa. And take care of Cloud.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>Do your best, Tifa. Take care of Cloud.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Look after Cloud. Take care, Tifa.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Hope Cloud gets better soon.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Take care of him.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>You hang in there, Tifa. Take care of Cloud.</p>
+</blockquote>
+<p class="indent"><b>Tifa</b><br/>Right......</p>
+<p class="indent"><b>Barret</b><br/>Oh, and uh, Tifa... I don't like askin' this but......<br/>Is he really your childhood friend? And not Sephiroth's shadow?</p>
+<p class="indent"><b>Tifa</b><br/>Huh!? Well... that is......<br/>No, I'm sure of it!</p>
+<p class="indent"><b>Barret</b><br/>Yeah......? Okay then...... Sorry for askin' that.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>We gotta get back to the Highwind.</p>
+	<p class="indent-nopad"><b>Nanaki</b><br/>We should be getting back to the Highwind.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Hey, shouldn't we be gettin' back to the Highwind?</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Well, I guess we'd better go back to the Highwind.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>Very well then, we should be getting back to the Highwind.</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Now, we gotta be headin' back to the Highwind.</p>
+</blockquote>
+<hr></hr>
+<p class="italic"><a name="materia"></a>The others leave Tifa with Cloud and return to the Highwind.</p>
+<p class="indent"><b>Barret</b><br/>What're we gonna do now! What can WE do?<br/>Huh? Ain't there nothin' we can do?<br/>An' don' go tellin' us to wait for Cloud to get better.</p>
+<p class="indent"><b>Cait Sith</b><br/>Oh, I've got some news.</p>
+<p class="indent"><b>Barret</b><br/>Yeah, what!? That you a spy?</p>
+<p class="indent"><b>Cait Sith</b><br/>Yeah...... I've already told you I was.<br/>Both gya ha ha and Kya ha ha, are up to something.<br/>Wanna eavesdrop?</p>
+<hr></hr>
+<p class="italic">In the Conference Room at Shinra HQ...</p>
+<p class="indent"><b>Rufus</b><br/>Now then...... We're faced with two issues.<br/>1 Destroy Meteor. 2 Remove the barrier around North Cave and defeat Sephiroth.<br/>Any ideas?</p>
+<p class="indent"><b>Heidegger</b><br/>Gya haah hah hah! We already solved the first problem!<br/>Meteor will soon be smashed to bits!<br/>The plan has already been put in motion. Namely, to collect Huge Materia from each region.</p>
+<p class="indent"><b>Rufus</b><br/>Well......</p>
+<p class="indent"><b>Scarlet</b><br/>Huge Materia is a high density special type of materia made through a special compression process in Mako reactors.<br/>The energy extracted from it is 330 times the strength of normal materia.<br/>Ha, ha, ha! How about that!?<br/>We will gather all the Huge Materia together and ram it into Meteor.<br/>That will cause a huge explosion!! Reducing Meteor literally to bits.</p>
+<p class="indent"><b>Rufus</b><br/>You're going to ram Meteor?<br/>Do you think we have the technology to do it?</p>
+<p class="indent"><b>Scarlet</b><br/>Don't worry about that!<br/>More importantly, we've got to collect Huge Materia from each area.</p>
+<p class="indent"><b>Heidegger</b><br/>We've already collected materia from Nibelheim.<br/>All that's left is "Corel" and "Fort Condor".<br/>I've already dispatched troops to Corel.<br/>Ghaa haah hah hah!</p>
+<hr></hr>
+<p class="italic"><a name="leader"></a>Back on the Highwind...</p>
+<p class="indent"><b>Barret</b><br/>Corel!<br/>What else can they do to Corel!?</p>
+<p class="indent"><b>Nanaki</b><br/>And the Huge Materia......<br/>You mean the Huge Materia, don't you? I've heard about it.<br/>When, our small materia nears the larger one, something should happen.<br/>I'm certain of it.<br/>That's why we're using the power of materia in our fight......</p>
+<p class="indent"><b>Barret</b><br/>Can't let Shinra get a hold of the Huge Materia!<br/>Besides, when Cloud gets back, I wanna show him this Huge Materia. He's gonna be shocked.</p>
+<p class="indent"><b>Cait Sith</b><br/>So, what are you saying, Barret?<br/>Even though you're always knocking him, you really want Cloud to return.</p>
+<p class="indent"><b>Barret</b><br/>I ain't sayin' nothin' 'bout nothin'. You just... shut your face!<br/>Every group's gotta have a leader.<br/>An' that's me!<br/>Or at least I wanna be... But I ain't cut out to be no leader.<br/>I never knew that till lately.<br/>An' that's what is......</p>
+<p class="indent"><b>Cid</b><br/>......ZZZZ...... hmph?</p>
+<p class="italic-inline">He wakes and gets to his feet.</p>
+<p class="block-inline">Wha? What's goin' on?</p>
+<p class="indent"><b>Barret</b><br/>You been chosen to be the new leader.</p>
+<p class="indent"><b>Cid</b><br/>Pain in the ass. Forget it.</p>
+<p class="indent"><b>Barret</b><br/>But for us to fight, we gotta have Highwind, and you.<br/>We need it to save the Planet. An' who's runnin' this ship? You!<br/>That's why you're our new leader. Ain't no one else can.</p>
+<p class="indent"><b>Cid</b><br/>Hm...... this ship's gonna save the Planet, huh? Ain't that gonna be just a little tough?<br/>Oh man, that went straight to my heart.<br/>I'm a man, too!<br/>Okay, I'll do it! Everyone, follow me!</p>
+<p class="indent"><b>Barret</b><br/>Awright, now here's the first job.<br/>The Operation Room's waiting for you!</p>
+<p class="indent"><b>Cid</b><br/>Yeah!!</p>
+<p class="italic-inline">He runs off.</p>
+<p class="indent"><b>Barret</b><br/>Yo, Cid!<br/>When you're ready, we're headin' for the Corel Reactor. C'mon Mr. leader, you'd better hurry.</p>
+<p class="indent"><b>Yuffie</b><br/>Cid......????<br/>I know you're all dyin' to talk to a babe like me!<br/>But just leave me alone. This ship makes me...... urk...!!</p>
+<p class="indent"><b>Crew Members</b><br/>I'm not just shooting the breeze! I'm also working!<br/>Good day, Captain!<br/>Looks like you turned out to be the leader after all, Captain......</p>
+<p class="indent"><b>Barret</b><br/>Yo, Mr. Leader! Get your pilot ass up here!</p>
+<p class="indent"><b>Nanaki</b><br/>Cid.<br/>Let's visit Cloud and Tifa from time to time.</p>
+<p class="indent"><b>Cait Sith</b><br/>Hmmn, the Huge Materia is at Corel, Fort Condor......<br/>I'm sure there was another place that had it. Where was that......?</p>
+<p class="indent"><b>Vincent</b><br/>Cid...... I wish I had your go-get-them attitude.<br/>It appears my feelings vanished into thin air ever since I was in that long slumber......</p>
+<p class="indent"><b>Pilot in training (LV6)</b><br/>Yaah! Shall we take off?</p>
+<p class="indent"><b>Cid</b><br/>- Yes<br/>- No</p>
+<p class="indent"><b>Pilot in training (LV6)</b><br/>Yaah! We're taking off!</p>
+</scene>

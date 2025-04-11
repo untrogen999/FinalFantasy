@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="NorthernCrater">
+
+
+
+<sp>Northern Crater - Shinra's Promised Land </sp>
+
+<sp>Great Glacier and Gaea's Cliffs </sp>
+<sp>Arrival at the Crater </sp>
+<sp>Encountering Sephiroth </sp>
+<sp>The Nibelheim Illusion </sp>
+<sp>The Shinra Arrive at the Crater </sp>
+<sp>Sephiroth's Deception </sp>
+<sp>Cloud's Failure </sp>
+
+<stage>Flying off a cliff at the end of the snowboarding slopes, Cloud and the others land in Great Glacier.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Ugh... </sp>
+<stage>He gets to his feet.</stage>
+<sp><boxstart/>I guess we're still in one piece.<boxstart/>Everyone all right? </sp>
+<stage>The others get up.</stage>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Of course. </sp>
+	<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Yeah, somehow. </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Got snow in my ear... </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>God! I can't stand it! </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>A little off. </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Yeah, I'm all right. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>I can't be doin' this! Damn! </sp>
+
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>So where did we land?<boxstart/>Seems like it didn't end up being such a big jump... / We've jumped pretty far... </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Hey, what's that!? They just gave you something, right? Let's use the [] button to find out. </sp>
+	<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Oh yeah, we got the map, right? Let's look at the map by pressing the [] button. </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>At times like these, we need the map! Let's open it with the [] button. </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Then, let's look at the map. Just open it with the [] button. </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>We should check it on the map. Press the [] button. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Quick! The map, the map! Look at it with the [] button! </sp>
+
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>It sure is cold. We'll freeze if we stay here any longer. </sp>
+<stage>In the Frostbite Cave...</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Looks like trouble.<boxstart/>- We're outta here!<boxstart/>- Wait a minute! </sp>
+<stage>Choosing "We're outta here," Cloud does some fancy footwork and ends up outside of Great Glacier entirely.</stage>
+<stage>There is a cave within the mountains where they find a woman in blue. If Cloud speaks to her without going to the hot springs...</stage>
+<sp><speaker name="Woman in Blue">Woman in Blue</speaker><boxstart/>...Please leave.<boxstart/>Please don't worry about me.<boxstart/>Now, I don't want to harm any of you.<boxstart/>And don't come back again.<boxstart/>Please stop it.<boxstart/>Please, that is enough. </sp>
+<stage>At the hot springs...</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>This is the only place not frozen.<boxstart/>- Touch it<boxstart/>- Let's go on </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Hmm, a hot spring. </sp>
+<stage>Having gone to the hot springs, Cloud and the others may return to the woman in the mountain cave.</stage>
+<sp><speaker name="Woman in Blue">Woman in Blue</speaker><boxstart/>Yeeew... You got a lot of nerve trying to touch me with the same dirty hands that touched that filthy hot spring!<boxstart/>I'll never forgive you. </sp>
+<stage>Cloud and the others fight and defeat the Snow woman.</stage>
+<sp><speaker name="Woman in Blue">Woman in Blue</speaker><boxstart/>Why this...? </sp>
+<stage>The woman collapses.</stage>
+<sp><speaker name="unspecified"/><boxstart/>Received "Alexander" Materia! </sp>
+<stage>Travelling into the northern reaches of the glacier, they end up on seemingly endless snowfields.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...Snow... as far as you can see... Better watch where I walk.<boxstart/>...I'll place a landmark, and start walking. </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> makes it to Holzoff's house on his own...</sp>
+  <sp><speaker name="Holzoff">Holzoff</speaker><boxstart/>Now, this is a surprise!!<boxstart/>How many years has it been since I last saw anyone here...?<boxstart/>Oh, excuse me! My name is Holzoff. I've lived here for 20 years now.<boxstart/>You mind listening to the stories of a lonely climber?<boxstart/>Why don't we go to the next room and sit down. </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> collapses before reaching the house...</sp>
+  <stage>Cloud wakes to find himself in Holzoff's house.</stage>
+  <sp><speaker name="Holzoff">Holzoff</speaker><boxstart/>You awake?<boxstart/>You collapsed at the Great Glacier. It's a miracle you're all right. </sp>
+  <stage>Cloud scratches his head.</stage>
+  <sp><speaker name="Holzoff">Holzoff</speaker><boxstart/>My name is Holzoff. I've been living here 20 years now.<boxstart/>If you are planning to head North, you'd better listen to my story.<boxstart/>Why don't we go to the next room and sit down. </sp>
+
+<stage>They go into the next room and sit down.</stage>
+<sp><speaker name="Holzoff">Holzoff</speaker><boxstart/>You ever hear about those who challenged the cliff? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- No </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/>Yeah </sp>
+  <sp><speaker name="Holzoff">Holzoff</speaker><boxstart/>The first time my friend Yamski and I tried to climb the cliff was 30 years ago. </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>No </sp>
+  <sp><speaker name="Holzoff">Holzoff</speaker><boxstart/>There's an old legend that says something fell from the sky here a long time ago.<boxstart/>That's what's supposed to have pushed the land up and formed this cliff.<boxstart/>30 Years ago, Yamski and I took this cliff on to see what was on the other side. </sp>
+
+<sp><speaker name="Holzoff">Holzoff</speaker><boxstart/>But, we weren't prepared for it. We did expect the temperature to be low but...<boxstart/>On that cliff, there's always a biting cold wind. The cold air lowers your body temperature.<boxstart/>Yamski, was below me. He cut his own rope...<boxstart/>...and I didn't even notice...<boxstart/>Ever since then, I've settled here... continuing to challenge the cliff, and provide warning and shelter to my fellow climbers.<boxstart/>If you're going to climb the cliff, there's 2 precautions you'll need to take.<boxstart/>First, check your route... It's hard to find because of all the snow.<boxstart/>Second, once you get to a ledge, make sure you warm yourselves up.<boxstart/>Understand? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- One more time<boxstart/>- Yes </sp>
+<sp><speaker name="Holzoff">Holzoff</speaker><boxstart/>You must've used a lot of energy getting up here... Better get some rest before you head out. </sp>
+<stage>Cloud and the others spend the night and then gather outside.</stage>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>You know, I've been thinkin'...? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>- What is it?<boxstart/>- Save it for later </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>...Seein' a place like this, makes you realize how awesome nature is.<boxstart/>But, if anyone ever told me to live here, I'd tell them to... you know...<boxstart/>I'll tell you one thing though, If I did have to live here I'd change things around 'n' make it better.<boxstart/>I guess the total opposite of this would be...... Midgar.<boxstart/>When you think of it that way, Shinra don't seem so bad...<boxstart/>Uuuuuuurrrrrgh!!<boxstart/>What the hell am I sayin'!? The Shinra, not bad!? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>We'll secure the route. You come up later. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/>Y'know... standing here like this...<boxstart/>Kinda makes you feel like the Planet's not on our side, don't it?<boxstart/>Of course we can't even compete. I mean... The Planet don't even notice us humans... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>This blizzard's nothing! I gotta say that or... brr... </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I wonder what's at the top of that cliff? Well we shall see... </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Brrrr, I can't take this cold!! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>This is secret info, but... <referent name="Rufus">Rufus</referent>'s going to arrive here, too. </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>I wonder what's on the other side of the cliff... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Damn! If I could just get back in the air, this cliff would be nothing! </sp>
+<stage>Cloud and the others scale Gaea's Cliffs. In a tunnel near the top of the cliffs, they come across one of the clones.</stage>
+<sp><speaker name="Clone">Clone</speaker><boxstart/>Ugh...... Errgaahh!! </sp>
+<stage>It collapses and disappears. Cloud runs through the tunnel and runs into a two-headed dragon. After defeating it, Cloud and the others continue through the tunnel and reach the top of Gaea's Cliffs. They look over the edge at the crater and then start down the slope.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>An old crater...<boxstart/>Something fell out of the sky and crashed down here......<boxstart/>Leaving a scar on the planet. </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>So all this energy's gathered here for the planet to heal itself? </sp>
+	<sp><speaker name="Tifa">Tifa</speaker><boxstart/>So the planet has gathered all this energy here to heal itself? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>The energy of the planet is concentrated here.<boxstart/>It is slowly healing its old wound. </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Even I know what's going on. The energy's bein' gathered here to heal the gash. </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>It's trying to heal its wound by gathering all that energy here. </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>It's amassed a vast amount of energy to heal itself. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Damn, this's somethin'. It's gathered all that energy to try an' heal itself. </sp>
+
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent> took that energy and is trying to use Meteor.<boxstart/>Next time the wound won't be so small. </sp>
+<stage>They continue down the slope.</stage>
+<sp><speaker name="Clone">Clone</speaker><boxstart/>...b, back... to... Sep...... i... roth... </sp>
+<stage>Further down, they come to the edge of Whirlwind Maze.</stage>
+
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Tifa">Tifa</referent> is in the party...</sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/>The time has come to settle things with <referent name="Sephiroth">Sephiroth</referent>, huh? </sp>
+  <stage>Cloud nods.</stage>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/>I, too, have lost many things because of <referent name="Sephiroth">Sephiroth</referent>.<boxstart/>Let's go! </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/>If <referent name="Tifa">Tifa</referent> is not in the party...</sp>
+  <sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, wait for me!!<boxstart/>Please take me with you. You're going to have it out with Sephiroth, aren't you?<boxstart/>Because of <referent name="Sephiroth">Sephiroth</referent>, I, too, have lost many things, so please take me along.<boxstart/>Don't say no. Okay?...... </sp>
+  <sp><speaker name="Cloud">Cloud</speaker><boxstart/>It can't be helped...... </sp>
+  <stage>One of the others stays behind:</stage>
+  
+	  <sp><speaker name="Barret">Barret</speaker><boxstart/>The rest is up to you! </sp>
+	  <sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I'm going to call everyone. </sp>
+	  <sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Are you saying you don't like me? </sp>
+	  <sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I'll gather everybody, so you go on ahead. </sp>
+	  <sp><speaker name="Vincent">Vincent</speaker><boxstart/>Don't be caught off guard...... <referent name="Sephiroth">Sephiroth</referent> may be near. </sp>
+	  <sp><speaker name="Cid">Cid</speaker><boxstart/>Man, I sure am thankful. Wanna rest a while? </sp>
+  
+<stage>They move on through the maze. Reaching the first wind wall, Cloud looks up.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>That's......!!! </sp>
+
+<stage>Above them flies the Highwind, with a full compliment of Shinra executives.</stage>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>So, I finally found you. </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Kyaa haa hah.<boxstart/>Kyaa haa hah.<boxstart/>haa hah<boxstart/>haa......... hah<boxstart/>This is incredible...... </sp>
+<sp><speaker name="Heidegger">Heidegger</speaker><boxstart/>This is the Promised Land the President has been searching for!! </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>But, I'll be the one who gets it.<boxstart/>Sorry, old man. </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Heh heh heh......<boxstart/>That land is no one's.<boxstart/>It's where the Reunion will take place...... They will all gather here......<boxstart/>I wonder if we'll see...... <referent name="Sephiroth">Sephiroth</referent>? </sp>
+
+<stage>Back to Cloud and the first wind wall.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>We need to cross when the wind is calm, or we'll get swept off! </sp>
+<sp><speaker name="Clones">Clones</speaker><boxstart/>uph... Se... phi... roth...<boxstart/>wh-... who---a </sp>
+<stage>Beyond the first wind wall, a long trail of Sephiroth clones works its way towards the second wind wall. Beyond the second wall, Cloud comes upon Sephiroth attacking the clones.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>This is the end... for all of you. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>!!!<boxstart/>This is the end! </sp>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>You're right. This is the end of this body's usefulness. </sp>
+<stage>He disappears and the screen tints red.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>He disappeared!? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>He might still be nearby...... </sp>
+<sp>Our purpose is to deliver the Black materia to our master. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Our...? </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>He got away? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I feel something... danger? </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>I was just getting into it! </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Vanished?...That can't be! </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Stay on alert. You never know when <referent name="Sephiroth">Sephiroth</referent> might appear. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, hey,! What's goin' on? </sp>
+
+<sp>Those who carry Jenova's cells... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Master...!? </sp>
+<sp>Of course... Sephiroth.<boxstart/>Heh, heh, heh... </sp>
+<stage>Sephiroth leaps down and knocks them all to the ground. Cloud slowly gets to his feet, and they enter a battle with Jenova∙DEATH. Afterwards, the Black Materia is left lying on the ground.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Jenova's cells...<boxstart/>...hmm. So that's what this is all about.<boxstart/>The Jenova Reunion... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Not Sephiroth!? You mean all this time it wasn't <referent name="Sephiroth">Sephiroth</referent> we've been after? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I'll explain later. Right now, the only thing I'm thinking about is beating <referent name="Sephiroth">Sephiroth</referent>. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>But <referent name="Sephiroth">Sephiroth</referent> is...... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>He's here. The real <referent name="Sephiroth">Sephiroth</referent> is just beyond here.<boxstart/>It's both incredibly wicked and cruel...<boxstart/>But it's releasing a powerfully strong will from deep within this planet's wound. </sp>
+<stage>He walks forward to pick up the Black Materia.</stage>
+<sp><boxstart/>...The Black Materia is back in our hands.<boxstart/>Now all we have to do is defeat <referent name="Sephiroth">Sephiroth</referent> and that'll be the end of it. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>We'd better not take the Black Materia any further. Why don't you give it to someone else to hold on to? </sp>
+
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>What's happening, <referent name="Cloud">Cloud</referent>? That wasn't <referent name="Sephiroth">Sephiroth</referent>! </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>What!? You mean that wasn't <referent name="Sephiroth">Sephiroth</referent>? All that time I was following this... thing? </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You serious!? That's not <referent name="Sephiroth">Sephiroth</referent>! </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>You mean... we weren't in pursuit of <referent name="Sephiroth">Sephiroth</referent>...? </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Hoo-boy... </sp>
+
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>I don't want anything to do with that Black Materia! </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>No, not the Black materia, please. </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>How about if you hold on to the Black Materia? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I don't think I can... </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Me and Black Materia just don't mix. </sp>
+
+  <sp><speaker name="Cloud"/><boxstart/><referent name="Cloud">Cloud</referent> gives the Black Materia to <referent name="Barret">Barret</referent>.</sp>
+  <sp><speaker name="Barret">Barret</speaker><boxstart/>Damn, man! ...Pressure's on now. </sp>
+
+
+  <sp><speaker name="Cloud"/><boxstart/><referent name="Cloud">Cloud</referent> gives the Black Materia to <referent name="Nanaki">Nanaki</referent>.</sp>
+  <sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>You want me to take the Black Materia? ......all right, I understand. </sp>
+
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Don't give it to ANYONE. I'm counting on you. </sp>
+<sp><speaker name="Barret">Barret</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>...... What a damn crazy #*&amp;^%. </sp>
+<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cloud">Cloud</referent>, be careful! </sp>
+<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Shouldn't we hurry? The real <referent name="Sephiroth">Sephiroth</referent> is still close, right? </sp>
+<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Something feels rea---lly weird here! </sp>
+<sp><speaker name="Vincent">Vincent</speaker><boxstart/>You never know when <referent name="Sephiroth">Sephiroth</referent> may show up... so don't let your guard down. </sp>
+<sp><speaker name="Cid">Cid</speaker><boxstart/>Let me catch some shut-eye. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Let's find <referent name="Sephiroth">Sephiroth</referent>!! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>We're going in first! You guys stay and keep watch. </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>I'll take care of the Black Materia. No matter what happens, I'll be right here. </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I'll protect the Black Materia no matter what! </sp>
+
+<stage>Cloud moves on past the final wind wall and suddenly everything goes white.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>What is this? What happened? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Calm down, <referent name="Tifa">Tifa</referent>.<boxstart/><referent name="Sephiroth">Sephiroth</referent> is near. Anything could happen. </sp>
+<stage>The surroundings change to Nibelheim. Cloud and the others stand at its gates.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Nibelheim... </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Why Nibelheim!? Are you high on Mako or something? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>But, why!? A dream? An illusion? </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>But why Nibelheim? This is freaky, REALLY freaky! </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>But <referent name="Tifa">Tifa</referent>! Isn't this an illusion? </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>...Why...... is it an illusion? </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>What the hell? Why Nibelheim!? </sp>
+
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>This is an illusion <referent name="Sephiroth">Sephiroth</referent> made up.<boxstart/>He's trying to confuse us.<boxstart/>It'll be all right. As long as we know it's an illusion, there's nothing to be afraid of.<boxstart/>Come on, let's keep going. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Yeah, you're right...<boxstart/>Look!! </sp>
+<stage>They turn around and run aside as Sephiroth walks up to the gates. He turns to someone behind him.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>All right, let's go. </sp>
+<stage>Two soldiers and a man with spiky black hair follow Sephiroth into Nibelheim.</stage>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>That ain't <referent name="Cloud">Cloud</referent>... The hell is he? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cloud">Cloud</referent>'s not here... I wonder who...... this is...? </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Huh---! <referent name="Cloud">Cloud</referent>'s not here. </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, something's strange here. Who is this guy? </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>...It's not <referent name="Cloud">Cloud</referent>. Who is this man? </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/><referent name="Cloud">Cloud</referent>'s not here...... </sp>
+
+<stage>Tifa shakes her head, and the others turn to look at her.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Stop... <referent name="Sephiroth">Sephiroth</referent>. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>This is so stupid... </sp>
+<stage>A flash, and Sephiroth and the others vanish.</stage>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>How the hell're we gonna get outta here? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Is this illusion going to continue forever? How do we get out of it? </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>I don't want to be in an illusion. Let's get back to the real world! </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Come on, we have to hurry back to the real world! </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>Now, how can we get out of here...? </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>Hey, <referent name="Cloud">Cloud</referent>. Let's get back to the real world, huh. </sp>
+
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... It's just an illusion.<boxstart/>Don't worry about it... </sp>
+<stage>Another flash of white.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What's... next? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Stop it already!! </sp>
+<stage>A burning Nibelheim fades into view.</stage>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>This is bad... Just like Corel. </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>This is terrible... Did <referent name="Sephiroth">Sephiroth</referent> do this? </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>Wow...... I didn't know it was THIS bad... </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>This is insane... </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>...All this... while I was sleeping... </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>This is terrible... </sp>
+
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...This is what actually happened five years ago.<boxstart/>But...<boxstart/>It's probably not me that's going to come out of the Shinra mansion.<boxstart/>He's going to try and show us another stupid illusion. </sp>
+<stage>The black-haired SOLDIER runs out of the mansion.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>See... didn't I tell you? </sp>
+<stage>The SOLDIER shakes his head and walks closer to the burning buildings.</stage>
+<sp><speaker name="Zangan">Zangan</speaker><boxstart/>Hey it's you! You're still sane, right? </sp>
+<stage>The SOLDIER nods.</stage>
+<sp><speaker name="Zangan">Zangan</speaker><boxstart/>Then come over here and help me! </sp>
+<stage>The SOLDIER runs over to help Zangan.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>I don't want to... watch this. <referent name="Cloud">Cloud</referent>... don't watch. </sp>
+<sp><speaker name="Zangan">Zangan</speaker><boxstart/>I'll check this house. You check that one over there! </sp>
+<stage>He runs into one of the houses.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...What's wrong, <referent name="Tifa">Tifa</referent>? I told you before, right?<boxstart/>As long as we know that it's just an illusion, there's no need to be scared. </sp>
+<stage>The screen goes white and Cloud and the others find themselves in the midst of the burning town square. Nearby, the man with the camera lies motionless.</stage>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Hey, you awright!?<boxstart/>Damn! This was an illusion. </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>You all right!!<boxstart/>We were in an illusion... </sp>
+	<sp><speaker name="Yuffie">Yuffie</speaker><boxstart/>He... hey, you! You alright!?<boxstart/>Oh, a dream! But it felt so real... </sp>
+	<sp><speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Everyone Ok?<boxstart/>Umm...this was a hallucination. </sp>
+	<sp><speaker name="Vincent">Vincent</speaker><boxstart/>...You all right?<boxstart/>Hmm... it was an illusion. </sp>
+	<sp><speaker name="Cid">Cid</speaker><boxstart/>He...hey you!<boxstart/>You alright!? </sp>
+
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>! I know you're listening! I know what you want to say!<boxstart/>That I wasn't in Nibelheim five years ago.<boxstart/>That's it, isn't it? </sp>
+<stage>A flash, and Sephiroth appears before them.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>I see you finally understand. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What you are trying to say is that you want to confuse me, right?<boxstart/>But... even making me see those things won't affect me.<boxstart/>I remember it all. The heat of the fire... the pain in my body... and in my heart! </sp>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Oh, is that so?<boxstart/>You are just a puppet... You have no heart... and cannot feel any pain...<boxstart/>How can there be any meaning in the memory of such a being?<boxstart/>What I have shown you is reality. What you remember, that is the illusion. </sp>
+<sp><speaker name="Everyone">Everyone</speaker><boxstart/><referent name="Cloud">Cloud</referent>... </sp>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...Do you understand? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I don't want to understand.<boxstart/>But, I want to ask you one thing. Why... why are you doing this? </sp>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Ha, ha, ha......<boxstart/>I want to take you back to your real self.<boxstart/>The one who gave me the Black Materia that day...<boxstart/>Who would have ever thought a failed experiment would prove so useful?<boxstart/>Hojo would die if he knew. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Hojo!? What does he have to do with me!? </sp>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Five years ago you were...<boxstart/>...constructed by Hojo, piece by piece, right after Nibelheim was burnt.<boxstart/>A puppet made up of vibrant Jenova cells, her knowledge, and the power of Mako.<boxstart/>An incomplete <referent name="Sephiroth">Sephiroth</referent>-clone. Not even given a number. ...That is your reality.<boxstart/>Ha, ha, ha...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... Don't listen to him...<boxstart/>Close your ears! Close your eyes! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What's wrong, <referent name="Tifa">Tifa</referent>? I'm not affected by it.<boxstart/>...I wasn't paying attention to him. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>All that talk of Hojo constructing you is a lie.<boxstart/>Don't we have our memories together?<boxstart/>Being kids together, starlit nights... </sp>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Ha, ha, ha... <referent name="Tifa">Tifa</referent>...<boxstart/>Why are you so worried and scared by those words?<boxstart/>Hmm... Shall I show everyone here what's in your heart? </sp>
+<stage>Tifa turns away from both him and Cloud.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Ha, ha, ha... You look like you're not feeling well. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...<referent name="Tifa">Tifa</referent>? Is <referent name="Sephiroth">Sephiroth</referent> right? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Why are you so scared? Don't worry about me. I'm all right.<boxstart/>No matter how confused I am, I'll never believe a word that <referent name="Sephiroth">Sephiroth</referent> says.<boxstart/>It's true that sometimes I can't figure out who I am.<boxstart/>There's a lot of things muddled up in my memories.<boxstart/>But, <referent name="Tifa">Tifa</referent>......<boxstart/>But you said, 'Long time no see, Cloud' right?<boxstart/>Those words will always support me.<boxstart/>I am the one you grew up with. I'm <referent name="Cloud">Cloud</referent> of Nibelheim.<boxstart/>No matter how much I lose faith in myself, that is the truth.<boxstart/>That's why you shouldn't be so scared.<boxstart/>No matter what anyone else says to me, it's your attitude that counts... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>No, that's not true, <referent name="Cloud">Cloud</referent>...... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>What's not? Aren't I the same <referent name="Cloud">Cloud</referent> you grew up with? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>That's not what I mean... I don't know how to say it...<boxstart/><referent name="Cloud">Cloud</referent>, I need some time... Just give me a little time... </sp>
+<stage>A flash and Sephiroth appears beyond the fire.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Cloud... Don't blame Tifa.<boxstart/>The ability to change one's looks, voice, and words, is the power of Jenova.<boxstart/>Inside of you, Jenova has merged with Tifa's memories, creating you.<boxstart/>Out of <referent name="Tifa">Tifa</referent>'s memory......<boxstart/>A boy named <referent name="Cloud">Cloud</referent> might've just been a part of them. </sp>
+<stage>He disappears in another flash.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...<boxstart/>Please... don't think right now. </sp>
+<stage>Sephiroth reappears closer to them.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>Ha, ha, ha...... Think, Cloud!<boxstart/>...<referent name="Cloud">Cloud</referent>? Ha, ha, ha...... Oh, excuse me. You never had a name... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Shut up... <referent name="Sephiroth">Sephiroth</referent>. </sp>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>You still don't understand? Then... </sp>
+<stage>He turns away and laughs.</stage>
+<sp><boxstart/>Do you remember the picture that we took before we headed for Mt. Nibel?<boxstart/>...<referent name="Tifa">Tifa</referent>, you remember, right?<boxstart/>But there is no way he would know.<boxstart/>Now... what happened to that picture? </sp>
+<stage>He walks over to the motionless camera man.</stage>
+<sp><boxstart/>......is this it?<boxstart/>...Do you want to see it? It turned out pretty good. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... don't... </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I... should be in the picture.<boxstart/>Even if I'm not in there, no worry. This is just an illusory world <referent name="Sephiroth">Sephiroth</referent> made up. </sp>
+<stage>Cloud walks over to look at the photo. The black-haired SOLDIER is standing where Cloud should have been.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...Just as I thought.<boxstart/>This picture's a fake. The truth is in my memory.<boxstart/>...Five years ago, I came back to Nibelheim, to inspect the reactor. I was sixteen.<boxstart/>The town hadn't changed at all. What did I do...? Oh yeah...<boxstart/>I saw my mom. I saw the people in town.<boxstart/>Yeah, I went to Tifa's room. There, I...<boxstart/>I played the piano!<boxstart/>I looked in the drawers!<boxstart/>I read the letter addressed to <referent name="Tifa">Tifa</referent>!<boxstart/>I spent the night and went to the reactor in Mt. Nibel. I was excited about it.<boxstart/>Because that was my first mission after becoming First Class in SOLDIER. </sp>
+<stage>Flash.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...SOLDIER, First Class? </sp>
+<stage>He shakes his head.</stage>
+<sp><boxstart/>...SOLDIER? When did I enter SOLDIER? </sp>
+<stage>He clutches his head.</stage>
+<sp><boxstart/>How did I join SOLDIER? </sp>
+<stage>He falls to his knees.</stage>
+<sp><boxstart/>Why... why can't I remember?<boxstart/>I'm... I'm... </sp>
+<stage>He gets back to his feet.</stage>
+<sp><boxstart/>That's right...<boxstart/>...I didn't have to worry about it, because I was... </sp>
+<stage>The screen fades to black.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>......<referent name="Cloud">Cloud</referent>? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Let's go, <referent name="Tifa">Tifa</referent>. I'm... I'm all right. </sp>
+
+<stage>Meanwhile, the Shinra have arrived at the center of the crater.</stage>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Wow!! That's amazing!<boxstart/>It's all Materia!! </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>The outside is rich with mako energy. The inside is a treasure trove of Materia. This truly is the Promised Land. </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>There is no such thing as the Promised Land. it's a legend... an old wives tale...... it's utterly ridiculous. </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>Everything's as I imagined it to be. Isn't it splendid?<boxstart/>It is that kind of dullness that makes you a second-rate scientist. </sp>
+<stage>The ground starts quaking.</stage>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>What's happening? </sp>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>It's coming from within the wall! Something's in there! It's moving! </sp>
+<stage>A huge eye in the wall opens and closes.</stage>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Weapon...<boxstart/>Then it really does exist... I didn't believe in it. </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>What does this mean? </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>...Weapon. Monsters created by the Planet.<boxstart/>It appears when the Planet is in danger, reducing everything to nothingness.<boxstart/>That's what was stated in Professor Gast's report. </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>I never saw that report... Where is it? </sp>
+<stage>Hojo taps his head.</stage>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Here, right here. </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>You keep a lot of things to yourself. </sp>
+
+<stage>Back with who Cloud left guarding the Black Materia...</stage>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Are <referent name="Cloud">Cloud</referent> and the others awright?<boxstart/>But what's up with that? One little piece of materia, destroying the planet... </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I wonder how <referent name="Cloud">Cloud</referent> and the others are...<boxstart/>It's hard to believe... such a small piece of materia is able to destroy the Planet... </sp>
+
+<stage>Suddenly the others disappear and the background becomes a roiling green.</stage>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>What the......?<boxstart/>The hell was that?<boxstart/>H, huh!?<boxstart/>Hey... Guys!<boxstart/>Where are we? Where did we end up? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>What the!?<boxstart/>Is everyone all right?<boxstart/>What's going on?<boxstart/>Where am I!? Don't leave me alone! </sp>
+
+<stage>Tifa comes running up.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Barret">Barret</referent>, you're here! I'm so glad!! </sp>
+<stage>Or:</stage>
+<sp><boxstart/><referent name="Nanaki">Nanaki</referent>, you're here! I'm so glad!! </sp>
+<stage>The background returns, but still no one else is there.</stage>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/><referent name="Tifa">Tifa</referent>!!<boxstart/>Something's weird here! It got pitch black all of a sudden, and everyone disappeared! </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Tifa">Tifa</referent>!!<boxstart/>Something is strange... Why was it dark all of a sudden and where is everybody? </sp>
+
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>Everyone's waiting! <referent name="Cloud">Cloud</referent>'s in trouble!<boxstart/>Please come. Help us!<boxstart/>Over there! </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Yea... yeah!<boxstart/>I don't know what's goin' on, but let's just get on with it. </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>R, right!<boxstart/>I'm not sure I understand... but I'll go if you want me to. </sp>
+
+<stage>Barret or Nanaki nods to Tifa and runs off in the indicated direction.</stage>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>......hee hee hee... And remember... </sp>
+<stage>Tifa's image morphs into Sephiroth.</stage>
+<sp><speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...the Black Materia! </sp>
+<stage>He disappears, and the others are visible again, lying unconscious.</stage>
+
+<stage>Back to the Shinra...</stage>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Mr. President... I've got a bad feeling about this place... </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>Hmm... maybe we should go back to our ship now.<boxstart/>We need to prepare for the inspection anyway. </sp>
+<stage>A flash, and Cloud his party appear among them.</stage>
+<sp><speaker name="Scarlet">Scarlet</speaker><boxstart/>Hey!!! Where did you come from? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>...don't know...<boxstart/>This place is going to get rough.<boxstart/>Better leave things to me and get out of here while you still can!! </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>Leave things to you? Hmph... I don't know what you mean. </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>This is where the Reunion is happening. Where everything begins and ends. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Hey! We're here to help you! </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>I'm here! I'm here to help you, <referent name="Cloud">Cloud</referent>! </sp>
+
+<stage>Cloud clutches his head and slowly walks towards Barret or Nanaki.</stage>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Thanks... <referent name="Barret">Barret</referent>. Where's the Black Materia? </sp>
+<stage>Or:</stage>
+<sp><boxstart/>Thanks... <referent name="Nanaki">Nanaki</referent>. Where's the Black Materia? </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>It's safe. I have it. </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>It's safe. I'm holding on to it. </sp>
+
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>I'll take it from here. Give me the... Black Materia. </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>You can't hear my voice? </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>You alright? </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Are you all right, <referent name="Cloud">Cloud</referent>? </sp>
+
+<stage>Cloud nods.</stage>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Okay then, here. Had a lot of pressure holding this thing. </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/>Then... here you go. I was a little apprehensive holding this thing. </sp>
+
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>No, don't!! Please stop, <referent name="Cloud">Cloud</referent>! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Thanks. ......leave the rest to me </sp>
+<stage>The screen goes white momentarily.</stage>
+<sp>Come on. The Black materia... </sp>
+<sp>Wait! Just a little longer! </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Everyone, thanks for everything. And... I'm sorry.<boxstart/>...Sorry.<boxstart/>...Sorry.<boxstart/>Especially you, Tifa. I'm really sorry.<boxstart/>You've been so good to me...... I don't know what to say...<boxstart/>I never lived up to being 'Cloud'.<boxstart/><referent name="Tifa">Tifa</referent>...... Maybe one day you'll meet the real '<referent name="Cloud">Cloud</referent>'. </sp>
+<stage>Tifa shakes her head and falls to her knees.</stage>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Ha, ha, ha... this is perfect!!!<boxstart/>It means that my experiment was a complete success.<boxstart/>What number were you? Huh? Where is your tattoo? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Professor Hojo... I don't have a number.<boxstart/>You didn't give me one because you said I was a failed experiment. </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>What the--? You mean only a failure made it here? </sp>
+<sp><speaker name="Cloud">Cloud</speaker><boxstart/>Professor... please give me a number. Please, Professor... </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Shut up, miserable failure... </sp>
+<stage>Cloud flies up into a tangle of branches above them.</stage>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>Who... was that? </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>...He's a Sephiroth-clone I created after the real Sephiroth died five years ago.<boxstart/>Jenova cells and Mako, with my knowledge and skills, have been combined with science and nature to bring him to life.<boxstart/>...I'm not wild about the failure part, but the Jenova Reunion Theory has now been proven.<boxstart/>You see, even if Jenova's body is dismembered, it will eventually become one again. That's what is meant by Jenova's Reunion.<boxstart/>I have been waiting for the Reunion to start. Five years have passed, and now the Clones have begun to return.<boxstart/>I thought the clones would begin to gather at Midgar where Jenova is stored.<boxstart/>But my predictions were not entirely correct. Jenova itself began to move away from the Shinra Building.<boxstart/>But being a genius that I am, I soon figured it out. You see it was all Sephiroth's doing.<boxstart/><referent name="Sephiroth">Sephiroth</referent> is not just content to diffuse his will into the Lifestream; he wants to manipulate the Clones himself. </sp>
+<sp>Yes, that was how it got started. </sp>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>I wondered where the clones were going, but I was never able to figure it out. </sp>
+<sp>I couldn't figure it out, either. </sp>
+<stage>Below, the third party member runs over to Tifa and helps her up.</stage>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>The one thing that I did know was that <referent name="Sephiroth">Sephiroth</referent> was at their final destination. </sp>
+<sp>I wasn't pursuing Sephiroth.<boxstart/>I was being summoned by <referent name="Sephiroth">Sephiroth</referent>.<boxstart/>All the anger and hatred I bore him, made it impossible for me to ever forget him. That and what he gave me. </sp>
+<stage>Cloud stands.</stage>
+<sp>Sephiroth? Sephiroth? I'm here. And I brought you the Black materia.<boxstart/>Show yourself to me. Where are you?<boxstart/><referent name="Sephiroth">Sephiroth</referent>... So we finally meet again. </sp>
+<stage>At the center of the tangle of branches, Sephiroth's body is encased in a huge crystal, his eyes closed.</stage>
+<sp><speaker name="Hojo">Hojo</speaker><boxstart/>Did you see it!! It's Sephiroth! So he IS here!<boxstart/>This is perfect! Both Jenova's Reunion and <referent name="Sephiroth">Sephiroth</referent>'s will!<boxstart/>They won't be diffused into the Lifestream,<boxstart/>but gathered here! Mwa, haa, ha,...... </sp>
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/>What are you so happy about, Professor? You know what this means, don't you?<boxstart/><referent name="Cloud">Cloud</referent> has the Black Materia!<boxstart/><referent name="Sephiroth">Sephiroth</referent> is going to summon Meteor! Every single person is going to die! </sp>
+<sp><speaker name="Rufus">Rufus</speaker><boxstart/>Whatever I say now is too little... too late...... We must evacuate.<boxstart/>I want you all to come with me. There is still much more I want to hear. </sp>
+
+	<sp><speaker name="Barret">Barret</speaker><boxstart/>Yo! <referent name="Cloud">Cloud</referent>! Stop! Knock it off! </sp>
+	<sp><speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cloud">Cloud</referent>, NO! Stop! Please! </sp>
+
+<sp><speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>------!! </sp>
+<stage>Cloud gives the Black Materia to Sephiroth. Below, the others run for the Highwind, leaving him behind, and the airship pulls away from the Northern Crater as the Planet's Weapons explode from hiding.</stage>
+<boxstart/>
+
+</scene>

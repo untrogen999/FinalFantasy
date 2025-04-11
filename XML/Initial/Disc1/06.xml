@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="FallOfThePillar">
+
+
+
+<h1>Sector 7 - Fall of the Pillar</h1>
+
+<h4><a href="#shinra">Conflicts at Shinra HQ</a></h4>
+<h4><a href="#pillar">Arrival at the Pillar</a></h4>
+<h4><a href="#playground">After the Pillar's Collapse</a></h4>
+<hr></hr>
+<p class="italic"><a name="shinra"></a>At Shinra Headquarters, President Shinra, Heidegger, and Reeve are meeting in the President's 70th floor office.</p>
+<p class="indent"><b>President Shinra</b><br/>How are the preparations going?</p>
+<p class="indent"><b>Heidegger</b><br/>Ha, ha, ha!! Smoothly, very smoothly! I assigned the Turks to this.</p>
+<p class="indent"><b>Reeve</b><br/>President!! Are we really going to do this? Simply destroy a group with only a few members...</p>
+<p class="indent"><b>President Shinra</b><br/>What's the problem, Reeve? You want out?</p>
+<p class="indent"><b>Reeve</b><br/>...No.<br/>But, as head of the Urban Development Department, I have been involved in the building and running of Midgar. That's why...</p>
+<p class="indent"><b>Heidegger</b><br/>Reeve, you should flush those personal problems in the morning!</p>
+<p class="indent"><b>Reeve</b><br/>The Mayor's against this anyway...</p>
+<p class="indent"><b>Heidegger</b><br/>Mayor?<br/>He just sits in this building all day feeding his face! You still call that a Mayor?<br/>Now if you'll excuse me sir!</p>
+<p class="italic">Heidegger walks out. Reeve almost starts after him, but stays put.</p>
+<p class="indent"><b>President Shinra</b><br/>You're tired. Why don't you take a couple of days off and go somewhere.</p>
+<p class="italic">Reeve looks at him, and then walks off.</p>
+<p class="indent"><b>President Shinra</b><br/>We'll destroy Sector 7 and report that AVALANCHE did it. Then we'll send in the rescue operation care of Shinra, Inc....<br/>Heh, heh, heh... this is perfect.</p>
+<hr></hr>
+<p class="italic">Having fallen through Don Corneo's trap door, Cloud, Aerith, and Tifa land in the sewers beneath Sector 6. Cloud goes to each of his companions in turn.</p>
+<p class="indent"><b>Cloud</b><br/>You alright?</p>
+<p class="indent"><b>Aerith</b><br/>Yeah.</p>
+<p class="indent"><b>Cloud</b><br/>You alright?</p>
+<p class="indent"><b>Tifa</b><br/>Man! This is terrible.</p>
+<p class="indent"><b>Aerith</b><br/>Well, the worst is over...</p>
+<p class="italic">There is a low growling noise.</p>
+<p class="indent"><b>Aerith</b><br/>Maybe not...</p>
+<p class="italic">The Don's pet monster, Aps, attacks them, but they fight and defeat it.</p>
+<p class="indent"><b>Tifa</b><br/>It's too late...... Marlene... Barret... the people of the Slums.</p>
+<p class="indent"><b>Aerith</b><br/>Don't give up, never give up hope. It's not easy to destroy the pillar, right?</p>
+<p class="indent"><b>Tifa</b><br/>.........Yeah...... you're right! We still have time.</p>
+<p class="italic">They make their way through the sewers, climbing out to find themselves in Sector 7's Train Graveyard.</p>
+<p class="indent"><b>Cloud</b><br/>Aerith. I got you mixed up in all of this...</p>
+<p class="indent"><b>Aerith</b><br/>Don't tell me to go home.</p>
+<p class="indent"><b>Tifa</b><br/>Let's see... If we can just get past the trains that are lit up, we should be able to get out of here.</p>
+<p class="italic">Winding their way through the abandoned trains, they make it to the all-but-deserted train station.</p>
+<p class="indent"><b>Station man</b><br/>I heard a rumor that the plate was going to fall, crushing this station, I've worked at so many years.<br/>But I just can't bear to leave here.</p>
+<p class="italic"><a name="pillar"></a>They run on past the station to the gated base of the pillar. A small crowd is gathered by the fence, and gunfire sounds from the staircase adjacent to the pillar.</p>
+<p class="indent"><b>Tifa</b><br/>We made it! The pillar's standing!</p>
+<p class="indent"><b>Cloud</b><br/>Wait! You hear something...... above us?</p>
+<p class="indent"><b>Aerith</b><br/>......gun fire?</p>
+<p class="italic">They look up and see Barret up at the very top of the stairs. Wedge is with him, but he falls from the platform to land near Cloud and the others. Everyone runs over.</p>
+<p class="indent"><b>Cloud</b><br/>Wedge!! You all right!?</p>
+<p class="indent"><b>Wedge</b><br/>......Cloud...... You remembered...... my name.<br/>Barret's up top. ...help him......<br/>An' Cloud... Sorry, I wasn't any help.</p>
+<p class="italic">Cloud shakes his head and stands.</p>
+<p class="indent"><b>Cloud</b><br/>I'm going up!<br/>Aerith! You look after Wedge.</p>
+<p class="indent"><b>Tifa</b><br/>Aerith, do me a favor.<br/>I have a bar called '7th Heaven' in this neighborhood.<br/>There's a little girl named Marlene there......</p>
+<p class="indent"><b>Aerith</b><br/>Don't worry. I'll put her somewhere safe.</p>
+<p class="italic">Tifa turns to the crowd.</p>
+<p class="indent"><b>Tifa</b><br/>It's dangerous here!<br/>Everyone get away from the pillar, quickly!<br/>Everyone get out of Sector 7!</p>
+<p class="italic">Everyone disperses but no one leaves the area.</p>
+<p class="indent"><b>Aerith</b> (crouching next to Wedge)<br/>Don't worry. You let me handle this.</p>
+<p class="indent"><b>Soldier 2</b><br/>L, look... This is my job, so I have to be here until the absolute last minute.</p>
+<p class="indent"><b>Redhead</b><br/>Umm... I just LOVE men with a sense of duty. Let me stay here with you.</p>
+<p class="indent"><b>Shopkeeper</b><br/>Uh oh...... There goes the pillar.<br/>I'm scared, but it's for your own good.<br/>If things get too hairy, we'll escape. It's not something you'll see happen too often.</p>
+<p class="indent"><b>Man by Fence</b><br/>Uhh...... Help! My strange and wonderful little place.</p>
+<p class="indent"><b>Soldier 1</b><br/>Doh! And this was supposed to be my last job! Do something!!<br/>I never thought this would ever happen to me! Great... I'm quitting tomorrow!</p>
+<p class="italic">If Cloud tries to leave the area...</p>
+<p class="indent"><b>Tifa</b><br/>Cloud!! You've gotta go now, or Barret's...</p>
+<p class="italic">Cloud and Tifa climb the staircase, running into Biggs and Jessie, both wounded, along the way.</p>
+<p class="indent"><b>Biggs</b><br/>Cloud... so you don't care... what happens... to the... Planet?</p>
+<p class="indent"><b>Cloud</b><br/>- Nope, not interested<br/>- You're wounded......</p>
+<div class="block"/>
+  <p><span class="highlight">Nope, not interested</span></p>
+  <p class="indent-nopad"><b>Biggs</b><br/>Hmph... you haven't changed. Oh, forget it.</p>
+
+<div class="block"/>
+  <p><span class="highlight">You're wounded......</span></p>
+  <p class="indent-nopad"><b>Biggs</b><br/>Thanks, Cloud.<br/>...don't worry 'bout me...... Barret's... fighting up there. Go help him...</p>
+
+<p class="indent"><b>Jessie</b><br/>...Cloud... I'm glad...... I could talk with you... one last time.</p>
+<p class="indent"><b>Cloud</b><br/>- Don't say 'last'......<br/>- Is that so...</p>
+<div class="block"/>
+  <p><span class="highlight">Don't say 'last'......</span></p>
+  <p class="indent-nopad"><b>Jessie</b><br/>That's... all right...<br/>Because... of our actions... many...... people died...... this probably...... is our punishment...</p>
+
+<div class="block"/>
+  <p><span class="highlight">Is that so...</span></p>
+  <p class="indent-nopad"><b>Jessie</b><br/>...Is... that so......?<br/>Ha...... cool...... as usual... ex-...SOLDIER. ...always... I liked that... in you...</p>
+
+<p class="italic">Cloud and Tifa reach the top of the pillar to join Barret.</p>
+<p class="indent"><b>Barret</b><br/>Tifa! Cloud! You came!<br/>Be careful! They're attacking from the helicopter.</p>
+<p class="indent"><b>Tifa</b><br/>Better equip ourselves before they attack in full force!<br/>Here they come!</p>
+<p class="italic">The helicopter passes overhead, and Barret fires at it. Reno jumps down and runs over to the control panel.</p>
+<p class="indent"><b>Reno</b><br/>You're too late. Once I push this button...</p>
+<p class="italic-inline">He pushes it.</p>
+<p class="block-inline">That's all, folks! Mission accomplished.</p>
+<p class="indent"><b>Tifa</b><br/>We have to disarm it! Cloud! Barret! Please!</p>
+<p class="indent"><b>Reno</b><br/>I can't have you do that. No one gets in the way of Reno and the Turks...</p>
+<p class="italic">They enter a battle with Reno, who casts his Pyramid spell on someone.</p>
+<p class="indent"><b>Reno</b><br/>Try and break it if you can.</p>
+<p class="italic">The fight continues until Reno checks his watch.</p>
+<p class="indent"><b>Reno</b><br/>It's time.</p>
+<p class="italic">Reno runs past Tifa and jumps from the platform. Tifa runs to the controls.</p>
+<p class="indent"><b>Barret</b><br/>DAMN! It's a time bomb!</p>
+<p class="indent"><b>Tifa</b><br/>Cloud! I don't know how to stop this. Try it!</p>
+<p class="indent"><b>Cloud</b><br/>...It's not a normal time bomb.</p>
+<p class="italic">The helicopter rises up from below with Tseng of the Turks on its side rig and Aerith behind him.</p>
+<p class="indent"><b>Tseng</b><br/>That's right. You'll have a hard time disarming that one.<br/>It'll blow the second some stupid jerk touches it.</p>
+<p class="indent"><b>Tifa</b><br/>Please, stop it!</p>
+<p class="indent"><b>Tseng</b><br/>Ha ha ha......<br/>Only a Shinra Executive can set up or disarm the Emergency Plate Release System.</p>
+<p class="indent"><b>Barret</b><br/>Shut yer hole!</p>
+<p class="italic">He fires at Tseng, but the attack proves ineffective.</p>
+<p class="indent"><b>Tseng</b><br/>I wouldn't try that...... You just might make me injure our special guest.</p>
+<p class="italic">Aerith lifts her head.</p>
+<p class="indent"><b>Tifa</b><br/>Aerith!!</p>
+<p class="indent"><b>Tseng</b><br/>Oh, you know each other?<br/>How nice you could see each other one last time. You should thank me.</p>
+<p class="indent"><b>Cloud</b><br/>What are you gonna do with Aerith!?</p>
+<p class="indent"><b>Tseng</b><br/>I haven't decided.<br/>Our orders were to find and catch the last remaining Ancient.<br/>It's taken us a long time, but now I can finally report this to the President.</p>
+<p class="indent"><b>Aerith</b> (leaning forward)<br/>Tifa, don't worry! She's all right!</p>
+<p class="italic">Tseng turns and slaps Aerith, and she falls back.</p>
+<p class="indent"><b>Tifa</b><br/>Aerith!</p>
+<p class="indent"><b>Aerith</b><br/>Hurry and get out!</p>
+<p class="indent"><b>Tseng</b><br/>Ha, ha, ha... Well, it should be starting right about now. Think you can escape in time?</p>
+<p class="italic">The helicopter flies off just as the first explosions go off and the pillar starts to come apart.</p>
+<p class="indent"><b>Tifa</b><br/>Once that Plate starts coming down it'll be too late. We gotta hurry!</p>
+<p class="italic">They all spend a few moments frantically looking for an escape route, and then Barret jumps over to a cable attached to the platform.</p>
+<p class="indent"><b>Barret</b><br/>Yo, we can use this wire to get out!</p>
+<p class="italic">They all climb onto the cable and swing out as the plate comes crashing down behind them.</p>
+<hr></hr>
+<p class="italic"><a name="playground"></a>Cloud, Tifa, and Barret land in the Sector 6 playground, now littered with smoking debris from Sector 7. They stand and walk slowly to the gate that once led to Sector 7.</p>
+<p class="indent"><b>Barret</b><br/>Marlene! MARLENE!<br/>MAR---LE---NE!!<br/>Biggs!<br/>Wedge!!<br/>Jessie!!<br/>Goddamnit!<br/>Damnit!<br/>DAMN IT ALL TO HELL!!<br/>What the hell's it all for!?<br/>ARGGHHHH!!!</p>
+<p class="indent"><b>Cloud</b><br/>Hey, Barret!</p>
+<p class="indent"><b>Tifa</b><br/>Barret!</p>
+<p class="indent"><b>Barret</b><br/>ARGGHHHH!!!</p>
+<p class="italic">Cloud and Tifa run over to him.</p>
+<p class="indent"><b>Cloud</b><br/>Hey!</p>
+<p class="indent"><b>Tifa</b><br/>Barret, stop... Please stop, Barret.</p>
+<p class="indent"><b>Barret</b><br/>URGHHHH!!!</p>
+<p class="italic-inline">He fires several rounds at the rubble, then falls to his knees.</p>
+<p class="block-inline">God damn...</p>
+<p class="italic">Some time passes... Having settled down some, Barret is seated near the slide, and Cloud and Tifa stand nearby.</p>
+<p class="indent"><b>Barret</b><br/>Marlene...</p>
+<p class="indent"><b>Tifa</b><br/>......... Barret......?<br/>Marlene is... I think Marlene is safe.</p>
+<p class="indent"><b>Barret</b><br/>......huh?</p>
+<p class="indent"><b>Tifa</b><br/>Right before they took Aerith, she said, "Don't worry, she's all right." She was probably talking about Marlene.</p>
+<p class="italic">Barret gets to his feet.</p>
+<p class="indent"><b>Barret</b><br/>R, really!?</p>
+<p class="indent"><b>Tifa</b><br/>But...</p>
+<p class="indent"><b>Barret</b><br/>Biggs...... Wedge... Jessie......</p>
+<p class="indent"><b>Cloud</b><br/>All three of them were in the pillar.</p>
+<p class="indent"><b>Barret</b><br/>Think I don't know that?<br/>But... we, all of us fought together.<br/>I don't wanna think of them as dead!</p>
+<p class="indent"><b>Tifa</b><br/>...and the other people in Sector 7.</p>
+<p class="indent"><b>Barret</b><br/>This is all screwed up!<br/>They destroyed an entire village just to get to us! They killed so many people...</p>
+<p class="indent"><b>Tifa</b><br/>...are you saying it's our fault? Because AVALANCHE was here? Innocent people lost their lives because of us?</p>
+<p class="indent"><b>Barret</b><br/>No, Tifa!<br/>That ain't it! Hell no!!<br/>It ain't us! It's the damn Shinra! It's never been nobody but the Shinra!<br/>They're evil and destroyin' our planet just to...<br/>build their power and line their own damn pockets with gold!<br/>If we don't get rid of them, they're gonna kill this planet!<br/>Our fight ain't never gonna be over until we get rid of them!!</p>
+<p class="indent"><b>Tifa</b><br/>.........I don't know.</p>
+<p class="indent"><b>Barret</b><br/>What don't you know!? You don't believe me?</p>
+<p class="indent"><b>Tifa</b><br/>It's not that. I'm not sure about... me. My feelings.</p>
+<p class="indent"><b>Barret</b><br/>An' what about you?</p>
+<p class="indent"><b>Cloud</b><br/>.........</p>
+<p class="italic">Cloud walks off towards Sector 5 without answering.</p>
+<p class="indent"><b>Barret</b><br/>Yo!<br/>Where's he think he's goin'?</p>
+<p class="indent"><b>Tifa</b><br/>Oh! Aerith!</p>
+<p class="indent"><b>Barret</b><br/>Oh yeah, that girl. What's up with her?</p>
+<p class="indent"><b>Tifa</b><br/>...I don't really know... But she's the one I left Marlene with.</p>
+<p class="indent"><b>Barret</b><br/>Damn! Marlene!!</p>
+<p class="italic">Barret starts after Cloud, but stops when Tifa doesn't follow immediately.</p>
+<p class="indent"><b>Barret</b><br/>Tifa. There ain't no turnin' back now.</p>
+<p class="italic">He turns and runs after Cloud. Tifa follows with a glance back over her shoulder. Up ahead, Cloud is making his way through Sector 6.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud!</p>
+<p class="italic">Cloud stops to let Tifa and Barret catch up.</p>
+<p class="indent"><b>Barret</b><br/>Take me to Marlene!</p>
+<p class="indent"><b>Tifa</b><br/>You're going to help Aerith?</p>
+<p class="indent"><b>Cloud</b><br/>Yeah... But before that, there's something I want to know.</p>
+<p class="indent"><b>Tifa</b><br/>What's that?</p>
+<p class="indent"><b>Cloud</b><br/>...it's about the Ancients.</p>
+<p class="italic">The screen goes black momentarily.</p>
+<p class="block-grey">In my veins courses the blood of the Ancients. I am one of the rightful heirs to this planet!</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth...?</p>
+<p class="italic-inline">He falls to one knee.</p>
+<p class="indent"><b>Tifa</b><br/>Are you all right?</p>
+<p class="indent"><b>Barret</b><br/>Pull it together, man!</p>
+
+
+</scene>

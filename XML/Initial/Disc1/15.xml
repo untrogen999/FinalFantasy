@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="Corel">
+
+
+
+<h1>Corel - Garbage Dump of a Town</h1>
+
+<h4><a href="#mountains">Corel Mountains</a></h4>
+<h4><a href="#corel">North Corel</a></h4>
+<h4><a href="#ropeway">The Ropeway</a></h4>
+<hr></hr>
+<p class="italic"><a name="mountains"></a>Cloud the others make their way through the Corel Mountains. On the way up Mt. Corel, they run across an old man.</p>
+<p class="indent"><b>Old Man</b><br/>Whew!!<br/>Hey!<br/>You're actually talking to me.</p>
+<p class="indent"><b>Cloud</b><br/>What is it?</p>
+<p class="indent"><b>Old Man</b><br/>I just passed a guy in a black cloak back there.<br/>I just tried to tell him that it's dangerous up ahead, and he ignored me!</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>............ahh.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>There was a black-cloaked guy here, too?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Let's hurry on.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Hmm...... I'm moving on ahead...</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Oh gawd, what a drag!!</p>
+</blockquote>
+<p class="indent"><b>Old Man</b><br/>It's dangerous up ahead. Be careful on your way.<br/>If any strangers should greet you warmly while traveling, make sure to greet them back.<br/>Whew! I guess that's the fun of being on the road.</p>
+<p class="italic">Cloud and his party continue up Mt. Corel and on past the Mako reactor. They follow the train tracks through the mountains and find the others gathered near a raised bridge.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Aerith</b><br/>Cloud!!<br/>I was just wishing you were here!<br/>Unless someone lets down the bridge, we're stuck.<br/>Cloud should be able to do something.<br/>But let's take a breather first.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>OH!! Cloud! That's it!<br/>We can't go on until the bridge is let down.<br/>I think there's a switch in that shack over there...<br/>But there's too many monsters around and I'm beat...</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Wha? Oh, it's you.<br/>There seems to be an instrument in that hut that manipulates this bridge.<br/>Perhaps it's best if we rest a moment.</p>
+</blockquote>
+<p class="italic">An arrow appears, pointing to the shack and proclaiming, "The shack is here!! (^^);"</p>
+<p class="indent"><b>Aerith</b><br/>Come on, Cloud. Let's rest a minute.</p>
+<p class="indent"><b>Cloud</b><br/>Ok, then...<br/>- PHS<br/>- Let's move on!</p>
+<p class="indent"><b>Barret</b><br/>......whew!</p>
+<p class="indent"><b>Aerith</b><br/>I'm sure glad I'm with you, Cloud!</p>
+<p class="indent"><b>Tifa</b><br/>I'm beat...</p>
+<p class="indent"><b>Red XIII</b><br/>What...?</p>
+<p class="indent"><b>Yuffie</b><br/>I'm pooped!</p>
+<p class="italic">Cloud heads for the shack. If Aerith or Tifa are not in the party, they start jumping up and down as Cloud passes on the track above.</p>
+<p class="indent"><b>Aerith</b><br/>Oh, Cloud!! Good Luck!!</p>
+<p class="indent"><b>Tifa</b><br/>Cloud!! Go Cloud!! Go!!</p>
+<p class="italic">Further down, Cloud enters the tiny shack.</p>
+<p class="indent"><b>Cloud</b><br/>OW!! Sure is tight in here...<br/>Come on, Cloud, don't let it get to you. Let's see... this is it.<br/>Maybe if I turn this...<br/>...something should happen.<br/>- Do it<br/>- Leave it</p>
+<p class="italic">Cloud turns the switch, and the others run across the bridge to go on ahead. Climbing up from near the shack, the party finds a bird's nest full of Phoenix Down.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Haaeyy!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>How cute!!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Yes!! ...how cute.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Yeow! What a rock!!</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>huff... huff...</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>What should we do?<br/>- Take the damn treasure<br/>- Leave it where it is</p>
+<div class="block"/>
+  <p><span class="highlight">Take the damn treasure</span></p>
+  <p>Times are tough... I'm taking the treasure.</p>
+  <blockquote class="party-nopad">
+	  <p class="indent-nopad"><b>Barret</b><br/>Haeey!! Baaeby!!</p>
+	  <p class="indent-nopad"><b>Aerith</b><br/>Cloud......</p>
+	  <p class="indent-nopad"><b>Tifa</b><br/>Oh! Cloud! Your hair looks like a Chocobo!</p>
+	  <p class="indent-nopad"><b>Red XIII</b><br/>Glu... glug...!</p>
+	  <p class="indent-nopad"><b>Yuffie</b><br/>Come to mommy!!</p>
+  </blockquote>
+  <p class="italic">Cloud and the others fight the mother Cokatolis.</p>
+  <div class="highlight-nopad"/><p>Received 10 "Phoenix Down"!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Leave it where it is</span></p>
+  <p>...it's got nothing to do with us. Just forget about it.</p>
+  <blockquote class="party-nopad">
+	  <p class="indent-nopad"><b>Barret</b><br/>Haeey!! Baaeby!!</p>
+	  <p class="indent-nopad"><b>Aerith</b><br/>Cloud......</p>
+	  <p class="indent-nopad"><b>Tifa</b><br/>Right! That was admirable of you.</p>
+	  <p class="indent-nopad"><b>Red XIII</b><br/>Glu... glug...!</p>
+	  <p class="indent-nopad"><b>Yuffie</b><br/>You kiddin'?</p>
+  </blockquote>
+
+<p class="italic">They return to cross the bridge and move on. Inside a cave, there's a man lying in his bulldozer.</p>
+<p class="indent"><b>Man</b><br/>Hey! How'd you ever wind up around here?<br/>Look, I'm sorry but, I can't do a thing for you!<br/>Oh boy!! Corel sure has gone to pot. It used to be a famous coal mining town!<br/>They say there were more jobs than you could shake a...<br/>Well, you get the picture!<br/>Now, it's nothing but a miserable pit! Me, my bulldozer... everything's out of work.<br/>Got no job... I can't even show my face. 'Bout all that's left for me is to just live in this hole all day.</p>
+<p class="italic"><a name="corel"></a>The train tracks eventually dead-end into the camp of North Corel.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Barret is in the party...</span></p>
+  <p class="indent-nopad"><b>Man</b><br/>You, you're...<br/>Hey!! He's back!</p>
+  <p class="italic-inline-nopad">He runs off.</p>
+  <p class="indent-nopad"><b>Barret</b><br/>Wait here...</p>
+  <p class="italic">Barret walks over to where a trio of men have gathered. One of them punches him.</p>
+  <p class="indent-nopad"><b>Men</b><br/>Well, lookey here! Never thought I'd ever see your face again.<br/>Those people over there, they with you?<br/>Well, I feel sorry for 'em! Hangin' around a walkin' death sentence like Barret.</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Barret is not in the party...</span></p>
+  <p class="italic">Cloud and the others find him already accosted by the three men. One of them punches him.</p>
+  <p class="indent-nopad"><b>Men</b><br/>Well, lookey here! Never thought I'd ever see your face again.<br/>They kick you out of another town or somethin'?<br/>You destroy everything you touch.</p>
+
+<p class="indent"><b>Men</b><br/>You got a lot of balls comin' back here!<br/>Look at this place! It's all your fault North Corel turned into a garbage heap!<br/>Why doncha say something!?<br/>Or did ya forget what you done here already?</p>
+<p class="indent"><b>Barret</b><br/>...I'm sorry...</p>
+<p class="indent"><b>Man</b><br/>^%$#! You ain't even worth the effort.<br/>Don't waste your time talkin' to that Techno-freak!</p>
+<p class="italic">The three men nod and disperse. Barret walks back to the others.</p>
+<p class="indent"><b>Barret</b><br/>You heard 'em... It's my fault this town was... destroyed...</p>
+<p class="italic">They let it be and continue through the town.</p>
+<p class="indent"><b>Big Man</b><br/>YOU know who's responsible for North Corel winding up like this!</p>
+<p class="indent"><b>Man</b><br/>Get out of the way!!<br/>The only way we can make ends meet around here now is by collecting junk!</p>
+<p class="italic">Inside a tent...</p>
+<p class="indent"><b>Old Man</b><br/>The next train's coming in soon.</p>
+<p class="indent"><b>Black Woman</b><br/>Grandpa used to be a Coal Train engineer.<br/>He still can't kick his old habits from then.</p>
+<p class="italic">Inside another tent...</p>
+<p class="indent"><b>Man</b><br/>I want to leave this garbage dump of a town behind me, and start a new life.<br/>If I had a buggy, I'd cross the southern desert, and go to that town across the river...</p>
+<p class="indent"><b>Woman</b><br/>Everyone knows that accident couldn't have been avoided.<br/>But no one will be satisfied until someone takes the blame.</p>
+<p class="indent"><b>Kid</b><br/>There was something glowing in that well over there.<br/>If I can get my hands on it, I'm gonna sell it and go to the Gold Saucer!</p>
+<p class="indent"><b>Tool Shopkeeper</b><br/>Please buy something! Anything will do!</p>
+<p class="indent"><b>General Store Shopkeeper</b><br/>What do you want?</p>
+<p class="indent"><b>Cloud</b><br/>- Buy<br/>- Listen to your story<br/>- Not interested</p>
+<p class="indent"><b>General Store Shopkeeper</b> (when asked for a story)<br/>Take that road on the left to the Ropeway station!<br/>The Ropeway'll take you to the Gold Saucer.<br/>It don't mean much to us poor folks though...</p>
+<p class="indent"><b>Weapon Shopkeeper</b><br/>If you want to survive, then you're gonna need some of my weapons.</p>
+<p class="italic">In the house made of scrap...</p>
+<p class="indent"><b>Man</b><br/>How am I supposed to continue living in a town that's lost everything...?<br/>To hell with the Mako reactor!</p>
+<p class="indent"><b>Woman</b><br/>Because of them...... ugh. My husband got into that accident... He used to be such a strong man...</p>
+<p class="indent"><b>Little Girl</b><br/>Yaaay!! What do you wanna play?</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Man in Hardhat</b><br/>I hear it's a big fad now in the city to get tattoos. Is that right?</p>
+<p class="indent"><b>Cloud</b><br/>- I wouldn't know<br/>- That's right</p>
+<div class="block"/>
+  <p><span class="highlight">I wouldn't know</span></p>
+  <p class="indent-nopad"><b>Man in Hardhat</b><br/>Really...? I saw a big '1' on the arm of a young guy heading towards the Ropeway. That Black Cape he had on was really cool.</p>
+
+<div class="block"/>
+  <p><span class="highlight">That's right</span></p>
+  <p class="indent-nopad"><b>Man in Hardhat</b><br/>I guess I should get a '0' tattoo! For a poor man like me, '0' oughtta be perfect.</p>
+
+<p class="italic"><a name="ropeway"></a>Cloud the others continue to the ropeway station.</p>
+<p class="indent"><b>Aerith</b><br/>Barret, what happened?</p>
+<p class="indent"><b>Barret</b><br/>Sorry.</p>
+<p class="indent"><b>Cloud</b><br/>What happened?</p>
+<p class="indent"><b>Barret</b><br/>My hometown used to be around here.</p>
+<p class="indent"><b>Red XIII</b><br/>What do you mean 'used to'?</p>
+<p class="indent"><b>Barret</b><br/>It ain't here no more. Heard it got buried... in just 4 years.</p>
+<p class="indent"><b>Aerith</b><br/>But how could those people say those terrible things?</p>
+<p class="indent"><b>Barret</b><br/>An' it's my fault. ALL my fault.</p>
+<div class="highlight"/><p class="italic">Flashback to the town of Corel. A Shinra soldier stands guard outside the Mayor's house as townspeople hurry inside.</p>
+<p class="indent-nopad"><b>Barret</b> (narrating)<br/>...My hometown, Corel's always been a coal mining town.<br/>It's so dusty, but calm and so poor...... a real small town, this one.<br/>That's the first time I ever heard the word "Mako Reactor" mentioned since that time...</p>
+<p class="italic">Inside the house, a group of men are gathered. Scarlet and two Shinra employees stand before them.</p>
+<p class="indent-nopad"><b>Village Headman</b><br/>What are we going to do? The only one against this is Dyne...</p>
+<p class="italic">Dyne stands up.</p>
+<p class="indent-nopad"><b>Dyne</b><br/>I am definitely against it, no matter what. There's nothing to talk about if you're thinking of throwing away our coal!<br/>Our coal's been protected for generations. Our fathers, and theirs before them, risked their lives for it.<br/>We have no right to throw it all away so easily!</p>
+<p class="indent-nopad"><b>Barret</b><br/>But listen, Dyne. No one uses coal nowadays. It's the sign of the times.</p>
+<p class="indent-nopad"><b>Scarlet</b><br/>Right, everything is Mako, now.<br/>It'll be all right, Dyne. Shinra, Inc. will guarantee your livelihood once the Mako Reactor is completed.</p>
+<p class="indent-nopad"><b>Barret</b><br/>Listen, Dyne. I don't want my wife, Myrna, to suffer anymore.</p>
+<p class="indent-nopad"><b>Dyne</b><br/>I know how you feel! I feel the same way too, damn it!<br/>But even so, I won't give away our coal mines!</p>
+<p class="indent-nopad"><b>Village Headman</b><br/>Dyne... you've got to understand.</p>
+<p class="indent-nopad"><b>Barret</b> (narrating)<br/>That's how the Corel Reactor was built..... and completed.<br/>We all thought it would bring us an easier life.</p>
+<p class="italic">The scene changes to show Corel in flames.</p>
+<p class="indent-nopad"><b>Barret</b> (narrating)<br/>It happened when Dyne and I were out of town for a few days.<br/>Corel was burned down by the Shinra troops.<br/>All the townspeople... All my relatives...... Everyone... everything......</p>
+<p class="indent"><b>Cloud</b><br/>Shinra troops? What for!?</p>
+<p class="indent"><b>Barret</b><br/>There was an explosion at a reactor.<br/>Shinra blamed the accident on the people. Said it was done by a rebel faction.</p>
+<p class="indent"><b>Tifa</b><br/>That's so terrible!</p>
+<p class="indent"><b>Barret</b><br/>Well, I guess that's true. But more than Shinra, I couldn't forgive myself.<br/>Never should've gone along with the building of the reactor...</p>
+<p class="indent"><b>Tifa</b><br/>Don't blame yourself. We were all fooled by the promises Shinra made back then.</p>
+<p class="indent"><b>Barret</b><br/>That's why... that's why I get so pissed off!!<br/>Not only did they take advantage of me...... But I lost my wife, Myrna, too...</p>
+<p class="indent"><b>Station Man</b><br/>Hey everyone! If you want to go to the 'Gold Saucer', hurry and get on!<br/>Ride the Ropeway?</p>
+<p class="indent"><b>Cloud</b><br/>- Go on<br/>- Don't go on</p>
+<div class="block"/>
+  <p><span class="highlight">Go on</span></p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Let's get on.</p>
+  <p class="italic-inline-nopad">He gets on the ropeway.</p>
+  <p class="indent-nopad"><b>Barret</b><br/>Dyne was my best friend. We was close ever since we was kids...</p>
+  <p class="italic-inline-nopad">He follows Cloud.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>I never knew. Barret never said a thing...</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>.........</p>
+  <p class="indent-nopad"><b>Red XIII</b><br/>.........</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>I'm not sympathizing with Barret! He never should have trusted Shinra, Inc. ...</p>
+  <p class="italic-inline-nopad">She gets on, and the others watch her.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>.........<br/>We better go on!</p>
+  <p class="italic">She, Aerith, and Red XIII get on, and the ropeway leaves the station.</p>
+ 
+<div class="block"/>
+  <p><span class="highlight">Don't go on</span></p>
+  <p class="indent-nopad"><b>Barret</b><br/>Dyne was my best friend. We was close ever since we was kids...</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>I'm waiting inside.</p>
+  <p class="italic-inline-nopad">She gets on the ropeway.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>I never knew. Barret never said a thing...</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Everything Shinra does seem to make everyone miserable...</p>
+  <p class="indent-nopad"><b>Red XIII</b><br/>.........</p>
+  <p class="indent-nopad"><b>Barret</b><br/>It's all my fault...</p>
+  <p class="indent-nopad"><b>Station Man</b><br/>The Ropeway takes you to the 'Gold Saucer'. It's free, so don't worry about it.</p>
+
+  <p class="italic">They eventually get on the ropeway and it leaves the station.</p>
+
+</scene>

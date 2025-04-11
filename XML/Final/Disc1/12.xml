@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="JunonRufus">
+
+
+
+<sp> Junon - The New President Rufus </sp>
+
+<sp> Lower Junon </sp>
+<sp> Reaching Upper Junon </sp>
+<sp> Rufus's Welcoming Ceremony </sp>
+<sp> Exploring Upper Junon </sp>
+<sp> Send-Off at the Docks </sp>
+
+<stage>Cloud and the others arrive at Junon, walking into the old part of the town, grey and nearly lifeless. At the far end of the little street is an elevator to the upper city guarded by a single Shinra soldier.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What happened to this town? It's so run-down... </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Wow, now this is rare. We almost never have anyone other than the Shinra people visit this town.<boxstart/>I know you guys want to go to the Western Continent, but the only way is on a Shinra ship. </sp>
+<stage>Inside the Weapon Shop...</stage>
+<sp> <speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>If you see a weapon you want, you'd better buy it. </sp>
+<stage>Back outside...</stage>
+<sp> <speaker name="Fisherman">Fisherman</speaker><boxstart/>Ever since... Shinra built that city up above during the war, ...ugh, ugh.<boxstart/>There's been no fish in the water! It got so polluted... phew... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What kinda place is this? </sp>
+<sp> <speaker name="Older Man">Older Man</speaker><boxstart/>Who are you people? Where did you come from? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Did you see a man with a black cape? </sp>
+<sp> <speaker name="Older Man">Older Man</speaker><boxstart/>Hmm... I've never seen that feller before.<boxstart/>There's nothing here now... But it used to be a busy port. </sp>
+<sp> <speaker name="Elevator Guard">Elevator Guard</speaker><boxstart/>HEY! This is Shinra, Inc.'s elevator. Don't be snooping around here!! </sp>
+<stage>Cloud goes down to the beach, where a little girl is playing with a dolphin.</stage>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>He-y! Mr. Dolphin!<boxstart/>My name is......<boxstart/>Pri-scil-la!<boxstart/>Now you say it. </sp>
+<stage>She turns around as Cloud approaches.</stage>
+<sp> <boxstart/>Who are you guys? Are you members of the Shinra, Inc.? </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>No! You got it all wrong! We're fighting against the Shinra! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>No you're wrong! We have nothing to do with the Shinra. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>No... stay calm... </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>...we don't get along well with the Shinra. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey watch your mouth! We hate the Shinra! </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...that's how it is. </sp>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>I don't believe you! Get out of here! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Great... </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey! Look at that! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What's that!? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Look at that! </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Hey! It's a monster! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Whoa, Gawd! </sp>
+
+<stage>A sea serpent approaches from deeper out in the ocean.</stage>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>Be careful Mr. Dolphin! </sp>
+<stage>She runs out into the water, the serpent attacks her, and she falls unconscious.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey! Hold on, we're coming! </sp>
+<stage>They fight and defeat the sea monster, and then Cloud carries Priscilla ashore.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>This is bad... You don't think she's dead, do you? </sp>
+<sp> <speaker name="Older Man">Older Man</speaker><boxstart/>Priscilla!! </sp>
+<stage>He comes down to kneel near her.</stage>
+<sp> <boxstart/>Nope... she's not breathing...<boxstart/>Hey, that's it!<boxstart/>Young man, CPR, now! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Mouth to mouth!? </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>C'mon <referent name="Cloud">Cloud</referent>. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>, hurry! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Do it, <referent name="Cloud">Cloud</referent>! </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>But, ... she's just a girl...... </sp>
+
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, what are you going to do? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>You know I can't. </sp>
+
+<sp> <speaker name="Older Man">Older Man</speaker><boxstart/>What? You don't know how? Come over here, I'll show you. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Guess I gotta do it... </sp>
+<sp> <speaker name="Older Man">Older Man</speaker><boxstart/>Just take a deep breath, hold it in. Then breathe into her.<boxstart/>Hurry up and do it! </sp>
+<stage>Eventually Cloud manages to resuscitate the girl.</stage>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>Uh... ugh... </sp>
+<sp> <speaker name="Older Man">Older Man</speaker><boxstart/>Hey hey! Priscilla, are you alright? </sp>
+<stage>He picks her up and carries her off. Cloud follows, going up to Priscilla's house.</stage>
+<sp> <speaker name="Older Man">Older Man</speaker><boxstart/>Sorry, <referent name="Cloud">Cloud</referent>. Priscilla needs to rest for a while. </sp>
+<sp> <speaker name="Woman">Woman</speaker> (waiting outside her house)<boxstart/>Hey, come in for a while. </sp>
+<stage>Cloud and the others follow the woman into her house.</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>I heard what happened. You've done so much for Priscilla.<boxstart/>You all must be tired. If you want to get some rest, stay here.<boxstart/>Make yourselves at home. </sp>
+<stage>She leaves the house.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>I'm gonna relax for a while. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Want to rest? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Take a rest? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Shall we rest? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Wanna rest? </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah...<boxstart/>- We'll try later<boxstart/>- Let's rest </sp>
+<stage>Cloud and the others turn in for a while.</stage>
+...That reminds me.
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You again?<boxstart/>...Who are you? </sp>
+...You'll find out soon. ......But more importantly, 5 years ago...
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>5 Years ago... Nibelheim? </sp>
+<sp> When you went to Mt. Nibel then, Tifa was your guide, right? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah... I was surprised. </sp>
+<sp> But where was Tifa other than that? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...I dunno. </sp>
+<sp> It was a great chance for you two to see each other again. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...You're right. </sp>
+<sp> Why couldn't you see each other alone? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...I don't know. I can't remember clearly... </sp>
+<sp> Why don't you try asking Tifa? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Yeah. </sp>
+<sp> Then, get up! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hey wake up. Wake up, <referent name="Cloud">Cloud</referent>! </sp>
+<stage>Cloud wakes to find Tifa standing nearby. There is muffled but lively music in the background.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Tifa">Tifa</referent>...<boxstart/>When <referent name="Sephiroth">Sephiroth</referent> and I went to Nibelheim, where were you? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...We saw each other, right? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The other time. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>No... it was 5 years ago. I don't remember.<boxstart/>But, something seems strange outside. <referent name="Cloud">Cloud</referent>, come quick. </sp>
+<stage>Cloud follows her outside.</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>For the past few decades, the only thing I've been hearing about is the Shinra.<boxstart/>I miss the times when we used to talk only about fish... </sp>
+<stage>Cloud finds the others all gathered at the stairs leading up to Priscilla's house.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Seems like something's goin' on up there! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I heard that girl regained consciousness. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Doesn't it seem a little strange? Everything getting so noisy all of a sudden...? </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Does this have something to do with the Shinra? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What's this loud music? It's giving me a headache! </sp>
+<stage>Cloud starts up the steps and Priscilla comes out of her house.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Are you all right now? </sp>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>Umm... thanks for helping...<boxstart/>I'm sorry, I mistook you for one of those Shinra, Inc. ... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>That's all right. </sp>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>I'll give you something SPECIAL!<boxstart/>It's an amulet. Take good care of it, ok? </sp>
+<sp> <speaker name="unspecified"/><boxstart/>Received "Shiva" Materia! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What's that music? It sure sounds lively. </sp>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>I heard they're rehearsing the reception for the new Shinra president. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Rufus">Rufus</referent>!? I gotta pay my respects. </sp>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>Grandpa and grandma told me this beach was beautiful when they were small.<boxstart/>But after the Shinra built that city above, the sun stopped shining here, and the water got polluted...<boxstart/>I was raised on that story and hate Shinra so much, I could die! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You think <referent name="Rufus">Rufus</referent> is thinking about crossing the ocean from here, too?<boxstart/>What? Does that mean <referent name="Sephiroth">Sephiroth</referent> already crossed the ocean? </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/><referent name="Cloud">Cloud</referent>, didn't you finish <referent name="Rufus">Rufus</referent> off? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>We gotta get to the town up there... Mebbe we could climb the tower? </sp>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>No! No! There's a high voltage current running underneath the tower. Don't wander near it, it's dangerous!<boxstart/>But... you might be able to if Mr. Dolphin helps you. Follow me! </sp>
+<stage>She runs for the water, but the others hang back.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>High voltage tower......<boxstart/>I guess this means <referent name="Cloud">Cloud</referent>'ll be all right. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Yeah, better leave it to <referent name="Cloud">Cloud</referent>! </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>We're counting on you, <referent name="Cloud">Cloud</referent>. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey!!<boxstart/>Wait a second! </sp>
+<stage>The others disperse, ignoring him. Barret stands near the fisherman, Tifa and Aerith stand talking to each other, and Red XIII and Yuffie stand together.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yeah, I'd like to take a good look at the new President of Shinra, Inc.! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Don't you just hate this? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You're probably right. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>That looks like a Shinra soldier. </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Aren't you going to follow her? </sp>
+<stage>Cloud goes down to the beach where Priscilla is waiting.</stage>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>Wait a minute. </sp>
+<stage>She blows a whistle and the dolphin jumps. Barret comes down to join them.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Now ain't that something! I ain't never seen no Dolphin jump like that! </sp>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>Pretty cool, huh? When I blow this whistle, Mr. Dolphin jumps for me.<boxstart/>Here!! This is for you, <referent name="Cloud">Cloud</referent>! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>A gift? What am I supposed to do with it!? </sp>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>Just go into the water, blow this whistle, and Mr. Dolphin'll jump you to the top of the pole! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Jump to the top of the pole? </sp>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>See that rod sticking out at the top? If you jump just right, you can climb to the top of the town. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Good luck <referent name="Cloud">Cloud</referent>! If you make it, we'll follow you!<boxstart/>Whoa, I'll hold the PHS for you. It'll break if it gets wet. </sp>
+<sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>You wanna jump with Mr. Dolphin? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Explain it to me again<boxstart/>- Sure<boxstart/>- I'll pass </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Explain it to me again </sp>
+  <stage>Priscilla repeats her explanation.</stage>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Sure </sp>
+  <stage>Cloud goes into the water to begin the jumping-to-the-top-of-the-pole ordeal.</stage>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>I'll pass </sp>
+  <sp> <speaker name="Priscilla">Priscilla</speaker><boxstart/>Come back whenever you want to see Mr. Dolphin! </sp>
+
+<stage>Eventually the dolphin jumps Cloud to the top of the pole, and he climbs up to the Shinra airfield, where the Highwind is. He enters the base to find a group of soldiers running out to the street.</stage>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>Eh! Oh!<boxstart/>The New President! He's here! He's here!<boxstart/>Hurry! Hurry! </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Hey! You still dressed like that!? Come 'ere! </sp>
+<stage>If Cloud tries to run out...</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Hey! Rookie!! Can't you hear me!! Come over here!<boxstart/>Here!! Get in the room! </sp>
+<stage>Cloud enters the locker room.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Today's the big day when we welcome President <referent name="Rufus">Rufus</referent>! Hurry up and change!<boxstart/>There's a uniform in the locker. Hurry and change! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It's the Shinra uniform.<boxstart/>- Don't change<boxstart/>- Change </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Don't change </sp>
+  There's Shinra soldiers all around. Better not try anything dumb...
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Change </sp>
+  Brings back memories...
+
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Quit yappin'! Hurry up! </sp>
+<stage>Cloud changes into the Shinra uniform.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>A Shinra uniform...<boxstart/>I was so proud when I first put it on.<boxstart/>I wonder when it was...<boxstart/>...I couldn't stand wearing this thing anymore. </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Wow! You look good in it!<boxstart/>You remember the Greeting procedure, right!? </sp>
+<stage>Cloud shrugs.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>...the look on your face says you forgot. All right, I'll show you again!<boxstart/>Do just like we do. </sp>
+<stage>Two soldiers run in.</stage>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>Commander!! We'll help too!<boxstart/>This is how to do it!<boxstart/>We'll sing too! </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>All right! Show 'em!!<boxstart/>Now, march!! This's the Welcoming March! </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Then! I'll sing along with you!<boxstart/>Quietly--!!<boxstart/>Aaaaah!<boxstart/>Aaaaah!<boxstart/>Hey, come on now. </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Now! Keep in step with the soldier next to you and march smoothly! </sp>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>Rufus--- <referent name="Rufus">Rufus</referent> Shinra----<boxstart/>We---are---Shinra Company---- The new-----President------<boxstart/>Oh----- Oh-----Shinra---------<boxstart/>Oh-----Oh oh -----Shinra, Inc.<boxstart/>Realization----of the new era--- New----President Ru--fus<boxstart/>Oh-----Oh oh -----Shinra, Inc.<boxstart/>Building-----the new era------ Shinra-----forev---er--------- </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Once you're all in step, shoulder your gun!<boxstart/>Good! Make sure you do well at the real parade! </sp>
+<stage>Another soldier runs in.</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/><referent name="Rufus">Rufus</referent> has arrived! Preparation completed! </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>All right, show time! Don't disgrace yourselves! </sp>
+<stage>Elsewhere...</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Begin the Welcome Parade! </sp>
+<stage>The parade begins. Back to Cloud: The commander, the two soldiers, and Cloud walk out onto an empty street.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Oh... no...!! No one's here!<boxstart/>Late---!?<boxstart/>Hey Rookie!! It's because you're running around like that!! </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Captain!! We'll take a short cut! </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Right!<boxstart/>Good idea.<boxstart/>Get over here!!<boxstart/>All right! You first! </sp>
+<stage>If Cloud tries to run away...</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Hey!! Don't get me any madder than I already am! </sp>
+<stage>They go through an alley connecting to the street on which the parade is going by.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Now listen up! This parade's gonna be broadcast live on Shinra TV, around the world!<boxstart/>If you look bad, the whole Junon army will look bad. Remember that and don't screw up!<boxstart/>OK! Jump in when I give you the sign!<boxstart/>Just sneak in from the back! Don't mess up the row!<boxstart/>And no matter what you do don't try to go in from the front!<boxstart/>All right!! Start marching!!<boxstart/>Charge-----!! </sp>
+<stage>Cloud manages to sneak into the parade as instructed.</stage>
+<sp> <speaker name="TV Producer">TV Producer</speaker><boxstart/>What the hell was that soldier doing? </sp>
+<sp> <speaker name="AD">AD</speaker><boxstart/>I don't know. </sp>
+<sp> <speaker name="TV Producer">TV Producer</speaker><boxstart/>Are the points up? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> did poorly...</sp>
+  <sp> <speaker name="AD">AD</speaker><boxstart/>This's terrible! Am... am I fired? </sp>
+  <sp> <speaker name="TV Producer">TV Producer</speaker><boxstart/>What!? You're FIRED!!<boxstart/>Send that soldier a bomb or something! </sp>
+  Received "Grenade"!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> did okay...</sp>
+  <sp> <speaker name="AD">AD</speaker><boxstart/>Well, it's so-so. </sp>
+  <sp> <speaker name="TV Producer">TV Producer</speaker><boxstart/>Hmm...<boxstart/>Better send that soldier something. </sp>
+  Received 6 "Potion"!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> did pretty well...</sp>
+  <sp> <speaker name="AD">AD</speaker><boxstart/>So-so. </sp>
+  <sp> <speaker name="TV Producer">TV Producer</speaker><boxstart/>Really.<boxstart/>I want somebody to send that soldier an expensive gift. </sp>
+  Received 6 "Ether"!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> did very well...</sp>
+  <sp> <speaker name="AD">AD</speaker><boxstart/>They just shot up!! </sp>
+  <sp> <speaker name="TV Producer">TV Producer</speaker><boxstart/>We did it!<boxstart/>Send that soldier something special. </sp>
+  Received 5000 gil!
+
+<stage>Cloud and the others join a group of soldiers drilling in front of Rufus and Heidegger.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Good! We made it.<boxstart/>Oh! President <referent name="Rufus">Rufus</referent>!<boxstart/>Hey! Line up and shut up!<boxstart/>Don't make a move! </sp>
+<stage>The soldiers finish their show. Heidegger turns to Rufus.</stage>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>How's the job?<boxstart/>What happened to the Airship? </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>The long range airship is still being prepared.<boxstart/>It should be ready in about three more days. Gya haa haa! </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Even the Air Force's Gelnika? </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>......Gya haa haa! </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Stop that stupid horse laugh.<boxstart/>Things are different than when father was in charge. </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya... </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Is the ship ready? </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Yes Sir, we'll get it ready quickly. </sp>
+<stage>Rufus turns and climbs up into the lift into the base. Heidegger turns to his group and charges. Everyone but Cloud flees. Heidegger punches Cloud and then runs after Rufus.</stage>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>What a disaster.<boxstart/>Heidegger was really irritated...<boxstart/>The man in the Black Cape's been roaming the city, but we can't find him. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Man in a Black Cape? </sp>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>He showed up two or three days ago, and killed a few of our soldiers.<boxstart/>He disappeared right after that. There's a rumor going around that it was <referent name="Sephiroth">Sephiroth</referent>. </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Attention! Dismissed! </sp>
+<stage>The soldiers leave, and the commander walks up to Cloud.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Hey! Hey you! You messing with the army? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Who cares?<boxstart/>- What if I am? </sp>
+<sp> <speaker name="Commander">Commander</speaker> (he says the same thing regardless)<boxstart/>You're too lazy!! No break for you!!<boxstart/>Get over here! </sp>
+<stage>The commander takes Cloud back to the locker room.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>This is the military, soldier!! Your orders for today are to send off President <referent name="Rufus">Rufus</referent> at the dock!<boxstart/>I'll keep drilling you until it's time! </sp>
+<stage>The two soldiers come back in.</stage>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>I'll help, sir!<boxstart/>Me too, sir! </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>All right!! Line up in order and show me your final pose!<boxstart/>Today's command is Formation!<boxstart/>Remember it!<boxstart/>Ready!?<boxstart/>Junon Military Send Off, BEGIN!! </sp>
+<stage>The soldiers practice the send off.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>All right! Now you try it! </sp>
+<stage>Cloud practices with them.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>So, you got it? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Not yet!<boxstart/>- I've got it! </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>All right! Don't mess up during the real thing! </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Commander!! What's today's special pose? </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Huh? ...I haven't decided yet.<boxstart/>All right, rookie!! I'll let you decide!<boxstart/>Show me your best move! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Let's see... My best move is... </sp>
+<stage>He twirls his gun over his head the same way he twirls his sword after a battle.</stage>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>Woo----ow!<boxstart/>That's awesome! </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>All right!! We'll go with that as today's special!!<boxstart/>Practice it! </sp>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>Yes sir!! </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Well then! Meet at the dock!! Don't be late!!<boxstart/>Attention! Dismissed!! </sp>
+<stage>If Cloud goes back down the elevator...</stage>
+<sp> <speaker name="Elevator Guard">Elevator Guard</speaker><boxstart/>What? It's not time for our shift, yet. Just relax. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Uh... yea...... </sp>
+<stage>He gets back on the elevator to Upper Junon.</stage>
+<sp> <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Come on, forget about your job! Step right up!! </sp>
+<stage>Cloud enters the shop.</stage>
+<sp> <speaker name="Materia Shopkeeper">Materia Shopkeeper</speaker><boxstart/>Welcome!<boxstart/>I was just starting to get worried... You see our sales were pretty bad today. </sp>
+<stage>In the bar, Rude is smoking at a table with a group of bald men.</stage>
+<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>I'm sorry! It's all rented out today! </sp>
+<sp> <speaker name="Rude">Rude</speaker><boxstart/>Mm...? You too?<boxstart/>Then, take your mask off and come here. That's our rule. </sp>
+<sp> <speaker name="Man with Head on Table">Man with Head on Table</speaker><boxstart/>Looks like something's going on outside, but we're too smashed to do anything...<boxstart/>Ooh, oohh... Oh man, my head's burning up... </sp>
+<sp> <speaker name="Bald Man in Suspenders">Bald Man in Suspenders</speaker><boxstart/>Seems like you're all a little too young to be in here. </sp>
+<sp> <speaker name="Big Bald Man">Big Bald Man</speaker><boxstart/>Seaweed... Seaweed... </sp>
+<stage>Inside the barracks...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Hey, how could you do that!? Nobody woke me up!<boxstart/>And I can't find the uniform I left in my locker, either. I wonder if I left it somewhere...<boxstart/>Geez! Do you think this could be... what they call 'bullying?'<boxstart/>Oh man, My future in the military, is pretty bleak. </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Hmm? A know-it-all, huh?<boxstart/>All right!! Come in!! </sp>
+<stage>Cloud goes downstairs.</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>This is a Respectable Inn... guests only!<boxstart/>You should absorb all the wisdom until it is a part of you. </sp>
+<sp> <speaker name="Soldier 2">Soldier 2</speaker><boxstart/>Ok wise-guy, I'll ask about Materia just so you can let off some stress. </sp>
+<stage>A tutorial menu opens.</stage>
+<sp> <speaker name="Soldier 3">Soldier 3</speaker><boxstart/>Ok. Expert! Enlighten us on Limit Techniques, why doncha? </sp>
+<stage>A tutorial menu opens.</stage>
+<sp> <speaker name="Ghost">Ghost</speaker><boxstart/>This is the Beginner's Hall (Intermediate)!<boxstart/>Your explanations were so complicated I couldn't return to the Planet.<boxstart/>So, I have a right to ask you again. </sp>
+<stage>A tutorial menu opens.</stage>
+<sp> <speaker name="Ghost 2">Ghost 2</speaker><boxstart/>Ok, Mr. Know-it-all, ex-SOLDIER! Let me revenge... I mean, review! </sp>
+<stage>A tutorial menu opens.</stage>
+<stage>On up to the third floor...</stage>
+<sp> <speaker name="Soldier Studying">Soldier Studying</speaker><boxstart/>Mmm? I'm not going to the parade.<boxstart/>The road to becoming SOLDIER First Class is very difficult.<boxstart/>Don't mind me.<boxstart/>As a man with promise and future, I don't have any time to fool around like the rest of you. </sp>
+<stage>Cloud goes on towards the port...</stage>
+<sp> <speaker name="Sailor Outside Underwater Reactor">Sailor Outside Underwater Reactor</speaker><boxstart/>What is it? The elevator's out of order right now due to an inspection.<boxstart/>You know, right under us, is a Submarine Dock and the Underwater Mako Reactor.<boxstart/>Mako energy puts a lot of wear and tear on the machinery.<boxstart/>A lot of problems can pop up. So it's necessary for close inspections and maintenance. </sp>
+<sp> <speaker name="Soldier Near Lift">Soldier Near Lift</speaker><boxstart/>Oh! How's it going!? If you're looking for Junon dock, it's over there!<boxstart/>This lift goes to the Shinra section...<boxstart/>Ever since that Black-caped murderer... But we can't use it because we're all on red alert. </sp>
+<stage>Inside Shinra's member bar...</stage>
+<sp> <speaker name="Barkeeper">Barkeeper</speaker><boxstart/>Hey soldier-boy, aren't you still on duty? </sp>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Stay outta this. </sp>
+<sp> <speaker name="Reno">Reno</speaker><boxstart/>The President's safety is secure because we're here. </sp>
+<sp> <speaker name="Elena">Elena</speaker><boxstart/>The minute you think the job's boring, you guys start messing around. </sp>
+<stage>Inside Junon Inn...</stage>
+<sp> <speaker name="Innkeeper">Innkeeper</speaker><boxstart/>Are you sure it's all right?<boxstart/>Nap while on duty?<boxstart/>- 30 gil<boxstart/>- Forget it </sp>
+<stage>On the second floor...</stage>
+<sp> <speaker name="Girl">Girl</speaker><boxstart/>Please! Come in... </sp>
+<stage>Cloud enters the Materia Shop.</stage>
+<sp> <speaker name="Girls">Girls</speaker><boxstart/>Welcome! </sp>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>I won't charge you for a smile... </sp>
+<sp> <speaker name="Black-haired girl">Black-haired girl</speaker><boxstart/>Buy a lot, cutie! </sp>
+<sp> <speaker name="Girl">Girl</speaker><boxstart/>Please go to the counter. </sp>
+<sp> <speaker name="Shopkeeper">Shopkeeper</speaker><boxstart/>There's lots of stores in Junon.<boxstart/>If we don't do this... we can't compete.<boxstart/>But, what bothers me is that the girls make more than me. </sp>
+<stage>Cloud leaves the shop.</stage>
+<sp> <speaker name="Girls">Girls</speaker><boxstart/>Thank you very much! </sp>
+<stage>On the third floor...</stage>
+<sp> <speaker name="Accessory Shopkeeper">Accessory Shopkeeper</speaker><boxstart/>I used to be in SOLDIER... Once I left, I opened up this shop...<boxstart/>But to tell you the truth, I'd rather be at the shop downstairs. </sp>
+<stage>Inside another barracks...</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Hey! Aren't you still on duty!?<boxstart/>Look, I'm in no position to talk, but...<boxstart/>Don't become a delinquent worker like me. </sp>
+<stage>On the second floor...</stage>
+<sp> <speaker name="Shinra Manager">Shinra Manager</speaker><boxstart/>It's so shameful!<boxstart/>...and they told me that I would be staying at five star hotels on these trips...<boxstart/>How can you guys sleep in a place like this? </sp>
+<stage>Inside the Weapons Shop...</stage>
+<sp> <speaker name="Weapons Shopkeeper">Weapons Shopkeeper</speaker><boxstart/>Oh! Welcome!<boxstart/>We don't have anything special now. I kind of messed up the last time I ordered but feel free to look around! </sp>
+<stage>Cloud finally goes to the dock and lines up with the other soldiers. Red XIII is watching from just inside the ship's cargo hold.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>All right, it's time! </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>President <referent name="Rufus">Rufus</referent>... has now arrived!<boxstart/>Ten... HUT! </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>This is it!! Junon Military Reception--!<boxstart/>Do it right---, Do it with enthusiasm...! Ready...! </sp>
+<stage>Cloud and the soldiers perform the send-off exercises they practiced earlier.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>All right! Now finish strong! Special! </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If they did well...</sp>
+  <sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Well done.<boxstart/>Keep up the good work for Shinra, Inc. </sp>
+  <sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya haa ha...!! Here's a special bonus for you!!<boxstart/>A token of the President's kindness! Don't forget it! </sp>
+  Received "Force Stealer"!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If they did okay...</sp>
+  <sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Very entertaining. Keep up the good work. </sp>
+  <sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya haa ha...!! Here's a special bonus for you!!<boxstart/>A token of the President's kindness! Don't forget it! </sp>
+  Received "HP Plus" Materia!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If they did poorly...</sp>
+  <sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Looks like you need more practice.<boxstart/>With things looking like this, you better be ready for pay cuts... </sp>
+  <sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya haa ha...!! Here's a special bonus for you!!<boxstart/>A token of the President's kindness! Don't forget it! </sp>
+  Received "Silver Glasses"!
+
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>Once the word gets out that <referent name="Sephiroth">Sephiroth</referent>'s here, <referent name="Cloud">Cloud</referent> and his friends will show up, too. </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>We'll crush them as soon as we find them! </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>We can't have them get in our way. </sp>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Leave it up to me, sir! Gya haa ha! </sp>
+<sp> <speaker name="Rufus">Rufus</speaker><boxstart/>I thought I told you to stop that stupid laugh... </sp>
+<stage>He turns and gets on the ship.</stage>
+<sp> <speaker name="Heidegger">Heidegger</speaker><boxstart/>Gya...... </sp>
+<stage>He charges for the soldiers, but a whistle sounds and he turns to run on the ship.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>All right! Dismissed! </sp>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>That was close.<boxstart/>Heidegger's been really edgy lately.<boxstart/>Because Hojo disappeared, leaving a letter of resignation.<boxstart/>Heidegger's been forced to take care of that investigation, too. </sp>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>Hey--! I thought you were dismissed! </sp>
+<stage>Three of the soldiers leave, but one runs onto the ship.</stage>
+<sp> <speaker name="Commander">Commander</speaker><boxstart/>We got some cleaning up to do! Hurry up! </sp>
+<stage>Inside the cargo hold, Red XIII is just visible.</stage>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Hey, hurry. You're the last one. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>How did you get here? </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>A dolphin gave me a ride.<boxstart/>Priscilla remembered the dolphin after you climbed the pole. But, you mustn't be mad at her. </sp>
+<stage>Instead of following the others away from the dock, Cloud, too, sneaks onto the ship.</stage>
+
+</scene>

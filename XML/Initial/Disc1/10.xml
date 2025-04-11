@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="Yuffie">
+
+
+
+<h1>The Road to Junon - Yuffie</h1>
+
+<h4><a href="#chocobo">Chocobo Farm on the Grasslands</a></h4>
+<h4><a href="#mythril">Mythril Mine: A Run In with the Turks</a></h4>
+<h4><a href="#yuffie">Forests of Junon: Meeting Yuffie</a></h4>
+<hr></hr>
+<p class="italic"><a name="chocobo"></a>Travelling across the grasslands from Kalm, Cloud and the others come across a chocobo farm. In a pen outside, several chocobos are walking about.</p>
+<p class="indent"><b>Chocobo</b><br/>Wark!<br/>Wark? Warkwark wark?</p>
+<p class="indent"><b>Cloud</b><br/>- Wark<br/>- Warrrk</p>
+<div class="block"/>
+  <p><span class="highlight">Wark</span></p>
+  <p class="italic">The chocobos perform a sort of waltz.</p>
+  <p class="indent-nopad"><b>Chocobo</b><br/>Wark-----</p>
+  <div class="highlight-nopad"/><p>Received "Choco/Mog" Materia!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Warrrk</span></p>
+  <p class="indent-nopad"><b>Chocobo</b><br/>Wark!! Wark!!</p>
+
+<p class="italic">They go inside the house, where they find the owner of the farm.</p>
+<p class="indent"><b>Choco Bill</b><br/>Thinking of crossing the marshes?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah<br/>- Not interested</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah</span></p>
+  <p class="indent-nopad"><b>Choco Bill</b><br/>Hmm, then it'll probably be safer for you to get a Chocobo.<br/>That way you can zip through the marshes with the Chocobo.<br/>It's the only way to avoid being attacked by the Midgar Zolom.<br/>Midgar Zolom...?<br/>It's a serpent-like creature over 30 feet tall!!<br/>It picks up on footsteps that enter the marshes...<br/>And then, BAM!! It attacks!!!<br/>To avoid that, buy a Chocobo at the Choco Bill &amp; Choco Billy Chocobo Farm.<br/>To purchase a Chocobo, please talk to my grandson. He's in the Chocobo stables at the far right end of the farm.<br/>By the way, there was another person heading towards the Marshes.<br/>Without a Chocobo, the Midgar Zolom probably got him. It was a man in a Black Cape.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Not interested</span></p>
+  <p class="indent-nopad"><b>Choco Bill</b><br/>Hmm, then, I guess that's that.</p>
+
+<p class="italic">Cloud goes to the stables, where two children are tending to the chocobos.</p>
+<p class="indent"><b>Chole</b><br/>Welcome.</p>
+<p class="indent"><b>Choco Billy</b><br/>Do you want a Chocobo?</p>
+<p class="indent"><b>Cloud</b><br/>Mmm......<br/>- Give me one<br/>- Nope</p>
+<div class="block"/>
+  <p><span class="highlight">Give me one</span></p>
+  <p class="indent-nopad"><b>Choco Billy</b><br/>You old folks are out of luck!</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Old folks...?</p>
+  <p class="indent-nopad"><b>Billy</b><br/>We're all out of Chocobos. I'm taking care of those ones out there for someone else.<br/>You know, if you really want a Chocobo, you should go out and catch one.<br/>Want to know how to catch a Chocobo?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Where are they?<br/>- How do I catch one?<br/>- What else?<br/>- Not interested</p>
+  <div class="block"/>
+    <p><span class="highlight">Where are they?</span></p>
+    <p class="indent-nopad"><b>Choco Billy</b><br/>You see those claw prints out there? Wild Chocobo's will appear in those areas.<br/>But, if you don't have 'Chocobo Lure' they won't come out. They very cautious animals by nature.</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- Chocobo Lure?<br/>- Go on</p>
+    <div class="block"/>
+      <p><span class="highlight">Chocobo Lure?</span></p>
+      <p class="indent-nopad"><b>Choco Billy</b><br/>'Chocobo Lure' is a type of materia which attracts Chocobos.<br/>If you equip this, they'll come to you. But, without it, they won't appear.</p>
+    
+    <div class="block"/>
+      <p><span class="highlight">Go on</span></p>
+      <p class="italic">Back to the tutorial menu; Cloud can ask any of his initial questions again.</p>
+    
+  
+  <div class="block"/>
+    <p><span class="highlight">How do I catch one?</span></p>
+    <p class="indent-nopad"><b>Choco Billy</b><br/>A wild Chocobo always appears with other monsters.<br/>But, you won't be able to catch it because of the monsters.<br/>That is why you must defeat the monsters first before you catch the Chocobo.</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- And then?<br/>- That all you can talk about?</p>
+    <div class="block"/>
+      <p><span class="highlight">And then?</span></p>
+      <p class="indent-nopad"><b>Choco Billy</b><br/>Also, wild Chocobos are really cautious. They'll run away from the slightest things.<br/>But, if you use 'Greens' They'll focus on that, and won't run away.</p>
+    
+    <div class="block"/>
+      <p><span class="highlight">That all you can talk about?</span></p>
+      <p class="italic">Back to the tutorial menu; Cloud can ask any of his initial questions again.</p>
+    
+  
+  <div class="block"/>
+    <p><span class="highlight">What else?</span></p>
+    <p class="indent-nopad"><b>Choco Billy</b><br/>Whatever you do, don't make Chocobos angry. They're usually calm, but if you get them angry, you'll get hurt.<br/>Oh, and remember, once you get off a Chocobo, it'll escape.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">Not interested</span></p>
+    <p class="indent-nopad"><b>Choco Billy</b><br/>Well then, shall we get down to business?<br/>I'll sell you the 'Chocobo Lure' for 2000 gil, right now.<br/>You want it?</p>
+    <p class="indent-nopad"><b>Cloud</b><br/>- Buy it<br/>- Don't buy it</p>
+    <div class="block"/>
+      <p><span class="highlight">Buy it</span></p>
+      <p class="indent-nopad"><b>Choco Billy</b><br/>Thanks!<br/>It wouldn't hurt to buy some 'Greens' either.<br/>Oh, and how fast a Chocobo'll finish eating depends of what type of 'Greens' you feed them.</p>
+    
+    <div class="block"/>
+      <p><span class="highlight">Don't buy it</span></p>
+      <p class="indent-nopad"><b>Choco Billy</b><br/>Mmmm, if you don't have it, you'll never catch one.</p>
+    
+  
+
+<div class="block"/>
+  <p><span class="highlight">Nope</span></p>
+  <p class="indent-nopad"><b>Choco Billy</b><br/>Oh, I'm so glad!</p>
+
+<p class="indent"><b>Chole</b><br/>Wasn't it really expensive?<br/>But don't be mad at my brother or Grandpa.<br/>Ever since dad and mom died, it's been like this...</p>
+<p class="italic">After leaving the farm, Cloud catches a chocobo and they cross the marshes, avoiding the Midgar Zolom. On reaching the other side, they find the giant snake impaled on a dead tree and stop to stare.</p>
+<p class="indent"><b>Cloud</b><br/>Did Sephiroth... do this......?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>This Sephiroth guy's pretty strong, I'd say.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Our enemy is someone that could do this...?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Amazing...</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>It's a power that we should respect...</p>
+</blockquote>
+<p class="italic"><a name="mythril"></a>Moving on past this display of power, they enter the Mythril Mines. After navigating through the tunnels, they come across an open cave, where they run into Rude of the Turks.</p>
+<p class="indent"><b>Rude</b><br/>Just a second!</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Wh, who are you!?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>By any chance, are you...?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Who are you?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>...... I hoped I'd never see you again...</p>
+</blockquote>
+<p class="indent"><b>Rude</b><br/>Do you know who I am?</p>
+<p class="indent"><b>Cloud</b><br/>- From the Turks, right?<br/>- Not interested</p>
+<div class="block"/>
+  <p><span class="highlight">From the Turks, right?</span></p>
+  <p class="indent-nopad"><b>Rude</b><br/>Well if you know, then this won't take long.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Not interested</span></p>
+  <p class="indent-nopad"><b>Rude</b><br/>......I'm from the Turks. And don't you ever forget it.</p>
+
+<p class="indent"><b>Rude</b><br/>It's difficult to explain what the Turks do...</p>
+<p class="indent"><b>Cloud</b><br/>Kidnapping, right?</p>
+<p class="indent"><b>Rude</b><br/>To put it negatively... you could say that.<br/>...But, that's not all there is to it, anymore.<br/>............<br/>............</p>
+<p class="indent"><b>Elena</b><br/>Sir!<br/>It's all right, Rude! I know you don't like speeches, so don't force it!</p>
+<p class="indent"><b>Rude</b><br/>...Then Elena, explain.</p>
+<p class="indent"><b>Elena</b><br/>I'm the newest member of the Turks, Elena. Thanks to what you did to Reno, we're short of people.<br/>...Although, because of that, I got promoted to the Turks, ...<br/>In any case, our job is to find out where Sephiroth is headed.<br/>And to try and stop you every step of the way.<br/>Wait a minute, it's the other way around... You're the ones that are getting in our way.</p>
+<p class="indent"><b>Tseng</b><br/>...Elena. You talk too much.</p>
+<p class="indent"><b>Elena</b><br/>Mr. Tseng!?</p>
+<p class="indent"><b>Tseng</b><br/>No need to tell them about our orders.</p>
+<p class="indent"><b>Elena</b><br/>Sorry... Tseng.</p>
+<p class="indent"><b>Tseng</b><br/>I thought I gave you other orders.<br/>Now go. Don't forget to file your report.</p>
+<p class="indent"><b>Elena</b><br/>Oh! Right!<br/>Very well, Rude and I will go after Sephiroth, who's heading for Junon Harbor!</p>
+<p class="indent"><b>Tseng</b><br/>...Elena. You don't seem to understand.</p>
+<p class="indent"><b>Elena</b><br/>Oh! I'm, I'm sorry...</p>
+<p class="indent"><b>Tseng</b><br/>...Go. Don't let Sephiroth get away.</p>
+<p class="indent"><b>Rude &amp; Elena</b><br/>Yes sir!</p>
+<p class="italic">They make their way for the exits. Rude turns back.</p>
+<p class="indent"><b>Rude</b><br/>...Reno said he wanted to see you after the injuries you gave him healed.<br/>He wants to show his affection for you all... with a new weapon.</p>
+<p class="italic-inline">Rude leaves.</p>
+<p class="indent"><b>Tseng</b><br/>Well, then...</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Aerith is in the party...</span></p>
+  <p class="indent-nopad"><b>Tseng</b><br/>Aerith... Long time no see.<br/>Looks like you got away from the Shinra for a while, now that Sephiroth reappeared.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>...so what are you saying? That I should be grateful to Sephiroth?</p>
+  <p class="indent-nopad"><b>Tseng</b><br/>No...<br/>Well, I won't be seeing too much of you, so take care.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>...strange, hearing that from you.</p>
+  <p class="indent-nopad"><b>Tseng</b><br/>Well then, stay out of Shinra's way.</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Aerith is not in the party...</span></p>
+  <p class="indent-nopad"><b>Tseng</b><br/>...Where's Aerith? She's not with you?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>Aerith isn't with us. She's with the others.</p>
+  <p class="indent-nopad"><b>Tseng</b><br/>Oh... Then give her my regards.</p>
+
+<p class="italic">Tseng leaves, and Cloud and the others continue out of the mines.</p>
+<hr></hr>
+<p class="italic"><a name="yuffie"></a>Passing through the forests on the way to Junon, they run into a "mystery ninja," who attacks them. After being defeated, she lies on the ground with the party standing around her. There's a save point nearby.<br/><br/>
+* <b>Note</b>: Because you can pick up Yuffie at almost any time in the game, I've included every character's reaction here.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Wassup with that broad?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Who is that girl...?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Cloud, do you know her?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>...You don't see ones like that everyday...<br/>Who is that girl? She's still a child.</p>
+	<p class="indent-nopad"><b>Cait Sith</b><br/>Who do you think it is? I didn't recognize the face.</p>
+	<p class="indent-nopad"><b>Vincent</b><br/>She has a mysterious weapon... I've seen her somewhere before...</p>
+	<p class="indent-nopad"><b>Cid</b><br/>Who is that kid!</p>
+</blockquote>
+<div class="block"/>
+  <p class="italic"><span class="highlight">Cloud walks to the save point.</span></p>
+  <p class="italic">After exiting the Menu screen, they find that the ninja has disappeared.</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>Haa----ah! Gotcha! And you deserve it, too!</p>
+  <blockquote class="party-nopad">
+	  <p class="indent-nopad"><b>Barret</b><br/>Hey, we been had! And... my money!</p>
+	  <p class="indent-nopad"><b>Aerith</b><br/>Hmm... Hey, don't we have less money than what we had?</p>
+	  <p class="indent-nopad"><b>Tifa</b><br/>She's gone... What is it with her?<br/>Hey! My money!</p>
+	  <p class="indent-nopad"><b>Red XIII</b><br/>Hey! My emergency money!</p>
+	  <p class="indent-nopad"><b>Cait Sith</b><br/>Gil, gil, gil, where's my gil!?</p>
+	  <p class="indent-nopad"><b>Vincent</b><br/>...... Difficult to understand her motivation.<br/>Hmm? ......pretty fast.</p>
+	  <p class="indent-nopad"><b>Cid</b><br/>What the--!? Gone! It's gone! My money's gone!</p>
+  </blockquote>
+  <div class="highlight-nopad"/><p>200 Gil Stolen!</p>
+  <blockquote class="party-nopad">
+	  <p class="indent-nopad"><b>Barret</b><br/>Shit!! Gimme back my money!!</p>
+	  <p class="indent-nopad"><b>Aerith</b><br/>Geez!! You shouldn't do this!!</p>
+	  <p class="indent-nopad"><b>Tifa</b><br/>Wait a second! Where's my money!?</p>
+	  <p class="indent-nopad"><b>Red XIII</b><br/>Give... give back what is rightfully mine!</p>
+	  <p class="indent-nopad"><b>Cait Sith</b><br/>Hey, you can't--! My gil, give it back--!</p>
+	  <p class="indent-nopad"><b>Vincent</b><br/>The Gil doesn't seem to be her real objective...</p>
+	  <p class="indent-nopad"><b>Cid</b><br/>Steal MY money, will ya? You got a lot of #&amp;^%$ nerve!!<br/>Just remember who you're dealin' with, punk!!</p>
+  </blockquote>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">Cloud walks over to Yuffie.</span></p>
+  <p class="italic">Yuffie sits up.</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>Man...... I can't believe I lost...</p>
+  <p class="italic">She jumps up.</p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>You spikey-headed jerk! One more time, let's go one more time!</p>
+  <p class="italic-inline-nopad">Or, if Tifa is party leader:</p>
+  <p class="block-inline-nopad">Hey, boobs! Try that again! Just one more time!</p>
+  <p class="italic-inline-nopad">Or, if Cid is party leader:</p>
+  <p class="block-inline-nopad">Hey, you bow-legged ol' man! Give me another chance! I'll fight ya again!</p>
+  <table><tr><td><p class="indent-nopad"><b>Cloud</b><br/>- All right<br/>- Not interested</p></td>
+             <td><p class="indent-nopad"><b>Tifa</b><br/>- What did you say!?<br/>- Don't fight</p></td>
+			 <td><p class="indent-nopad"><b>Cid</b><br/>- Give her a lickin'<br/>- Forget it!</p></td></tr></table>
+  <div class="block"/>
+    <p><span class="highlight">All right</span></p>
+    <p class="indent-nopad"><b>Yuffie</b><br/>I won't lose this time! Take your time and get ready. Holler when you're ready!</p>
+    <p class="italic-inline-nopad">She shakes her fist at Cloud.<br/><br/>At this point, it's not possible to talk to her again, so you have to check the Menu screen. Afterwards, they find that Yuffie has disappeared.</p>
+    <p class="indent-nopad"><b>Yuffie</b><br/>No way I'm going to fight with punks like you more than once!<br/>I'll keep enough for the doctor bill! Next time, you won't be as lucky!</p>
+    <blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Hey, we been had! And... my money!</p>
+		<p class="indent-nopad"><b>Aerith</b><br/>Hmm... Hey, don't we have less money than what we had?</p>
+		<p class="indent-nopad"><b>Tifa</b><br/>She's gone... What is it with her?<br/>Hey! My money!</p>
+		<p class="indent-nopad"><b>Red XIII</b><br/>Hey! My emergency money!</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Gil, gil, gil, where's my gil!?</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>...... Difficult to understand her motivation.<br/>Hmm? ......pretty fast.</p>
+		<p class="indent-nopad"><b>Cid</b><br/>What the--!? Gone! It's gone! My money's gone!</p>
+	</blockquote>
+    <div class="highlight-nopad"/><p>200 Gil Stolen!</p>
+    <blockquote class="party-nopad">
+		<p class="indent-nopad"><b>Barret</b><br/>Shit!! Gimme back my money!!</p>
+		<p class="indent-nopad"><b>Aerith</b><br/>Geez!! You shouldn't do this!!</p>
+		<p class="indent-nopad"><b>Tifa</b><br/>Wait a second! Where's my money!?</p>
+		<p class="indent-nopad"><b>Red XIII</b><br/>Give... give back what is rightfully mine!</p>
+		<p class="indent-nopad"><b>Cait Sith</b><br/>Hey, you can't--! My gil, give it back--!</p>
+		<p class="indent-nopad"><b>Vincent</b><br/>The Gil doesn't seem to be her real objective...</p>
+		<p class="indent-nopad"><b>Cid</b><br/>Steal MY money, will ya? You got a lot of #&amp;^%$ nerve!!<br/>Just remember who you're dealin' with, punk!!</p>
+	</blockquote>
+  
+  <div class="block"/>
+    <p><span class="highlight">Not interested</span></p>
+    <p class="indent-nopad"><b>Yuffie</b><br/>Thinkin' of running away? Stay and fight! FIGHT, I said!<br/>C'mon...... What's the matter?<br/>You're pretty scared of me, huh!?</p>
+    <table><tr><td><p class="indent-nopad"><b>Cloud</b><br/>- ......petrified.<br/>- You're gonna lose again.</p></td>
+	           <td><p class="indent-nopad"><b>Tifa</b><br/>- ......petrified.<br/>- You're outta your league!</p></td>
+			   <td><p class="indent-nopad"><b>Cid</b><br/>- Something like that<br/>- You're wasting your time</p></td></tr></table>
+    <div class="block"/>
+      <p><span class="highlight">......petrified.</span></p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Hmm, just as I thought. What do you expect with my skills?<br/>Good luck to you guys too. If you feel up to it, we can go another round. Later!<br/>I'm really gonna leave! REALLY!</p>
+      <table><tr><td><p class="indent-nopad"><b>Cloud</b><br/>- Go ahead...<br/>- Wait a second!</p></td>
+	             <td><p class="indent-nopad"><b>Tifa</b><br/>- Yeah, so?<br/>- Wait a second!</p></td>
+				 <td><p class="indent-nopad"><b>Cid</b><br/>- - GO, then!<br/>- ......Hold on!</p></td></tr></table>
+      <div class="block"/>
+        <p><span class="highlight">Go ahead...</span></p>
+        <p class="indent-nopad"><b>Yuffie</b><br/>Oh yeah? Then do whatever you want!</p>
+		<blockquote class="party-nopad">
+			<p class="indent-nopad"><b>Barret</b><br/>Gone... Wassup with that?</p>
+			<p class="indent-nopad"><b>Aerith</b><br/>She's gone... So what was that all about?</p>
+			<p class="indent-nopad"><b>Tifa</b><br/>She's gone... What is it with her...?</p>
+			<p class="indent-nopad"><b>Red XIII</b><br/>Huh? She's gone...... What is she doing?</p>
+			<p class="indent-nopad"><b>Cait Sith</b><br/>...She disappeared... I don't have a clue what was going on.</p>
+			<p class="indent-nopad"><b>Vincent</b><br/>...... Difficult to understand her motivation.</p>
+			<p class="indent-nopad"><b>Cid</b><br/>She's gone, hey...... What's with that kid!?</p>
+		</blockquote>
+      
+      <div class="block"/>
+        <p><span class="highlight">Wait a second!</span></p>
+        <table><tr><td><p class="indent-nopad"><b>Yuffie</b><br/>What is it, you still have somethin' for me?<br/>......Hmmm. So is that it?<br/>I know you want my help because I'm so good!<br/>You want me to go with you?</p></td>
+		<td colspan="2"><p class="indent-nopad"><b>Yuffie</b><br/>What, you still want somethin'?<br/>...Hmm. So is that it?<br/>You want my help 'cause I'm so good!<br/>You want me to go with you! Is that what you're saying?</p></td></tr>
+		<tr><td><p class="indent-nopad"><b>Cloud</b><br/>- ......That's right.<br/>- You kiddin'?</p></td><td><p class="indent-nopad"><b>Tifa</b><br/>- ......That's right<br/>- No way!</p></td><td><p class="indent-nopad"><b>Cid</b><br/>- ......That's right<br/>- What're you sayin'!</p></td></tr></table>
+        <div class="block"/>
+          <p><span class="highlight">......That's right.</span></p>
+          <p class="indent-nopad"><b>Yuffie</b><br/>Heh heh... thought so. You put me in a spot. Hmm, what should I do?<br/>But if you want me that bad, I can't refuse...</p>
+		  <p class="italic-inline-nopad">If Tifa or Cid are party leader, the above line is slightly different:</p>
+		  <p class="block-inline-nopad">But if you want me that bad, I can't really say no...<br/>All right! I'll go with you!</p>
+          <table><tr><td><p class="indent-nopad"><b>Cloud</b><br/>- ......What's your name?<br/>- ......Let's hurry on.</p></td>
+		             <td><p class="indent-nopad"><b>Tifa</b><br/>- What's your name?<br/>- Come on, let's hurry!</p></td>
+					 <td><p class="indent-nopad"><b>Cid</b><br/>- What's your name?<br/>- Come on, or we'll leave you!</p></td></tr></table>
+          <div class="block"/>
+            <p><span class="highlight">......What's your name?</span></p>
+            <p class="indent-nopad"><b>Yuffie</b><br/>Me? The name's......</p>
+            <p class="italic">After you select her name, she's gone.</p>
+			<p class="indent-nopad"><b>Yuffie</b><br/>What are you talking about!? You're the one who should go first!<br/>Okay forget it! I'm not going with you!<br/>Remember, if you piss me off... it'll cost you!!</p>
+			<blockquote class="party-nopad">
+				<p class="indent-nopad"><b>Barret</b><br/>Hey, we been had! And... my money!</p>
+				<p class="indent-nopad"><b>Aerith</b><br/>Hmm... Hey, don't we have less money than what we had?</p>
+				<p class="indent-nopad"><b>Tifa</b><br/>She's gone... What is it with her?<br/>Hey! My money!</p>
+				<p class="indent-nopad"><b>Red XIII</b><br/>Hey! My emergency money!</p>
+				<p class="indent-nopad"><b>Cait Sith</b><br/>Gil, gil, gil, where's my gil!?</p>
+				<p class="indent-nopad"><b>Vincent</b><br/>...... Difficult to understand her motivation.<br/>Hmm? ......pretty fast.</p>
+				<p class="indent-nopad"><b>Cid</b><br/>What the--!? Gone! It's gone! My money's gone!</p>
+			</blockquote>
+            <div class="highlight-nopad"/><p>700 Gil Stolen!</p>
+			<blockquote class="party-nopad">
+				<p class="indent-nopad"><b>Barret</b><br/>Shit!! Gimme back my money!!</p>
+				<p class="indent-nopad"><b>Aerith</b><br/>Geez!! You shouldn't do this!!</p>
+				<p class="indent-nopad"><b>Tifa</b><br/>Wait a second! Where's my money!?</p>
+				<p class="indent-nopad"><b>Red XIII</b><br/>Give... give back what is rightfully mine!</p>
+				<p class="indent-nopad"><b>Cait Sith</b><br/>Hey, you can't--! My gil, give it back--!</p>
+				<p class="indent-nopad"><b>Vincent</b><br/>The Gil doesn't seem to be her real objective...</p>
+				<p class="indent-nopad"><b>Cid</b><br/>Steal MY money, will ya? You got a lot of #&amp;^%$ nerve!!<br/>Just remember who you're dealin' with, punk!!</p>
+			</blockquote>
+          
+          <div class="block"/>
+            <p><span class="highlight">......Let's hurry on.</span></p>
+            <p class="italic">Cloud and the others just start walking away.</p>
+            <p class="indent-nopad"><b>Yuffie</b><br/>Huh? Hey...HEY!<br/>Wait! I haven't even told you my name......<br/>I'm Yuffie! Good to meetcha!</p>
+            <p class="italic-inline-nopad">She turns away.</p>
+            <p class="block-inline-nopad">Heh heh...... just as I planned.<br/>Now all I have to do is... a little this...... and a little that...... nyuk, nyuk, nyuk......</p>
+            <p class="italic-inline-nopad">She turns back and runs after them.</p>
+            <p class="block-inline-nopad">Hey, wait up! Wait for me!!<br/>Here, I'll give you back the money I've stole from you!<br/>......or, uh, what's left of it.</p>
+          
+        
+        <div class="block"/>
+          <p><span class="highlight">You kiddin'?</span></p>
+          <p class="indent-nopad"><b>Yuffie</b><br/>Oh yeah? Then do whatever you want!</p>
+		  <blockquote class="party-nopad">
+			  <p class="indent-nopad"><b>Barret</b><br/>Gone... Wassup with that?</p>
+			  <p class="indent-nopad"><b>Aerith</b><br/>She's gone... So what was that all about?</p>
+			  <p class="indent-nopad"><b>Tifa</b><br/>She's gone... What is it with her...?</p>
+			  <p class="indent-nopad"><b>Red XIII</b><br/>Huh? She's gone...... What is she doing?</p>
+			  <p class="indent-nopad"><b>Cait Sith</b><br/>...She disappeared... I don't have a clue what was going on.</p>
+			  <p class="indent-nopad"><b>Vincent</b><br/>...... Difficult to understand her motivation.</p>
+			  <p class="indent-nopad"><b>Cid</b><br/>She's gone, hey...... What's with that kid!?</p>
+		  </blockquote>
+        
+      
+    
+    <div class="block"/>
+      <p><span class="highlight">You're gonna lose again.</span></p>
+      <p class="indent-nopad"><b>Yuffie</b><br/>Wh... what!?<br/>Uuuuugh! Now I'm really mad!<br/>Make fun of me, will ya! Just watch!!</p>
+      <p class="italic">Yuffie runs off.</p>
+	  <blockquote class="party-nopad">
+		  <p class="indent-nopad"><b>Barret</b><br/>Hey, we been had! And... my money!</p>
+		  <p class="indent-nopad"><b>Aerith</b><br/>Hmm... Hey, don't we have less money than what we had?</p>
+		  <p class="indent-nopad"><b>Tifa</b><br/>She's gone... What is it with her?<br/>Hey! My money!</p>
+		  <p class="indent-nopad"><b>Red XIII</b><br/>Hey! My emergency money!</p>
+		  <p class="indent-nopad"><b>Cait Sith</b><br/>Gil, gil, gil, where's my gil!?</p>
+		  <p class="indent-nopad"><b>Vincent</b><br/>...... Difficult to understand her motivation.<br/>Hmm? ......pretty fast.</p>
+		  <p class="indent-nopad"><b>Cid</b><br/>What the--!? Gone! It's gone! My money's gone!</p>
+	  </blockquote>
+      <div class="highlight-nopad"/><p>500 Gil Stolen!</p>
+	  <blockquote class="party-nopad">
+		  <p class="indent-nopad"><b>Barret</b><br/>Shit!! Gimme back my money!!</p>
+		  <p class="indent-nopad"><b>Aerith</b><br/>Geez!! You shouldn't do this!!</p>
+		  <p class="indent-nopad"><b>Tifa</b><br/>Wait a second! Where's my money!?</p>
+		  <p class="indent-nopad"><b>Red XIII</b><br/>Give... give back what is rightfully mine!</p>
+		  <p class="indent-nopad"><b>Cait Sith</b><br/>Hey, you can't--! My gil, give it back--!</p>
+		  <p class="indent-nopad"><b>Vincent</b><br/>The Gil doesn't seem to be her real objective...</p>
+		  <p class="indent-nopad"><b>Cid</b><br/>Steal MY money, will ya? You got a lot of #&amp;^%$ nerve!!<br/>Just remember who you're dealin' with, punk!!</p>
+	  </blockquote>
+    
+  
+
+<p class="italic">With the eventual addition of another party member, Cloud and the others continue on their way.</p>
+
+
+</scene>

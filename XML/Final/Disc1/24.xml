@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="GoldSaucer2">
+
+
+
+<sp> Gold Saucer - Interrupted by Fireworks </sp>
+
+<sp> Getting the Keystone </sp>
+<sp> A Meeting in Ghost Hotel </sp>
+<sp> A Date with Aerith :: Event Square - The Gondola </sp>
+<sp> A Date with Tifa :: Event Square - The Gondola </sp>
+<sp> A Date with Yuffie :: Event Square - The Gondola </sp>
+<sp> A Date with Barret :: The Gondola </sp>
+<sp> Cait Sith the Spy </sp>
+<sp> Leaving Gold Saucer </sp>
+
+<stage>Cloud and the others pass through North Corel on their way to Gold Saucer.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>A buncha guys called Turks came here sayin' they'd pay 10000 gil for some rock called a 'Keystone'.<boxstart/>When I asked how much they'd pay for a regular rock just layin' around here, they slapped me upside my damn head!! </sp>
+<sp> <speaker name="Man 2">Man 2</speaker><boxstart/>I'll never understand the rich. I heard some guy named Dio at the Gold Saucer is collectin' rocks! </sp>
+<stage>They take the Ropeway up to Gold Saucer.</stage>
+<sp> <speaker name="Fortune Telling Machine">Fortune Telling Machine</speaker> (at Wonder Square)<boxstart/>What you are looking for is near. </sp>
+<stage>Cloud and the others make their way to Battle Square, which has by now reopened.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>I heard that this is the curator's favorite attraction. He likes it so much that he even has his collection displayed in the arena. </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Are you here for the battle, too? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- That's the idea<boxstart/>- Not interested </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>That's the idea </sp>
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>I like fighters. But hate those who're all talk. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Not interested </sp>
+  <sp> <speaker name="Woman">Woman</speaker><boxstart/>Is that so. </sp>
+
+<stage>Cloud continues on up the steps.</stage>
+<sp> <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>Crap! I still don't have enough points.<boxstart/>Mmm? You're new here, aren't you? Then, you want an explanation of the Battle Arena? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- Not interested </sp>
+<sp> <speaker name="Black-haired Man">Black-haired Man</speaker><boxstart/>You fight here and collect battle points. You can then exchange those points for prizes.<boxstart/>The Battle Game... even though it's a game you still use all your physical abilities. To participate, go to the front and pay yer GP's.<boxstart/>You can fight in up to eight battles. The more you win, the more battle points you get.<boxstart/>But, if you lose, you lose all your points. So it's up to you whether or not to fight after each win.<boxstart/>They also make it harder by givin' out handicaps.<boxstart/>They decide what handicaps there'll be, and you won't know what you're up against until the battle.<boxstart/>Oh yeah, once you leave the Battle area, all your battle points will become useless. So watch it.<boxstart/>Oh, and one other thing. The maximum points you could get is 65000, no more. So if you get that many you should exchange them for something. </sp>
+<sp> <speaker name="Large Man">Large Man</speaker><boxstart/>Maybe I could've made it a little further. It's so hard to know when to stop...<boxstart/>Man, I knew I should've stopped. But it's so hard to stop... </sp>
+<sp> <speaker name="Man Practicing Kicks">Man Practicing Kicks</speaker><boxstart/>I'm not going to lose this time!<boxstart/>All right, it should be my turn comin' up here soon. </sp>
+<sp> <speaker name="Registration Lady">Registration Lady</speaker><boxstart/>Hey, have you heard? Something awful happened!<boxstart/>Two staff members and some Shinra soldiers were shot.<boxstart/>The soldiers died instantly, but the staff survived. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Dyne...... </sp>
+<sp> <speaker name="Registration Lady">Registration Lady</speaker><boxstart/>Register for battle? The registration fee is 10 GP. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Let's do it<boxstart/>- Not interested </sp>
+<sp> <speaker name="Staff Person">Staff Person</speaker><boxstart/>Whenever you come to the Gold Saucer, I recommend you visit the owner's museum at least once. </sp>
+<stage>Cloud enters Dio's Show Room. Various items rest on pedestals around the room, with plaques labeling them.</stage>
+<sp> <speaker name="Item Plaques">Item Plaques</speaker><boxstart/>"Star Cup"<boxstart/>"Weekend Clock"<boxstart/>"Laugh Sapling"<boxstart/>"Slayer's Pot"<boxstart/>"Chisa's Mask"<boxstart/>"Dio's Portrait"<boxstart/>"D Type Equipment"<boxstart/>"Zauger's Cup"<boxstart/>"Calling Gourd" </sp>
+<stage>In the center display is the Keystone.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It's the Keystone... </sp>
+<stage>Dio enters from behind him.</stage>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>Heh, heh, heh. Long time no see, my boy. Hmm? You like that, huh? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Can you let me borrow this? </sp>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>Heh, heh, heh. Sorry, but it's not for rent.<boxstart/>Hmm.<boxstart/>Since you've been good to me in the past, I CAN let you have it on one condition. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>One condition? </sp>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>Heh, heh, heh. Entertain me! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- What'd you want me to do?<boxstart/>- Not in the mood </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>What'd you want me to do? </sp>
+  <sp> <speaker name="Dio">Dio</speaker><boxstart/>Hoo boy!<boxstart/>Heh, heh, heh. It's not something that's really difficult.<boxstart/>This is the Battle Arena. Show me your fighting skills. Just you, my boy. I'm expecting a good fight! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Not in the mood </sp>
+  <sp> <speaker name="Dio">Dio</speaker><boxstart/>I see... Then let's pretend that this never happened. </sp>
+
+<stage>When Cloud takes him up on the deal, he enters the Battle Arena.</stage>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If he completes all 8 battles...</sp>
+  <sp> <speaker name="Dio">Dio</speaker><boxstart/>Heh, heh, heh! Well done, young man! All right, as I promised,<boxstart/>you can take it. Oh, and I'll give you this too. </sp>
+  Received "Protect Vest"
+  Received "Choco Feather"!
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If he does fairly well...</sp>
+  <sp> <speaker name="Dio">Dio</speaker><boxstart/>Hmm, you did pretty well, young man!<boxstart/>Good, it's a promise, so go ahead and take it. I'll give this to you too. </sp>
+  Received "Protect Vest"
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If he does poorly...</sp>
+  <sp> <speaker name="Dio">Dio</speaker><boxstart/>That's the best you could do? Well, a promise is a promise. Go ahead, take it. </sp>
+
+<sp> <speaker name="unspecified"/><boxstart/>Received Key Item "Keystone"! </sp>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>Well then, we shall meet again! Heh, heh, heh. </sp>
+<stage>When trying to leave Gold Saucer with the keystone, Cloud is intercepted by a staff member.</stage>
+<sp> <speaker name="Staff">Staff</speaker><boxstart/>Excuse me, sir.<boxstart/>I'm sorry. The Tram is out of order right now. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...so? </sp>
+<sp> <speaker name="Staff">Staff</speaker><boxstart/>I'm really sorry!<boxstart/>I'm afraid you won't be able to leave until it's fully repaired. </sp>
+<stage>If Cait Sith is not in the party, he bounces up to join Cloud now.</stage>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What's wrong? </sp>
+<stage>Cloud explains.</stage>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Too bad. It happens, though.<boxstart/>I know! Let's stay at the hotel! They know me here. I'll go talk to them. </sp>
+<sp> <speaker name="Staff">Staff</speaker><boxstart/>I will let you know once the repairs are completed. </sp>
+<stage>At the hotel, the entire team gathers in the lobby.</stage>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>We don't usually get the chance to be together like this, huh?<boxstart/><referent name="Cloud">Cloud</referent>, how 'bout it? Can you tell us what's happened so far?<boxstart/>I don't really know what's goin' on because I wasn't here in the beginning. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>Yeah! I'm all for it! </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Good idea. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I been here since the beginnin', an' I still don't know what the hell's goin' on either.<boxstart/><referent name="Cloud">Cloud</referent>, the hell's goin' on? C'mon, tell us! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I'm tired...<boxstart/>- All right, I'll give it a shot... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>I'm tired... </sp>
+  <sp> <speaker name="Cid">Cid</speaker><boxstart/>All we have to do now is sleep! You're still young! What're you complaining about? </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>All right, I'll give it a shot... </sp>
+  <stage>Nothing special happens.</stage>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Phew...<boxstart/>We are going after Sephiroth.<boxstart/><referent name="Sephiroth">Sephiroth</referent> must be in search of the Promised Land. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>The Promised Land? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>A land full of Mako energy. ...or at least that's what the Shinra believe.<boxstart/>I don't know if it actually exists. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>The Cetras return to the Promised Land. A land that promises boundless happiness. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Cetra? That some kinda disease? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That's what the Ancients call themselves.<boxstart/>Hey, didn't you listen to the elders at Cosmo Canyon? </sp>
+<stage>Barret scratches his head.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...You don't 'know' where the Promised Land of the Ancients is.<boxstart/>You search and travel, until you feel it. Like you just know, '...this is the Promised Land.' </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Aerith">Aerith</referent>... can you feel it too? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I think so. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>So <referent name="Sephiroth">Sephiroth</referent> is traveling the world because he's searching for the Promised Land? Is that it? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That, and one other thing he's searching for. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The Black Materia... </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I heard from Dio that a man in a Black Cape was lookin' for the Black Materia. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I don't even know what the Black Cape is...<boxstart/>How many men with Black Capes and number tattoos are there? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>...you know, of course... My tattoo is number 13. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>How did you get that tattoo? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>...Hojo put it on me. Everything else is just war scars, but the number was done by Hojo. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>So there are at least 13!? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...You know......<boxstart/>I think Hojo did something to those men in the Black Capes.<boxstart/>But I don't know what it has to do with Sephiroth though...<boxstart/>That's why I think we should just go after <referent name="Sephiroth">Sephiroth</referent> himself. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yeah, me too! It's all just too damn confusin'. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>And...<boxstart/>I'm sorry, forget it!<boxstart/>I think I'm tired. I'm going to bed now. </sp>
+<stage>She runs upstairs.</stage>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What was that, all of a sudden!? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What!? That's it? I'm goin' to bed! </sp>
+<stage>She runs off after Aerith.</stage>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Is that all? How 'bout the Black Materia? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You wouldn't understand even if I told you. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Now all we gotta do is take action! We're startin' tomorrow!! </sp>
+<stage>He runs upstairs.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/><referent name="Cloud">Cloud</referent>...<boxstart/>I'm number 13. Am I going to go mad too? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I don't know what Hojo did to you, but you've been all right so far, right? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>But... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Be strong. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>But, I... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Stop it, <referent name="Nanaki">Nanaki</referent>! Be strong! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Tifa">Tifa</referent>? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're not the only one who's worried! </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I don't know what's goin' on, but we're in a bad situation... </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>Hey <referent name="Cid">Cid</referent>, let's go back to our rooms. </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>...zzzz... zzzz... </sp>
+<stage>Cloud retires to his room. There comes a knock on the door.</stage>
+[Aerith enters.]<boxstart/>[<referent name="Tifa">Tifa</referent> enters.]<boxstart/>[<referent name="Yuffie">Yuffie</referent> enters.]<boxstart/>[<referent name="Barret">Barret</referent> enters.]
+
+<stage>Aerith enters Cloud's room.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hee, hee! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's wrong? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>You want to go on a date? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>A DA-TE! Or haven't you ever gone on one? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Don't take me for a fool<boxstart/>- Well, not a real one... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Don't take me for a fool </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey...a little touchy, aren't we? </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Well, not a real one... </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>No, just a mixed-up kid... </sp>
+
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh well, come on let's go... </sp>
+<stage>She runs around behind him and starts pushing him out of the room.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey! </sp>
+<stage>Upon arriving together at the Station...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Tonight's Enchantment Night! All the attractions are free.<boxstart/>How 'bout it you two? There's going to be an entertaining show in Event Square! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Come on, let's go. </sp>
+<stage>The two of them head for Event Square, where they are greeted immediately.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Congratulations!!<boxstart/>You are our 100th couple today!!<boxstart/>You two will be the leads in tonight's show!!!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wha? </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Oh, now, it's not hard. Just play it however you want to and the rest of the cast will cover up for you.<boxstart/>Come this way. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>H, hey! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>This sounds like fun. Come on <referent name="Cloud">Cloud</referent>, let's do it. </sp>
+<stage>She runs off after the man. Cloud shrugs and follows. The show opens to an empty stage and the narration begins.</stage>
+<sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Long, long ago...<boxstart/>An evil shadow appeared over the peaceful kingdom of Galdia...<boxstart/>Princess Rosa was just kidnapped by the Evil Dragon King, Valvados. What will become of her?<boxstart/>Just then, the legendary hero, Alfred, appears!! </sp>
+<sp> <speaker name="Knight">Knight</speaker><boxstart/>Oh...... You must be the legendary hero...Alfred! </sp>
+<stage>Cloud shakes his head, staring out at the audience.</stage>
+<sp> <speaker name="Knight">Knight</speaker><boxstart/>Hey, it's your line. </sp>
+<stage>Cloud points to himself incredulously.</stage>
+<sp> <speaker name="Knight">Knight</speaker><boxstart/>Yeah, you.<boxstart/>Ahem!<boxstart/>Oh...... You must be the legendary hero, Alfred!<boxstart/>I know in my soul. Please... please save Princess Rosa!<boxstart/>Now......Please talk... to the King......!! </sp>
+<sp> <speaker name="King">King</speaker><boxstart/>Oh...legendery hero, Alfred. You have come to save my beloved Rosa...<boxstart/>Oh the peak of a dangerous mountain...dwells the Evil Dragon King, Valvados... who's kidnapped Princess Rosa...<boxstart/>But... you can't beat the Evil Dragon King now! Talk to the one who can help you......<boxstart/>Who will you talk to? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The knight<boxstart/>- The wizard </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>The knight </sp>
+  <sp> <speaker name="Knight">Knight</speaker><boxstart/>I am...a lowly...knight. How...can I help you? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Defeat the Evil Dragon King<boxstart/>- Defeat the King </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Defeat the Evil Dragon King </sp>
+    <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Aerith.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>psst...... like that? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaah! Here I come, Legendary hero...Alfred!<boxstart/>I already know...your name! </sp>
+    <sp> <speaker name="Knight">Knight</speaker><boxstart/>Uuuuuuurrrrgghh! </sp>
+    He throws himself at the dragon king, but gets knocked out.
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaaaaaaaahh! What now...Legendary hero!? </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- To the Princess<boxstart/>- To the King<boxstart/>- To home </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>To the Princess </sp>
+      <stage>Cloud goes to Aerith and kisses her hand.</stage>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud and Aerith follow suit.</stage>
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Knight">Knight</speaker> (still lying on the stage)<boxstart/>......... Someone...help...... </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>To the King </sp>
+      <stage>Cloud goes to the king and kisses his hand.</stage>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh......Alfred...! In truth... I too...... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wh, what is this?<boxstart/>You can't do this! </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>To home </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it Cloud! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad!</sp><stage>She slaps <referent name="Cloud">Cloud</referent> and he falls over.</stage>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!!</sp><stage>She knocks the EDK out, too.</stage>
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Defeat the King </sp>
+    <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Aerith.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>What ho! Do you dare ignore the Evil Dragon King!?<boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>psst...... like that? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Who is your enemy...? Say it! </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The Evil... Dragon... King...<boxstart/>- The King<boxstart/>- That Knight </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The Evil... Dragon... King... </sp>
+      <stage>Cloud runs to the EDK and kisses his hand.</stage>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</stage></sp>
+      <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud follows, leaving Aerith behind.</stage>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wh, what is this?<boxstart/>You can't do this! </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it <referent name="Cloud">Cloud</referent>! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!! </sp>
+      She knocks the EDK out, too.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it <referent name="Cloud">Cloud</referent>! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!! </sp>
+      She knocks the EDK out, too.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+  
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>The wizard </sp>
+  <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>I am the great wizard, Vorman. What do you wish to know? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The Evil Dragon King's weakness<boxstart/>- The Princess' measurements </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>The Evil Dragon King's weakness </sp>
+    <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Ahh, the weakness of the Evil Dragon King. It must be, it must be...<boxstart/>Yes, it must be... True Love!<boxstart/>The power of love... Is the only weapon that can withstand the fangs of the EDK...! </sp>
+    <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Aerith.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>psst...... like that? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaah! Here I come, Legendary hero...Alfred!<boxstart/>I already know...your name! </sp>
+    <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>And now...Legendary hero...! Here is what will happen...to your beloved......<boxstart/>A kiss! The power of True Love!! </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Kiss the Princess<boxstart/>- Kiss the Evil Dragon King<boxstart/>- Kiss the King </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>Kiss the Princess </sp>
+      <stage>Cloud goes to Aerith and kisses her hand.</stage>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      The cast spins off the stage. Cloud and Aerith follow suit.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>Kiss the Evil Dragon King </sp>
+      <stage>Cloud runs to the EDK and kisses his hand.</stage>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</stage></sp>
+      <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud follows, leaving Aerith behind.</stage>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wh, what is this?<boxstart/>You can't do this! </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>Kiss the King </sp>
+      <stage>Cloud goes to the king and kisses his hand.</stage>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh......Alfred...! In truth... I too...... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wh, what is this?<boxstart/>You can't do this! </sp>
+      [Back to the Station.]
+    
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>The Princess' measurements </sp>
+    <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Aerith.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>What ho! Do you dare ignore the Evil Dragon King!?<boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>psst...... like that? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Who is your enemy...? Say it! </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The Evil... Dragon... King...<boxstart/>- The King<boxstart/>- That Knight </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The Evil... Dragon... King... </sp>
+      <stage>Cloud runs to the EDK and kisses his hand.</stage>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh </sp>
+      <stage>The EDK turns into a black-haired girl.</stage>
+      <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud follows, leaving Aerith behind.</stage>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wh, what is this?<boxstart/>You can't do this! </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it <referent name="Cloud">Cloud</referent>! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!! </sp>
+      <stage>She knocks the EDK out, too.</stage>
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Stop it <referent name="Cloud">Cloud</referent>! What are you doing!?<boxstart/>The play's a disaster! Now I'm getting mad! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Why don't you shut up, Blabbermouth!! </sp>
+      <stage>She knocks the EDK out, too.</stage>
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+  
+
+<stage>After the play is over, Cloud and Aerith return to the Station.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh, that was fun. Hey, let's go on the Gondola. </sp>
+<stage>At Round Square, Aerith walks up to the ticket booth.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Two, please. </sp>
+<sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Here you are, two tickets.<boxstart/>Enjoy the sights of Gold Saucer. </sp>
+<stage>Cloud and Aerith get on the gondola.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wow, how nice.<boxstart/>Oh! Look, <referent name="Cloud">Cloud</referent>.<boxstart/>It's so pretty. </sp>
+<stage>At length, she turns away from the window.</stage>
+<sp> <boxstart/>......it's beautiful, isn't it?<boxstart/>......first off, it bothered me how you looked exactly alike.<boxstart/>Two completely different people, but look exactly the same.<boxstart/>The way you walk, gesture...<boxstart/>I think I must have seen him again, in you...<boxstart/>But you're different.<boxstart/>Things are different.<boxstart/><referent name="Cloud">Cloud</referent>...<boxstart/>I'm searching for you. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>............? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I want to meet you. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>But I'm right here. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>(I know, I know...what I mean is...)<boxstart/>I want to meet...you. </sp>
+<stage>The gondola returns to Round Square, and they get off.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I had fun tonight. Let's go together again.<boxstart/>You don't like being with me? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- That's not it </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yeah </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Oh, don't tease like that!<boxstart/>Oh, look at the time. We'd better get going. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>That's not it </sp>
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I'm glad.<boxstart/>Next time let's take our time and go on more rides. </sp>
+
+[Cloud and Aerith return to the Station...]
+
+<stage>Tifa enters Cloud's room.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's wrong? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......<boxstart/>I thought about what I was going to say, but, it's kinda embarrassing...<boxstart/>Hey, <referent name="Cloud">Cloud</referent>!<boxstart/>Why don't the two of us sneak out of here and spend some time together? </sp>
+<stage>She runs around behind him and starts pushing him out of the room.</stage>
+<sp> <boxstart/>Come on, let's go! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey. </sp>
+<stage>Upon arriving together at the Station...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Tonight's Enchantment Night! All the attractions are free.<boxstart/>How 'bout it you two? There's going to be an entertaining show in Event Square! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Come on, let's go. </sp>
+<stage>The two of them head for Event Square, where they are greeted immediately.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Congratulations!!<boxstart/>You are our 100th couple today!!<boxstart/>You two will be the leads in tonight's show!!!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wha? </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Oh, now, it's not hard. Just play it however you want to and the rest of the cast will cover up for you.<boxstart/>Come this way. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>H, hey! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Sounds like fun. Come on <referent name="Cloud">Cloud</referent>, let's give it a try. </sp>
+<stage>She runs off after the man. Cloud shrugs and follows. The show opens to an empty stage and the narration begins.</stage>
+<sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Long, long ago...<boxstart/>An evil shadow appeared over the peaceful kingdom of Galdia...<boxstart/>Princess Rosa was just kidnapped by the Evil Dragon King, Valvados. What will become of her?<boxstart/>Just then, the legendary hero, Alfred, appears!! </sp>
+<sp> <speaker name="Knight">Knight</speaker><boxstart/>Oh...... You must be the legendary hero...Alfred! </sp>
+<stage>Cloud shakes his head, staring out at the audience.</stage>
+<sp> <speaker name="Knight">Knight</speaker><boxstart/>Hey, it's your line. </sp>
+<stage>Cloud points to himself incredulously.</stage>
+<sp> <speaker name="Knight">Knight</speaker><boxstart/>Yeah, you.<boxstart/>Ahem!<boxstart/>Oh...... You must be the legendary hero, Alfred!<boxstart/>I know in my soul. Please... please save Princess Rosa!<boxstart/>Now......Please talk... to the King......!! </sp>
+<sp> <speaker name="King">King</speaker><boxstart/>Oh...legendery hero, Alfred. You have come to save my beloved Rosa...<boxstart/>Oh the peak of a dangerous mountain...dwells the Evil Dragon King, Valvados... who's kidnapped Princess Rosa...<boxstart/>But... you can't beat the Evil Dragon King now! Talk to the one who can help you......<boxstart/>Who will you talk to? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The knight<boxstart/>- The wizard </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>The knight </sp>
+  <sp> <speaker name="Knight">Knight</speaker><boxstart/>I am...a lowly...knight. How...can I help you? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Defeat the Evil Dragon King<boxstart/>- Defeat the King </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Defeat the Evil Dragon King </sp>
+    <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Tifa.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>...Like that? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaah! Here I come, Legendary hero...Alfred!<boxstart/>I already know...your name! </sp>
+    <sp> <speaker name="Knight">Knight</speaker><boxstart/>Uuuuuuurrrrgghh! </sp>
+    He throws himself at the dragon king, but gets knocked out.
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaaaaaaaahh! What now...Legendary hero!? </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- To the Princess<boxstart/>- To the King<boxstart/>- To home </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>To the Princess </sp>
+      <stage>Cloud goes to Tifa and kisses her hand.</stage>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud and Tifa follow suit.</stage>
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Knight">Knight</speaker> (still lying on the stage)<boxstart/>......... Someone...help...... </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>To the King </sp>
+      <stage>Cloud goes to the king and kisses his hand.</stage>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh......Alfred...! In truth... I too...... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>H, hey, what is it?<boxstart/>That can't be the end!! </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>To home </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shut up!! </sp>
+      She knocks the EDK out with a kick.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Defeat the King </sp>
+    <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Tifa.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>What ho! Do you dare ignore the Evil Dragon King!?<boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>...Like that? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Who is your enemy...? Say it! </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The Evil... Dragon... King...<boxstart/>- The King<boxstart/>- That Knight </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The Evil... Dragon... King... </sp>
+      <stage>Cloud runs to the EDK and kisses his hand.</stage>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh </sp>
+      The EDK turns into a black-haired girl.
+      <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud follows, leaving Tifa behind.</stage>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>H, hey, what is it?<boxstart/>That can't be the end!! </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shut up!! </sp>
+      She knocks the EDK out with a kick.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shut up!! </sp>
+      She knocks the EDK out with a kick.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+  
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>The wizard </sp>
+  <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>I am the great wizard, Vorman. What do you wish to know? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The Evil Dragon King's weakness<boxstart/>- The Princess' measurements </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>The Evil Dragon King's weakness </sp>
+    <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Ahh, the weakness of the Evil Dragon King. It must be, it must be...<boxstart/>Yes, it must be... True Love!<boxstart/>The power of love... Is the only weapon that can withstand the fangs of the EDK...! </sp>
+    <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Tifa.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>...Like that? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaah! Here I come, Legendary hero...Alfred!<boxstart/>I already know...your name! </sp>
+    <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>And now...Legendary hero...! Here is what will happen...to your beloved......<boxstart/>A kiss! The power of True Love!! </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Kiss the Princess<boxstart/>- Kiss the Evil Dragon King<boxstart/>- Kiss the King </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>Kiss the Princess </sp>
+      <stage>Cloud goes to Tifa and kisses her hand.</stage>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      The cast spins off the stage. Cloud and Tifa follow suit.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>Kiss the Evil Dragon King </sp>
+      <stage>Cloud runs to the EDK and kisses his hand.</stage>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</stage></sp>
+      <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud follows, leaving Tifa behind.</stage>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>H, hey, what is it?<boxstart/>That can't be the end!! </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>Kiss the King </sp>
+      <stage>Cloud goes to the king and kisses his hand.</stage>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh......Alfred...! In truth... I too...... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>H, hey, what is it?<boxstart/>That can't be the end!! </sp>
+      [Back to the Station.]
+    
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>The Princess' measurements </sp>
+    <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Tifa.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>What ho! Do you dare ignore the Evil Dragon King!?<boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>...Like that? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Who is your enemy...? Say it! </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The Evil... Dragon... King...<boxstart/>- The King<boxstart/>- That Knight </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The Evil... Dragon... King... </sp>
+      <stage>Cloud runs to the EDK and kisses his hand.</stage>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</stage></sp>
+      <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud follows, leaving Tifa behind.</stage>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Wh, what is this?<boxstart/>You can't do this! </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shut up!! </sp>
+      She knocks the EDK out with a kick.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! Be serious!! You really don't want to be in the play that much!?<boxstart/>Now I'm mad! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Shut up!! </sp>
+      She knocks the EDK out, too.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+  
+
+<stage>After the play is over, Cloud and Tifa return to the Station.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hmm, that was funny. Hey, let's go on the Gondola next. </sp>
+<stage>At Round Square, Tifa walks up to the ticket booth.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Two, please. </sp>
+<sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Here you are, two tickets.<boxstart/>Enjoy the sights of Gold Saucer. </sp>
+<stage>Cloud and Tifa get on the gondola.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh, how pretty.<boxstart/>Look, Cloud.<boxstart/>Oh, <referent name="Cloud">Cloud</referent>. </sp>
+<stage>At length, she turns away from the window.</stage>
+<sp> <boxstart/>...it's really pretty, isn't it?<boxstart/>Ok, I'm going to just go ahead and say it... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...what? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Aerith">Aerith</referent> would be able to just come out and say it, probably.<boxstart/><referent name="Cloud">Cloud</referent>...?<boxstart/>Sometimes being old friends is hard.<boxstart/>I mean, timing is everything. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Yeah... </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>...?<boxstart/>I......<boxstart/>........................ </sp>
+<stage>The gondola returns to Round Square, and they get off.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent> I really had fun tonight. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>By the way, What did you want to say a minute ago...? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>N, nothing!<boxstart/>Nothing... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh, look at the time. We should be getting back. </sp>
+[Cloud and Tifa return to the Station...]
+
+<stage>Yuffie enters Cloud's room.</stage>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent> you up? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's wrong? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Would you...... keep me company for a bit. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>? Keep you company where? </sp>
+<stage>Yuffie runs around and starts pushing him out of the room.</stage>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Just come on. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey. </sp>
+<stage>Upon arriving together at the Station...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Tonight's Enchantment Night! All the attractions are free.<boxstart/>How 'bout it you two? There's going to be an entertaining show in Event Square! </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent>, let's go. </sp>
+<stage>The two of them head for Event Square, where they are greeted immediately.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Congratulations!!<boxstart/>You are our 100th couple today!!<boxstart/>You two will be the leads in tonight's show!!!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wha? </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Oh, now, it's not hard. Just play it however you want to and the rest of the cast will cover up for you.<boxstart/>Come this way. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>H, hey! </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I don't know what it's all about but sounds kind of cool. Wanna try it, <referent name="Cloud">Cloud</referent>? </sp>
+<stage>She runs off after the man. Cloud shrugs and follows. The show opens to an empty stage and the narration begins.</stage>
+<sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Long, long ago...<boxstart/>An evil shadow appeared over the peaceful kingdom of Galdia...<boxstart/>Princess Rosa was just kidnapped by the Evil Dragon King, Valvados. What will become of her?<boxstart/>Just then, the legendary hero, Alfred, appears!! </sp>
+<sp> <speaker name="Knight">Knight</speaker><boxstart/>Oh...... You must be the legendary hero...Alfred! </sp>
+<stage>Cloud shakes his head, staring out at the audience.</stage>
+<sp> <speaker name="Knight">Knight</speaker><boxstart/>Hey, it's your line. </sp>
+<stage>Cloud points to himself incredulously.</stage>
+<sp> <speaker name="Knight">Knight</speaker><boxstart/>Yeah, you.<boxstart/>Ahem!<boxstart/>Oh...... You must be the legendary hero, Alfred!<boxstart/>I know in my soul. Please... please save Princess Rosa!<boxstart/>Now......Please talk... to the King......!! </sp>
+<sp> <speaker name="King">King</speaker><boxstart/>Oh...legendery hero, Alfred. You have come to save my beloved Rosa...<boxstart/>Oh the peak of a dangerous mountain...dwells the Evil Dragon King, Valvados... who's kidnapped Princess Rosa...<boxstart/>But... you can't beat the Evil Dragon King now! Talk to the one who can help you......<boxstart/>Who will you talk to? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The knight<boxstart/>- The wizard </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>The knight </sp>
+  <sp> <speaker name="Knight">Knight</speaker><boxstart/>I am...a lowly...knight. How...can I help you? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Defeat the Evil Dragon King<boxstart/>- Defeat the King </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Defeat the Evil Dragon King </sp>
+    <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Yuffie.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>...Was that good? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaah! Here I come, Legendary hero...Alfred!<boxstart/>I already know...your name! </sp>
+    <sp> <speaker name="Knight">Knight</speaker><boxstart/>Uuuuuuurrrrgghh! </sp>
+    He throws himself at the dragon king, but gets knocked out.
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaaaaaaaahh! What now...Legendary hero!? </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- To the Princess<boxstart/>- To the King<boxstart/>- To home </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>To the Princess </sp>
+      <stage>Cloud goes to Yuffie and kisses her hand.</stage>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud and Yuffie follow suit.</stage>
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Knight">Knight</speaker> (still lying on the stage)<boxstart/>......... Someone...help...... </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>To the King </sp>
+      <stage>Cloud goes to the king and kisses his hand.</stage>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh......Alfred...! In truth... I too...... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What...?<boxstart/>...That's it? </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>To home </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, <referent name="Cloud">Cloud</referent>!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Just shut up!! </sp>
+      She punches the EDK off stage.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Defeat the King </sp>
+    <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Yuffie.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>What ho! Do you dare ignore the Evil Dragon King!?<boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>...Was that good? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Who is your enemy...? Say it! </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The Evil... Dragon... King...<boxstart/>- The King<boxstart/>- That Knight </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The Evil... Dragon... King... </sp>
+      <stage>Cloud runs to the EDK and kisses his hand.</stage>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh </sp>
+      <stage>The EDK turns into a black-haired girl.</stage>
+      <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud follows, leaving Yuffie behind.</stage>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What...?<boxstart/>...That's it? </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, <referent name="Cloud">Cloud</referent>!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Just shut up!! </sp>
+      She punches the EDK off stage.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, <referent name="Cloud">Cloud</referent>!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Just shut up!! </sp>
+      She punches the EDK off stage.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+  
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>The wizard </sp>
+  <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>I am the great wizard, Vorman. What do you wish to know? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The Evil Dragon King's weakness<boxstart/>- The Princess' measurements </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>The Evil Dragon King's weakness </sp>
+    <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Ahh, the weakness of the Evil Dragon King. It must be, it must be...<boxstart/>Yes, it must be... True Love!<boxstart/>The power of love... Is the only weapon that can withstand the fangs of the EDK...! </sp>
+    <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Yuffie.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>...Was that good? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaah! Here I come, Legendary hero...Alfred!<boxstart/>I already know...your name! </sp>
+    <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>And now...Legendary hero...! Here is what will happen...to your beloved......<boxstart/>A kiss! The power of True Love!! </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Kiss the Princess<boxstart/>- Kiss the Evil Dragon King<boxstart/>- Kiss the King </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>Kiss the Princess </sp>
+      <stage>Cloud goes to Yuffie and kisses her hand.</stage>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent>... I mean, Alfred... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      The cast spins off the stage. Cloud and Yuffie follow suit.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>Kiss the Evil Dragon King </sp>
+      <stage>Cloud runs to the EDK and kisses his hand.</stage>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh<stage>The EDK turns into a black-haired girl.</stage></sp>
+      <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud follows, leaving Yuffie behind.</stage>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What...?<boxstart/>...That's it? </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>Kiss the King </sp>
+      <stage>Cloud goes to the king and kisses his hand.</stage>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh......Alfred...! In truth... I too...... </sp>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Arrggaahhh!! Curses......The power of...love!! </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What...?<boxstart/>...That's it? </sp>
+      [Back to the Station.]
+    
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>The Princess' measurements </sp>
+    <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh what is going to happen next...! Oh...Legendary hero...look! </sp>
+    <stage>The Evil Dragon King enters carrying Yuffie.</stage>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>What ho! Do you dare ignore the Evil Dragon King!?<boxstart/>Gaaaaaaaah!<boxstart/>I am the Evil Dragon King...Valvados! I have not harmed the Princess... I have been expecting...you! </sp>
+    <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Please help me...Legendary hero!<boxstart/>...Was that good? </sp>
+    <sp> <speaker name="EDK">EDK</speaker><boxstart/>Who is your enemy...? Say it! </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- The Evil... Dragon... King...<boxstart/>- The King<boxstart/>- That Knight </sp>
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The Evil... Dragon... King... </sp>
+      <stage>Cloud runs to the EDK and kisses his hand.</stage>
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>What...<boxstart/>Urrrrrgh </sp>
+      <stage>The EDK turns into a black-haired girl.</stage>
+      <sp> <speaker name="Beautiful Girl">Beautiful Girl</speaker><boxstart/>Thank...you. You've released me...from the spell and I am back to my normal self... </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Oh...look! Love has...triumphed!<boxstart/>Now let's all return... And celebrate. </sp>
+      <sp> <speaker name="Wizard">Wizard</speaker><boxstart/>Yes let's...yes let's...! </sp>
+      <stage>The cast spins off the stage. Cloud follows, leaving Yuffie behind.</stage>
+      <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh, how profound the power of love... And so the legendary hero Alfred and our story live on happily ever after. </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What...?<boxstart/>...That's it? </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>The King </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, <referent name="Cloud">Cloud</referent>!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Just shut up!! </sp>
+      She punches the EDK off stage.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+    
+      <sp> <speaker name="Cloud"/><boxstart/>That Knight </sp>
+      <sp> <speaker name="King">King</speaker><boxstart/>Come on! No more! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Come on, <referent name="Cloud">Cloud</referent>!! I'm tryin' to be serious here and you...<boxstart/>Ok, now I'm pissed! </sp>
+      She slaps Cloud and he falls over.
+      <sp> <speaker name="EDK">EDK</speaker><boxstart/>Gaaaaaahh! You dare ignore me!! </sp>
+      <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Just shut up!! </sp>
+      She punches the EDK off stage.
+      <sp> <speaker name="Narrator">Narrator</speaker><boxstart/>Oh my...... what an unusually strong Princess! And so the new legendary hero Rosa and our story ends happily ever after. </sp>
+      [Back to the Station.]
+    
+  
+
+<stage>After the play is over, Cloud and Yuffie return to the Station.</stage>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I didn't get it. <referent name="Cloud">Cloud</referent>, let's go on the Gondola next. </sp>
+<stage>At Round Square, Yuffie walks up to the ticket booth.</stage>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>There will be two of us. </sp>
+<sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Here you are, two tickets.<boxstart/>Enjoy the sights of Gold Saucer. </sp>
+<stage>Cloud and Yuffie get on the gondola.</stage>
+<sp> <speaker name="Yuffie">Yuffie</speaker> (sitting backwards to lean out the window)<boxstart/>Wow!<boxstart/>Geez!!<boxstart/><referent name="Cloud">Cloud</referent>! </sp>
+<stage>She turns around.</stage>
+<sp> <boxstart/><referent name="Cloud">Cloud</referent>......? </sp>
+<stage>She gets up and kisses him on the cheek.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>............ </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker> (scratching her head)<boxstart/>I just felt like doing that. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>............ </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>That's all. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>............ </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>H, hey!! Say something, why don't you!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>............ </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>......gawd, I could just die. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>............ </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Say something, PLEASE! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...................something. </sp>
+<stage>Yuffie slaps him.</stage>
+<stage>The gondola returns to Round Square, and they get off.</stage>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I'll think I'll sleep really well tonight.<boxstart/>Thanks... for coming with me. </sp>
+<stage>Cloud nods.</stage>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>You wanna go back, <referent name="Cloud">Cloud</referent>? </sp>
+[Cloud and Yuffie return to the Station...]
+
+<stage>Barret enters Cloud's room.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo, <referent name="Cloud">Cloud</referent>. You still up? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What's wrong? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Uh, I was jes thinkin' of goin' for a walk... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What, just the two of us? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What's wrong with that!? Don't gimme no lip!! I say we go! </sp>
+<stage>He turns to leave. Cloud shrugs and follows him out. Upon arriving together at the Station...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Tonight's Enchantment Night! All the attractions are free.<boxstart/>How 'bout it you two? There's going to be an entertaining show in Event Square! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/><referent name="Cloud">Cloud</referent>, wanna take a peek? </sp>
+<stage>The two of them head for Event Square, where they are greeted immediately.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Congratulations!!<boxstart/>You are our 100th couple today...... Oh, wait...... no you're not...... Sorry. </sp>
+<stage>Cloud and Barret return to the Station.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Let's go somewhere where we can talk, in private. </sp>
+<stage>They arrive at Round Square.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey! You mean just the two of us are gettin' on...? ...yeah, I guess that's cool. </sp>
+<stage>He walks up to the ticket booth.</stage>
+<sp> <boxstart/>Yo. Two. </sp>
+<sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Here you are, two tickets.<boxstart/>Enjoy the sights of Gold Saucer. </sp>
+<stage>Cloud and Barret get on the gondola. They sit for a while without talking, Barret tapping his foot and both with their arms folded.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey foo. What you wanna see fireworks with me for? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Not having fun? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>You should've asked one or the other! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Which would you have asked? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Oh man, there just ain't no choice!<boxstart/><referent name="Tifa">Tifa</referent>, <referent name="Aerith">Aerith</referent>.<boxstart/>Ah, <referent name="Yuffie">Yuffie</referent>? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>(hoo boy) </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What the hell's that supposed to mean?<boxstart/>Hey, you don't mean... Marlene?<boxstart/>NO WAY! Forget it!<boxstart/>There ain't no way I'm lettin' a wacko like you anywhere near my little Marlene!<boxstart/>She's my baby. My prized possession.<boxstart/>......Marlene.<boxstart/>Wish I could've brought Marlene here. She'd love the fireworks.<boxstart/>Why the hell do I gotta be here with a foo like you...<boxstart/>Shit... the more I think 'bout it the madder I get!<boxstart/>Damn fireworks anyways. </sp>
+<stage>He fires his gun arm.</stage>
+<sp> <boxstart/>Shut up!! </sp>
+<stage>The gondola returns to Round Square, and they get off.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Oh man I'm beat. Let's head back. </sp>
+[Cloud and Barret return to the Station...]
+
+<stage>When Cloud and his date reach the Station, they see Cait Sith there, looking furtive.</stage>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey? What's <referent name="Cait Sith">Cait Sith</referent> doing? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>That's...... <referent name="Cait Sith">Cait Sith</referent>. He seems strange. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Hey, isn't that <referent name="Cait Sith">Cait Sith</referent>? What's he doing? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>...it's <referent name="Cait Sith">Cait Sith</referent>. What's he doin' so quietly? </sp>
+
+<stage>Cait Sith pulls out the Keystone.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>!!<boxstart/>Is that the... Keystone?<boxstart/>Hey! <referent name="Cait Sith">Cait Sith</referent>! </sp>
+<stage>Cait jumps and runs. If Cloud attempts to do anything besides give chase, his date will stop him. Trying to buy tickets at Speed Square...</stage>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We've got no time for this! Let's go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We've got no time to relax. Let's go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Is it all right to relax like that? Aren't we going after <referent name="Cait Sith">Cait Sith</referent>? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>What're ya doin'? We're goin' after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+
+<stage>Trying to buy tickets at Round Square...</stage>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We don't have time for this! We've got to go after <referent name="Cait Sith">Cait Sith</referent>. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to be riding this. Let's hurry after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Can we be wasting time like this? Aren't we going after <referent name="Cait Sith">Cait Sith</referent>? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell you doin'!? We gotta go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+
+<stage>Trying to make reservations at Ghost Square...</stage>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>here's no time for this! We have to go after <referent name="Cait Sith">Cait Sith</referent>. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to waste. Let's hurry and go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Should we be wasting time like this? Aren't we going after <referent name="Cait Sith">Cait Sith</referent>? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell're you doin'!? We're goin' after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+
+<stage>Trying to register at Battle Square...</stage>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>We don't have time for that!? Let's hurry and go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to waste. Let's hurry after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Should we be doing that? We've got to go after <referent name="Cait Sith">Cait Sith</referent>? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Whacha doin!? We're goin' after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+
+<stage>Trying to enter the game area at Wonder Square...</stage>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>There's no time for that!! Let's hurry and go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We got no time to relax. Let's hurry and go after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>You got time to fool around like that? Aren't you goin' after <referent name="Cait Sith">Cait Sith</referent>? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>What the hell are you doing!? We gotta go after that damn cat! </sp>
+
+<stage>Trying to board the Ropeway...</stage>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>There's no time for this, right!? Let's hurry after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>There's no time to relax. Let's hurry after <referent name="Cait Sith">Cait Sith</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Should we be this laid back? Aren't we going after <referent name="Cait Sith">Cait Sith</referent>? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>What the hell are you doing! Let's get <referent name="Cait Sith">Cait Sith</referent>! </sp>
+
+<stage>Cloud and his date chase after Cait Sith. Eventually they wind up at Chocobo Square.</stage>
+<sp> <speaker name="Lady at Entrance">Lady at Entrance</speaker><boxstart/>Sir, we can't have you doing that! </sp>
+<sp> <speaker name="Bystanders">Bystanders</speaker><boxstart/>What? </sp>
+<stage>Cait Sith runs past Cloud and down the steps of Chocobo Square, where Tseng arrives in a helicopter.</stage>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hey! Over here! The Keystone! </sp>
+<stage>He throws Tseng the Keystone.</stage>
+<sp> <speaker name="Tseng">Tseng</speaker><boxstart/>Well done. </sp>
+<stage>The helicopter flies off as Cloud and his date catch up to Cait Sith.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey! </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>W, wait a second. I won't run or hide.<boxstart/>Yes, I was a spy. I was hired by the Shinra. </sp>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...I trusted you. I can't believe you! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Don't mess with us! </sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You think I'm jokin'!? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Ya dirty &amp;*$*%$! </sp>
+
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I couldn't help it.<boxstart/>How 'bout if we continue like nothing ever happened? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No way, cat! You gotta lot of guts acting like a friend but being a spy! </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Then, what are you goin' to do? Kill me?<boxstart/>You'd just be wastin' your time if you tried. This body's just a toy anyway.<boxstart/>My real body's at Shinra Headquarters in Midgar. I'm controlin' this toy cat from there. </sp>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>So you're from Shinra. Who? Who are you! Tell me! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>So you're from Shinra. Who are you? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Part of the Shinra! Who the *&amp;$# are you!? </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell are ya!? What's your real name!? </sp>
+
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Whoa, I can't tell you my name. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We're not gettin' anywhere. </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>See? I told you! Talking won't do any good, so can't we just continue our journey? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You think I'm jokin'!? </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>...Alright, yes, I am a Shinra employee.<boxstart/>But we're not entirely enemies.<boxstart/>...Something bothers me. I think it's your way of life.<boxstart/>You don't get paid. You don't get praised. Yet, you still risk your lives and continue on your journey. Seeing that makes me...<boxstart/>It just makes me think about my life. I don't think I'd feel too good if things ended the way they are now. </sp>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>......And so on, and so on... </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're lying again. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Sounds fishy--- </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hmph! You ain't foolin' us this time! </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>He'll never tell the truth. Once a spy, always a spy.<boxstart/>We can't go on with someone like that. C'mon get real!! </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>...just as I thought. Talking won't make a bit of difference.<boxstart/>But I prepared something in case this happened.<boxstart/>Why don't you listen to this? </sp>
+<sp> <speaker name="unspecified"/><boxstart/><speaker name="Marlene">Marlene</speaker><boxstart/>Papa! <referent name="Tifa">Tifa</referent>! </sp>
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Aerith">Aerith</referent> is <referent name="Cloud">Cloud</referent>'s date...</sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey! That's Marlene! </sp>
+	<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Hey! It's the flower lady! Flower lady... </sp>
+
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Tifa">Tifa</referent> is <referent name="Cloud">Cloud</referent>'s date...</sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Marlene! </sp>
+	<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Hey! It's Tifa! <referent name="Tifa">Tifa</referent>! Help, I'm- </sp>
+
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Yuffie">Yuffie</referent> is <referent name="Cloud">Cloud</referent>'s date...</sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Marlene? </sp>
+	<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Hey! It's <referent name="Cloud">Cloud</referent>! </sp>
+
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Barret">Barret</referent> is <referent name="Cloud">Cloud</referent>'s date...</sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Ma......Marlene!? </sp>
+	<sp> <speaker name="Marlene">Marlene</speaker><boxstart/>Hey! It's Dad! Dad! It's me, Marlene! </sp>
+
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>...So, you have to do as I say. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...you're the lowest... </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I didn't want to do this... using dirty tricks and taking hostages...<boxstart/>But this is how it is... no compromises. So why don't we continue on as we did? </sp>
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> has learned what the Keystone is for...</sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Tomorrow is the Temple of the Ancients, right? I know where it is so I'll tell you later.<boxstart/>Of course, we'll get there after the Shinra, but you'll have to deal with that. </sp>
+
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> hasn't learned about the Keystone...</sp>
+	<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Oh, you didn't seem to know this, but...<boxstart/>The Keystone is the key to the Temple of the Ancients. Even so, you're all going, right?<boxstart/>I know where it is, so I'll show you later.<boxstart/>The Shinra have already been there, but I guess you have to deal with that. </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Well, we're stuck... We'll have to do what he says. </sp>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I wonder if Marlene is all right... I wonder what happened to Mom. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>......Marlene. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Uh, yup. </sp>
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Sorry, <referent name="Cloud">Cloud</referent>. </sp>
+
+
+<stage>Cloud and the others spend the night at Gold Saucer. In the morning, they again gather in the lobby. Cloud is the last to arrive.</stage>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>What took you so long, <referent name="Cloud">Cloud</referent>?<boxstart/>Oh yeah, about the Temple of the Ancients. I think if we take the Tiny Bronco East towards the sea, we should be able to find it.<boxstart/>Well then, shall we get goin'? Who's gonna go? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I want to go! I'm going for sure! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo! I'm goin' too, <referent name="Cloud">Cloud</referent>! Gotta keep movin'!! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You know...... no, forget it. Let's go. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I'm so excited, my tail's starting to tingle. Let's go, <referent name="Cloud">Cloud</referent>! </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I'm startin' to get nervous. </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>The Temple of the Ancients is to the east. Shall we go? </sp>
+<sp> <speaker name="Vincent">Vincent</speaker><boxstart/>The Temple of the Ancients... This might be pretty interesting... </sp>
+<sp> <speaker name="Cid">Cid</speaker><boxstart/>I don't care what's goin' on let's just go! </sp>
+<stage>Cloud and his chosen party head for the door.</stage>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Then see you later. </sp>
+<sp> <speaker name="Fortune Telling Machine">Fortune Telling Machine</speaker> (at Wonder Square)<boxstart/>What you search for is in the Southeast </sp>
+<stage>Cloud and the others leave Gold Saucer to search out the Temple of the Ancients.</stage>
+
+</scene>

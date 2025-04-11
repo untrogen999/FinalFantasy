@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="Reactor1">
+
+
+
+<sp> Sector 1 - The No. 1 Reactor </sp>
+
+<sp> Enter AVALANCHE </sp>
+<sp> Escape from Sector 8 </sp>
+<sp> Last Train Home </sp>
+
+
+<stage>The opening sequence: A whirl of stars, humming softly, the view slowly drifting downwards and changing to show Aerith's face lit by Mako. She stands and walks out into the streets of Midgar as the camera pans back to show the city in full before again diving in, this time following a train as it pulls into a station in Sector 8. Biggs and Jessie leap off first, taking out the two guards stationed there. Wedge follows, and the three of them run ahead. Barret and Cloud leap down last.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>C'mon newcomer. Follow me. </sp>
+<stage>Barret runs ahead. Cloud follows, taking out two guards who stand in his path. He joins Biggs, Wedge, and Jessie at the gate to the reactor complex, where Jessie is working to open the door.</stage>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>Wow! You used to be in SOLDIER all right! ...Not everyday ya find one in a group like AVALANCHE. </sp>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>SOLDIER? Aren't they the enemy?<boxstart/>What's he doing with us in AVALANCHE? </sp>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>Hold it, Jessie. He WAS in SOLDIER.<boxstart/>He quit them and now is one of us.<boxstart/>Didn't catch your name... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...<referent name="Cloud">Cloud</referent>. </sp>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/><referent name="Cloud">Cloud</referent>, eh? I'm... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I don't care what your names are. Once this job's over... I'm outta here. </sp>
+<stage>Barret comes running over.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell you all doin'!? I thought I told you never to move in a group!<boxstart/>Our target's the North Mako Reactor. We'll meet on the bridge in front of it. </sp>
+<stage>Jessie opens the door and she, Biggs, and Wedge run through. Barret turns back to Cloud.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Ex-SOLDIER, huh? Don't trust ya!<boxstart/>If you push the Directional button while pushing the [CANCEL] button to run. (earlier marked X) </sp>
+<stage>Barret runs on ahead. Cloud looks up at the reactor before following. In front of the reactor, everyone but Wedge heads across the bridge inside.</stage>
+<sp> <speaker name="Wedge">Wedge</speaker><boxstart/>I'll secure the escape passage. Concentrate on the mission, <referent name="Cloud">Cloud</referent>.<boxstart/>Geez, we're really gonna blow this huge furnace up? This'll be somethin' to see! </sp>
+<stage>Cloud follows the others into the reactor.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Yo! This your first time in a reactor? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No. After all, I did work for Shinra, y'know. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>The planet's full of Mako energy. People here use it every day. </sp>
+<stage>Cloud shrugs.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>It's the life blood of this planet. But Shinra keeps suckin' the blood out with these weird machines. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I'm not here for a lecture. Let's just hurry. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>That's it! You're comin' with me from now on. </sp>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>Biggs and I got the code for this door. </sp>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>Code deciphered. </sp>
+<stage>The first door opens and they run through.</stage>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>Think how many of our people risked their lives, just for this code... </sp>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>Code deciphered. </sp>
+<stage>The second door opens, and Jessie, Cloud, and Barret enter the elevator.</stage>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>Push that button over there! </sp>
+<stage>Cloud pushes the button.</stage>
+<sp> <speaker name="unspecified"/><boxstart/>Switch on. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Little by little the reactors'll drain out all the life. And that'll be that. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It's not my problem. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>The planet's dyin', <referent name="Cloud">Cloud</referent>! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>The only thing I care about is finishin' this job before security and the Roboguards come. </sp>
+<stage>Barret shakes his fist but says nothing. The elevator reaches the bottom and they exit. After heading down a set of stairs, Jessie hangs back to let the other two continue on.</stage>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>Push the [OK] button in front of a ladder to grab on to it. After that, use the [Directional button] to move up and down. </sp>
+<stage>Barret and Cloud eventually reach the core of the reactor.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>When we blow this place, this ain't gonna be nothin' more than a hunka junk.<boxstart/><referent name="Cloud">Cloud</referent>, you set the bomb. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Shouldn't you do it? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Jus' do it! I gotta watch to make sure you don't pull nothin'. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Fine, be my guest. </sp>
+<stage>For an instant, everything goes red and Cloud stands on tiptoe. There is a sharp humming noise.</stage>
+<sp> Watch out!<boxstart/>This isn't just a reactor!! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>......What's wrong? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Huh? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>What's wrong, <referent name="Cloud">Cloud</referent>? Hurry it up! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Yeah, sorry. </sp>
+<stage>Cloud sets the bomb. Alarms go off and he looks around.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Heads up, here they come! </sp>
+<stage>They enter a battle with the Guard Scorpion.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Barret">Barret</referent>, be careful!<boxstart/>Attack when its tails up<boxstart/>It's gonna counter with its laser! </sp>
+<stage>In spite of Cloud's poorly-translated advice, they defeat the Guard Scorpion.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Come on, let's get outta here! </sp>
+<sp> <speaker name="unspecified"/><boxstart/>Ten minutes to detonation! </sp>
+<stage>Heading out, Cloud comes across Jessie, trying to tug her foot out of a hole in the walkway. He crouches down beside her to help.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You all right? </sp>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>My leg got stuck.<boxstart/>Thanks! </sp>
+<stage>Leg freed, she jumps over him and runs on. Cloud follows her back up the elevator. (If you fail to help Jessie going up, Biggs will tell you "Jessie hasn't come up yet," and you have to go back down to help her anyway.)</stage>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>Let's go! </sp>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>Code deciphered.<boxstart/>All right, be careful </sp>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>Code deciphered. </sp>
+<stage>They all run from the reactor, across the bridge to the exit where Wedge is waiting. Barret accidentally bowls Jessie over, Cloud helps her up, and they make it through the doorway just as the reactor blows.<boxstart/><boxstart/>In the escape passage, the way out has been blocked by rubble, and Jessie is setting explosives to open the way.</stage>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>That should keep the planet going... at least a little longer. </sp>
+<sp> <speaker name="Wedge">Wedge</speaker><boxstart/>Yeah. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>......... </sp>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>OK! Now everyone get back. </sp>
+<stage>The bomb blows an exit and they leap out one by one. Wedge runs around for a minute as though on fire.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>All right, now let's get out of here.<boxstart/>Rendezvous at Sector 8 station! Split up and get on the train! </sp>
+<stage>Biggs, Wedge, and Jessie nod and run off in separate directions. Barret starts to leave.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>H, hey! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>If it's about your money Save it 'til we're back at the hideout. </sp>
+<stage>Barret runs off, and Cloud is left to make his own way to the station. Heading up into a city square, he sees a flower girl (Aerith), who gets knocked down by some people running about in a panic. She gets up, dusts herself off, and walks over to him.</stage>
+<sp> <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Excuse me.<boxstart/>What happened? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- You'd better get out of here<boxstart/>- Nothing... hey, listen... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>You'd better get out of here. </sp>
+  <sp> <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Really? I don't know what's going on, but all right. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Nothing... hey, listen...<boxstart/>.........<boxstart/>- Don't see many flowers around here<boxstart/>- Never mind </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Don't see many flowers around here </sp>
+    <sp> <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Oh, these? Do you like them? They're only a gil...? </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Buy one<boxstart/>- Forget it </sp>
+      
+        <sp> <speaker name="Cloud"/><boxstart/>Buy one </sp>
+        <sp> <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Oh, thank you!<boxstart/>Here you are! </sp>
+      
+      
+        <sp> <speaker name="Cloud"/><boxstart/>Forget it </sp>
+        <sp> <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Ahh... not again. </sp>
+      
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>Never mind </sp>
+    <sp> <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>What! Tell me!<boxstart/>Uh, excuse me, would you like to buy some flowers? They're only one gil. </sp>
+    <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Buy one<boxstart/>- Forget it </sp>
+      
+        <sp> <speaker name="Cloud"/><boxstart/>Buy one </sp>
+        <sp> <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Oh, thank you!<boxstart/>Here you are! </sp>
+      
+      
+        <sp> <speaker name="Cloud"/><boxstart/>Forget it </sp>
+        <sp> <speaker name="Flower Girl">Flower Girl</speaker><boxstart/>Ahh... not again. </sp>
+      
+  
+
+<stage>The flower girl walks away, and Cloud continues through Sector 8.</stage>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Just what the hell's going on!? </sp>
+<sp> <speaker name="Man with Hat">Man with Hat</speaker><boxstart/>Wonder what that is on the wall over there. Let's see...<boxstart/>Don't be fooled by Shinra! Mako energy doesn't last forever! Mako is the planet's lifesource! The end is in sight!<boxstart/>Protectors of the planet: AVALANCHE </sp>
+<stage>Eventually Cloud reaches a three-way intersection, beneath which the railroad tracks run out from a tunnel.</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Hey! You there!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Shinra soldiers...<boxstart/>- Fight them<boxstart/>- Later! </sp>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>What the? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmph </sp>
+<stage>More soldiers come from another direction.</stage>
+<sp> <speaker name="Soldiers">Soldiers</speaker><boxstart/>That's him! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmph </sp>
+<stage>Even more soldiers come from the third street, and they surround Cloud above the railway tunnel.</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>That's as far as you go. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I don't have time to be messin' around with you. </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Enough babbling...... Grab him!! </sp>
+<stage>As the soldiers lunge for him, Cloud jumps from the street and lands atop a train passing by underneath.</stage>
+
+<stage>Inside the train, Barret, Biggs, Wedge, and Jessie are gathered in the baggage car.</stage>
+<sp> <speaker name="Wedge">Wedge</speaker><boxstart/><referent name="Cloud">Cloud</referent> never came. </sp>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... Wonder if he was killed? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>No way!! </sp>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... </sp>
+<stage>They lapse into silence for a moment, and then glance up at a drumming noise on the roof.</stage>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>Say, do you think <referent name="Cloud">Cloud</referent>'s......<boxstart/>Going to fight to the end for AVALANCHE!? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>The hell would I know!? Do I look like a mind reader? </sp>
+<stage>He bangs his fist on a nearby crate.</stage>
+<sp> <boxstart/>Hmph!! If y'all weren't such screw-ups... </sp>
+<sp> <speaker name="Wedge">Wedge</speaker><boxstart/>Hey, <referent name="Barret">Barret</referent>! What about our money...? </sp>
+<stage>Barret bangs the crate again.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Uh, nothin' ...sorry. </sp>
+<sp> <speaker name="(from outside)">(from outside)</speaker><boxstart/>Ahhh...... </sp>
+<stage>They all glance up at some louder banging on the roof. The door opens and Cloud swings through.</stage>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! </sp>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/><referent name="Cloud">Cloud</referent>...... </sp>
+<sp> <speaker name="Wedge">Wedge</speaker><boxstart/><referent name="Cloud">Cloud</referent>!! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Looks like I'm a little late. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>You damn right, you're late!!<boxstart/>Come waltzin' in here makin' a big scene! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>It's no big deal. Just what I always do. </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Shi't!<boxstart/>Havin' everyone worried like that you don't give a damn 'bout no one but yourself! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmm...... You were worried about me! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Wha!?<boxstart/>I'm takin' it outta your money, hot stuff!<boxstart/>Wake up!<boxstart/>We're movin' out! Follow me! </sp>
+<stage>Barret moves on ahead to the next car.</stage>
+<sp> <speaker name="Wedge">Wedge</speaker><boxstart/>Hey, <referent name="Cloud">Cloud</referent>!! You were great back there! </sp>
+<stage>He follows Barret.</stage>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>Heh heh...... <referent name="Cloud">Cloud</referent>! We'll do even better next time. </sp>
+<stage>Biggs disappears, too, leaving just Cloud and Jessie. Jessie walks over to the open door.</stage>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>Be careful, I'll shut this. </sp>
+<stage>She shuts the door and turns to Cloud, looking him up and down.</stage>
+<sp> <boxstart/>Oh, <referent name="Cloud">Cloud</referent>!! Your face is pitch-black...... </sp>
+<stage>She rubs at his face.</stage>
+<sp> <boxstart/>There you go!<boxstart/>Say, thanks for helping me back there at the Reactor! </sp>
+<stage>Jessie disappears into the next car. Cloud follows.</stage>
+<sp> <speaker name="unspecified"/><boxstart/>Last train out of Sector 8 Station. Last stop is Sector 7, Train Graveyard. Expected time of arrival is 12:23AM, Midgar Standard Time... </sp>
+<stage>As the members of AVALANCHE run into the car, other passengers leave.</stage>
+<sp> <speaker name="Shinra Manager">Shinra Manager</speaker><boxstart/>This is why I hate the last train. Hoo-boy... </sp>
+<sp> <speaker name="Train Bum">Train Bum</speaker><boxstart/>Huh...? This is my house, so make yourselves at home. </sp>
+<sp> <speaker name="Bald Man">Bald Man</speaker><boxstart/>You see the headlines in the Shinra Times?<boxstart/>The terrorists that bombed the No. 1 Reactor are based somewhere in the slums.<boxstart/>...blowing up a Reactor... they sure put some thought into this one.<boxstart/>They must have a real calculating leader. I wonder what they'll do next? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Stop actin' like a damn kid. Si'down an' shu'up! </sp>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>It seems this train hasn't switched to security mode yet.<boxstart/>I'm sure that will change by tomorrow.<boxstart/>...YAWN... that sure took its toll on me. I'm gonna sleep till we get to the station. </sp>
+<stage>If you try to move on to the next car, a train worker stops you.</stage>
+<sp> <speaker name="Train Worker">Train Worker</speaker><boxstart/>Please! You're disturbing the other passengers. </sp>
+<sp> <speaker name="Wedge">Wedge</speaker><boxstart/>Someday AVALANCHE's gonna be famous... and me, too!<boxstart/><referent name="Cloud">Cloud</referent>!!<boxstart/>Don't ya think I got a bright future ahead of me? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- What do you have in mind?<boxstart/>- I wouldn't hold my breath </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>What do you have in mind? </sp>
+  <sp> <speaker name="Wedge">Wedge</speaker><boxstart/>All my life, I felt like nothin' but a sidekick.<boxstart/>But after joinin' AVALANCHE and tryin' to save the Planet, I feel like I can do lots of things. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>I wouldn't hold my breath </sp>
+  <sp> <speaker name="Wedge">Wedge</speaker><boxstart/>Oh man, that's pretty harsh, <referent name="Cloud">Cloud</referent>. You really think I won't? </sp>
+
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>Hey, <referent name="Cloud">Cloud</referent>. You want to look at this with me?<boxstart/>It's a map of the Midgar Rail System. Let's look at it together. I'll explain it to you.<boxstart/>I like this kinda stuff. Bombs and monitors... you know, flashy stuff.<boxstart/>Okay, it's about to start.<boxstart/>This is a complete model of the city of Midgar.<boxstart/>It's about a 1/10000 scale.<boxstart/>The top plate is about 50 meters above ground.<boxstart/>A main support structure holds the plate up in the center, and there are other support structures built in each section...<boxstart/>psst... whisper... whisper (The No. 1 Reactor we blew up was in the northern section.)<boxstart/>Then there's No. 2, No. 3 all the way up to the No. 8 Reactor.<boxstart/>The 8 Reactors provide Midgar with electricity.<boxstart/>Each town used to have a name, but no one in Midgar remembers them.<boxstart/>Instead of names, we refer to them by numbered sectors. That's the kind of place this is.<boxstart/>Phew..., this is next! Look.<boxstart/>This is the route this train is on.<boxstart/>The route spirals around the main support structure.<boxstart/>We should be coming around the center area, right now.<boxstart/>At each checkpoint, an ID sensor device is set up.<boxstart/>It can check the identities and backgrounds on each and every passenger on the train by linking it up to the central data bank at Shinra headquarters.<boxstart/>whisper... whisper... (Anyone could tell that we look suspicious, so we're using fake ID's.) </sp>
+<stage>A red light starts flashing.</stage>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>Speak of the devil...<boxstart/>That light means that we're in the ID Security Check area.<boxstart/>...whisper... whisper... (When the lights go off, you never know what kind of creeps'll come out.)<boxstart/>...anyhow, we're almost back now. That's a relief. </sp>
+<stage>The lights stop flashing.</stage>
+<sp> <speaker name="Wedge">Wedge</speaker><boxstart/>I'm seein' stars. This sucks. I hate the dark. </sp>
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>I know! Next time, I'll give you one I made myself. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Thanks anyway<boxstart/>- Looking forward to it </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Thanks anyway </sp>
+  <sp> <speaker name="Jessie">Jessie</speaker><boxstart/>Oh yeah, you might regret it. I'm the type who takes things personal. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Looking forward to it </sp>
+  <sp> <speaker name="Jessie">Jessie</speaker><boxstart/>Okay, then I'll put a little extra effort in and make it with a BANG. </sp>
+
+<sp> <speaker name="Jessie">Jessie</speaker><boxstart/>We're almost there. After talking with you, I really want to do it!<boxstart/>I think you've lit my fuse! </sp>
+<sp> <speaker name="Biggs">Biggs</speaker><boxstart/>...snore... heebeebeeheebee... snore... (Don't act so damn big, <referent name="Barret">Barret</referent>... snooze...) </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Look... you can see the surface now. This city don't have no day or night.<boxstart/>If that plate weren't there... we could see the sky. </sp>
+<stage>Cloud walks over to join Barret in looking out the window.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>A floating city... Pretty unsettling scenery. </sp>
+<stage>Barret gets up.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Huh?<boxstart/>Never expect ta hear that outta someone like you.<boxstart/>...you jes' full of surprises.<boxstart/>The upper world... a city on a plate...<boxstart/>It's 'cuz of that &amp;^#$# 'pizza', that people underneath are sufferin'!<boxstart/>And the city below is full of polluted air.<boxstart/>On topa that, the Reactor keeps drainin' up all the energy. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Then why doesn't everyone move onto the Plate? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Dunno. Probably 'cuz they ain't got no money. Or, maybe...<boxstart/>'Cuz they love their land, no matter how polluted it gets. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I know... no one lives in the slums because they want to.<boxstart/>It's like this train. It can't run anywhere except where its rails take it. </sp>
+
+
+</scene>

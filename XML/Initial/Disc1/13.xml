@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="CargoShip">
+
+
+
+<h1>Cargo Ship - Ocean Crossing</h1>
+
+<h4><a href="#explore">Exploring the Ship</a></h4>
+<h4><a href="#suspicious">A Suspicious Character</a></h4>
+<h4><a href="#sephiroth">Sephiroth</a></h4>
+<hr></hr>
+<p class="indent"><b>Cloud</b><br/>We'll cross the ocean, to the new continent.<br/>...even if we are wearing Shinra's uniforms...</p>
+<p class="italic"><a name="explore"></a>In the cargo hold, there are a few others in Shinra uniform. The sailors are busy with various tasks and the soldiers are apparently standing guard...</p>
+<p class="indent"><b>Sailor</b><br/>I'm workin' hard already, and you still want me to do more?<br/>The new President's probably the same.<br/>He's just gonna order us around anyway.</p>
+<p class="indent"><b>Yuffie</b><br/>Urrrgh... This is why... I hate ships.<br/>Hey, Cloud. You have any 'Tranquilizers'?</p>
+<p class="indent"><b>Cloud</b><br/>- Here, use this<br/>- Nope</p>
+<div class="block"/>
+  <p><span class="highlight">Here, use this</span></p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>Thanks... Gross... this is bitter.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Nope</span></p>
+  <p class="indent-nopad"><b>Yuffie</b><br/>...unless it's an emergency get away from me.</p>
+
+<p class="indent"><b>Yuffie</b><br/>Where are the others?</p>
+<p class="indent"><b>Cloud</b><br/>I dunno. Aren't they hiding somewhere around here?</p>
+<p class="indent"><b>Yuffie</b><br/>How should I know...? Ugh...... urk......</p>
+<p class="italic">Cloud jumps back, and moves on to find the others.</p>
+<p class="indent"><b>Aerith</b><br/>Umm...... It's me Aerith.<br/>Hey, Cloud. Did you see the Airship at Junon?</p>
+<p class="indent"><b>Cloud</b><br/>...I heard it was big, but I didn't expect it to be THAT big.</p>
+<p class="indent"><b>Aerith</b><br/>That was REALLY something.<br/>Hey, do you think I could get on it?</p>
+<p class="indent"><b>Cloud</b><br/>- I'll take you someday<br/>- I dunno...</p>
+<div class="block"/>
+  <p><span class="highlight">I'll take you someday</span></p>
+  <p>...keep hoping.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>Wow! I'm really looking forward to it!<br/>Let's ride the Airship together, OK? Promise, promise me!</p>
+
+<div class="block"/>
+  <p><span class="highlight">I dunno...</span></p>
+  <p>...It's a Shinra weapon. We probably should've destroyed it.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>...Hmm. But just once, I'd like to ride it.<br/>Just once, I'd like to ride that Airship.</p>
+
+<p class="indent"><b>Sailor 2</b><br/>It won't do any good trying to stop me!<br/>All right! I'm going to show the new President what I'm made of!</p>
+<p class="indent"><b>Soldier</b><br/>Hey, get to work!<br/>Both the new President Rufus and Heidegger are aboard this ship!<br/>If we do good, we could get promoted!</p>
+<p class="italic">Cloud goes up to the deck. He finds Tifa up on the lookout tower.</p>
+<p class="indent"><b>Tifa</b><br/>Yes sir! Everything quiet, sir!<br/>...But, you know what? I really hate this uniform.<br/>Uniforms, soldiers, war, I hate 'em all.<br/>They take away all the things and people you love...<br/>I wish they'd all disappear. Right, Cloud?</p>
+<p class="indent"><b>Cloud</b><br/>- Yeah......<br/>- I don't know</p>
+<div class="block"/>
+  <p><span class="highlight">Yeah......</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>You're right!<br/>Uh, yes sir, I'll continue my watch sir! Hee hee...</p>
+
+<div class="block"/>
+  <p><span class="highlight">I don't know</span></p>
+  <p class="indent-nopad"><b>Tifa</b><br/>...Cloud. Wearing those clothes seems to have changed you a little.<br/>Does it remind you of being in SOLDIER? I hope not...</p>
+
+<p class="indent"><b>Sailor 3</b><br/>President Rufus and his men are in the Bridge of the Ship. If they see you slacking, they'll bust you one!</p>
+<p class="indent"><b>Sailor 4</b><br/>Hey! What's wrong, kid? You got no pep!<br/>A seaman's gotta have umph!</p>
+<p class="indent"><b>Cloud</b><br/>- I'm tired...<br/>- Something's missing<br/>- Leave me alone</p>
+<div class="block"/>
+  <p><span class="highlight">I'm tired...</span></p>
+  <p class="indent-nopad"><b>Sailor 4</b><br/>I got just the perfect thing! 'Invisible Alpha'-- A super drink for seamen!!<br/>Just one'll rejuvenate you! Only 250 gil!</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- I'll take it<br/>- No thanks</p>
+  <div class="block"/>
+    <p><span class="highlight">I'll take it</span></p>
+    <p class="indent-nopad"><b>Sailor 4</b><br/>Thanks! This is a necessity for a sailor.<br/>This is a must item for a sailor! Ha ha ha!</p>
+    <div class="highlight-nopad"/><p>HP/MP Restored!</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">No thanks</span></p>
+    <p class="indent-nopad"><b>Sailor 4</b><br/>Hey! Seamen shouldn't be so stingy!</p>
+  
+
+<div class="block"/>
+  <p><span class="highlight">Something's missing</span></p>
+  <p class="indent-nopad"><b>Sailor 4</b><br/>Ey ey! Whattaya mean, 'missin'!?</p>
+  <p class="italic">An item shop menu opens.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Leave me alone</span></p>
+  <p class="italic">Nothing happens.</p>
+
+<p class="indent"><b>Soldier 2</b><br/>Oh man, we're almost to Costa del Sol.<br/>When I get there, I'm going to take a long overdue vacation. Maybe I'll go down to the beach and get a tan...</p>
+<p class="indent"><b>Red XIII</b><br/>......<br/>......It's me.<br/>Red XIII.<br/>I'm a little woozy, but I shouldn't get caught.<br/>Humans only look at appearances anyway.<br/>Anyway you look at it, I'd say I make a fine human being.</p>
+<p class="italic-inline">He turns around, showing his tail sticking out the back of his uniform.</p>
+<p class="block-inline">It's pretty hard standing on two feet...</p>
+<p class="italic">Back in the cargo hold...</p>
+<p class="indent"><b>Aerith</b><br/>Hey, Cloud. Did you see Barret?<br/>I hope he's not doing anything stupid...</p>
+<p class="italic">Cloud goes back up to find Barret just outside the bridge, watching Rufus and Heidegger through the window.</p>
+<p class="indent"><b>Barret</b><br/>Look, Cloud. It's Rufus and Heidegger.<br/>They're this close but we can't do a thing to 'em...<br/>Ummmm...... Gmmmmm......<br/>How can he...... Goin' off laughin' like that?<br/>Because of him, Biggs...... Wedge...... Jessie......!<br/>Ggggggggh... Ggggh......! Ggggggghhh!!<br/>God!! I can't take it anymore!<br/>I'm gonna settle things here and now......</p>
+<div class="highlight"/><a name="suspicious"></a><p>Emergency alert! Reports of a suspicious character found! Those not on detail, search the ship. Report when found!<br/>I repeat. Suspicious character found on board! Those not on detail, search the ship. Report when found!</p>
+<p class="indent"><b>Barret</b><br/>Damn, did they find us!?<br/>Hey, that don't seem like us. Do they mean... Tifa and the others!?<br/>Get off your spikey butt and let's go, Cloud!</p>
+<p class="italic">Barret and Cloud join the others gathered on the deck of the ship.</p>
+<p class="indent"><b>Tifa</b><br/>Everyone all right!?</p>
+<p class="indent"><b>Barret</b><br/>You all right!?</p>
+<p class="indent"><b>Aerith</b><br/>Huh?</p>
+<p class="indent"><b>Tifa</b><br/>Everyone's here... right?</p>
+<p class="indent"><b>Barret</b><br/>Hey, wait.<br/>You don't think that suspicious character is...</p>
+<p class="indent"><b>Someone</b><br/>Sephiroth!?</p>
+<p class="indent"><b>Tifa</b><br/>Really!?</p>
+<p class="indent"><b>Barret</b><br/>How the hell am I supposed to know!?</p>
+<p class="indent"><b>Cloud</b><br/>...Let's find out.</p>
+<p class="indent"><b>Red XIII</b><br/>It's the most logical thing to do. Then, who's going to go?</p>
+<p class="indent"><b>Yuffie</b> (backing away)<br/>N, not me...<br/>I don't even like Sephiroth anyway. And beside...... ugh...... urk......</p>
+<p class="indent"><b>Cloud</b><br/>...... Sephiroth......<br/>......All right, let's go!</p>
+<p class="indent"><b>Barret</b><br/>I'm goin' too!</p>
+<p class="indent"><b>Aerith</b><br/>Is it really Sephiroth......?</p>
+<p class="indent"><b>Tifa</b><br/>Take me with you!</p>
+<p class="indent"><b>Red XIII</b><br/>These clothes are too tight on me. Can I switch with you?</p>
+<p class="indent"><b>Yuffie</b><br/>I told you... I don't want... to, ugh...... urk......</p>
+<p class="indent"><b>Sailor 4</b><br/>Say, who are you? You're not a part of the crew.<br/>Oh well, seamen never bother with details!<br/>How you feelin'!</p>
+<p class="indent"><b>Cloud</b><br/>- I'm tired...<br/>- Something's missing<br/>- Leave me alone</p>
+<p class="italic"><a name="sephiroth"></a>Cloud the others go down into the cargo hold, where two sailors and a soldier lie motionless on the floor.</p>
+<p class="indent"><b>Soldier</b><br/>...the Engine Room... ...a suspicious...... character...<br/>No...... there's no way...... that...... not a human...... That thing's not human......</p>
+<p class="italic">Cloud enters the engine room and walks up to the one soldier still standing.</p>
+<p class="indent"><b>Cloud</b><br/>Is it...... Sephiroth?</p>
+<p class="italic">The man turns around and collapses.</p>
+<p class="indent"><b>Cloud</b><br/>No... not Sephiroth!</p>
+<p class="indent"><b>Sephiroth</b><br/>......After a long sleep...<br/>...the time......<br/>...time has...... come...</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Look, Cloud!!</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Look, Cloud!!</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Cloud, look!!</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Over there, Cloud.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Ov...... over there!!</p>
+</blockquote>
+<p class="italic">Sephiroth rises up through the floor of the engine room.</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth! You're alive!</p>
+<p class="indent"><b>Sephiroth</b><br/>......Who are you?</p>
+<p class="indent"><b>Cloud</b><br/>You don't remember me!? I'm Cloud!</p>
+<p class="indent"><b>Sephiroth</b><br/>Cloud...</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth! What are you thinking!? What are you doing!?</p>
+<p class="indent"><b>Sephiroth</b><br/>...the time...... is now...</p>
+<p class="indent"><b>Cloud</b><br/>What!? What are you saying? Be more......</p>
+<p class="italic">Sephiroth flies off through the ceiling, and Cloud's party enters a battle with Jenova∙BIRTH, fighting and defeating it. A small tentacle-like piece remains after the battle.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Isn't he...... that guy?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>I've seen this before...</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>I've seen this somewhere... before.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>That's what disappeared from the Shinra building...</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Eeeew! What IS it! GROSS!</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>...Jenova. The arm of Jenova.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Jenova...You mean he's been walkin' around with that thing?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Jenova... With this thing?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>Jenova... He's been carrying this thing around?</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Sephiroth took Jenova... What does it mean?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Gag... I'm feeling sick as it is without you having to show me THIS...</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>So it WAS Sephiroth.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>He said the time is now.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>The time is now... I think that was what was said.</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>He said something about it being time for something.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>The time is now...? What does that mean?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>He was mumbling something about time!</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>......Time... is now?</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>I don't know WHAT the hell's goin' on!<br/>Cloud, why don't you explain to me what's happened so far?</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Hmm... I don't get it.<br/>Hey, Cloud. Can you explain it to us?</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>I'm getting so confused...<br/>Cloud, explain what's happened so far.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>Hmm... The story's not that simple.<br/>Cloud, why don't you summarize what's happened so far?</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>So what's the story?<br/>Hey Cloud. Give us a quick run down.</p>
+</blockquote>
+<p class="indent"><b>Cloud</b><br/>- I'll try<br/>- Too much trouble <i>[With this choice, he doesn't say anything more.]</i></p>
+<p class="indent"><b>Cloud</b><br/>...I'll try, but don't interrupt me while I'm explaining.<br/>Sephiroth went off searching for the Promised Land, so he could become the ruler of the planet... That was 5 years ago.<br/>Then Sephiroth came back and killed President Shinra.<br/>And then just now all of us saw Sephiroth.<br/>He was carrying Jenova with him.<br/>...This much I do know. He told me he wants to go to the Promised Land with his mother, Jenova.<br/>...I guess that's about it.</p>
+<div class="highlight"/><p>Dock workers--We will be docking in Costa del Sol in 5 minutes. Prepare for docking.</p>
+<blockquote class="party">
+	<p class="indent-nopad"><b>Barret</b><br/>Whoa! We'd best hurry and hide somewhere.</p>
+	<p class="indent-nopad"><b>Aerith</b><br/>Maybe we shouldn't stay in here anymore...</p>
+	<p class="indent-nopad"><b>Tifa</b><br/>We should hide somewhere again.</p>
+	<p class="indent-nopad"><b>Red XIII</b><br/>I don't think it's wise to stay here any longer.</p>
+	<p class="indent-nopad"><b>Yuffie</b><br/>Phew... We're finally here... Now we gotta hide......</p>
+</blockquote>
+<p class="italic">The others start for the exit. Cloud turns back to look at where Sephiroth was.</p>
+<p class="indent"><b>Cloud</b><br/>Sephiroth... is alive...<br/>The Promised Land... Does it really exist...?</p>
+<p class="italic">The cargo ship continues on to dock at Costa del Sol.</p>
+
+</scene>

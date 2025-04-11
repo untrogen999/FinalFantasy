@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="CargoShip">
+
+
+
+<sp> Cargo Ship - Ocean Crossing </sp>
+
+<sp> Exploring the Ship </sp>
+<sp> A Suspicious Character </sp>
+<sp> Sephiroth </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>We'll cross the ocean, to the new continent.<boxstart/>...even if we are wearing Shinra's uniforms... </sp>
+<stage>In the cargo hold, there are a few others in Shinra uniform. The sailors are busy with various tasks and the soldiers are apparently standing guard...</stage>
+<sp> <speaker name="Sailor">Sailor</speaker><boxstart/>I'm workin' hard already, and you still want me to do more?<boxstart/>The new President's probably the same.<boxstart/>He's just gonna order us around anyway. </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Urrrgh... This is why... I hate ships.<boxstart/>Hey, <referent name="Cloud">Cloud</referent>. You have any 'Tranquilizers'? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Here, use this<boxstart/>- Nope </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Here, use this </sp>
+  <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Thanks... Gross... this is bitter. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Nope </sp>
+  <sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>...unless it's an emergency get away from me. </sp>
+
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Where are the others? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>I dunno. Aren't they hiding somewhere around here? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>How should I know...? Ugh...... urk...... </sp>
+<stage>Cloud jumps back, and moves on to find the others.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Umm...... It's me <referent name="Aerith">Aerith</referent>.<boxstart/>Hey, <referent name="Cloud">Cloud</referent>. Did you see the Airship at Junon? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...I heard it was big, but I didn't expect it to be THAT big. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>That was REALLY something.<boxstart/>Hey, do you think I could get on it? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I'll take you someday<boxstart/>- I dunno... </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>I'll take you someday </sp>
+  ...keep hoping.
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wow! I'm really looking forward to it!<boxstart/>Let's ride the Airship together, OK? Promise, promise me! </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>I dunno... </sp>
+  ...It's a Shinra weapon. We probably should've destroyed it.
+  <sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...Hmm. But just once, I'd like to ride it.<boxstart/>Just once, I'd like to ride that Airship. </sp>
+
+<sp> <speaker name="Sailor 2">Sailor 2</speaker><boxstart/>It won't do any good trying to stop me!<boxstart/>All right! I'm going to show the new President what I'm made of! </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Hey, get to work!<boxstart/>Both the new President <referent name="Rufus">Rufus</referent> and Heidegger are aboard this ship!<boxstart/>If we do good, we could get promoted! </sp>
+<stage>Cloud goes up to the deck. He finds Tifa up on the lookout tower.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Yes sir! Everything quiet, sir!<boxstart/>...But, you know what? I really hate this uniform.<boxstart/>Uniforms, soldiers, war, I hate 'em all.<boxstart/>They take away all the things and people you love...<boxstart/>I wish they'd all disappear. Right, <referent name="Cloud">Cloud</referent>? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah......<boxstart/>- I don't know </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yeah...... </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>You're right!<boxstart/>Uh, yes sir, I'll continue my watch sir! Hee hee... </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>I don't know </sp>
+  <sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...<referent name="Cloud">Cloud</referent>. Wearing those clothes seems to have changed you a little.<boxstart/>Does it remind you of being in SOLDIER? I hope not... </sp>
+
+<sp> <speaker name="Sailor 3">Sailor 3</speaker><boxstart/>President <referent name="Rufus">Rufus</referent> and his men are in the Bridge of the Ship. If they see you slacking, they'll bust you one! </sp>
+<sp> <speaker name="Sailor 4">Sailor 4</speaker><boxstart/>Hey! What's wrong, kid? You got no pep!<boxstart/>A seaman's gotta have umph! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I'm tired...<boxstart/>- Something's missing<boxstart/>- Leave me alone </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>I'm tired... </sp>
+  <sp> <speaker name="Sailor 4">Sailor 4</speaker><boxstart/>I got just the perfect thing! 'Invisible Alpha'-- A super drink for seamen!!<boxstart/>Just one'll rejuvenate you! Only 250 gil! </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I'll take it<boxstart/>- No thanks </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>I'll take it </sp>
+    <sp> <speaker name="Sailor 4">Sailor 4</speaker><boxstart/>Thanks! This is a necessity for a sailor.<boxstart/>This is a must item for a sailor! Ha ha ha! </sp>
+    HP/MP Restored!
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>No thanks </sp>
+    <sp> <speaker name="Sailor 4">Sailor 4</speaker><boxstart/>Hey! Seamen shouldn't be so stingy! </sp>
+  
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Something's missing </sp>
+  <sp> <speaker name="Sailor 4">Sailor 4</speaker><boxstart/>Ey ey! Whattaya mean, 'missin'!? </sp>
+  <stage>An item shop menu opens.</stage>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Leave me alone </sp>
+  <stage>Nothing happens.</stage>
+
+<sp> <speaker name="Soldier 2">Soldier 2</speaker><boxstart/>Oh man, we're almost to Costa del Sol.<boxstart/>When I get there, I'm going to take a long overdue vacation. Maybe I'll go down to the beach and get a tan... </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>......<boxstart/>......It's me.<boxstart/><referent name="Red XIII">Red XIII</referent>.<boxstart/>I'm a little woozy, but I shouldn't get caught.<boxstart/>Humans only look at appearances anyway.<boxstart/>Anyway you look at it, I'd say I make a fine human being. </sp>
+<stage>He turns around, showing his tail sticking out the back of his uniform.</stage>
+<sp> <boxstart/>It's pretty hard standing on two feet... </sp>
+<stage>Back in the cargo hold...</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hey, <referent name="Cloud">Cloud</referent>. Did you see <referent name="Barret">Barret</referent>?<boxstart/>I hope he's not doing anything stupid... </sp>
+<stage>Cloud goes back up to find Barret just outside the bridge, watching Rufus and Heidegger through the window.</stage>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Look, <referent name="Cloud">Cloud</referent>. It's <referent name="Rufus">Rufus</referent> and Heidegger.<boxstart/>They're this close but we can't do a thing to 'em...<boxstart/>Ummmm...... Gmmmmm......<boxstart/>How can he...... Goin' off laughin' like that?<boxstart/>Because of him, Biggs...... Wedge...... Jessie......!<boxstart/>Ggggggggh... Ggggh......! Ggggggghhh!!<boxstart/>God!! I can't take it anymore!<boxstart/>I'm gonna settle things here and now...... </sp>
+<sp> <speaker name="unspecified"/><boxstart/>Emergency alert! Reports of a suspicious character found! Those not on detail, search the ship. Report when found!<boxstart/>I repeat. Suspicious character found on board! Those not on detail, search the ship. Report when found! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Damn, did they find us!?<boxstart/>Hey, that don't seem like us. Do they mean... <referent name="Tifa">Tifa</referent> and the others!?<boxstart/>Get off your spikey butt and let's go, <referent name="Cloud">Cloud</referent>! </sp>
+<stage>Barret and Cloud join the others gathered on the deck of the ship.</stage>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Everyone all right!? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>You all right!? </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Huh? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Everyone's here... right? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>Hey, wait.<boxstart/>You don't think that suspicious character is... </sp>
+<sp> <speaker name="Someone">Someone</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>!? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Really!? </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>How the hell am I supposed to know!? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Let's find out. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>It's the most logical thing to do. Then, who's going to go? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker> (backing away)<boxstart/>N, not me...<boxstart/>I don't even like <referent name="Sephiroth">Sephiroth</referent> anyway. And beside...... ugh...... urk...... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...... <referent name="Sephiroth">Sephiroth</referent>......<boxstart/>......All right, let's go! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>I'm goin' too! </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Is it really <referent name="Sephiroth">Sephiroth</referent>......? </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Take me with you! </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>These clothes are too tight on me. Can I switch with you? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>I told you... I don't want... to, ugh...... urk...... </sp>
+<sp> <speaker name="Sailor 4">Sailor 4</speaker><boxstart/>Say, who are you? You're not a part of the crew.<boxstart/>Oh well, seamen never bother with details!<boxstart/>How you feelin'! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I'm tired...<boxstart/>- Something's missing<boxstart/>- Leave me alone </sp>
+<stage>Cloud the others go down into the cargo hold, where two sailors and a soldier lie motionless on the floor.</stage>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>...the Engine Room... ...a suspicious...... character...<boxstart/>No...... there's no way...... that...... not a human...... That thing's not human...... </sp>
+<stage>Cloud enters the engine room and walks up to the one soldier still standing.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Is it...... <referent name="Sephiroth">Sephiroth</referent>? </sp>
+<stage>The man turns around and collapses.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>No... not <referent name="Sephiroth">Sephiroth</referent>! </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>......After a long sleep...<boxstart/>...the time......<boxstart/>...time has...... come... </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Look, <referent name="Cloud">Cloud</referent>!! </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Look, <referent name="Cloud">Cloud</referent>!! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>, look!! </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Over there, <referent name="Cloud">Cloud</referent>. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Ov...... over there!! </sp>
+
+<stage>Sephiroth rises up through the floor of the engine room.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>! You're alive! </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>......Who are you? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You don't remember me!? I'm <referent name="Cloud">Cloud</referent>! </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/><referent name="Cloud">Cloud</referent>... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>! What are you thinking!? What are you doing!? </sp>
+<sp> <speaker name="Sephiroth">Sephiroth</speaker><boxstart/>...the time...... is now... </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What!? What are you saying? Be more...... </sp>
+<stage>Sephiroth flies off through the ceiling, and Cloud's party enters a battle with Jenova∙BIRTH, fighting and defeating it. A small tentacle-like piece remains after the battle.</stage>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Isn't he...... that guy? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I've seen this before... </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I've seen this somewhere... before. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>That's what disappeared from the Shinra building... </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Eeeew! What IS it! GROSS! </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Jenova. The arm of Jenova. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Jenova...You mean he's been walkin' around with that thing? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Jenova... With this thing? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Jenova... He's been carrying this thing around? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent> took Jenova... What does it mean? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Gag... I'm feeling sick as it is without you having to show me THIS... </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>So it WAS <referent name="Sephiroth">Sephiroth</referent>. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>He said the time is now. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>The time is now... I think that was what was said. </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>He said something about it being time for something. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>The time is now...? What does that mean? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>He was mumbling something about time! </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>......Time... is now? </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>I don't know WHAT the hell's goin' on!<boxstart/><referent name="Cloud">Cloud</referent>, why don't you explain to me what's happened so far? </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Hmm... I don't get it.<boxstart/>Hey, <referent name="Cloud">Cloud</referent>. Can you explain it to us? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>I'm getting so confused...<boxstart/><referent name="Cloud">Cloud</referent>, explain what's happened so far. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Hmm... The story's not that simple.<boxstart/><referent name="Cloud">Cloud</referent>, why don't you summarize what's happened so far? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>So what's the story?<boxstart/>Hey <referent name="Cloud">Cloud</referent>. Give us a quick run down. </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I'll try<boxstart/>- Too much trouble [With this choice, he doesn't say anything more.] </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...I'll try, but don't interrupt me while I'm explaining.<boxstart/>Sephiroth went off searching for the Promised Land, so he could become the ruler of the planet... That was 5 years ago.<boxstart/>Then Sephiroth came back and killed President Shinra.<boxstart/>And then just now all of us saw <referent name="Sephiroth">Sephiroth</referent>.<boxstart/>He was carrying Jenova with him.<boxstart/>...This much I do know. He told me he wants to go to the Promised Land with his mother, Jenova.<boxstart/>...I guess that's about it. </sp>
+<sp> <speaker name="unspecified"/><boxstart/>Dock workers--We will be docking in Costa del Sol in 5 minutes. Prepare for docking. </sp>
+
+	<sp> <speaker name="Barret">Barret</speaker><boxstart/>Whoa! We'd best hurry and hide somewhere. </sp>
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Maybe we shouldn't stay in here anymore... </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We should hide somewhere again. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>I don't think it's wise to stay here any longer. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Phew... We're finally here... Now we gotta hide...... </sp>
+
+<stage>The others start for the exit. Cloud turns back to look at where Sephiroth was.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>... is alive...<boxstart/>The Promised Land... Does it really exist...? </sp>
+<stage>The cargo ship continues on to dock at Costa del Sol.</stage>
+
+</scene>

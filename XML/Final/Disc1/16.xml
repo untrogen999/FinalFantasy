@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="GoldSaucerCaitSith">
+
+<sp> Gold Saucer - Meeting Cait Sith </sp>
+
+<sp> Arrival at Gold Saucer </sp>
+<sp> Exploring Gold Saucer </sp>
+<sp> Meeting Cait Sith </sp>
+<sp> Battle Square </sp>
+
+<stage>Cloud and the others take the Ropeway from North Corel up to Gold Saucer.</stage>
+<sp> <speaker name="Chocobo Mascot">Chocobo Mascot</speaker><boxstart/>Welcome to the Gold Saucer. </sp>
+<stage>If Cloud attempts to enter without paying, he's stopped by the admissions lady.</stage>
+<sp> <speaker name="Admissions Lady">Admissions Lady</speaker><boxstart/>Please buy your ticket here. </sp>
+<sp> <speaker name="Admissions Lady">Admissions Lady</speaker><boxstart/>Welcome to the Gold Saucer.<boxstart/>Are you together? A single pass is 3000 gil, or you can purchase a lifetime pass for 30000 gil. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Pay 3000 gil<boxstart/>- Pay 30000 gil<boxstart/>- Don't pay </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Pay 3000 gil </sp>
+  <sp> <speaker name="Admissions Lady">Admissions Lady</speaker><boxstart/>Thank you very much.<boxstart/>If you leave Gold Saucer, your tickets become invalid. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Pay 30000 gil </sp>
+  <sp> <speaker name="Admissions Lady">Admissions Lady</speaker><boxstart/>Thank you very much.<boxstart/>If you have a Gold Ticket, you can come and go freely into the park... as long as you don't lose it. </sp>
+
+<sp> <speaker name="Admissions Lady">Admissions Lady</speaker><boxstart/>Here at the Gold Saucer, there are many places where you must pay with GP.<boxstart/>Just think of 'GP' as money that you can only use at the Gold Saucer.<boxstart/>GP can only be redeemed at the games in Wonder Square and at the Chocobo Races.<boxstart/>Your GP limit is 10000, so please be careful.<boxstart/>Please enjoy yourselves. </sp>
+<stage>Moving on through the entrance, they find themselves in the central hub of Gold Saucer, called the Station.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wow! Let's have fun!<boxstart/>I know this isn't the right time to do this.<boxstart/>Hey, <referent name="Barret">Barret</referent>, cheer up! </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>......I ain't in no cheery mood. So jes' leave me alone. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Really? That's too bad. </sp>
+<stage>She runs over to Cloud and grabs his arm.</stage>
+<sp> <boxstart/>Let's go! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>....whisper... whisper... (Wasn't that a little harsh, <referent name="Aerith">Aerith</referent>!?) </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...whisper... whisper... (Just act normal when this happens) </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>...whisper... (You think so...?) </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Of course! </sp>
+<stage>She runs back over to Barret.</stage>
+<sp> <boxstart/>We're gonna go play... </sp>
+<sp> <speaker name="Barret">Barret</speaker><boxstart/>So PLAY! ...messin' round #@^%$!<boxstart/>Don't forget we're after <referent name="Sephiroth">Sephiroth</referent>! </sp>
+<stage>He runs over and jumps down the tube leading to Wonder Square.</stage>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>...I think he's mad. </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>He'll be fine. He seems to be doing a little better now. </sp>
+<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>I wish we could just forget everything and have fun! </sp>
+<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>We'd better be careful, <referent name="Sephiroth">Sephiroth</referent> might be around. </sp>
+<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>......You want to go with me? </sp>
+<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>With me!? </sp>
+<stage>If Cloud tries to leave the Station alone, one of them will run up to him...</stage>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>!<boxstart/>Don't go alone, go with me! </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/><referent name="Cloud">Cloud</referent>!<boxstart/>I'll go with you. </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/><referent name="Cloud">Cloud</referent>!<boxstart/>Don't go by yourself... </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Cloud!<boxstart/>Let's go together, <referent name="Cloud">Cloud</referent>! </sp>
+
+<sp> <speaker name="Info Board inside the Station">Info Board inside the Station</speaker><boxstart/>Welcome to Gold Saucer!<boxstart/>Many attractions await you here at Gold Saucer.<boxstart/>You will be moved and excited, thrilled and terrified! Led from one zone to another...<boxstart/>unlike anything you've ever experienced! Make your memories... today.<boxstart/>Shinra<boxstart/>"Now in: Gold Gate" Let's access all of the Attractions!<boxstart/>"Event Square" An entertaining show is awaiting you.<boxstart/>"Chocobo Square" Chocobo Racing takes you into the world of Virtual Reality! Wark! Wark!<boxstart/>"Ghost Square" Please come and stay at the hotel..... Ha ha ha...<boxstart/>"Battle Square" Go to the limits in heated battles! Try your hand at the special Gold Attack!!<boxstart/>"Round Square" Take a tour of the Park and see the beautiful night scenery of Gold Saucer...<boxstart/>"Speed Square" A Shooting Roller Coaster is waiting to take you into the world of excitement.<boxstart/>"Wonder Square" A number of Games await you here. Collect GP at Wonder Square and play some more! </sp>
+<stage>Cloud chooses one member of the group to accompany him, and they set off to explore Gold Saucer. At Chocobo Square... A bunch of Shinra soldiers are gathered on the steps.</stage>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What happened? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>What happened? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What is it? </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Sh...!<boxstart/>Shinra soldiers... Even here... </sp>
+<sp> <speaker name="Soldier">Soldier</speaker><boxstart/>Attention! Dismissed!! </sp>
+<stage>The soldiers disperse to different areas of the Gold Saucer, and after a moment Cloud heads up the stairs.</stage>
+<sp> <speaker name="Lady at Entrance">Lady at Entrance</speaker><boxstart/>Welcome to Chocobo Racing. </sp>
+<sp> <speaker name="Man Betting">Man Betting</speaker><boxstart/>I... I lost... </sp>
+<stage>Or, sometimes:</stage>
+<sp> <boxstart/>Yeahh! This is why I can't seem to quit. </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>You can only buy up to 3 tickets. Think before you buy. For example, you could select half of the Chocobos and buy 3 boxes. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Boxes?<boxstart/>- Not interested </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>A box is buying 3 combinations of 2 chocobos.<boxstart/>For example, if you select Chocobo 1, 3, and 5, you can purchase combinations, such as 1-3, 1-5, 3-5.<boxstart/>You can also play the limited wheel by selecting a Chocobo. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Limited wheel?<boxstart/>- Not interested </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Playing a 'Limited wheel' means you select a Chocobo and use it in all of your combinations.<boxstart/>For example, if you have Chocobo 1, then you buy 1-2, 1-3, 1-4.<boxstart/>No matter how you make your bet, you win some and you lose some. It all comes down to insight and luck. </sp>
+<sp> <speaker name="Security">Security</speaker> (near Jockey Lounge)<boxstart/>I'm sorry, but this is for authorized personnel only. </sp>
+<sp> <speaker name="Blond Man">Blond Man</speaker><boxstart/>We usually buy tickets for the B rank and C rank races, right? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Rank?<boxstart/>- Not interested </sp>
+<sp> <speaker name="Blond Man">Blond Man</speaker><boxstart/>In other words, 'rank' means the Chocobo's 'strength'. A is highest and C's the lowest.<boxstart/>When you become a Free Chocobo jockey, you'll be able to buy A rank tickets.<boxstart/>Of course, the higher the rank, the better your item ticket. Hey, maybe I'll become a Chocobo jockey!? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- How DO you become one?<boxstart/>- Not interested </sp>
+<sp> <speaker name="Blond Man">Blond Man</speaker><boxstart/>You can become one if you own a Chocobo... and have some connections. But Chocobo's are pretty hard to catch and I don't have any connections. </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Hey, what's that Chocobo on the odds sheet? </sp>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>That's how you can find out a Chocobo's condition and strengths. </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Hmm, If you can tell which ones are the strongest, then it's easy... </sp>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>Well, not as easy as you think. It's not just a matter of the Chocobo's strength,<boxstart/>but it also depends on the jockey and the Chocobo's personality.<boxstart/>If these are bad, they may use too much stamina, and affect other things. </sp>
+<sp> <speaker name="Lady at the Ticket Desk">Lady at the Ticket Desk</speaker><boxstart/>Welcome. Would you like to buy some Chocobo tickets? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah<boxstart/>- Ask how to buy<boxstart/>- Explain it to me<boxstart/>- Not interested </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>Yeah </sp>
+  <sp> <speaker name="Lady at the Ticket Desk">Lady at the Ticket Desk</speaker><boxstart/>Registration fees are 200 gil. Is that all right? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeahhh!<boxstart/>- No way! </sp>
+  <sp> <speaker name="Lady at the Ticket Desk">Lady at the Ticket Desk</speaker><boxstart/>Which rank would you like to select? </sp>
+  <sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- C (1BET 1 0 0 gil)<boxstart/>- B (1BET 2 0 0 gil)<boxstart/>- Quit </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Ask how to buy </sp>
+  <sp> <speaker name="Lady at the Ticket Desk">Lady at the Ticket Desk</speaker><boxstart/>You are allowed a maximum of 3 bets on your Chocobo ticket. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Explain it to me </sp>
+  <sp> <speaker name="Lady at the Ticket Desk">Lady at the Ticket Desk</speaker><boxstart/>This Chocobo Race has Virtual devices on the course.<boxstart/>They show natural scenery during the race that really doesn't exist.<boxstart/>You pick which Chocobo will finish first and second here,<boxstart/>And then buy the appropriate tickets.<boxstart/>And if the ticket you purchased is a winner, you'll receive a ticket for an item that will be listed on the panel.<boxstart/>You can exchange your tickets for items or GP at the Exchange counter to the right of the entrance. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>Not interested </sp>
+  <stage>Nothing happens.</stage>
+
+<stage>At Battle Square, there is a staff woman standing in front of the stairs.</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>I'm sorry, we're currently renovating. Please come again. </sp>
+<stage>At Ghost Square, a zombie greets Cloud as he enters the hotel.</stage>
+<sp> <speaker name="Zombie">Zombie</speaker><boxstart/>Welcome. Thank you for coming to the Ghost Hotel.<boxstart/>Uuuuuuuuuuugh......<boxstart/>For reservations, please step up to the counter.<boxstart/>Uuuuuuuuuuugh...... </sp>
+<stage>Cloud steps up to the counter, and a man in a noose drops down with a scream.</stage>
+<sp> <speaker name="Receptionist">Receptionist</speaker><boxstart/>It's our most popular employee, Mr. Hangman. </sp>
+<sp> <speaker name="Mr. Hangman">Mr. Hangman</speaker><boxstart/>Welcome!<boxstart/>It's 5 GP a night. Would you like to stay? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yeah, all right<boxstart/>- No thanks </sp>
+<sp> <speaker name="Flyer">Flyer</speaker><boxstart/>[Turtle's Paradise]<boxstart/>No. 3<boxstart/>Forget the bad times with a nice drink...<boxstart/>Only thing missing in Gold Saucer is......<boxstart/>A pub with good drinks and a great atmosphere!<boxstart/>Stop in the "Turtle's Paradise"! </sp>
+<stage>If Cloud attempts to go upstairs without paying...</stage>
+<sp> <speaker name="Mr. Hangman">Mr. Hangman</speaker><boxstart/>Sir... Please register at the counter!! </sp>
+<stage>At Round Square...</stage>
+<sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Welcome. This attraction is 3 GP.<boxstart/>Shall you be riding this evening? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yes, I shall<boxstart/>- No, I shan't </sp>
+
+	<sp> <speaker name="Cloud"/><boxstart/>Yes, I shall </sp>
+	<sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Would this be your first time riding with us? </sp>
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yes, it would<boxstart/>- No, it would not </sp>
+	
+		<sp> <speaker name="Cloud"/><boxstart/>Yes, it would </sp>
+		<sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>You will be able to see all the different areas of Gold Saucer on this ride.<boxstart/>So please just sit back and enjoy a lovely view you won't see anywhere else.<boxstart/>This attraction can only ccommodate 2 passengers, so one of you please wait over there. </sp>
+	
+	
+		<sp> <speaker name="Cloud"/><boxstart/>No, it would not </sp>
+		<sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>This attraction can only ccommodate 2 passengers, so one of you please wait over there. </sp>
+	
+	<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Who should I ride with... </sp>
+	<stage>Cloud selects a companion.</stage>
+	<sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Enjoy the sights of Gold Saucer. </sp>
+	<stage>Cloud and his companion ride the gondola.</stage>
+	
+		<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Wow, how nice.<boxstart/>Oh! Look, Cloud.<boxstart/>It's so pretty.<boxstart/><referent name="Cloud">Cloud</referent>!<boxstart/>Wow! </sp>
+		<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Oh, how pretty.<boxstart/>Look, Cloud.<boxstart/>Oh, <referent name="Cloud">Cloud</referent>.<boxstart/>Look, look.<boxstart/>Look, there. </sp>
+		<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Wow!<boxstart/>Geez!!<boxstart/><referent name="Cloud">Cloud</referent>!<boxstart/>Oh my gawd!<boxstart/>Geez! </sp>
+	
+
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> does not have enough GP to pay.</sp>
+	<sp> <speaker name="Woman at Ticket Booth">Woman at Ticket Booth</speaker><boxstart/>Um, I'm very sorry, but you do not have enough GP. </sp>
+
+<stage>At Speed Square, a muscular man addresses Cloud when he arrives.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Hey boy. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Boy... </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>How is it? You having fun?<boxstart/>Mmm, so, you ARE having fun. Well, good, good for you boy. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>My name's <referent name="Cloud">Cloud</referent>. And stop calling me boy. </sp>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>Mmm? Me? I'm the owner of the Gold Saucer. The name's Dio.<boxstart/>Just call me 'Dio'. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...... (Not even listening) </sp>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>By the way, boy, do you know what a 'Black Materia' is? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- I know what it is<boxstart/>- What is it? </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>I know what it is </sp>
+  <sp> <speaker name="Dio">Dio</speaker><boxstart/>Oh, so you do know. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>What is it? </sp>
+  <sp> <speaker name="Dio">Dio</speaker><boxstart/>Ha ha ha...... that, I say, that's a good one, boy! But it's not good to lie. You can't fool me. </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Why d'you ask me? </sp>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>Well, a while back, a boy your age came in and asked me if I had a 'Black Materia.'<boxstart/>I thought you might know who he was, seein' as how you're both about the same age. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Did he happen to have... a Black Cape... </sp>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>Why yes, yes indeed. And a tattoo on his hand that said '1'. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Where did he go!? </sp>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>Ha ha ha, I have no idea.<boxstart/>Well then.<boxstart/>I say, stop by the Battle Arena if you like, boy.<boxstart/>You'll probably like it. Many of my collections are on display there.<boxstart/>Ha, ha ha. </sp>
+<stage>He leaves.</stage>
+<sp> <speaker name="Person">Person</speaker><boxstart/>We have to be careful of these steps.<boxstart/>What...? A lot of things... </sp>
+<sp> <speaker name="Redhead">Redhead</speaker><boxstart/>First, I gotta memorize the order it comes out, and then guess on the attacks...... mumble, mumble...... </sp>
+<stage>Onward to the roller coaster. If Cloud tries to get on without buying a ticket...</stage>
+<sp> <speaker name="Ticket Person">Ticket Person</speaker><boxstart/>This way, Sir, to register. </sp>
+<sp> <speaker name="Ticket Person">Ticket Person</speaker><boxstart/>Is this your first time? First, listen to the explanation of the game over there. </sp>
+<sp> <speaker name="Lady">Lady</speaker><boxstart/>Hear the rules for this attraction? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yes<boxstart/>- Not interested </sp>
+<sp> <speaker name="Lady">Lady</speaker><boxstart/>This attraction, Shooting Coaster is<boxstart/>While your ride's going ZOOM, you're going BANG BANG, and things are going PHEW PHEW and you destroy them with a big BOOM. Pretty simple, isn't it?<boxstart/>Oh, to shoot, hit the O Button. And, the Bar that's shown on the left side of the screen is the Power Meter.<boxstart/>When it's full, it'll go BROOOOOM and when it's empty, it'll only go BRM and become weak. So be careful.<boxstart/>Also, if you're in the Top 3 you'll get on the Wall of Fame. </sp>
+<sp> <speaker name="Ticket Person">Ticket Person</speaker><boxstart/>This attraction costs 10 GP. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Pay<boxstart/>- Changed my mind </sp>
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> does not have enough GP to pay.</sp>
+	<sp> <speaker name="Ticket Person">Ticket Person</speaker><boxstart/>......... You don't have enough GP </sp>
+
+
+	<sp> <speaker name="Cloud"/><boxstart/>Otherwise</sp>
+	<sp> <speaker name="Ticket Person">Ticket Person</speaker><boxstart/>Thank you. </sp>
+
+<stage>Cloud and the others ride the coaster.</stage>
+<sp> <speaker name="Wall of Fame Staffer">Wall of Fame Staffer</speaker><boxstart/>Your score is x points. </sp>
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> scored 3000-4999 points...</sp>
+	As a price, Received "Super Sweeper/Masamune Blade/1/35 soldier"!!
+
+
+	<sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> scored 5000+ points...</sp>
+	As a price, Received "Umbrella"!!
+
+<stage>Sometimes after coming off the roller coaster, Cloud will walk to the side and hang his head.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Ugh... </sp>
+<sp> <speaker name="Wall of Fame Staffer">Wall of Fame Staffer</speaker><boxstart/>Would you like to see the Wall of Fame? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Yes<boxstart/>- Not interested </sp>
+<stage>Cloud's current 3 high scores are displayed.</stage>
+<sp> <speaker name="Wall of Fame Staffer">Wall of Fame Staffer</speaker><boxstart/>You'll receive a prize if you get more than 3000 Points. So good luck. </sp>
+<stage>Stepping back into the hallway, Cloud may encounter a couple standing there.</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Hey, I finally got 5000 points. </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Wow!! You're so wonderful!! </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Man, I finally got a prize... </sp>
+<stage>The next time Cloud sees the couple...</stage>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Hey, I got 5000 points again. </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Wow!! You're so wonderful!! </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Well, I guess I'll go and get some more GP. </sp>
+<stage>Sometimes a pair of children will appear running towards the coaster.</stage>
+<sp> <speaker name="Little Girl">Little Girl</speaker><boxstart/>Eyyaaaaaa! </sp>
+<sp> <speaker name="Little Boy">Little Boy</speaker><boxstart/>Yaaay----!! </sp>
+<sp> <speaker name="Man">Man</speaker><boxstart/>Come on now, no running. </sp>
+<stage>At Event Square, the stands are empty except for some staff members and two couples sitting around.</stage>
+<sp> <speaker name="Security">Security</speaker><boxstart/>Sorry but there's no show now. </sp>
+<sp> <speaker name="Staffer">Staffer</speaker><boxstart/>We put on a really unusual show here. It's not on today, but come back again sometime and see it. </sp>
+<sp> <speaker name="Couple">Couple</speaker><boxstart/>What's your problem? Can't you see we wanna be alone? </sp>
+<sp> <speaker name="Couple 2">Couple 2</speaker><boxstart/>Geez, you're a real bummer. Why don't you just leave us alone? </sp>
+<stage>At Wonder Square, Cloud and his companion are approached by a black cat toy riding a giant stuffed moogle.</stage>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hey you!! What're you lookin' so down for!?<boxstart/>How 'bout it? Want me to read your fortune!? A bright future! A happy future!<boxstart/>Oh, but don't hold it against me if it's not a great prediction!<boxstart/>Oh, so sorry! I'm a fortune telling machine. The name's...<boxstart/><referent name="Cait Sith">Cait Sith</referent>. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>You can only read the future? </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>You kidding!? I can find missing things, missing people, anything! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Then can you tell me where a man named <referent name="Sephiroth">Sephiroth</referent> is? </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Sephiroth">Sephiroth</referent>, right!?<boxstart/>Okay, here goes!! </sp>
+<stage>He shakes about on his moogle, and it then hands Cloud a fortune.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...Ordinary luck. It will be an active fortune.<boxstart/>Give into the good will of others, and something big'll happen after summer. ...wait... what's this? </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Huh? Let me try again. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Be careful of forgetfulness. Your lucky color is... blue?<boxstart/>...Forget it. </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Wait, wait give me another chance!<boxstart/>Wait! Let me try it again! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>...What the!? </sp>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What does it say? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Read it out loud, <referent name="Cloud">Cloud</referent>. </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>What is it! Tell us! </sp>
+
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>What you pursue will be yours. But you will lose something dear. </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I don't know if it's good OR bad...<boxstart/>This's the first time I ever got something like THIS.<boxstart/>Then shall we? </sp>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What are you talking about? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Excuse me? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>To where? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Huh? </sp>
+
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>As a fortune teller, I can't help but think about this.<boxstart/>If I don't see what it leads to, I won't be able to relax. That's why I'm going with you! </sp>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What are we going to do, <referent name="Cloud">Cloud</referent>? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Is it all right, <referent name="Cloud">Cloud</referent>? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/><referent name="Cloud">Cloud</referent>, it's all right with you? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>He's weird! <referent name="Cloud">Cloud</referent>, don't let him come! </sp>
+
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>I'm comin' with you no matter WHAT you say! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>H... hey! </sp>
+<sp> <speaker name="Man in Overalls">Man in Overalls</speaker><boxstart/>They probably told you at the entrance, but most of the attractions at Gold Saucer only take 'GP'.<boxstart/>They don't sell GP. You can only get 'em from the Wonder Square games or at the Chocobo Races. </sp>
+<sp> <speaker name="Chocobo Mascots">Chocobo Mascots</speaker><boxstart/>Let's get lotsa GP at Wonder Square and have some fun! </sp>
+<sp> <speaker name="People Playing Wonder Catcher">People Playing Wonder Catcher</speaker><boxstart/>All...... most......<boxstart/>Crap!<boxstart/>no cigar...<boxstart/>You sure do need a lot of money here.<boxstart/>Please...... don't...... talk to me...... right now.<boxstart/>I get so caught up in these......<boxstart/>Back there... </sp>
+<sp> <speaker name="Guy on Motorcycle Game">Guy on Motorcycle Game</speaker><boxstart/>Hyuuuuu, BAM, BAM, BAM...<boxstart/>Oh man, I just gotta shout. </sp>
+<sp> <speaker name="Guy on Snowboard Game">Guy on Snowboard Game</speaker><boxstart/>Nope, I'm not quitting until I clear this!<boxstart/>I'm gonna be the wind again today! </sp>
+<sp> <speaker name="Guy Near Submarine Game">Guy Near Submarine Game</speaker><boxstart/>Whew, I'm tired. Oh this? It seems to be out of order. </sp>
+<sp> <speaker name="Guy Near Mog Game">Guy Near Mog Game</speaker><boxstart/>...... Don't worry 'bout me. Go ahead and play. </sp>
+<stage>Cloud plays Mog House.</stage>
+<sp> <speaker name="Narration">Narration</speaker><boxstart/>This is Mog's house. It's in Mog Forest on Mt. Mog.<boxstart/>The beginning of another day in the life of a Mog.<boxstart/>This year, Mog is pipapopupo years old. ...that's 28 in human years. He's at that age when he should be looking for a mate.<boxstart/>But before Mog can become an adult, he first needs to learn how to fly.<boxstart/>Even though Mog trains hard everyday... He still can't seem to get off the ground... </sp>
+<stage>Mog tries to fly and falls on his face.</stage>
+<sp> <speaker name="Narration">Narration</speaker><boxstart/>Looks like he's still got a long way to go...<boxstart/>Here's where you come in. Help Mog learn how to fly by pushing O button and feeding him his favorite Kupo nut.<boxstart/>But don't overfeed him. He won't be able to fly if he's too fat. </sp>
+<stage>Cloud feeds Mog Kupo nuts, and he hops up again.</stage>
+<sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh? It seems like Mog's decided to take another shot at it. </sp>
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> fed him the wrong number of nuts...</sp>
+  <stage>He falls flat on his face again.</stage>
+  <sp> <speaker name="Narration">Narration</speaker><boxstart/>Poor Mog. It looks like he'll have to wait some time for a mate.<boxstart/>Poor Mog, seems like he'll be alone for a while. </sp>
+
+
+  <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> fed him the right number of nuts...</sp>
+  <stage>Mog takes off and makes a few circuits around the screen.</stage>
+  <sp> <speaker name="Narration">Narration</speaker><boxstart/>He did it! He's flying! Now, he's finally become a full-fledged Mog. </sp>
+  <stage>Mog lands and returns to his house, taking a bow before going inside.</stage>
+  <sp> <speaker name="Narration">Narration</speaker><boxstart/>Tired but relaxed, our little Mog turns out the lights early and goes to bed. Good night, and sweet dreams...... </sp>
+  <stage>A pink moogle appears.</stage>
+  <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh?... What's this? Here comes a female Mog! </sp>
+  <stage>She approaches Mog's house and knocks. Mog comes out and chirps.</stage>
+  <sp> <speaker name="Narration">Narration</speaker><boxstart/>Seems he likes her too...<boxstart/>Now, will Mog be able to fly gracefully in front of her? Help him out with a few kupo nuts. </sp>
+  <stage>Cloud feeds Mog Kupo nuts, and he hops up again.</stage>
+  <sp> <speaker name="Narration">Narration</speaker><boxstart/>Oh? It seems like Mog's decided to take another shot at it. </sp>
+  
+    <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> fed Mog the wrong number of nuts...</sp>
+    <stage>He falls on his face again.</stage>
+    <sp> <speaker name="Narration">Narration</speaker><boxstart/>Unfortunately, he didn't make it. Poor Mog'll have to wait some time for a bride.<boxstart/>Poor Mog, seems like he'll be alone for a while. </sp>
+  
+  
+    <sp> <speaker name="Cloud"/><boxstart/>If <referent name="Cloud">Cloud</referent> fed him the right number of nuts...</sp>
+    <stage>Mog takes off and makes a few circuits around the screen.</stage>
+    <sp> <speaker name="Narration">Narration</speaker><boxstart/>He's flying!! Mog was able to do it!<boxstart/>She must have fallen for his graceful flying form. </sp>
+    <stage>The screen goes dark.</stage>
+    Sometime later...
+    <stage>Mog steps out of his house.</stage>
+    <sp> <speaker name="Narration">Narration</speaker><boxstart/>Looks like things are going good with his new Mog-friend. Time for a quiet date in the forest.<boxstart/>Her name is Mag. She is a good-natured Mog. </sp>
+    <stage>Mog and Mag leave the house and walk off screen.</stage>
+    <sp> <speaker name="Narration">Narration</speaker><boxstart/>Best of luck to the both of you, Mog and Mag. May you have lots and lots of healthy Mogs! </sp>
+    <stage>No fewer than 12 baby moogles exit the house. The last one trips and falls on his face. One of the others comes back for him and they run off.</stage>
+    <sp> <speaker name="Narration">Narration</speaker><boxstart/>Uh...no worries there, I guess... </sp>
+    ~FIN~
+    <stage>The game ends.</stage>
+    <sp> <speaker name="Guy Near Mog Game">Guy Near Mog Game</speaker><boxstart/>Hmm... I'm impressed... Thanks for showing me it.<boxstart/>Here, take this. </sp>
+    Received 30 GP!!
+  
+
+<sp> <speaker name="Fortune Telling Machine">Fortune Telling Machine</speaker><boxstart/>1 fortune 50 gil </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>- Try it<boxstart/>- Not interested </sp>
+<sp> <speaker name="Fortune Telling Machine">Fortune Telling Machine</speaker><boxstart/>Use caution in relationships </sp>
+<stage>If Cloud tries to leave Gold Saucer via the Ropeway...</stage>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>Are you thinking of just us going back? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Hey, <referent name="Cloud">Cloud</referent>, Are we going back without the others? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Are we leaving the others? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/><referent name="Cloud">Cloud</referent>! Are we just going to leave the others? </sp>
+
+<stage>Returning to Battle Square, Cloud and the others arrive to find a Shinra soldier standing in front of the stairs.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>!! </sp>
+<stage>The soldier collapses, and Cloud goes over to investigate.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Mm!?<boxstart/>Dead...... </sp>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>What!? Why? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>What!? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>What the... </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Wh... why? </sp>
+
+<stage>Cloud runs off up the stairs.</stage>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/><referent name="Cloud">Cloud</referent>!? Where are you going? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>Wa... wait <referent name="Cloud">Cloud</referent>! </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>Hey, <referent name="Cloud">Cloud</referent>! </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Don't, don't just leave me! </sp>
+
+<stage>The others follow him up to the battle arena, where four more soldiers lie dead, and the staff members are slumped at their counters.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Did Sephiroth do this!?<boxstart/>No... it's not him... They're all shot... <referent name="Sephiroth">Sephiroth</referent> would never use a gun... </sp>
+<stage>One of the Gold Saucer staffers stirs.</stage>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Ugh, ugggh. </sp>
+<stage>Cloud and the others run over to her.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey, what happened! </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>Ugh... ugh... a man with a gun... on his arm...... </sp>
+
+	<sp> <speaker name="Aerith">Aerith</speaker><boxstart/>It can't be!? </sp>
+	<sp> <speaker name="Tifa">Tifa</speaker><boxstart/>A gun on his arm!? </sp>
+	<sp> <speaker name="Red XIII">Red XIII</speaker><boxstart/>...did he!? </sp>
+	<sp> <speaker name="Yuffie">Yuffie</speaker><boxstart/>Wow, that's somethin!! </sp>
+
+<sp> <speaker name="Security">Security</speaker><boxstart/>Hold it right there! And stay quiet!! </sp>
+<stage>Dio enters with two security guards.</stage>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>Did you guys do this!? </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>N... no, it wasn't us! </sp>
+<sp> <speaker name="Dio">Dio</speaker> (if you spoke earlier)<boxstart/>I must've been wrong... </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/>Hurry and run, it's gonna get ugly. </sp>
+<stage>He runs for the arena.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>He...... hey! </sp>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>Hold them! </sp>
+<stage>Cloud follows Cait Sith into the arena.</stage>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>That's as far as you go. </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Wait, listen to... </sp>
+<sp> <speaker name="Cait Sith">Cait Sith</speaker><boxstart/><referent name="Cloud">Cloud</referent>... </sp>
+<stage>Robots approach them from three sides, and Dio blocks the way back out... The scene changes to where Cloud is being held by one of the robots. Before him is a hatch labeled "Gateway to heaven."</stage>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>One more to go. </sp>
+<sp> <speaker name="Security">Security</speaker><boxstart/>Yes </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hey! Pay attention!! </sp>
+<sp> <speaker name="Dio">Dio</speaker><boxstart/>There's no need to listen. Pay for your crime down below!!<boxstart/>Do it! </sp>
+<sp> <speaker name="Security">Security</speaker><boxstart/>Yes </sp>
+<stage>The hatch opens, and the robot jumps in, carrying Cloud with it.</stage>
+
+</scene>

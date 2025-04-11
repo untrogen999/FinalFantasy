@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><scene name="CosmoCanyonBugenhagen">
+
+
+
+<sp> Cosmo Canyon - Bugenhagen's Farewell </sp>
+
+<stage>Entering without Nanaki...</stage>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Bugenhagen seems rather down ever since he returned from that trip.<boxstart/>I'm worried something might happen to Bugenhagen now of all times... </sp>
+<stage>With Nanaki...</stage>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/><referent name="Nanaki">Nanaki</referent>, it's really bad. Ever since Bugenhagen returned from that last trip, he doesn't seem well.<boxstart/>Why don't you hurry and see Bugenhagen? </sp>
+<sp> <speaker name="Elder Bugah">Elder Bugah</speaker><boxstart/>Where is the Promised Land...? Maybe Bugenhagen knows.<boxstart/>Isn't <referent name="Nanaki">Nanaki</referent> starting to notice? The reason why Bugenhagen sent him away from the canyon... </sp>
+<sp> <speaker name="Kid in Nanaki's Room">Kid in Nanaki's Room</speaker><boxstart/>He's finally come home, but Mr. Bugenhagen doesn't seem well...<boxstart/>I want to hear Mr. Bugenhagen's talk with <referent name="Nanaki">Nanaki</referent> like we used to do... </sp>
+<sp> <speaker name="Elder Hargo">Elder Hargo</speaker><boxstart/>I think Bugenhagen has foreseen it.<boxstart/>About the planet... About <referent name="Nanaki">Nanaki</referent>... And, about himself...<boxstart/>But, Bugehnagen would never say that. All he says is 'Ho Ho Hoooo'... </sp>
+<stage>In the living quarters next to the materia shop...</stage>
+<sp> <speaker name="Kid">Kid</speaker><boxstart/>What's wrong with Bugenhagen? Is he sick? </sp>
+<sp> <speaker name="Woman">Woman</speaker><boxstart/>No need to be sad, even if something should happen. Everything will return to the planet... Bugenhagen says so.<boxstart/>Just the thought of something happening to Bugenhagen... worries me. </sp>
+<stage>Upon reaching the observatory, Nanaki runs ahead.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Grandfather!! </sp>
+<stage>Cloud shakes his head and decides to leave Nanaki alone with Bugenhagen, who is lying on a couch on the second floor.</stage>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Grandfather!! </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>...<referent name="Nanaki">Nanaki</referent>...? ...you're still...... here? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>I can't leave you like this, grandfather...!<boxstart/>It's the duty of my... Seto's son, to guard this canyon and her people... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>...listen, Nanaki. I think you may already know.<boxstart/>If you have any mission in life, it is not to defend this valley.<boxstart/>Look at the withering mountain grass. Listen to the warble of the new born chocobo's.<boxstart/>Look always to the eternal flow of time which is far greater than the span of a human life.<boxstart/>It will teach you more, than staying here in the valley...<boxstart/>What you will see will eventually become a part of life's dream.<boxstart/>For my children...... And for your children......<boxstart/>So please, <referent name="Nanaki">Nanaki</referent>... Go with <referent name="Cloud">Cloud</referent>... And with your eyes... your ears... </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>......... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Ho Ho...... Hoooo. Now, now. Don't look like that. I'm all right.<boxstart/>It's a wide world and you must go out and see it... You may even find your life's mate. You never know. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Grandfather...... </sp>
+<sp> <speaker name="Bugenhagen">Bugenhagen</speaker><boxstart/>Oh yes... take this along. I think it will look good on you now.<boxstart/>Ho Ho...... </sp>
+<stage>He slumps back, and Nanaki starts. Fade to black.</stage>
+<stage>Cloud is waiting at the Candle. He stands when Nanaki arrives.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/><referent name="Nanaki">Nanaki</referent>... Is Bugenhagen...? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>......<boxstart/>Grandpa told me that he's going away again! </sp>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Away...? </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>It seems like he really liked that Airship.<boxstart/>He told me he couldn't stay still and just zipped out of here!<boxstart/>He even gave me a gift, look! </sp>
+<sp> <speaker name="unspecified"/><boxstart/>Received "Limited Moon"! </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Wait a minute. Aren't you supposed to give gifts AFTER you come back?<boxstart/>Ha ha...... Grandpa sure is strange! Haa... ha ha...... ha...... </sp>
+<stage>He shakes his head.</stage>
+<sp> <speaker name="Cloud">Cloud</speaker><boxstart/>Hmm... So maybe we'll run into him again somewhere. </sp>
+<sp> <speaker name="Nanaki">Nanaki</speaker><boxstart/>Yeah... maybe...<boxstart/>Thanks, <referent name="Cloud">Cloud</referent>...... </sp>
+<stage>Cloud shakes his head.</stage>
+<sp> <speaker name="Gatekeeper">Gatekeeper</speaker><boxstart/>Bugenhagen is what keeps our hearts strong...  </sp>
+
+</scene>

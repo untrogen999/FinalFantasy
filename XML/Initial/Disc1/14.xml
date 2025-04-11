@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene name="CostaDelSol">
+
+
+
+<h1>Costa del Sol - Taking a Break</h1>
+
+<h4><a href="#arrival">Arrival at Costa del Sol</a></h4>
+<h4><a href="#shinra">The Shinra's Arrival</a></h4>
+<h4><a href="#explore">Exploring the Town</a></h4>
+<h4><a href="#beach">The Beach</a></h4>
+<h4><a href="#morning">The Next Morning</a></h4>
+<hr></hr>
+<p class="italic"><a name="arrival"></a>The cargo ship arrives in Costa del Sol, and everyone gets off. Yuffie runs over to talk to one of the locals before joining the group.</p>
+<p class="indent"><b>Barret</b><br/>Damn! Sure is hot here!<br/>But I sure feel better now that I can say good-bye to this sailor suit.<br/>Yo listen up!! Y'all be sure to mingle like regular folks here!</p>
+<p class="indent"><b>Aerith</b><br/>Oh, too bad. I liked Barret's sailor suit.<br/>He looked so cute.</p>
+<p class="indent"><b>Barret</b><br/>......What'ya mean "cute"?</p>
+<p class="indent"><b>Tifa</b><br/>Right... well, uh...<br/>Barret, why don't you use that sailor suit for pajamas?<br/>Right, Cloud?</p>
+<p class="indent"><b>Cloud</b><br/>- I guess<br/>- Keep your mind on Sephiroth</p>
+<div class="block"/>
+  <p><span class="highlight">I guess</span></p>
+  <p>Ahhh...... You look like a bear wearing a marshmallow.</p>
+  <p class="indent-nopad"><b>Barret</b><br/>The hell's that supposed to mean!? This happens to be the most comfortable, so shu'up!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Keep your mind on Sephiroth</span></p>
+  <p>Remember, this isn't a vacation. We're here after Sephiroth.<br/>I'm going on ahead.</p>
+  <p class="indent-nopad"><b>Barret</b><br/>Hmmph, Cloud. You're the one, who's always hangin' around wastin' time. I'm going to skip this resort!</p>
+
+<p class="indent"><b>Red XIII</b><br/>...puff... puff...<br/>Would you kindly hurry? The heat here is drying my nose.</p>
+<p class="indent"><b>Yuffie</b><br/>Yeah, mine, too!!</p>
+<p class="indent"><b>Cloud</b><br/>All right. We'll take a break and then head off.<br/>Don't wander too far off.</p>
+<p class="indent"><b>Barret</b><br/>I'll wander wherever I damn well want! Who made him the leader?</p>
+<p class="italic-inline">Barret runs off.</p>
+<p class="indent"><b>Aerith</b><br/>Maybe I should get a tan for a change.<br/>Which do you like, Cloud?</p>
+<p class="indent"><b>Cloud</b><br/>- I like fair complexions.<br/>- Maybe a healthy tan is nice.</p>
+<p class="indent"><b>Aerith</b> (she says the same thing regardless)<br/>Got it. I'll remember that.</p>
+<p class="indent"><b>Tifa</b><br/>I think I'll go swimming.</p>
+<p class="indent"><b>Aerith</b><br/>Sounds good to me!<br/>Hmm? Cloud, are you thinking of anything in particular?<br/>Your cool exterior's cracking...<br/>Well then, let's go!</p>
+<p class="italic-inline">She and Tifa run off.</p>
+<p class="indent"><b>Red XIII</b><br/>It looks like my mane got messed up.<br/>I'm going to rest somewhere cool.</p>
+<p class="italic-inline">He slinks away.</p>
+<p class="indent"><b>Yuffie</b><br/>Don't bother looking for me!</p>
+<p class="italic-inline">She runs off.</p>
+<p class="indent"><b>Sailor</b><br/>You're stowaways, right?<br/>It's okay. I'm used to them.<br/>The truth is, before I worked here, I was one of the best.<br/>Costa del Sol... a harbor paradise where the sun always shines and it's summer all year round!<br/>Hmm...... Things aren't going well...... You can go sightseeing in the city.</p>
+<p class="indent"><b>Sailor Running Around</b><br/>Don't bug me. This is Rufus's first official visit since becoming President.<br/>It seems like he's here on business this time.<br/>I'm so jealous of him, I could spit. We're both about the same age, but, he's President.</p>
+<p class="indent"><b>Sailor on the Helipad</b><br/>Oh crap... The manager of Shinra won't come down.<br/>Even though the President's here on business. All he does is play, forgetting everything to do with work.</p>
+<p class="indent"><b>Woman Lounging on Sea Plane</b><br/>But a bunch of hardworking deckhands like you wouldn't understand.<br/>On the marine blue sea, Gazing at the eternal skies that seem to go on forever... Gives you the feeling like you're taking a nap on the wing of a Cessna.<br/>It's the ultimate high!</p>
+<p class="indent"><b>Man Near Sea Plane</b><br/>Heh, heh... I hear the Shinra brass are arriving soon.<br/>Heh, heh...! Got nothing to do with us, does it?</p>
+<p class="italic"><a name="shinra"></a>Cloud leaves the dock, and Shinra's helicopter lands on the helipad as Rufus and Heideggar get off the ship.</p>
+<p class="indent"><b>Rufus</b><br/>What a long boat ride that was!!<br/>Hmmm...... Good work everyone......</p>
+<p class="indent"><b>Heidegger</b><br/>Gya, Heh, heh..., ha!! Hurry up with that!</p>
+<p class="indent"><b>Sailor</b><br/>Yes, sir!!</p>
+<p class="indent"><b>Rufus</b><br/>I heard Sephiroth was on board.</p>
+<p class="indent"><b>Heidegger</b><br/>......Yes.</p>
+<p class="indent"><b>Rufus</b><br/>And it seems Cloud and the others were on board, too.</p>
+<p class="indent"><b>Heidegger</b><br/>......Yes.</p>
+<p class="indent"><b>Rufus</b><br/>They all slipped through...... You messed up big this time, Heidegger.</p>
+<p class="indent"><b>Heidegger</b><br/>I'm ashamed of myself.</p>
+<p class="indent"><b>Rufus</b><br/>Is that all you can do...?<br/>Give one word answers and apologize for everything?</p>
+<p class="indent"><b>Sailor</b><br/>Ready for departure, sir!!</p>
+<p class="indent"><b>Rufus</b><br/>......Do something. I'll be expecting results.</p>
+<p class="italic">He walks to the helicopter, and Heidegger charges the sailors, throwing them into the ocean. The helicopter takes off.</p>
+<hr></hr>
+<p class="italic"><a name="explore"></a>Back to Cloud. If he goes back to the harbor...</p>
+<p class="indent"><b>Man Near Sea Plane</b><br/>Hey! Spread out, all of you, out!!<br/>Put any fingerprints, scratches, or dents on that plane and I'll put one in your head!<br/>Da plane, da plane!! This's something you'll never be able to do in your lifetime.<br/>So you just watch from a distance... and wish.</p>
+<p class="indent"><b>Woman Lounging on Sea Plane</b><br/>He's quite handsome, isn't he?......<br/>Oh, don't worry, I'm not talking about you.<br/>I'm talking about President Rufus. Charming, rich, blond... He even looks good in a double-breasted suit.</p>
+<p class="indent"><b>Sailor</b><br/>Damn. I'm soaking wet down to my underwear.<br/>Oops! You must be those AVALANCHE guys!<br/>Quick! Let's get outta here! Heidegger's in charge of the transport ship.<br/>That's tough for both of us.<br/>The transport ship won't be sailing for quite a while. Heidegger's orders.</p>
+<p class="indent"><b>Sailor Running Around</b><br/>Rufus complimented me on my job!<br/>Wow!! I guess it pays to do good work.</p>
+<p class="indent"><b>Shinra Manager</b><br/>Oh, oh, oh!!! I'm gonna quit this company!!<br/>I mean it, I'm really gonna quit!!<br/>Heidegger's such an idiot!!<br/>And Rufus, acting all big!!<br/>God, that sure felt good...</p>
+<p class="italic">Back to the town...</p>
+<p class="indent"><b>Woman at the Information Kiosk</b><br/>Say, aren't you bored?</p>
+<p class="indent"><b>Cloud</b><br/>- Not that much<br/>- Yeah, we fight a lot</p>
+<div class="block"/>
+  <p><span class="highlight">Not that much</span></p>
+  <p class="indent-nopad"><b>Woman at the Information Kiosk</b><br/>Oh, really? I'm a little bored.<br/>Come on, back to work now!</p>
+
+<div class="block"/>
+  <p><span class="highlight">Yeah, we fight a lot</span></p>
+  <p class="indent-nopad"><b>Woman at the Information Kiosk</b><br/>Isn't that good? You're just expecting too much.</p>
+
+<p class="indent"><b>Woman at the Information Kiosk</b><br/>Here you are! The Costa del Sol tourist information guide.<br/>What do you want to know?</p>
+<p class="indent"><b>Cloud</b><br/>- Where's the inn?<br/>- Where're the stores?<br/>- Show me around town.</p>
+<div class="block"/>
+  <p><span class="highlight">Where's the inn?</span></p>
+  <p class="indent-nopad"><b>Woman at the Information Kiosk</b><br/>Let's see. I recommend a resort located on the outskirts of the city.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Where're the stores?</span></p>
+  <p class="indent-nopad"><b>Woman at the Information Kiosk</b><br/>If you're looking for souvenirs, we recommend Butch's.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Show me around town</span></p>
+  <p class="indent-nopad"><b>Woman at the Information Kiosk</b><br/>Wait a minute. I'm going to look at my guidebook.<br/>It says, Costa del Sol is the gateway to the West. And has a prominent world renown resort, which has been around for ages.<br/>Come on! I don't care about that!<br/>If you want a good time, come to the beach! There are lots of beautiful women.<br/>You wouldn't happen to be... rich?</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- Oh yeah...<br/>- Well, not so</p>
+  <div class="block"/>
+    <p><span class="highlight">Oh yeah...</span></p>
+    <p class="indent-nopad"><b>Woman at the Information Kiosk</b><br/>You're kidding! You can't tell just by looking.<br/>But I'll tell you just in case.<br/>After relaxing at Costa del Sol, stop by the Gold Saucer. It's a rich and exciting place to play!<br/>Head south to the Gold Saucer, and you'll find casinos and an amusement park.<br/>But if you're planning to walk, you'll have to cross mountains and valleys. I wouldn't recommend it.<br/>But if you're on a vacation, you should go there at least once.</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">Well, not so</span></p>
+    <p class="indent-nopad"><b>Woman at the Information Kiosk</b><br/>I thought so.<br/>Are you interested? This is the road to Gold Saucer.<br/>Head south to the Gold Saucer, and you'll find casinos and an amusement park.<br/>But if you're planning to walk, you'll have to cross mountains and valleys. I wouldn't recommend it.<br/>But if you're on a vacation, you should go there at least once.</p>
+  
+
+<p class="italic">Cloud enters a nearby villa, and finds a suited man resting in the bedroom.</p>
+<p class="indent"><b>Man</b><br/>What a fluffy bed...... feels so great......<br/>Mmm... Just a little longer......<br/>Oh!!<br/>Oh, I'm sorry...... I didn't know you were here. This is embarrassing.<br/>Take your time and look around.<br/>By the way, are you seriously considering buying?</p>
+<p class="indent"><b>Cloud</b><br/>- The heck do ya mean?<br/>- I'm out of here</p>
+<div class="block"/>
+  <p><span class="highlight">The heck do ya mean?</span></p>
+  <p>What are you selling?</p>
+  <p class="indent-nopad"><b>Man</b><br/>That's pretty low. Are you pulling my leg?<br/>I'm talking about this house. This villa used to belong to President Shinra. It only recently came back on the market.<br/>How do you like it?<br/>It has a large lot, comes fully furnished with this goose-down bed, and there's even a basement to boot.<br/>The villagers call it the Shinra Villa.<br/>Of course, we're not giving it away...</p>
+  <p class="indent-nopad"><b>Cloud</b><br/>- How much is it?<br/>- Not interested</p>
+  <div class="block"/>
+    <p><span class="highlight">How much is it?</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>Wha? How do you plan to buy it without a dime on you?<br/>Well, I'll tell the price just for your information.<br/>It's a steal at 300,000 gil. Out of your range? Out! Go on, out!<br/>Hmm... Is this some kind of joke?</p>
+  
+  <div class="block"/>
+    <p><span class="highlight">Not interested</span></p>
+    <p class="indent-nopad"><b>Man</b><br/>Yes, you're right. I'm sorry, please continue.<br/>Well, what do you think? Isn't it a fabulous villa?<br/>The feeling you get with owning a villa is simply... how should I say? ...indescribable.<br/>Well, let's wait for the captain.</p>
+  
+
+<div class="block"/>
+  <p><span class="highlight">I'm out of here</span></p>
+  <p class="indent-nopad"><b>Man</b><br/>Yes, you're right. I'm sorry, please continue.<br/>Well, what do you think? Isn't it a fabulous villa?<br/>The feeling you get with owning a villa is simply... how should I say? ...indescribable.<br/>Well, let's wait for the captain.</p>
+
+<p class="italic">If by chance Cloud actually has the money to buy the villa...</p>
+<p class="indent"><b>Man</b><br/>'Praise the Lord,' it's a miracle!! Who'd ever think someone with some real money would ever come here...... I probably shouldn't even ask, but Are you really going to buy it?</p>
+<p class="indent"><b>Cloud</b><br/>- Yep, 300,000 gil<br/>- I changed my mind</p>
+<div class="block"/>
+  <p><span class="highlight">Yep, 300,000 gil</span></p>
+  <div class="highlight-nopad"/><p>Bought "Villa Cloud"!</p>
+  <p class="indent-nopad"><b>Man</b><br/>Hmm, good-bye!! Good-bye fluffy bed!!</p>
+
+<div class="block"/>
+  <p><span class="highlight">I changed my mind</span></p>
+  <p class="indent-nopad"><b>Man</b><br/>Oh well I'm kind of glad!</p>
+
+<p class="indent"><b>Cloud</b><br/>This is MY villa. Rest up in your new villa?<br/>- With pleasure<br/>- Gotta move on</p>
+<p class="italic">In the basement, there is a man sleeping at his desk amidst bunch of crates.</p>
+<p class="indent"><b>Manager</b><br/>Yes sir!!<br/>Oh, those items are free, so please help yourself.<br/>...SNORE... SNORE...<br/>Geez my lower back's killing me!<br/>Y, yes... sir!!<br/>How do you do! I'm the Manager.<br/>Nice to meet you.<br/>Well, if you'll pardon me, I'll be leaving. Good-night.</p>
+<p class="italic">In the corner pub, from whose window a woman peeks out occasionally.</p>
+<p class="indent"><b>Waitress</b><br/>You want drink? Iz ok. You take time.</p>
+<p class="indent"><b>Surfer</b><br/>We're all headin' over to Gold Saucer now.<br/>We're gonna make a ton of money at the Chocobo races.<br/>Then we're gonna take a trip to Icicle Inn and snowboard.</p>
+<p class="indent"><b>Surfer 2</b><br/>Yeah, snowboarding's what's happening this year.<br/>I'm sick of surfing.</p>
+<p class="indent"><b>Black Man</b><br/>...huff... puff... I can't stand hot places...</p>
+<p class="indent"><b>Man</b><br/>......HIC... Mm? Wanna order? We're outta that now.</p>
+<p class="indent"><b>Mukki</b><br/>I really like this town.<br/>You could walk around nearly naked, and no one'd look twice at you.</p>
+<p class="indent"><b>Man in Corner</b><br/>Come on... please. If you don't buy from me... I can't make ends meet.</p>
+<p class="indent"><b>Barkeeper</b><br/>Welcome to Bar del Sol! Here's to tropical nights!</p>
+<p class="indent"><b>Woman Behind Counter</b><br/>Hey! I thought you'd drop by.<br/>(That's 1, 2... 4 fishes all together...... not bad.)</p>
+<p class="italic">Back outside...</p>
+<p class="indent"><b>Women Walking Around</b><br/>Shall we play our hand around here?<br/>Not yet. Remember, no compromises.<br/>You're right. After all, this trip was expensive.<br/>But only your average Joes are trying to pick us up.<br/>Well, that's because we're just too beautiful and hard to approach.<br/>I guess so. Well, I envy the plain Janes.<br/>Why don't we compromise? We'll make do with what we have.<br/>Not yet. Remember, no compromises.</p>
+<p class="italic">Nearby, Red XIII is sitting in the shade, hitting a soccer ball around with two kids.</p>
+<p class="indent"><b>Red XIII</b><br/>Hm, that's interesting.<br/>It's not as if I'm doing this because I want to.<br/>You see, this tail of mine, moves quite independently of my will.</p>
+<p class="indent"><b>Little Girl</b><br/>I heard. That big dog talks like a human.<br/>That's cool... but it's weird.</p>
+<p class="italic">If Cloud kicks the soccer ball at Red XIII, he'll jump up and growl at him.</p>
+<p class="indent"><b>Red XIII</b><br/>Grrr.......</p>
+<p class="indent"><b>Little Boy</b><br/>1, 2, 3, here we go!</p>
+<p class="italic">If Red XIII is in your party, the kids are playing by themselves.</p>
+<p class="indent"><b>Little Girl</b><br/>It's the ocean. A creepy man was signaling for us to come.<br/>I was scared to come here!</p>
+<p class="indent"><b>Butch</b><br/>Well, we're lucky to have that cutie working for us part-time.</p>
+<p class="indent"><b>Yuffie</b><br/>Ah, Cloud! Let me make a buck why don't you?<br/>I'm sellin' Materia. Why don't you buy some!?</p>
+<p class="italic">If Yuffie is in your party, Butch is tending the shop by himself.</p>
+<p class="indent"><b>Butch</b><br/>Yeah, I'd like to hire a gorgeous chick and have a great time.</p>
+<p class="indent"><b>Item Shopkeeper</b><br/>How about a 'Soft' as a memento of this wonderful trip? Made especially in Costa del Sol!</p>
+<p class="italic">Inside the inn, Barret is in the bathroom in his sailor outfit, posing in front of the mirror.</p>
+<p class="indent"><b>Barret</b><br/>Uh uh!<br/>Hmmm!?<br/>Marlene! You ok?......<br/>Dad'll wear this when I go to see you.<br/>Uh uh!<br/>Hey, yo!!! Someone's in here, awright!?</p>
+<p class="indent"><b>Innkeeper</b><br/>Uggh! I feel God awful! Oh!! You!<br/>Weren't you the one with that big sailor?</p>
+<p class="indent"><b>Cloud</b><br/>- Dunno what you're talking about<br/>- Wasn't me</p>
+<div class="block"/>
+  <p><span class="highlight">Dunno what you're talking about</span></p>
+  <p>What's the matter?</p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Listen to this...<br/>All of a sudden, this big sailor just busts in here, and takes over the restroom.<br/>He's been in there moaning ever since.<br/>I don't know what I'm gonna do.<br/>Ah...... if you're checking in, would you please pay his bill, too?</p>
+  <p class="italic">Barret runs out of the bathroom.</p>
+  <p class="indent-nopad"><b>Barret</b><br/>Yo, Cloud! Still too early, ain't it?</p>
+  <p class="italic">Cloud shrugs, and Barret runs back into the bathroom.</p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Come on now... He's a friend of yours...... fibber.<br/>What now? Call it a night?<br/>200 gil a night.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Wasn't me</span></p>
+  <p>I don't know.</p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Wrong guy? It puts us in a bad situation. That guy's taken over the john.<br/>And he hasn't even paid his hotel bit yet.<br/>Ah...... if you're checking in, would you please pay his bill, too?</p>
+  <p class="italic">Barret runs out of the bathroom.</p>
+  <p class="indent-nopad"><b>Barret</b><br/>Yo, Cloud! Still too early, ain't it?</p>
+  <p class="italic">Cloud shrugs, and Barret runs back into the bathroom.</p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Come on now... He's a friend of yours...... fibber.<br/>What now? Call it a night?<br/>200 gil a night.</p>
+
+<p class="italic">If Barret is in your party...</p>
+<p class="indent"><b>Innkeeper</b><br/>Shucks!! Too bad!<br/>Hey! Hey you! Does your friend have a cute lady?<br/>She came in here looking for him a while ago. Shouldn't you find her?<br/>What are you going to do? Just forget about her and go to bed?<br/>200 gil a night.</p>
+<p class="italic">Inside Johnny's house, Johnny is standing around nervously and someone is taking a bath in the bathroom.</p>
+<p class="indent"><b>Johnny</b><br/>What's with YOU!!<br/>Hey, is it.........you?<br/>We were in SOLDIER, and childhood friends before that. You were such a playboy.<br/>And a $#&amp;^ murderer!!<br/>Why can't I remember your name?</p>
+<p class="indent"><b>Cloud</b><br/>- Who are YOU?<br/>- I'm Cloud, and don't forget it</p>
+<div class="block"/>
+  <p><span class="highlight">Who are YOU?</span></p>
+  <p class="indent-nopad"><b>Johnny</b><br/>That's right. Long time no see. Do you remember me?<br/>That's okay. We'll just keep on like we don't know each other.<br/>I'm starting a new life in this town.<br/>A lot of things happened to us. Heh, I better stop my mumbling! I sure envy you all just living outside with the sky as your ceiling.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I'm Cloud, and don't forget it</span></p>
+  <p class="indent-nopad"><b>Johnny</b><br/>You think you're good enough to go around bragging about who you are?<br/>I don't wanna here it! Heh, no more mumbling from me!<br/>From now on, I'm starting a new life!</p>
+
+<p class="indent"><b>Woman in Bathroom</b><br/>I'm sorry about that. He's had some big shocks lately and is pretty depressed.</p>
+<p class="indent"><b>Johnny</b><br/>Hurry up and get out of here!<br/>I'm happy like this. So keep out of my life.</p>
+<p class="italic"><a name="beach"></a>Down at the beach...</p>
+<p class="indent"><b>Aerith</b><br/>Oh! Cloud!!</p>
+<p class="indent"><b>Tifa</b><br/>Look, look at that!</p>
+<p class="indent"><b>Cloud</b><br/>Hm...?<br/>- Who, Hojo...?<br/>- That girl in the bikini......?</p>
+<div class="block"/>
+  <p><span class="highlight">Who, Hojo...?</span></p>
+  <p>Is that man over there, Hojo?</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Go over and talk to him.</p>
+
+<div class="block"/>
+  <p><span class="highlight">That girl in the bikini......?</span></p>
+  <p>Not a bad view......</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>What're you looking at?<br/>That man over there. That's Hojo from Shinra. Get outta here Go talk to him!</p>
+
+<p class="indent"><b>Tifa</b><br/>Go over and talk to him.</p>
+<p class="indent"><b>Aerith</b><br/>I have a bad feeling about this.</p>
+<p class="indent"><b>Men on the Beach</b><br/>heh heh...... All the good ones are gone.</p>
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Tifa or Aerith are in the party...</span></p>
+  <p class="indent-nopad"><b>Men on the Beach</b><br/>What about that one? Shall we make do with her?<br/>But she's got a guy with her.<br/>No problem, I can handle him.<br/>Right? You thought so, too?</p>
+
+<div class="block"/>
+  <p class="italic"><span class="highlight">If Tifa and Aerith are not in the party...</span></p>
+  <p class="indent-nopad"><b>Men on the Beach</b><br/>Geez! What about those two?<br/>Heh heh...... I want the one on the left.<br/>Well then, I guess that leaves me with the one on the right.</p>
+
+<p class="italic">Cloud runs over to where Hojo is lying in a lounge chair, surrounded by three women in bikinis.</p>
+<p class="indent"><b>Woman</b><br/>God!! What do you want?</p>
+<p class="indent"><b>Cloud</b><br/>- I want to talk with that man<br/>- Is that Hojo?</p>
+<div class="block"/>
+  <p><span class="highlight">I want to talk with that man</span></p>
+  <p class="indent-nopad"><b>Woman</b><br/>(Hey, who do you think you are?)<br/>Professor Hojo. That scary man says he wants to talk with you.</p>
+  <p class="indent-nopad"><b>Hojo</b><br/>I'm busy right now.</p>
+  <p class="indent-nopad"><b>Someone</b><br/>......But. Too bad.</p>
+  <p class="indent-nopad"><b>Hojo</b><br/>No, I remember you all now......<br/>Yes, yes. I remember now.<br/>It's been a long time, Cloud.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Is that Hojo?</span></p>
+  <p class="indent-nopad"><b>Woman</b><br/>(What's his problem?)<br/>Yes, that's right. It's the Professor!<br/>Professor... someone's here to see you, sir.</p>
+  <p class="indent-nopad"><b>Hojo</b><br/>I'm busy right now.</p>
+  <p class="indent-nopad"><b>Someone</b><br/>......But. Too bad.</p>
+  <p class="indent-nopad"><b>Hojo</b><br/>Heh heh heh...... All right. You sure are loud.<br/>Long time no see, Cloud.</p>
+
+<p class="italic">The others run over to join Cloud.</p>
+<p class="indent"><b>Cloud</b><br/>Hojo......</p>
+<p class="indent"><b>Hojo</b><br/>Sometimes you just gotta do something like this.</p>
+<p class="indent"><b>Cloud</b><br/>......What are you doing?</p>
+<p class="indent"><b>Hojo</b><br/>It should be obvious, I'm getting a tan.</p>
+<p class="indent"><b>Cloud</b><br/>Answer me!</p>
+<p class="indent"><b>Hojo</b><br/>Hmm! I believe we're both after the same goal.</p>
+<p class="indent"><b>Cloud</b><br/>You mean Sephiroth?</p>
+<p class="indent"><b>Hojo</b><br/>Did you see him?</p>
+<p class="italic">Cloud nods.</p>
+<p class="indent"><b>Hojo</b><br/>I see...... Ha! Ha!</p>
+<p class="italic-inline">He stands up on his beach chair.</p>
+<p class="indent"><b>Cloud</b><br/>What is it?</p>
+<p class="indent"><b>Hojo</b><br/>Nothing. I just remembered a certain hypothesis......<br/>Haven't you ever had the feeling something is calling you?<br/>Or that you had to visit some place?......</p>
+<p class="indent"><b>Cloud</b><br/>I'll go anywhere Sephiroth is at!<br/>To beat him and put an end to all this!</p>
+<p class="indent"><b>Hojo</b><br/>I see...... This could be interesting.<br/>Were you in SOLDIER? .......Heh heh heh! Would you like to be my guinea pig?</p>
+<p class="italic">Cloud reaches for his sword.</p>
+<p class="indent"><b>Hojo</b><br/>Oh, now what? Are you going to draw your sword?</p>
+<blockquote class="party">
+	<p class="indent"><b>Barret</b><br/>Yo, yo! It's a bad idea to kill him.</p>
+	<p class="indent"><b>Aerith</b><br/>Cloud, don't. If he dies, we won't find out anything!</p>
+	<p class="indent"><b>Tifa</b><br/>Stop, Cloud! I know how you feel, but you mustn't.</p>
+	<p class="indent"><b>Red XIII</b><br/>...huff... puff... Stop, Cloud!</p>
+	<p class="indent"><b>Yuffie</b><br/>Knock it off, Cloud! Look I don't know, but he knows a lot of stuff, right?</p>
+</blockquote>
+<p class="italic">Red XIII collapses, and Cloud shakes his head.</p>
+<p class="indent"><b>Hojo</b><br/>Ha! Ha! Ha!......</p>
+<p class="italic-inline">He walks to Aerith.</p>
+<p class="block-inline">Say, aren't you the 'Ancient'?</p>
+<p class="indent"><b>Aerith</b><br/>I'm Aerith. The least you can do is remember my name.<br/>I want you to tell me something, Professor Hojo...<br/>I know I'm an Ancient. My mother told me.</p>
+<p class="indent"><b>Hojo</b><br/>Your mother? Oh, you mean Ifalna.<br/>How is she?</p>
+<p class="indent"><b>Aerith</b><br/>You didn't know!? She died.</p>
+<p class="indent"><b>Hojo</b><br/>......I see.</p>
+<p class="indent"><b>Aerith</b><br/>Professor Hojo...<br/>Is Jenova an Ancient? Is Sephiroth an Ancient? Do we all have the same blood?</p>
+<p class="indent"><b>Hojo</b><br/>......mumble... mumble... head west......</p>
+<p class="indent"><b>Aerith</b><br/>He's mumbling slowly... That must mean he's hiding something!</p>
+<p class="italic">Hojo sits down again.</p>
+<p class="indent"><b>Hojo</b><br/>..................</p>
+<p class="indent"><b>Red XIII</b><br/>Grrr, Grrr......... ...huff... puff...</p>
+<p class="indent"><b>Tifa</b><br/>Hey! Answer us!!</p>
+<p class="italic">Red XIII collapses again.</p>
+<p class="indent"><b>Cloud</b><br/>......It's no use. It's no go.</p>
+<p class="indent"><b>Woman</b><br/>He never takes off his lab coat even in this heat. I guess that's the mark of an intellectual.</p>
+<p class="indent"><b>Woman 2</b><br/>I'll interpret Professor Hojo's whispers.<br/>Head west, past Mt. Corel and keep going......<br/>Did you get that? I didn't understand it well, myself.</p>
+<p class="indent"><b>Woman 3</b><br/>I'd be happy to be a guinea pig, if it's for Professor Hojo!</p>
+<p class="indent"><b>Man Swimming</b><br/>Yipes!! Help!!<br/>...breath... breath...! Kind of takes your breath away, don't it!?</p>
+<p class="indent"><b>Man on Beach</b><br/>If you're headed for Mt. Corel, then you'd better buy some "Soft".<br/>At least that's what they always say, don't they?<br/>Be prepared, and you'll never fear.<br/>Hey, I'm no idiot. I NEVER count my chickens before they hatch! Pretty good, huh?</p>
+<p class="italic">Inside Johnny's new house, Tifa is talking with him, the two of them sitting across from each other on the beds.</p>
+<p class="indent"><b>Tifa</b><br/>Oh, right! I remember that, too.</p>
+<p class="indent"><b>Johnny</b><br/>Yeah, yeah! And you remember the time when......?</p>
+<p class="indent"><b>Tifa</b><br/>Hee, hee, hee!</p>
+<p class="indent"><b>Johnny</b><br/>Ha, ha, ha!......</p>
+<p class="indent"><b>Tifa</b><br/>Ha, ha... oh stop it! That's right. Oh really......</p>
+<p class="indent"><b>Johnny</b><br/>Yeah. Oh yeah, and then that time......</p>
+<p class="indent"><b>Tifa</b><br/>Yeah, yeah!</p>
+<p class="italic">Cloud enters the room, and both Tifa and Johnny turn to look at him.</p>
+<p class="indent"><b>Tifa</b><br/>Cloud, would you mind leaving us alone for the day?<br/>We haven't seen each other for ages and sometimes it's fun to talk about old times for a change.<br/>We'll try not to be too late.<br/>So please don't worry about us!</p>
+<p class="indent"><b>Cloud</b><br/>- Worry......?<br/>- Yeah......</p>
+<div class="block"/>
+  <p><span class="highlight">Worry......?</span></p>
+  <p>I'm not worried.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>You're right......</p>
+
+<div class="block"/>
+  <p><span class="highlight">Yeah......</span></p>
+  <p>Just remember we're leaving early tomorrow.</p>
+  <p class="indent-nopad"><b>Tifa</b><br/>Ok, I know.</p>
+
+<p class="indent"><b>Johnny</b><br/>Yeah, so don't get mad or something.</p>
+<p class="italic">Back at the inn, Aerith is lying on one of the beds.</p>
+<p class="indent"><b>Aerith</b><br/>Whew... I don't know why I'm so tired.<br/>There's so many things I don't understand......<br/>I feel a little uneasy.<br/>Cloud...?<br/>What do you think of me?</p>
+<p class="indent"><b>Cloud</b><br/>- I dunno<br/>- Nothing much</p>
+<div class="block"/>
+  <p><span class="highlight">I dunno</span></p>
+  <p>I don't understand anything.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>......You're right.<br/>Even I don't understand myself.<br/>I wonder what part of me is like an Ancient?<br/>What is an Ancient supposed to be like? It's strange, isn't it?<br/>I don't understand it......<br/>Ahh...... I'm going around in circles. I wonder if there's any answer to this. Everything's so complicated.<br/>I'm going on to bed.</p>
+
+<div class="block"/>
+  <p><span class="highlight">Nothing much</span></p>
+  <p>Sorry, but I never thought about things like that.</p>
+  <p class="indent-nopad"><b>Aerith</b><br/>How could you say such a thing! Sometimes you make me so mad!<br/>Oh, I never should have brought this up!!<br/>I don't want to talk about it!</p>
+
+<p class="indent"><b>Innkeeper</b><br/>Welcome!! What's it going to be?<br/>200 gil a night.</p>
+<p class="indent"><b>Cloud</b><br/>- Stay<br/>- I've changed my mind.</p>
+<div class="block"/>
+  <p><span class="highlight">Stay</span></p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>You must be tired.<br/>Tomorrow in the Costa del Sol area the weather is going to be...... sunny, again.<br/>Cradled by the sound of the ocean waves...... Sweet dreams...</p>
+  <p class="italic">Cloud and the others spend the night.</p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>Good morning. Be careful traveling.<br/>Your party has departed.<br/>Oops......<br/>That's bad luck......<br/>I mean, they have already left.</p>
+
+<div class="block"/>
+  <p><span class="highlight">I've changed my mind.</span></p>
+  <p class="indent-nopad"><b>Innkeeper</b><br/>You sure? I'll just be playing around here so drop by whenever you feel like it.</p>
+
+<p class="italic"><a name="morning"></a>After spending the night...</p>
+<p class="indent"><b>Butch</b><br/>You got me there...... We just hired her part-time.<br/>She ran off with our money and Materia.<br/>I guess a situation that's too good to be true, usually is.<br/>Well, please feel free to browse around. Just don't mind looking at what's left.</p>
+<p class="italic">Back at the beach...</p>
+<p class="indent"><b>Woman</b><br/>That's right!! It totally skipped my mind!<br/>There was something I was supposed to tell you.<br/>That's right! It's about that!<br/>It was yesterday. A man wearing a black cloak came up from the ocean.<br/>I think he had tickets for the Gold Saucer... no, that wasn't it... I wonder if it was all just an illusion?</p>
+<p class="indent"><b>Man on the Beach</b><br/>Hey...... heh heh...... don't forget to talk to me, too.</p>
+<p class="indent"><b>Woman 2</b><br/>Hey! President Rufus came here yesterday.<br/>He used to be the President's little boy. We nicknamed him the little Prez!<br/>He didn't look much different than the surfers on the beach.</p>
+<p class="indent"><b>Man Swimming</b><br/>Eeeew!! Leave me alone!<br/>Ublk! Glug... glug...... You're gonna drown... I'm</p>
+<p class="indent"><b>Woman 3</b><br/>Yes, Professor Hojo. Where...?<br/>It looks like the Professor discovered or found a solution to something.<br/>You know, I wonder...... if they headed west for Mt. Corel?<br/>I'm getting a little sad.<br/>Professor Hojo looks happy like a child when he discovers something. He gets this big smile and then laughs......<br/>I guess we should chase after him. A vacation for two from Mt. Corel to Gold Saucer.</p>
+<p class="italic">In Johnny's house, Johnny's sleeping, and the woman is still in the bathroom.</p>
+<p class="indent"><b>Johnny</b><br/>mumble... mumble... (Tifa, promise me you're gonna be happy.)</p>
+<p class="italic">Cloud and the others leave Costa del Sol and make for Corel.</p>
+
+</scene>

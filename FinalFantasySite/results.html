@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Lines of dialogue per Character per Scene</title>
+      <link type="text/css" href="ff.css" rel="stylesheet">
+     <script src="java.js"></script>       
+      <script src="https://d3js.org/d3.v4.min.js"></script>
+
+   </head>
+   <body>
+      <hr>
+      <!--#include virtual="mainmenu.html" -->
+     <audio autoplay loop>
+       <source src="Music/highwind.mp3" type="audio/mpeg">
+       Your browser does not support the audio element.
+     </audio>
+      <p>The graph here lets us see the number of times each character speaks relative to every other character per scene. This is relevant
+         to our research question, as it lets us see the impact that each character has on
+         the story.</p><br><p>Proportion of speeches per character per scene</p>
+      <p>Cloud is Cyan</p>
+      <p>Barret is Gray</p>
+      <p>Tifa is Black</p>
+      <p>Yuffie is Green</p>
+      <p>Nanaki is Orange</p>
+      <p>Vincent is Red</p>
+      <p>Cid is Yellow</p>
+      <p>Aerith is Pink</p>
+      <p>Cait Sith is White</p>
+      <p>Other Characters are Blue</p>
+  
+
+     <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1350">
+         <g transform="translate(250,100)">
+            <g>
+               <text x="0" y="-5" font-family="sans-serif" font-size="20px" fill="white">Recurring Characters in Final Fantasy</text>
+            </g>
+            <g>
+               <g>
+                  <text x="-250" y="30" font-family="sans-serif" font-size="12px" fill="white"> Sector 1 - The No. 1 Reactor </text>
+                  <line x1="0" y1="25" x2="248.4848484848484848" y2="25" stroke="cyan" stroke-width="15"></line>
+                  <line x1="248.4848484848484848" y1="25" x2="248.4848484848484848" y2="25" stroke="black" stroke-width="15"></line>
+                  <line x1="248.4848484848484848" y1="25" x2="412.1212121212121208" y2="25" stroke="gray" stroke-width="15"></line>
+                  <line x1="412.1212121212121208" y1="25" x2="412.1212121212121208" y2="25" stroke="green" stroke-width="15"></line>
+                  <line x1="412.1212121212121208" y1="25" x2="412.1212121212121208" y2="25" stroke="orange" stroke-width="15"></line>
+                  <line x1="412.1212121212121208" y1="25" x2="412.1212121212121208" y2="25" stroke="red" stroke-width="15"></line>
+                  <line x1="412.1212121212121208" y1="25" x2="412.1212121212121208" y2="25" stroke="yellow" stroke-width="15"></line>
+                  <line x1="412.1212121212121208" y1="25" x2="460.6060606060606056" y2="25" stroke="pink" stroke-width="15"></line>
+                  <line x1="460.6060606060606056" y1="25" x2="460.6060606060606056" y2="25" stroke="white" stroke-width="15"></line>
+                  <line x1="460.6060606060606056" y1="25" x2="1260.6060606060606056" y2="25" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="50" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="55" font-family="sans-serif" font-size="12px" fill="white"> Sector 7 - Seventh Heaven </text>
+                  <line x1="0" y1="50" x2="273.1707317073170728" y2="50" stroke="cyan" stroke-width="15"></line>
+                  <line x1="273.1707317073170728" y1="50" x2="387.4564459930313584" y2="50" stroke="black" stroke-width="15"></line>
+                  <line x1="387.4564459930313584" y1="50" x2="448.780487804878048" y2="50" stroke="gray" stroke-width="15"></line>
+                  <line x1="448.780487804878048" y1="50" x2="448.780487804878048" y2="50" stroke="green" stroke-width="15"></line>
+                  <line x1="448.780487804878048" y1="50" x2="448.780487804878048" y2="50" stroke="orange" stroke-width="15"></line>
+                  <line x1="448.780487804878048" y1="50" x2="448.780487804878048" y2="50" stroke="red" stroke-width="15"></line>
+                  <line x1="448.780487804878048" y1="50" x2="448.780487804878048" y2="50" stroke="yellow" stroke-width="15"></line>
+                  <line x1="448.780487804878048" y1="50" x2="448.780487804878048" y2="50" stroke="pink" stroke-width="15"></line>
+                  <line x1="448.780487804878048" y1="50" x2="448.780487804878048" y2="50" stroke="white" stroke-width="15"></line>
+                  <line x1="448.780487804878048" y1="50" x2="1248.780487804878048" y2="50" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="75" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="80" font-family="sans-serif" font-size="12px" fill="white"> Sector 4 - The No. 5 Reactor </text>
+                  <line x1="0" y1="75" x2="156.097560975609756" y2="75" stroke="cyan" stroke-width="15"></line>
+                  <line x1="156.097560975609756" y1="75" x2="292.6829268292682928" y2="75" stroke="black" stroke-width="15"></line>
+                  <line x1="292.6829268292682928" y1="75" x2="526.8292682926829272" y2="75" stroke="gray" stroke-width="15"></line>
+                  <line x1="526.8292682926829272" y1="75" x2="526.8292682926829272" y2="75" stroke="green" stroke-width="15"></line>
+                  <line x1="526.8292682926829272" y1="75" x2="526.8292682926829272" y2="75" stroke="orange" stroke-width="15"></line>
+                  <line x1="526.8292682926829272" y1="75" x2="526.8292682926829272" y2="75" stroke="red" stroke-width="15"></line>
+                  <line x1="526.8292682926829272" y1="75" x2="526.8292682926829272" y2="75" stroke="yellow" stroke-width="15"></line>
+                  <line x1="526.8292682926829272" y1="75" x2="526.8292682926829272" y2="75" stroke="pink" stroke-width="15"></line>
+                  <line x1="526.8292682926829272" y1="75" x2="526.8292682926829272" y2="75" stroke="white" stroke-width="15"></line>
+                  <line x1="526.8292682926829272" y1="75" x2="1326.8292682926829272" y2="75" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="100" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="105" font-family="sans-serif" font-size="12px" fill="white"> Sector 5 - Aerith </text>
+                  <line x1="0" y1="100" x2="319.1256830601092896" y2="100" stroke="cyan" stroke-width="15"></line>
+                  <line x1="319.1256830601092896" y1="100" x2="319.1256830601092896" y2="100" stroke="black" stroke-width="15"></line>
+                  <line x1="319.1256830601092896" y1="100" x2="319.1256830601092896" y2="100" stroke="gray" stroke-width="15"></line>
+                  <line x1="319.1256830601092896" y1="100" x2="319.1256830601092896" y2="100" stroke="green" stroke-width="15"></line>
+                  <line x1="319.1256830601092896" y1="100" x2="319.1256830601092896" y2="100" stroke="orange" stroke-width="15"></line>
+                  <line x1="319.1256830601092896" y1="100" x2="319.1256830601092896" y2="100" stroke="red" stroke-width="15"></line>
+                  <line x1="319.1256830601092896" y1="100" x2="319.1256830601092896" y2="100" stroke="yellow" stroke-width="15"></line>
+                  <line x1="319.1256830601092896" y1="100" x2="603.278688524590164" y2="100" stroke="pink" stroke-width="15"></line>
+                  <line x1="603.278688524590164" y1="100" x2="603.278688524590164" y2="100" stroke="white" stroke-width="15"></line>
+                  <line x1="603.278688524590164" y1="100" x2="1403.278688524590164" y2="100" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="125" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="130" font-family="sans-serif" font-size="12px" fill="white"> Sector 6 - Wall Market </text>
+                  <line x1="0" y1="125" x2="238.72113676731794" y2="125" stroke="cyan" stroke-width="15"></line>
+                  <line x1="238.72113676731794" y1="125" x2="284.1918294849023096" y2="125" stroke="black" stroke-width="15"></line>
+                  <line x1="284.1918294849023096" y1="125" x2="284.1918294849023096" y2="125" stroke="gray" stroke-width="15"></line>
+                  <line x1="284.1918294849023096" y1="125" x2="284.1918294849023096" y2="125" stroke="green" stroke-width="15"></line>
+                  <line x1="284.1918294849023096" y1="125" x2="284.1918294849023096" y2="125" stroke="orange" stroke-width="15"></line>
+                  <line x1="284.1918294849023096" y1="125" x2="284.1918294849023096" y2="125" stroke="red" stroke-width="15"></line>
+                  <line x1="284.1918294849023096" y1="125" x2="284.1918294849023096" y2="125" stroke="yellow" stroke-width="15"></line>
+                  <line x1="284.1918294849023096" y1="125" x2="396.4476021314387216" y2="125" stroke="pink" stroke-width="15"></line>
+                  <line x1="396.4476021314387216" y1="125" x2="396.4476021314387216" y2="125" stroke="white" stroke-width="15"></line>
+                  <line x1="396.4476021314387216" y1="125" x2="1196.4476021314387216" y2="125" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="150" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="155" font-family="sans-serif" font-size="12px" fill="white"> Sector 7 - Fall of the Pillar </text>
+                  <line x1="0" y1="150" x2="144.827586206896552" y2="150" stroke="cyan" stroke-width="15"></line>
+                  <line x1="144.827586206896552" y1="150" x2="351.7241379310344832" y2="150" stroke="black" stroke-width="15"></line>
+                  <line x1="351.7241379310344832" y1="150" x2="503.4482758620689656" y2="150" stroke="gray" stroke-width="15"></line>
+                  <line x1="503.4482758620689656" y1="150" x2="503.4482758620689656" y2="150" stroke="green" stroke-width="15"></line>
+                  <line x1="503.4482758620689656" y1="150" x2="503.4482758620689656" y2="150" stroke="orange" stroke-width="15"></line>
+                  <line x1="503.4482758620689656" y1="150" x2="503.4482758620689656" y2="150" stroke="red" stroke-width="15"></line>
+                  <line x1="503.4482758620689656" y1="150" x2="503.4482758620689656" y2="150" stroke="yellow" stroke-width="15"></line>
+                  <line x1="503.4482758620689656" y1="150" x2="572.413793103448276" y2="150" stroke="pink" stroke-width="15"></line>
+                  <line x1="572.413793103448276" y1="150" x2="572.413793103448276" y2="150" stroke="white" stroke-width="15"></line>
+                  <line x1="572.413793103448276" y1="150" x2="1372.413793103448276" y2="150" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="175" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="180" font-family="sans-serif" font-size="12px" fill="white"> Sector 5 - Aerith's Story </text>
+                  <line x1="0" y1="175" x2="149.152542372881356" y2="175" stroke="cyan" stroke-width="15"></line>
+                  <line x1="149.152542372881356" y1="175" x2="216.9491525423728816" y2="175" stroke="black" stroke-width="15"></line>
+                  <line x1="216.9491525423728816" y1="175" x2="298.305084745762712" y2="175" stroke="gray" stroke-width="15"></line>
+                  <line x1="298.305084745762712" y1="175" x2="298.305084745762712" y2="175" stroke="green" stroke-width="15"></line>
+                  <line x1="298.305084745762712" y1="175" x2="298.305084745762712" y2="175" stroke="orange" stroke-width="15"></line>
+                  <line x1="298.305084745762712" y1="175" x2="298.305084745762712" y2="175" stroke="red" stroke-width="15"></line>
+                  <line x1="298.305084745762712" y1="175" x2="298.305084745762712" y2="175" stroke="yellow" stroke-width="15"></line>
+                  <line x1="298.305084745762712" y1="175" x2="332.2033898305084744" y2="175" stroke="pink" stroke-width="15"></line>
+                  <line x1="332.2033898305084744" y1="175" x2="332.2033898305084744" y2="175" stroke="white" stroke-width="15"></line>
+                  <line x1="332.2033898305084744" y1="175" x2="1132.2033898305084744" y2="175" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="200" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="205" font-family="sans-serif" font-size="12px" fill="white"> The Shinra Building </text>
+                  <line x1="0" y1="200" x2="205.309734513274336" y2="200" stroke="cyan" stroke-width="15"></line>
+                  <line x1="205.309734513274336" y1="200" x2="322.1238938053097344" y2="200" stroke="black" stroke-width="15"></line>
+                  <line x1="322.1238938053097344" y1="200" x2="481.4159292035398232" y2="200" stroke="gray" stroke-width="15"></line>
+                  <line x1="481.4159292035398232" y1="200" x2="481.4159292035398232" y2="200" stroke="green" stroke-width="15"></line>
+                  <line x1="481.4159292035398232" y1="200" x2="509.7345132743362832" y2="200" stroke="orange" stroke-width="15"></line>
+                  <line x1="509.7345132743362832" y1="200" x2="509.7345132743362832" y2="200" stroke="red" stroke-width="15"></line>
+                  <line x1="509.7345132743362832" y1="200" x2="509.7345132743362832" y2="200" stroke="yellow" stroke-width="15"></line>
+                  <line x1="509.7345132743362832" y1="200" x2="562.8318584070796464" y2="200" stroke="pink" stroke-width="15"></line>
+                  <line x1="562.8318584070796464" y1="200" x2="562.8318584070796464" y2="200" stroke="white" stroke-width="15"></line>
+                  <line x1="562.8318584070796464" y1="200" x2="1362.8318584070796464" y2="200" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="225" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="230" font-family="sans-serif" font-size="12px" fill="white"> Kalm - Cloud's Story </text>
+                  <line x1="0" y1="225" x2="252.519893899204244" y2="225" stroke="cyan" stroke-width="15"></line>
+                  <line x1="252.519893899204244" y1="225" x2="350.13262599469496" y2="225" stroke="black" stroke-width="15"></line>
+                  <line x1="350.13262599469496" y1="225" x2="401.0610079575596816" y2="225" stroke="gray" stroke-width="15"></line>
+                  <line x1="401.0610079575596816" y1="225" x2="401.0610079575596816" y2="225" stroke="green" stroke-width="15"></line>
+                  <line x1="401.0610079575596816" y1="225" x2="413.7931034482758616" y2="225" stroke="orange" stroke-width="15"></line>
+                  <line x1="413.7931034482758616" y1="225" x2="413.7931034482758616" y2="225" stroke="red" stroke-width="15"></line>
+                  <line x1="413.7931034482758616" y1="225" x2="413.7931034482758616" y2="225" stroke="yellow" stroke-width="15"></line>
+                  <line x1="413.7931034482758616" y1="225" x2="454.1114058355437664" y2="225" stroke="pink" stroke-width="15"></line>
+                  <line x1="454.1114058355437664" y1="225" x2="454.1114058355437664" y2="225" stroke="white" stroke-width="15"></line>
+                  <line x1="454.1114058355437664" y1="225" x2="1254.1114058355437664" y2="225" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="250" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="255" font-family="sans-serif" font-size="12px" fill="white"> The Road to Junon - Yuffie </text>
+                  <line x1="0" y1="250" x2="187.5598086124401912" y2="250" stroke="cyan" stroke-width="15"></line>
+                  <line x1="187.5598086124401912" y1="250" x2="256.4593301435406696" y2="250" stroke="black" stroke-width="15"></line>
+                  <line x1="256.4593301435406696" y1="250" x2="306.220095693779904" y2="250" stroke="gray" stroke-width="15"></line>
+                  <line x1="306.220095693779904" y1="250" x2="367.4641148325358848" y2="250" stroke="green" stroke-width="15"></line>
+                  <line x1="367.4641148325358848" y1="250" x2="417.2248803827751192" y2="250" stroke="orange" stroke-width="15"></line>
+                  <line x1="417.2248803827751192" y1="250" x2="459.330143540669856" y2="250" stroke="red" stroke-width="15"></line>
+                  <line x1="459.330143540669856" y1="250" x2="520.5741626794258368" y2="250" stroke="yellow" stroke-width="15"></line>
+                  <line x1="520.5741626794258368" y1="250" x2="577.9904306220095688" y2="250" stroke="pink" stroke-width="15"></line>
+                  <line x1="577.9904306220095688" y1="250" x2="620.0956937799043056" y2="250" stroke="white" stroke-width="15"></line>
+                  <line x1="620.0956937799043056" y1="250" x2="1420.0956937799043056" y2="250" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="275" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="280" font-family="sans-serif" font-size="12px" fill="white"> Fort Condor - Fighting the Shinra </text>
+                  <line x1="0" y1="275" x2="205.5555555555555552" y2="275" stroke="cyan" stroke-width="15"></line>
+                  <line x1="205.5555555555555552" y1="275" x2="277.7777777777777776" y2="275" stroke="black" stroke-width="15"></line>
+                  <line x1="277.7777777777777776" y1="275" x2="327.7777777777777776" y2="275" stroke="gray" stroke-width="15"></line>
+                  <line x1="327.7777777777777776" y1="275" x2="377.7777777777777776" y2="275" stroke="green" stroke-width="15"></line>
+                  <line x1="377.7777777777777776" y1="275" x2="416.6666666666666664" y2="275" stroke="orange" stroke-width="15"></line>
+                  <line x1="416.6666666666666664" y1="275" x2="466.6666666666666664" y2="275" stroke="red" stroke-width="15"></line>
+                  <line x1="466.6666666666666664" y1="275" x2="511.1111111111111112" y2="275" stroke="yellow" stroke-width="15"></line>
+                  <line x1="511.1111111111111112" y1="275" x2="555.555555555555556" y2="275" stroke="pink" stroke-width="15"></line>
+                  <line x1="555.555555555555556" y1="275" x2="600.0000000000000008" y2="275" stroke="white" stroke-width="15"></line>
+                  <line x1="600.0000000000000008" y1="275" x2="1400.0000000000000008" y2="275" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="300" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="305" font-family="sans-serif" font-size="12px" fill="white"> Junon - The New President Rufus </text>
+                  <line x1="0" y1="300" x2="157.9399141630901288" y2="300" stroke="cyan" stroke-width="15"></line>
+                  <line x1="157.9399141630901288" y1="300" x2="192.2746781115879832" y2="300" stroke="black" stroke-width="15"></line>
+                  <line x1="192.2746781115879832" y1="300" x2="230.0429184549356224" y2="300" stroke="gray" stroke-width="15"></line>
+                  <line x1="230.0429184549356224" y1="300" x2="250.6437768240343352" y2="300" stroke="green" stroke-width="15"></line>
+                  <line x1="250.6437768240343352" y1="300" x2="284.9785407725321896" y2="300" stroke="orange" stroke-width="15"></line>
+                  <line x1="284.9785407725321896" y1="300" x2="284.9785407725321896" y2="300" stroke="red" stroke-width="15"></line>
+                  <line x1="284.9785407725321896" y1="300" x2="284.9785407725321896" y2="300" stroke="yellow" stroke-width="15"></line>
+                  <line x1="284.9785407725321896" y1="300" x2="312.4463519313304728" y2="300" stroke="pink" stroke-width="15"></line>
+                  <line x1="312.4463519313304728" y1="300" x2="312.4463519313304728" y2="300" stroke="white" stroke-width="15"></line>
+                  <line x1="312.4463519313304728" y1="300" x2="1112.4463519313304728" y2="300" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="325" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="330" font-family="sans-serif" font-size="12px" fill="white"> Cargo Ship - Ocean Crossing </text>
+                  <line x1="0" y1="325" x2="240.7079646017699112" y2="325" stroke="cyan" stroke-width="15"></line>
+                  <line x1="240.7079646017699112" y1="325" x2="332.7433628318584064" y2="325" stroke="black" stroke-width="15"></line>
+                  <line x1="332.7433628318584064" y1="325" x2="417.6991150442477872" y2="325" stroke="gray" stroke-width="15"></line>
+                  <line x1="417.6991150442477872" y1="325" x2="509.7345132743362824" y2="325" stroke="green" stroke-width="15"></line>
+                  <line x1="509.7345132743362824" y1="325" x2="573.4513274336283176" y2="325" stroke="orange" stroke-width="15"></line>
+                  <line x1="573.4513274336283176" y1="325" x2="573.4513274336283176" y2="325" stroke="red" stroke-width="15"></line>
+                  <line x1="573.4513274336283176" y1="325" x2="573.4513274336283176" y2="325" stroke="yellow" stroke-width="15"></line>
+                  <line x1="573.4513274336283176" y1="325" x2="665.4867256637168128" y2="325" stroke="pink" stroke-width="15"></line>
+                  <line x1="665.4867256637168128" y1="325" x2="665.4867256637168128" y2="325" stroke="white" stroke-width="15"></line>
+                  <line x1="665.4867256637168128" y1="325" x2="1465.4867256637168128" y2="325" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="350" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="355" font-family="sans-serif" font-size="12px" fill="white"> Costa del Sol - Taking a Break </text>
+                  <line x1="0" y1="350" x2="204.6511627906976744" y2="350" stroke="cyan" stroke-width="15"></line>
+                  <line x1="204.6511627906976744" y1="350" x2="260.4651162790697672" y2="350" stroke="black" stroke-width="15"></line>
+                  <line x1="260.4651162790697672" y1="350" x2="293.9534883720930232" y2="350" stroke="gray" stroke-width="15"></line>
+                  <line x1="293.9534883720930232" y1="350" x2="308.8372093023255816" y2="350" stroke="green" stroke-width="15"></line>
+                  <line x1="308.8372093023255816" y1="350" x2="331.1627906976744192" y2="350" stroke="orange" stroke-width="15"></line>
+                  <line x1="331.1627906976744192" y1="350" x2="331.1627906976744192" y2="350" stroke="red" stroke-width="15"></line>
+                  <line x1="331.1627906976744192" y1="350" x2="331.1627906976744192" y2="350" stroke="yellow" stroke-width="15"></line>
+                  <line x1="331.1627906976744192" y1="350" x2="383.2558139534883728" y2="350" stroke="pink" stroke-width="15"></line>
+                  <line x1="383.2558139534883728" y1="350" x2="383.2558139534883728" y2="350" stroke="white" stroke-width="15"></line>
+                  <line x1="383.2558139534883728" y1="350" x2="1183.2558139534883728" y2="350" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="375" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="380" font-family="sans-serif" font-size="12px" fill="white"> Corel - Garbage Dump of a Town </text>
+                  <line x1="0" y1="375" x2="132.1739130434782608" y2="375" stroke="cyan" stroke-width="15"></line>
+                  <line x1="132.1739130434782608" y1="375" x2="215.6521739130434784" y2="375" stroke="black" stroke-width="15"></line>
+                  <line x1="215.6521739130434784" y1="375" x2="375.6521739130434784" y2="375" stroke="gray" stroke-width="15"></line>
+                  <line x1="375.6521739130434784" y1="375" x2="424.3478260869565216" y2="375" stroke="green" stroke-width="15"></line>
+                  <line x1="424.3478260869565216" y1="375" x2="486.9565217391304344" y2="375" stroke="orange" stroke-width="15"></line>
+                  <line x1="486.9565217391304344" y1="375" x2="486.9565217391304344" y2="375" stroke="red" stroke-width="15"></line>
+                  <line x1="486.9565217391304344" y1="375" x2="486.9565217391304344" y2="375" stroke="yellow" stroke-width="15"></line>
+                  <line x1="486.9565217391304344" y1="375" x2="570.434782608695652" y2="375" stroke="pink" stroke-width="15"></line>
+                  <line x1="570.434782608695652" y1="375" x2="570.434782608695652" y2="375" stroke="white" stroke-width="15"></line>
+                  <line x1="570.434782608695652" y1="375" x2="1370.434782608695652" y2="375" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="400" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="405" font-family="sans-serif" font-size="12px" fill="white"> Gold Saucer - Meeting Cait Sith </text>
+                  <line x1="0" y1="400" x2="208.6956521739130432" y2="400" stroke="cyan" stroke-width="15"></line>
+                  <line x1="208.6956521739130432" y1="400" x2="257.3913043478260864" y2="400" stroke="black" stroke-width="15"></line>
+                  <line x1="257.3913043478260864" y1="400" x2="264.3478260869565208" y2="400" stroke="gray" stroke-width="15"></line>
+                  <line x1="264.3478260869565208" y1="400" x2="302.608695652173912" y2="400" stroke="green" stroke-width="15"></line>
+                  <line x1="302.608695652173912" y1="400" x2="337.3913043478260856" y2="400" stroke="orange" stroke-width="15"></line>
+                  <line x1="337.3913043478260856" y1="400" x2="337.3913043478260856" y2="400" stroke="red" stroke-width="15"></line>
+                  <line x1="337.3913043478260856" y1="400" x2="337.3913043478260856" y2="400" stroke="yellow" stroke-width="15"></line>
+                  <line x1="337.3913043478260856" y1="400" x2="393.043478260869564" y2="400" stroke="pink" stroke-width="15"></line>
+                  <line x1="393.043478260869564" y1="400" x2="427.8260869565217376" y2="400" stroke="white" stroke-width="15"></line>
+                  <line x1="427.8260869565217376" y1="400" x2="1227.8260869565217376" y2="400" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="425" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="430" font-family="sans-serif" font-size="12px" fill="white"> Corel Prison - Confronting Dyne </text>
+                  <line x1="0" y1="425" x2="118.0327868852459016" y2="425" stroke="cyan" stroke-width="15"></line>
+                  <line x1="118.0327868852459016" y1="425" x2="157.3770491803278688" y2="425" stroke="black" stroke-width="15"></line>
+                  <line x1="157.3770491803278688" y1="425" x2="336.6120218579234976" y2="425" stroke="gray" stroke-width="15"></line>
+                  <line x1="336.6120218579234976" y1="425" x2="358.4699453551912568" y2="425" stroke="green" stroke-width="15"></line>
+                  <line x1="358.4699453551912568" y1="425" x2="384.699453551912568" y2="425" stroke="orange" stroke-width="15"></line>
+                  <line x1="384.699453551912568" y1="425" x2="384.699453551912568" y2="425" stroke="red" stroke-width="15"></line>
+                  <line x1="384.699453551912568" y1="425" x2="384.699453551912568" y2="425" stroke="yellow" stroke-width="15"></line>
+                  <line x1="384.699453551912568" y1="425" x2="432.7868852459016392" y2="425" stroke="pink" stroke-width="15"></line>
+                  <line x1="432.7868852459016392" y1="425" x2="459.0163934426229504" y2="425" stroke="white" stroke-width="15"></line>
+                  <line x1="459.0163934426229504" y1="425" x2="1259.0163934426229504" y2="425" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="450" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="455" font-family="sans-serif" font-size="12px" fill="white"> Gongaga - A Ruined Reactor </text>
+                  <line x1="0" y1="450" x2="259.1549295774647888" y2="450" stroke="cyan" stroke-width="15"></line>
+                  <line x1="259.1549295774647888" y1="450" x2="332.3943661971830984" y2="450" stroke="black" stroke-width="15"></line>
+                  <line x1="332.3943661971830984" y1="450" x2="343.6619718309859152" y2="450" stroke="gray" stroke-width="15"></line>
+                  <line x1="343.6619718309859152" y1="450" x2="354.929577464788732" y2="450" stroke="green" stroke-width="15"></line>
+                  <line x1="354.929577464788732" y1="450" x2="366.1971830985915488" y2="450" stroke="orange" stroke-width="15"></line>
+                  <line x1="366.1971830985915488" y1="450" x2="377.4647887323943656" y2="450" stroke="red" stroke-width="15"></line>
+                  <line x1="377.4647887323943656" y1="450" x2="388.7323943661971824" y2="450" stroke="yellow" stroke-width="15"></line>
+                  <line x1="388.7323943661971824" y1="450" x2="473.2394366197183088" y2="450" stroke="pink" stroke-width="15"></line>
+                  <line x1="473.2394366197183088" y1="450" x2="484.5070422535211256" y2="450" stroke="white" stroke-width="15"></line>
+                  <line x1="484.5070422535211256" y1="450" x2="1284.5070422535211256" y2="450" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="475" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="480" font-family="sans-serif" font-size="12px" fill="white"> Cosmo Canyon - Nanaki </text>
+                  <line x1="0" y1="475" x2="162.7118644067796608" y2="475" stroke="cyan" stroke-width="15"></line>
+                  <line x1="162.7118644067796608" y1="475" x2="196.6101694915254232" y2="475" stroke="black" stroke-width="15"></line>
+                  <line x1="196.6101694915254232" y1="475" x2="244.0677966101694912" y2="475" stroke="gray" stroke-width="15"></line>
+                  <line x1="244.0677966101694912" y1="475" x2="274.5762711864406776" y2="475" stroke="green" stroke-width="15"></line>
+                  <line x1="274.5762711864406776" y1="475" x2="393.2203389830508472" y2="475" stroke="orange" stroke-width="15"></line>
+                  <line x1="393.2203389830508472" y1="475" x2="393.2203389830508472" y2="475" stroke="red" stroke-width="15"></line>
+                  <line x1="393.2203389830508472" y1="475" x2="393.2203389830508472" y2="475" stroke="yellow" stroke-width="15"></line>
+                  <line x1="393.2203389830508472" y1="475" x2="433.8983050847457624" y2="475" stroke="pink" stroke-width="15"></line>
+                  <line x1="433.8983050847457624" y1="475" x2="454.23728813559322" y2="475" stroke="white" stroke-width="15"></line>
+                  <line x1="454.23728813559322" y1="475" x2="1254.23728813559322" y2="475" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="500" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="505" font-family="sans-serif" font-size="12px" fill="white"> Nibelheim - Reconstructed </text>
+                  <line x1="0" y1="500" x2="246.1538461538461536" y2="500" stroke="cyan" stroke-width="15"></line>
+                  <line x1="246.1538461538461536" y1="500" x2="282.0512820512820512" y2="500" stroke="black" stroke-width="15"></line>
+                  <line x1="282.0512820512820512" y1="500" x2="317.9487179487179488" y2="500" stroke="gray" stroke-width="15"></line>
+                  <line x1="317.9487179487179488" y1="500" x2="353.8461538461538464" y2="500" stroke="green" stroke-width="15"></line>
+                  <line x1="353.8461538461538464" y1="500" x2="389.743589743589744" y2="500" stroke="orange" stroke-width="15"></line>
+                  <line x1="389.743589743589744" y1="500" x2="497.435897435897436" y2="500" stroke="red" stroke-width="15"></line>
+                  <line x1="497.435897435897436" y1="500" x2="517.9487179487179488" y2="500" stroke="yellow" stroke-width="15"></line>
+                  <line x1="517.9487179487179488" y1="500" x2="553.8461538461538464" y2="500" stroke="pink" stroke-width="15"></line>
+                  <line x1="553.8461538461538464" y1="500" x2="589.743589743589744" y2="500" stroke="white" stroke-width="15"></line>
+                  <line x1="589.743589743589744" y1="500" x2="1389.743589743589744" y2="500" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="525" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="530" font-family="sans-serif" font-size="12px" fill="white"> Rocket Town - Meeting Cid </text>
+                  <line x1="0" y1="525" x2="159.1160220994475136" y2="525" stroke="cyan" stroke-width="15"></line>
+                  <line x1="159.1160220994475136" y1="525" x2="185.6353591160220992" y2="525" stroke="black" stroke-width="15"></line>
+                  <line x1="185.6353591160220992" y1="525" x2="212.1546961325966848" y2="525" stroke="gray" stroke-width="15"></line>
+                  <line x1="212.1546961325966848" y1="525" x2="243.0939226519337016" y2="525" stroke="green" stroke-width="15"></line>
+                  <line x1="243.0939226519337016" y1="525" x2="269.6132596685082872" y2="525" stroke="orange" stroke-width="15"></line>
+                  <line x1="269.6132596685082872" y1="525" x2="296.1325966850828728" y2="525" stroke="red" stroke-width="15"></line>
+                  <line x1="296.1325966850828728" y1="525" x2="495.0276243093922648" y2="525" stroke="yellow" stroke-width="15"></line>
+                  <line x1="495.0276243093922648" y1="525" x2="521.5469613259668504" y2="525" stroke="pink" stroke-width="15"></line>
+                  <line x1="521.5469613259668504" y1="525" x2="548.066298342541436" y2="525" stroke="white" stroke-width="15"></line>
+                  <line x1="548.066298342541436" y1="525" x2="1348.066298342541436" y2="525" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="550" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="555" font-family="sans-serif" font-size="12px" fill="white"> Wutai - Stolen Materia </text>
+                  <line x1="0" y1="550" x2="63.34841628959276" y2="550" stroke="cyan" stroke-width="15"></line>
+                  <line x1="63.34841628959276" y1="550" x2="108.5972850678733032" y2="550" stroke="black" stroke-width="15"></line>
+                  <line x1="108.5972850678733032" y1="550" x2="137.5565610859728504" y2="550" stroke="gray" stroke-width="15"></line>
+                  <line x1="137.5565610859728504" y1="550" x2="257.013574660633484" y2="550" stroke="green" stroke-width="15"></line>
+                  <line x1="257.013574660633484" y1="550" x2="285.9728506787330312" y2="550" stroke="orange" stroke-width="15"></line>
+                  <line x1="285.9728506787330312" y1="550" x2="311.3122171945701352" y2="550" stroke="red" stroke-width="15"></line>
+                  <line x1="311.3122171945701352" y1="550" x2="360.1809954751131216" y2="550" stroke="yellow" stroke-width="15"></line>
+                  <line x1="360.1809954751131216" y1="550" x2="389.1402714932126688" y2="550" stroke="pink" stroke-width="15"></line>
+                  <line x1="389.1402714932126688" y1="550" x2="416.2895927601809944" y2="550" stroke="white" stroke-width="15"></line>
+                  <line x1="416.2895927601809944" y1="550" x2="1216.2895927601809944" y2="550" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="575" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="580" font-family="sans-serif" font-size="12px" fill="white"> The World - Before the Temple of the Ancients </text>
+                  <line x1="0" y1="575" x2="230.4" y2="575" stroke="cyan" stroke-width="15"></line>
+                  <line x1="230.4" y1="575" x2="230.4" y2="575" stroke="black" stroke-width="15"></line>
+                  <line x1="230.4" y1="575" x2="230.4" y2="575" stroke="gray" stroke-width="15"></line>
+                  <line x1="230.4" y1="575" x2="230.4" y2="575" stroke="green" stroke-width="15"></line>
+                  <line x1="230.4" y1="575" x2="230.4" y2="575" stroke="orange" stroke-width="15"></line>
+                  <line x1="230.4" y1="575" x2="230.4" y2="575" stroke="red" stroke-width="15"></line>
+                  <line x1="230.4" y1="575" x2="230.4" y2="575" stroke="yellow" stroke-width="15"></line>
+                  <line x1="230.4" y1="575" x2="230.4" y2="575" stroke="pink" stroke-width="15"></line>
+                  <line x1="230.4" y1="575" x2="230.4" y2="575" stroke="white" stroke-width="15"></line>
+                  <line x1="230.4" y1="575" x2="1030.4" y2="575" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="600" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="605" font-family="sans-serif" font-size="12px" fill="white"> Gold Saucer - Interrupted by Fireworks </text>
+                  <line x1="0" y1="600" x2="189.767441860465116" y2="600" stroke="cyan" stroke-width="15"></line>
+                  <line x1="189.767441860465116" y1="600" x2="255.503875968992248" y2="600" stroke="black" stroke-width="15"></line>
+                  <line x1="255.503875968992248" y1="600" x2="291.4728682170542632" y2="600" stroke="gray" stroke-width="15"></line>
+                  <line x1="291.4728682170542632" y1="600" x2="351.007751937984496" y2="600" stroke="green" stroke-width="15"></line>
+                  <line x1="351.007751937984496" y1="600" x2="358.4496124031007752" y2="600" stroke="orange" stroke-width="15"></line>
+                  <line x1="358.4496124031007752" y1="600" x2="362.1705426356589144" y2="600" stroke="red" stroke-width="15"></line>
+                  <line x1="362.1705426356589144" y1="600" x2="368.3720930232558136" y2="600" stroke="yellow" stroke-width="15"></line>
+                  <line x1="368.3720930232558136" y1="600" x2="439.0697674418604648" y2="600" stroke="pink" stroke-width="15"></line>
+                  <line x1="439.0697674418604648" y1="600" x2="466.3565891472868216" y2="600" stroke="white" stroke-width="15"></line>
+                  <line x1="466.3565891472868216" y1="600" x2="1266.3565891472868216" y2="600" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="625" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="630" font-family="sans-serif" font-size="12px" fill="white"> The Temple of the Ancients </text>
+                  <line x1="0" y1="625" x2="223.1075697211155376" y2="625" stroke="cyan" stroke-width="15"></line>
+                  <line x1="223.1075697211155376" y1="625" x2="258.1673306772908368" y2="625" stroke="black" stroke-width="15"></line>
+                  <line x1="258.1673306772908368" y1="625" x2="293.227091633466136" y2="625" stroke="gray" stroke-width="15"></line>
+                  <line x1="293.227091633466136" y1="625" x2="328.2868525896414352" y2="625" stroke="green" stroke-width="15"></line>
+                  <line x1="328.2868525896414352" y1="625" x2="363.3466135458167344" y2="625" stroke="orange" stroke-width="15"></line>
+                  <line x1="363.3466135458167344" y1="625" x2="398.4063745019920336" y2="625" stroke="red" stroke-width="15"></line>
+                  <line x1="398.4063745019920336" y1="625" x2="433.4661354581673328" y2="625" stroke="yellow" stroke-width="15"></line>
+                  <line x1="433.4661354581673328" y1="625" x2="605.5776892430278904" y2="625" stroke="pink" stroke-width="15"></line>
+                  <line x1="605.5776892430278904" y1="625" x2="682.0717131474103608" y2="625" stroke="white" stroke-width="15"></line>
+                  <line x1="682.0717131474103608" y1="625" x2="1482.0717131474103608" y2="625" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="650" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="655" font-family="sans-serif" font-size="12px" fill="white"> Gongaga - Afraid to Go On </text>
+                  <line x1="0" y1="650" x2="302.7027027027027024" y2="650" stroke="cyan" stroke-width="15"></line>
+                  <line x1="302.7027027027027024" y1="650" x2="497.2972972972972968" y2="650" stroke="black" stroke-width="15"></line>
+                  <line x1="497.2972972972972968" y1="650" x2="778.3783783783783776" y2="650" stroke="gray" stroke-width="15"></line>
+                  <line x1="778.3783783783783776" y1="650" x2="778.3783783783783776" y2="650" stroke="green" stroke-width="15"></line>
+                  <line x1="778.3783783783783776" y1="650" x2="778.3783783783783776" y2="650" stroke="orange" stroke-width="15"></line>
+                  <line x1="778.3783783783783776" y1="650" x2="778.3783783783783776" y2="650" stroke="red" stroke-width="15"></line>
+                  <line x1="778.3783783783783776" y1="650" x2="778.3783783783783776" y2="650" stroke="yellow" stroke-width="15"></line>
+                  <line x1="778.3783783783783776" y1="650" x2="778.3783783783783776" y2="650" stroke="pink" stroke-width="15"></line>
+                  <line x1="778.3783783783783776" y1="650" x2="778.3783783783783776" y2="650" stroke="white" stroke-width="15"></line>
+                  <line x1="778.3783783783783776" y1="650" x2="1578.3783783783783776" y2="650" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="675" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="680" font-family="sans-serif" font-size="12px" fill="white"> Bone Village - A Town of Excavators </text>
+                  <line x1="0" y1="675" x2="294.7368421052631576" y2="675" stroke="cyan" stroke-width="15"></line>
+                  <line x1="294.7368421052631576" y1="675" x2="294.7368421052631576" y2="675" stroke="black" stroke-width="15"></line>
+                  <line x1="294.7368421052631576" y1="675" x2="294.7368421052631576" y2="675" stroke="gray" stroke-width="15"></line>
+                  <line x1="294.7368421052631576" y1="675" x2="294.7368421052631576" y2="675" stroke="green" stroke-width="15"></line>
+                  <line x1="294.7368421052631576" y1="675" x2="294.7368421052631576" y2="675" stroke="orange" stroke-width="15"></line>
+                  <line x1="294.7368421052631576" y1="675" x2="294.7368421052631576" y2="675" stroke="red" stroke-width="15"></line>
+                  <line x1="294.7368421052631576" y1="675" x2="294.7368421052631576" y2="675" stroke="yellow" stroke-width="15"></line>
+                  <line x1="294.7368421052631576" y1="675" x2="294.7368421052631576" y2="675" stroke="pink" stroke-width="15"></line>
+                  <line x1="294.7368421052631576" y1="675" x2="294.7368421052631576" y2="675" stroke="white" stroke-width="15"></line>
+                  <line x1="294.7368421052631576" y1="675" x2="1094.7368421052631576" y2="675" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="700" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="705" font-family="sans-serif" font-size="12px" fill="white"> The City of the Ancients - Aerith's Sacrifice </text>
+                  <line x1="0" y1="700" x2="128.3018867924528304" y2="700" stroke="cyan" stroke-width="15"></line>
+                  <line x1="128.3018867924528304" y1="700" x2="218.8679245283018872" y2="700" stroke="black" stroke-width="15"></line>
+                  <line x1="218.8679245283018872" y1="700" x2="309.433962264150944" y2="700" stroke="gray" stroke-width="15"></line>
+                  <line x1="309.433962264150944" y1="700" x2="400.0000000000000008" y2="700" stroke="green" stroke-width="15"></line>
+                  <line x1="400.0000000000000008" y1="700" x2="490.5660377358490576" y2="700" stroke="orange" stroke-width="15"></line>
+                  <line x1="490.5660377358490576" y1="700" x2="581.1320754716981144" y2="700" stroke="red" stroke-width="15"></line>
+                  <line x1="581.1320754716981144" y1="700" x2="671.6981132075471712" y2="700" stroke="yellow" stroke-width="15"></line>
+                  <line x1="671.6981132075471712" y1="700" x2="671.6981132075471712" y2="700" stroke="pink" stroke-width="15"></line>
+                  <line x1="671.6981132075471712" y1="700" x2="762.264150943396228" y2="700" stroke="white" stroke-width="15"></line>
+                  <line x1="762.264150943396228" y1="700" x2="1562.264150943396228" y2="700" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="725" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="730" font-family="sans-serif" font-size="12px" fill="white">Icicle Inn - Aerith's Birthplace </text>
+                  <line x1="0" y1="725" x2="137.1428571428571432" y2="725" stroke="cyan" stroke-width="15"></line>
+                  <line x1="137.1428571428571432" y1="725" x2="137.1428571428571432" y2="725" stroke="black" stroke-width="15"></line>
+                  <line x1="137.1428571428571432" y1="725" x2="137.1428571428571432" y2="725" stroke="gray" stroke-width="15"></line>
+                  <line x1="137.1428571428571432" y1="725" x2="137.1428571428571432" y2="725" stroke="green" stroke-width="15"></line>
+                  <line x1="137.1428571428571432" y1="725" x2="137.1428571428571432" y2="725" stroke="orange" stroke-width="15"></line>
+                  <line x1="137.1428571428571432" y1="725" x2="137.1428571428571432" y2="725" stroke="red" stroke-width="15"></line>
+                  <line x1="137.1428571428571432" y1="725" x2="137.1428571428571432" y2="725" stroke="yellow" stroke-width="15"></line>
+                  <line x1="137.1428571428571432" y1="725" x2="137.1428571428571432" y2="725" stroke="pink" stroke-width="15"></line>
+                  <line x1="137.1428571428571432" y1="725" x2="137.1428571428571432" y2="725" stroke="white" stroke-width="15"></line>
+                  <line x1="137.1428571428571432" y1="725" x2="937.1428571428571432" y2="725" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="750" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="755" font-family="sans-serif" font-size="12px" fill="white">Northern Crater - Shinra's Promised Land </text>
+                  <line x1="0" y1="750" x2="184.1509433962264152" y2="750" stroke="cyan" stroke-width="15"></line>
+                  <line x1="184.1509433962264152" y1="750" x2="295.8490566037735848" y2="750" stroke="black" stroke-width="15"></line>
+                  <line x1="295.8490566037735848" y1="750" x2="371.320754716981132" y2="750" stroke="gray" stroke-width="15"></line>
+                  <line x1="371.320754716981132" y1="750" x2="413.5849056603773584" y2="750" stroke="green" stroke-width="15"></line>
+                  <line x1="413.5849056603773584" y1="750" x2="483.0188679245283016" y2="750" stroke="orange" stroke-width="15"></line>
+                  <line x1="483.0188679245283016" y1="750" x2="525.283018867924528" y2="750" stroke="red" stroke-width="15"></line>
+                  <line x1="525.283018867924528" y1="750" x2="567.5471698113207544" y2="750" stroke="yellow" stroke-width="15"></line>
+                  <line x1="567.5471698113207544" y1="750" x2="567.5471698113207544" y2="750" stroke="pink" stroke-width="15"></line>
+                  <line x1="567.5471698113207544" y1="750" x2="609.8113207547169808" y2="750" stroke="white" stroke-width="15"></line>
+                  <line x1="609.8113207547169808" y1="750" x2="1409.8113207547169808" y2="750" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="775" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="780" font-family="sans-serif" font-size="12px" fill="white">Junon - A Public Execution </text>
+                  <line x1="0" y1="775" x2="47.6190476190476192" y2="775" stroke="cyan" stroke-width="15"></line>
+                  <line x1="47.6190476190476192" y1="775" x2="238.0952380952380952" y2="775" stroke="black" stroke-width="15"></line>
+                  <line x1="238.0952380952380952" y1="775" x2="395.2380952380952384" y2="775" stroke="gray" stroke-width="15"></line>
+                  <line x1="395.2380952380952384" y1="775" x2="414.2857142857142864" y2="775" stroke="green" stroke-width="15"></line>
+                  <line x1="414.2857142857142864" y1="775" x2="447.61904761904762" y2="775" stroke="orange" stroke-width="15"></line>
+                  <line x1="447.61904761904762" y1="775" x2="457.142857142857144" y2="775" stroke="red" stroke-width="15"></line>
+                  <line x1="457.142857142857144" y1="775" x2="500.0000000000000008" y2="775" stroke="yellow" stroke-width="15"></line>
+                  <line x1="500.0000000000000008" y1="775" x2="500.0000000000000008" y2="775" stroke="pink" stroke-width="15"></line>
+                  <line x1="500.0000000000000008" y1="775" x2="552.3809523809523816" y2="775" stroke="white" stroke-width="15"></line>
+                  <line x1="552.3809523809523816" y1="775" x2="1352.3809523809523816" y2="775" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="800" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="805" font-family="sans-serif" font-size="12px" fill="white">The World - After Meteor is Summoned </text>
+                  <line x1="0" y1="800" x2="62.1004566210045664" y2="800" stroke="cyan" stroke-width="15"></line>
+                  <line x1="62.1004566210045664" y1="800" x2="120.547945205479452" y2="800" stroke="black" stroke-width="15"></line>
+                  <line x1="120.547945205479452" y1="800" x2="120.547945205479452" y2="800" stroke="gray" stroke-width="15"></line>
+                  <line x1="120.547945205479452" y1="800" x2="120.547945205479452" y2="800" stroke="green" stroke-width="15"></line>
+                  <line x1="120.547945205479452" y1="800" x2="120.547945205479452" y2="800" stroke="orange" stroke-width="15"></line>
+                  <line x1="120.547945205479452" y1="800" x2="120.547945205479452" y2="800" stroke="red" stroke-width="15"></line>
+                  <line x1="120.547945205479452" y1="800" x2="142.4657534246575344" y2="800" stroke="yellow" stroke-width="15"></line>
+                  <line x1="142.4657534246575344" y1="800" x2="142.4657534246575344" y2="800" stroke="pink" stroke-width="15"></line>
+                  <line x1="142.4657534246575344" y1="800" x2="142.4657534246575344" y2="800" stroke="white" stroke-width="15"></line>
+                  <line x1="142.4657534246575344" y1="800" x2="942.4657534246575344" y2="800" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="825" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="830" font-family="sans-serif" font-size="12px" fill="white">Mideel - Finding Cloud </text>
+                  <line x1="0" y1="825" x2="29.0909090909090912" y2="825" stroke="cyan" stroke-width="15"></line>
+                  <line x1="29.0909090909090912" y1="825" x2="169.6969696969696976" y2="825" stroke="black" stroke-width="15"></line>
+                  <line x1="169.6969696969696976" y1="825" x2="290.9090909090909096" y2="825" stroke="gray" stroke-width="15"></line>
+                  <line x1="290.9090909090909096" y1="825" x2="349.0909090909090912" y2="825" stroke="green" stroke-width="15"></line>
+                  <line x1="349.0909090909090912" y1="825" x2="412.1212121212121216" y2="825" stroke="orange" stroke-width="15"></line>
+                  <line x1="412.1212121212121216" y1="825" x2="446.0606060606060608" y2="825" stroke="red" stroke-width="15"></line>
+                  <line x1="446.0606060606060608" y1="825" x2="518.787878787878788" y2="825" stroke="yellow" stroke-width="15"></line>
+                  <line x1="518.787878787878788" y1="825" x2="518.787878787878788" y2="825" stroke="pink" stroke-width="15"></line>
+                  <line x1="518.787878787878788" y1="825" x2="591.5151515151515152" y2="825" stroke="white" stroke-width="15"></line>
+                  <line x1="591.5151515151515152" y1="825" x2="1391.5151515151515152" y2="825" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="850" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="855" font-family="sans-serif" font-size="12px" fill="white">North Corel - Huge Materia </text>
+                  <line x1="0" y1="850" x2="41.3793103448275864" y2="850" stroke="cyan" stroke-width="15"></line>
+                  <line x1="41.3793103448275864" y1="850" x2="41.3793103448275864" y2="850" stroke="black" stroke-width="15"></line>
+                  <line x1="41.3793103448275864" y1="850" x2="117.241379310344828" y2="850" stroke="gray" stroke-width="15"></line>
+                  <line x1="117.241379310344828" y1="850" x2="186.2068965517241384" y2="850" stroke="green" stroke-width="15"></line>
+                  <line x1="186.2068965517241384" y1="850" x2="255.1724137931034488" y2="850" stroke="orange" stroke-width="15"></line>
+                  <line x1="255.1724137931034488" y1="850" x2="331.0344827586206904" y2="850" stroke="red" stroke-width="15"></line>
+                  <line x1="331.0344827586206904" y1="850" x2="475.8620689655172424" y2="850" stroke="yellow" stroke-width="15"></line>
+                  <line x1="475.8620689655172424" y1="850" x2="475.8620689655172424" y2="850" stroke="pink" stroke-width="15"></line>
+                  <line x1="475.8620689655172424" y1="850" x2="537.9310344827586216" y2="850" stroke="white" stroke-width="15"></line>
+                  <line x1="537.9310344827586216" y1="850" x2="1337.9310344827586216" y2="850" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="875" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="880" font-family="sans-serif" font-size="12px" fill="white">Fort Condor - Huge Materia </text>
+                  <line x1="0" y1="875" x2="45.283018867924528" y2="875" stroke="cyan" stroke-width="15"></line>
+                  <line x1="45.283018867924528" y1="875" x2="45.283018867924528" y2="875" stroke="black" stroke-width="15"></line>
+                  <line x1="45.283018867924528" y1="875" x2="135.8490566037735848" y2="875" stroke="gray" stroke-width="15"></line>
+                  <line x1="135.8490566037735848" y1="875" x2="226.4150943396226416" y2="875" stroke="green" stroke-width="15"></line>
+                  <line x1="226.4150943396226416" y1="875" x2="301.8867924528301888" y2="875" stroke="orange" stroke-width="15"></line>
+                  <line x1="301.8867924528301888" y1="875" x2="377.358490566037736" y2="875" stroke="red" stroke-width="15"></line>
+                  <line x1="377.358490566037736" y1="875" x2="543.39622641509434" y2="875" stroke="yellow" stroke-width="15"></line>
+                  <line x1="543.39622641509434" y1="875" x2="543.39622641509434" y2="875" stroke="pink" stroke-width="15"></line>
+                  <line x1="543.39622641509434" y1="875" x2="618.8679245283018872" y2="875" stroke="white" stroke-width="15"></line>
+                  <line x1="618.8679245283018872" y1="875" x2="1418.8679245283018872" y2="875" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="900" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="905" font-family="sans-serif" font-size="12px" fill="white">Mideel - Inside Cloud's Mind </text>
+                  <line x1="0" y1="900" x2="200.836820083682008" y2="900" stroke="cyan" stroke-width="15"></line>
+                  <line x1="200.836820083682008" y1="900" x2="431.7991631799163176" y2="900" stroke="black" stroke-width="15"></line>
+                  <line x1="431.7991631799163176" y1="900" x2="471.9665271966527192" y2="900" stroke="gray" stroke-width="15"></line>
+                  <line x1="471.9665271966527192" y1="900" x2="492.05020920502092" y2="900" stroke="green" stroke-width="15"></line>
+                  <line x1="492.05020920502092" y1="900" x2="512.1338912133891208" y2="900" stroke="orange" stroke-width="15"></line>
+                  <line x1="512.1338912133891208" y1="900" x2="522.1757322175732216" y2="900" stroke="red" stroke-width="15"></line>
+                  <line x1="522.1757322175732216" y1="900" x2="605.8577405857740584" y2="900" stroke="yellow" stroke-width="15"></line>
+                  <line x1="605.8577405857740584" y1="900" x2="605.8577405857740584" y2="900" stroke="pink" stroke-width="15"></line>
+                  <line x1="605.8577405857740584" y1="900" x2="625.9414225941422592" y2="900" stroke="white" stroke-width="15"></line>
+                  <line x1="625.9414225941422592" y1="900" x2="1425.9414225941422592" y2="900" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="925" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="930" font-family="sans-serif" font-size="12px" fill="white">Junon - Huge Materia </text>
+                  <line x1="0" y1="925" x2="174.4360902255639096" y2="925" stroke="cyan" stroke-width="15"></line>
+                  <line x1="174.4360902255639096" y1="925" x2="216.5413533834586464" y2="925" stroke="black" stroke-width="15"></line>
+                  <line x1="216.5413533834586464" y1="925" x2="264.6616541353383456" y2="925" stroke="gray" stroke-width="15"></line>
+                  <line x1="264.6616541353383456" y1="925" x2="306.7669172932330824" y2="925" stroke="green" stroke-width="15"></line>
+                  <line x1="306.7669172932330824" y1="925" x2="342.8571428571428568" y2="925" stroke="orange" stroke-width="15"></line>
+                  <line x1="342.8571428571428568" y1="925" x2="384.9624060150375936" y2="925" stroke="red" stroke-width="15"></line>
+                  <line x1="384.9624060150375936" y1="925" x2="427.0676691729323304" y2="925" stroke="yellow" stroke-width="15"></line>
+                  <line x1="427.0676691729323304" y1="925" x2="427.0676691729323304" y2="925" stroke="pink" stroke-width="15"></line>
+                  <line x1="427.0676691729323304" y1="925" x2="463.1578947368421048" y2="925" stroke="white" stroke-width="15"></line>
+                  <line x1="463.1578947368421048" y1="925" x2="1263.1578947368421048" y2="925" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="950" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="955" font-family="sans-serif" font-size="12px" fill="white">Rocket Town - Huge Materia </text>
+                  <line x1="0" y1="950" x2="111.888111888111888" y2="950" stroke="cyan" stroke-width="15"></line>
+                  <line x1="111.888111888111888" y1="950" x2="156.6433566433566432" y2="950" stroke="black" stroke-width="15"></line>
+                  <line x1="156.6433566433566432" y1="950" x2="195.804195804195804" y2="950" stroke="gray" stroke-width="15"></line>
+                  <line x1="195.804195804195804" y1="950" x2="218.1818181818181816" y2="950" stroke="green" stroke-width="15"></line>
+                  <line x1="218.1818181818181816" y1="950" x2="257.3426573426573424" y2="950" stroke="orange" stroke-width="15"></line>
+                  <line x1="257.3426573426573424" y1="950" x2="279.72027972027972" y2="950" stroke="red" stroke-width="15"></line>
+                  <line x1="279.72027972027972" y1="950" x2="486.7132867132867128" y2="950" stroke="yellow" stroke-width="15"></line>
+                  <line x1="486.7132867132867128" y1="950" x2="486.7132867132867128" y2="950" stroke="pink" stroke-width="15"></line>
+                  <line x1="486.7132867132867128" y1="950" x2="514.6853146853146848" y2="950" stroke="white" stroke-width="15"></line>
+                  <line x1="514.6853146853146848" y1="950" x2="1314.6853146853146848" y2="950" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="975" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="980" font-family="sans-serif" font-size="12px" fill="white">The World - After the Rocket's Failure </text>
+                  <line x1="0" y1="975" x2="42.1052631578947368" y2="975" stroke="cyan" stroke-width="15"></line>
+                  <line x1="42.1052631578947368" y1="975" x2="42.1052631578947368" y2="975" stroke="black" stroke-width="15"></line>
+                  <line x1="42.1052631578947368" y1="975" x2="42.1052631578947368" y2="975" stroke="gray" stroke-width="15"></line>
+                  <line x1="42.1052631578947368" y1="975" x2="42.1052631578947368" y2="975" stroke="green" stroke-width="15"></line>
+                  <line x1="42.1052631578947368" y1="975" x2="42.1052631578947368" y2="975" stroke="orange" stroke-width="15"></line>
+                  <line x1="42.1052631578947368" y1="975" x2="42.1052631578947368" y2="975" stroke="red" stroke-width="15"></line>
+                  <line x1="42.1052631578947368" y1="975" x2="42.1052631578947368" y2="975" stroke="yellow" stroke-width="15"></line>
+                  <line x1="42.1052631578947368" y1="975" x2="42.1052631578947368" y2="975" stroke="pink" stroke-width="15"></line>
+                  <line x1="42.1052631578947368" y1="975" x2="42.1052631578947368" y2="975" stroke="white" stroke-width="15"></line>
+                  <line x1="42.1052631578947368" y1="975" x2="842.1052631578947368" y2="975" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="1000" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="1005" font-family="sans-serif" font-size="12px" fill="white">Lucrecia's Cave - Vincent's Past </text>
+                  <line x1="0" y1="1000" x2="0" y2="1000" stroke="cyan" stroke-width="15"></line>
+                  <line x1="0" y1="1000" x2="0" y2="1000" stroke="black" stroke-width="15"></line>
+                  <line x1="0" y1="1000" x2="0" y2="1000" stroke="gray" stroke-width="15"></line>
+                  <line x1="0" y1="1000" x2="0" y2="1000" stroke="green" stroke-width="15"></line>
+                  <line x1="0" y1="1000" x2="0" y2="1000" stroke="orange" stroke-width="15"></line>
+                  <line x1="0" y1="1000" x2="350" y2="1000" stroke="red" stroke-width="15"></line>
+                  <line x1="350" y1="1000" x2="350" y2="1000" stroke="yellow" stroke-width="15"></line>
+                  <line x1="350" y1="1000" x2="350" y2="1000" stroke="pink" stroke-width="15"></line>
+                  <line x1="350" y1="1000" x2="350" y2="1000" stroke="white" stroke-width="15"></line>
+                  <line x1="350" y1="1000" x2="1150" y2="1000" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="1025" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="1030" font-family="sans-serif" font-size="12px" fill="white">Cosmo Canyon - Remembering Aerith </text>
+                  <line x1="0" y1="1025" x2="141.1764705882352944" y2="1025" stroke="cyan" stroke-width="15"></line>
+                  <line x1="141.1764705882352944" y1="1025" x2="219.6078431372549024" y2="1025" stroke="black" stroke-width="15"></line>
+                  <line x1="219.6078431372549024" y1="1025" x2="282.3529411764705888" y2="1025" stroke="gray" stroke-width="15"></line>
+                  <line x1="282.3529411764705888" y1="1025" x2="329.4117647058823536" y2="1025" stroke="green" stroke-width="15"></line>
+                  <line x1="329.4117647058823536" y1="1025" x2="439.2156862745098048" y2="1025" stroke="orange" stroke-width="15"></line>
+                  <line x1="439.2156862745098048" y1="1025" x2="470.588235294117648" y2="1025" stroke="red" stroke-width="15"></line>
+                  <line x1="470.588235294117648" y1="1025" x2="549.019607843137256" y2="1025" stroke="yellow" stroke-width="15"></line>
+                  <line x1="549.019607843137256" y1="1025" x2="549.019607843137256" y2="1025" stroke="pink" stroke-width="15"></line>
+                  <line x1="549.019607843137256" y1="1025" x2="596.0784313725490208" y2="1025" stroke="white" stroke-width="15"></line>
+                  <line x1="596.0784313725490208" y1="1025" x2="1396.0784313725490208" y2="1025" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="1050" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="1055" font-family="sans-serif" font-size="12px" fill="white">City of the Ancients - Aerith's Prayer </text>
+                  <line x1="0" y1="1050" x2="254.5454545454545456" y2="1050" stroke="cyan" stroke-width="15"></line>
+                  <line x1="254.5454545454545456" y1="1050" x2="281.8181818181818184" y2="1050" stroke="black" stroke-width="15"></line>
+                  <line x1="281.8181818181818184" y1="1050" x2="318.1818181818181824" y2="1050" stroke="gray" stroke-width="15"></line>
+                  <line x1="318.1818181818181824" y1="1050" x2="336.363636363636364" y2="1050" stroke="green" stroke-width="15"></line>
+                  <line x1="336.363636363636364" y1="1050" x2="345.4545454545454552" y2="1050" stroke="orange" stroke-width="15"></line>
+                  <line x1="345.4545454545454552" y1="1050" x2="363.6363636363636368" y2="1050" stroke="red" stroke-width="15"></line>
+                  <line x1="363.6363636363636368" y1="1050" x2="409.0909090909090912" y2="1050" stroke="yellow" stroke-width="15"></line>
+                  <line x1="409.0909090909090912" y1="1050" x2="409.0909090909090912" y2="1050" stroke="pink" stroke-width="15"></line>
+                  <line x1="409.0909090909090912" y1="1050" x2="490.9090909090909096" y2="1050" stroke="white" stroke-width="15"></line>
+                  <line x1="490.9090909090909096" y1="1050" x2="1290.9090909090909096" y2="1050" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="1075" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="1080" font-family="sans-serif" font-size="12px" fill="white">Midgar - Shinra's Collapse </text>
+                  <line x1="0" y1="1075" x2="105.82010582010582" y2="1075" stroke="cyan" stroke-width="15"></line>
+                  <line x1="105.82010582010582" y1="1075" x2="143.9153439153439152" y2="1075" stroke="black" stroke-width="15"></line>
+                  <line x1="143.9153439153439152" y1="1075" x2="224.3386243386243384" y2="1075" stroke="gray" stroke-width="15"></line>
+                  <line x1="224.3386243386243384" y1="1075" x2="253.968253968253968" y2="1075" stroke="green" stroke-width="15"></line>
+                  <line x1="253.968253968253968" y1="1075" x2="287.8306878306878304" y2="1075" stroke="orange" stroke-width="15"></line>
+                  <line x1="287.8306878306878304" y1="1075" x2="330.1587301587301584" y2="1075" stroke="red" stroke-width="15"></line>
+                  <line x1="330.1587301587301584" y1="1075" x2="393.6507936507936504" y2="1075" stroke="yellow" stroke-width="15"></line>
+                  <line x1="393.6507936507936504" y1="1075" x2="393.6507936507936504" y2="1075" stroke="pink" stroke-width="15"></line>
+                  <line x1="393.6507936507936504" y1="1075" x2="469.8412698412698408" y2="1075" stroke="white" stroke-width="15"></line>
+                  <line x1="469.8412698412698408" y1="1075" x2="1269.8412698412698408" y2="1075" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="1100" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="1105" font-family="sans-serif" font-size="12px" fill="white">The Highwind - What We're Fighting For </text>
+                  <line x1="0" y1="1100" x2="361.2903225806451616" y2="1100" stroke="cyan" stroke-width="15"></line>
+                  <line x1="361.2903225806451616" y1="1100" x2="550.5376344086021512" y2="1100" stroke="black" stroke-width="15"></line>
+                  <line x1="550.5376344086021512" y1="1100" x2="619.35483870967742" y2="1100" stroke="gray" stroke-width="15"></line>
+                  <line x1="619.35483870967742" y1="1100" x2="636.5591397849462376" y2="1100" stroke="green" stroke-width="15"></line>
+                  <line x1="636.5591397849462376" y1="1100" x2="679.5698924731182808" y2="1100" stroke="orange" stroke-width="15"></line>
+                  <line x1="679.5698924731182808" y1="1100" x2="696.7741935483870984" y2="1100" stroke="red" stroke-width="15"></line>
+                  <line x1="696.7741935483870984" y1="1100" x2="774.193548387096776" y2="1100" stroke="yellow" stroke-width="15"></line>
+                  <line x1="774.193548387096776" y1="1100" x2="774.193548387096776" y2="1100" stroke="pink" stroke-width="15"></line>
+                  <line x1="774.193548387096776" y1="1100" x2="791.3978494623655936" y2="1100" stroke="white" stroke-width="15"></line>
+                  <line x1="791.3978494623655936" y1="1100" x2="1591.3978494623655936" y2="1100" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="1125" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="1130" font-family="sans-serif" font-size="12px" fill="white"> Cosmo Canyon - Bugenhagen's Farewell </text>
+                  <line x1="0" y1="1125" x2="96" y2="1125" stroke="cyan" stroke-width="15"></line>
+                  <line x1="96" y1="1125" x2="96" y2="1125" stroke="black" stroke-width="15"></line>
+                  <line x1="96" y1="1125" x2="96" y2="1125" stroke="gray" stroke-width="15"></line>
+                  <line x1="96" y1="1125" x2="96" y2="1125" stroke="green" stroke-width="15"></line>
+                  <line x1="96" y1="1125" x2="384" y2="1125" stroke="orange" stroke-width="15"></line>
+                  <line x1="384" y1="1125" x2="384" y2="1125" stroke="red" stroke-width="15"></line>
+                  <line x1="384" y1="1125" x2="384" y2="1125" stroke="yellow" stroke-width="15"></line>
+                  <line x1="384" y1="1125" x2="384" y2="1125" stroke="pink" stroke-width="15"></line>
+                  <line x1="384" y1="1125" x2="384" y2="1125" stroke="white" stroke-width="15"></line>
+                  <line x1="384" y1="1125" x2="1184" y2="1125" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="1150" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="1155" font-family="sans-serif" font-size="12px" fill="white"> Nibelheim - Memories of a Nightmare </text>
+                  <line x1="0" y1="1150" x2="173.9130434782608696" y2="1150" stroke="cyan" stroke-width="15"></line>
+                  <line x1="173.9130434782608696" y1="1150" x2="208.6956521739130432" y2="1150" stroke="black" stroke-width="15"></line>
+                  <line x1="208.6956521739130432" y1="1150" x2="208.6956521739130432" y2="1150" stroke="gray" stroke-width="15"></line>
+                  <line x1="208.6956521739130432" y1="1150" x2="208.6956521739130432" y2="1150" stroke="green" stroke-width="15"></line>
+                  <line x1="208.6956521739130432" y1="1150" x2="208.6956521739130432" y2="1150" stroke="orange" stroke-width="15"></line>
+                  <line x1="208.6956521739130432" y1="1150" x2="208.6956521739130432" y2="1150" stroke="red" stroke-width="15"></line>
+                  <line x1="208.6956521739130432" y1="1150" x2="208.6956521739130432" y2="1150" stroke="yellow" stroke-width="15"></line>
+                  <line x1="208.6956521739130432" y1="1150" x2="208.6956521739130432" y2="1150" stroke="pink" stroke-width="15"></line>
+                  <line x1="208.6956521739130432" y1="1150" x2="208.6956521739130432" y2="1150" stroke="white" stroke-width="15"></line>
+                  <line x1="208.6956521739130432" y1="1150" x2="1008.6956521739130432" y2="1150" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="1175" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="1180" font-family="sans-serif" font-size="12px" fill="white"> The World - Before the End </text>
+                  <line x1="0" y1="1175" x2="163.636363636363636" y2="1175" stroke="cyan" stroke-width="15"></line>
+                  <line x1="163.636363636363636" y1="1175" x2="163.636363636363636" y2="1175" stroke="black" stroke-width="15"></line>
+                  <line x1="163.636363636363636" y1="1175" x2="163.636363636363636" y2="1175" stroke="gray" stroke-width="15"></line>
+                  <line x1="163.636363636363636" y1="1175" x2="163.636363636363636" y2="1175" stroke="green" stroke-width="15"></line>
+                  <line x1="163.636363636363636" y1="1175" x2="163.636363636363636" y2="1175" stroke="orange" stroke-width="15"></line>
+                  <line x1="163.636363636363636" y1="1175" x2="163.636363636363636" y2="1175" stroke="red" stroke-width="15"></line>
+                  <line x1="163.636363636363636" y1="1175" x2="163.636363636363636" y2="1175" stroke="yellow" stroke-width="15"></line>
+                  <line x1="163.636363636363636" y1="1175" x2="163.636363636363636" y2="1175" stroke="pink" stroke-width="15"></line>
+                  <line x1="163.636363636363636" y1="1175" x2="163.636363636363636" y2="1175" stroke="white" stroke-width="15"></line>
+                  <line x1="163.636363636363636" y1="1175" x2="963.636363636363636" y2="1175" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="1200" stroke="white" stroke-width="2"></line>
+               </g>
+               <g>
+                  <text x="-250" y="1205" font-family="sans-serif" font-size="12px" fill="white"> Northern Crater - The Settling of Everything </text>
+                  <line x1="0" y1="1200" x2="257.8947368421052632" y2="1200" stroke="cyan" stroke-width="15"></line>
+                  <line x1="257.8947368421052632" y1="1200" x2="373.6842105263157896" y2="1200" stroke="black" stroke-width="15"></line>
+                  <line x1="373.6842105263157896" y1="1200" x2="478.947368421052632" y2="1200" stroke="gray" stroke-width="15"></line>
+                  <line x1="478.947368421052632" y1="1200" x2="536.8421052631578952" y2="1200" stroke="green" stroke-width="15"></line>
+                  <line x1="536.8421052631578952" y1="1200" x2="600.0000000000000008" y2="1200" stroke="orange" stroke-width="15"></line>
+                  <line x1="600.0000000000000008" y1="1200" x2="631.5789473684210536" y2="1200" stroke="red" stroke-width="15"></line>
+                  <line x1="631.5789473684210536" y1="1200" x2="715.7894736842105272" y2="1200" stroke="yellow" stroke-width="15"></line>
+                  <line x1="715.7894736842105272" y1="1200" x2="715.7894736842105272" y2="1200" stroke="pink" stroke-width="15"></line>
+                  <line x1="715.7894736842105272" y1="1200" x2="757.894736842105264" y2="1200" stroke="white" stroke-width="15"></line>
+                  <line x1="757.894736842105264" y1="1200" x2="1557.894736842105264" y2="1200" stroke="blue" stroke-width="15"></line>
+                  <line x1="0" y1="0" x2="0" y2="1225" stroke="white" stroke-width="2"></line>
+               </g>
+            </g>
+         </g></svg>
+      <p>This graph shows the totaly number of times each playable character speaks in the game in total.</p>
+      <img src="Pictures/smallgraph.svg" alt="graph"/>
+      <p>Cloud is Cyan</p>
+      <p>Barret is Gray</p>
+      <p>Tifa is Black</p>
+      <p>Yuffie is Green</p>
+      <p>Nanaki is Orange</p>
+      <p>Vincent is Red</p>
+      <p>Cid is Yellow</p>
+      <p>Aerith is Pink</p>
+      <p>Cait Sith is White</p>
+      <p>Other Characters are Blue</p>
+   </body>
+  <img src="Pictures/weightedCircle.tsv.svg" width="1000" height="1000"alt="svg"/>
+      <p>The graph you see above is designed to highlight the relations between speaker and referents. The speakers are blue and the referents are pink. When the lines are more bold, they show that they are referred to more frequently by the speaker. Only a certain number of characters have been given referent tags as this had to be done manually. The characters given referent tags were the party members and most important villains (Sephiroth, Rufus Shinra, and the Turks).</p>
+
+
+</html>
